@@ -42,7 +42,7 @@
           "id": "bd_005",
           "name": "Jamuna TV",
           "logoUrl": "https://i.imgur.com/GKZxePQ.png",
-          "streamUrl": "http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8",
+          "streamUrl": "https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8",
           "isHD": true,
           "isFeatured": true
         },
