@@ -2,7 +2,7 @@
   "appName": "Global StreamX",
   "version": "2.0.0",
   "categories": [
-    { "id": "cat_bd", "name": "Bangladesh", "icon": "🇧🇩", "file": "categories/bangladesh.json" },
+    { "id": "cat_bd", "name": "Bangladesh", "icon": "🇧🇩", "file": "categories/Bangladesh.json" },
     { "id": "cat_in", "name": "India", "icon": "🇮🇳", "file": "categories/india.json" },
     { "id": "cat_us", "name": "USA", "icon": "🇺🇸", "file": "categories/usa.json" },
     { "id": "cat_info", "name": "Informative", "icon": "📚", "file": "categories/informative.json" },
