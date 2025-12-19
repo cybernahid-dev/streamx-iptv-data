@@ -1,0 +1,28 @@
+{
+  "categoryGroup": "Country",
+  "categories": [
+    {
+      "categoryId": "cat_us",
+      "categoryName": "USA",
+      "icon": "🇺🇸",
+      "channels": [
+        {
+          "id": "us_001",
+          "name": "ABC News",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/abcnews.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/countries/us.m3u",
+          "isHD": true,
+          "isFeatured": true
+        },
+        {
+          "id": "us_002",
+          "name": "NBC News",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/nbcnews.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/countries/us.m3u",
+          "isHD": true,
+          "isFeatured": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "appName": "Global StreamX",
+  "version": "2.0.0",
+  "categories": [
+    { "id": "cat_bd", "name": "Bangladesh", "icon": "🇧🇩", "file": "categories/bangladesh.json" },
+    { "id": "cat_in", "name": "India", "icon": "🇮🇳", "file": "categories/india.json" },
+    { "id": "cat_us", "name": "USA", "icon": "🇺🇸", "file": "categories/usa.json" },
+    { "id": "cat_info", "name": "Informative", "icon": "📚", "file": "categories/informative.json" },
+    { "id": "cat_kids", "name": "Kids", "icon": "🧒", "file": "categories/kids.json", "parentalControl": true },
+    { "id": "cat_sports", "name": "Sports", "icon": "⚽", "file": "categories/sports.json" },
+    { "id": "cat_movies", "name": "Movies", "icon": "🎬", "file": "categories/movies.json" }
+  ]
+}

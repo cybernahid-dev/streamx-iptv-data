@@ -1,0 +1,135 @@
+{
+  "categoryGroup": "Informative",
+  "categories": [
+    {
+      "categoryId": "cat_discovery",
+      "categoryName": "Discovery & Science",
+      "icon": "🔬",
+      "channels": [
+        {
+          "id": "info_001",
+          "name": "NASA TV",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/nasatv.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/science.m3u",
+          "isHD": true,
+          "isFeatured": true
+        },
+        {
+          "id": "info_002",
+          "name": "Discovery Science (Public)",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/discoveryscience.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/science.m3u",
+          "isHD": true,
+          "isFeatured": false
+        }
+      ]
+    },
+    {
+      "categoryId": "cat_animal",
+      "categoryName": "Animal & Wildlife",
+      "icon": "🐅",
+      "channels": [
+        {
+          "id": "info_003",
+          "name": "Love Nature",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/lovenature.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
+          "isHD": true,
+          "isFeatured": true
+        },
+        {
+          "id": "info_004",
+          "name": "Wildlife TV",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/wildlifetv.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
+          "isHD": true,
+          "isFeatured": false
+        }
+      ]
+    },
+    {
+      "categoryId": "cat_history",
+      "categoryName": "History & Civilization",
+      "icon": "🏛️",
+      "channels": [
+        {
+          "id": "info_005",
+          "name": "History Hit",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/historyhit.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/history.m3u",
+          "isHD": true,
+          "isFeatured": true
+        },
+        {
+          "id": "info_006",
+          "name": "Timeline",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/timeline.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/history.m3u",
+          "isHD": true,
+          "isFeatured": false
+        }
+      ]
+    },
+    {
+      "categoryId": "cat_documentary",
+      "categoryName": "Documentary",
+      "icon": "🎥",
+      "channels": [
+        {
+          "id": "info_007",
+          "name": "DW Documentary",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/dwdocumentary.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
+          "isHD": true,
+          "isFeatured": true
+        },
+        {
+          "id": "info_008",
+          "name": "RT Documentary",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/rtdoc.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
+          "isHD": true,
+          "isFeatured": false
+        }
+      ]
+    },
+    {
+      "categoryId": "cat_tech",
+      "categoryName": "Technology & Space",
+      "icon": "🧠",
+      "channels": [
+        {
+          "id": "info_009",
+          "name": "Tech Linked",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/techlinked.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/technology.m3u",
+          "isHD": true,
+          "isFeatured": false
+        },
+        {
+          "id": "info_010",
+          "name": "Space & Beyond",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/space.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/science.m3u",
+          "isHD": true,
+          "isFeatured": true
+        }
+      ]
+    },
+    {
+      "categoryId": "cat_nature",
+      "categoryName": "Nature & Earth",
+      "icon": "🌍",
+      "channels": [
+        {
+          "id": "info_011",
+          "name": "Earth Live",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/earth.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/nature.m3u",
+          "isHD": true,
+          "isFeatured": true
+        }
+      ]
+    }
+  ]
+}

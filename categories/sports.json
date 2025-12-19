@@ -1,0 +1,28 @@
+{
+  "categoryGroup": "Sports",
+  "categories": [
+    {
+      "categoryId": "cat_sports",
+      "categoryName": "Live Sports",
+      "icon": "🏅",
+      "channels": [
+        {
+          "id": "sports_001",
+          "name": "ESPN",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/espn.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+          "isHD": true,
+          "isFeatured": true
+        },
+        {
+          "id": "sports_002",
+          "name": "Fox Sports",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/foxsports.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+          "isHD": true,
+          "isFeatured": false
+        }
+      ]
+    }
+  ]
+}

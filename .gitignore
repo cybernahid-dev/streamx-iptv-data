@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Auto-generated JSON files (optional)
+# যদি JSON repo push করতে চাও, এই লাইন comment করো
+# categories/*.json
+# index.json
+
+# Auto script (keep locally, don't push)
+auto_m3u_to_json.py
+
+# Environment / credentials
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db

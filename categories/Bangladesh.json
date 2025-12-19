@@ -1,0 +1,28 @@
+{
+  "categoryGroup": "Country",
+  "categories": [
+    {
+      "categoryId": "cat_bd",
+      "categoryName": "Bangladesh",
+      "icon": "🇧🇩",
+      "channels": [
+        {
+          "id": "bd_001",
+          "name": "Sangbad TV",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/sangbad.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+          "isHD": true,
+          "isFeatured": true
+        },
+        {
+          "id": "bd_002",
+          "name": "ATN News",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/atnnews.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+          "isHD": true,
+          "isFeatured": false
+        }
+      ]
+    }
+  ]
+}

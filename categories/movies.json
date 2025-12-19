@@ -1,0 +1,28 @@
+{
+  "categoryGroup": "Movies",
+  "categories": [
+    {
+      "categoryId": "cat_movies",
+      "categoryName": "Action & Entertainment",
+      "icon": "🎬",
+      "channels": [
+        {
+          "id": "movies_001",
+          "name": "Action Movies",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/movies.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/movies.m3u",
+          "isHD": true,
+          "isFeatured": true
+        },
+        {
+          "id": "movies_002",
+          "name": "Movie Plus",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/movieplus.png",
+          "streamUrl": "https://iptv-org.github.io/iptv/categories/movies.m3u",
+          "isHD": true,
+          "isFeatured": false
+        }
+      ]
+    }
+  ]
+}
