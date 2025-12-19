@@ -8,17 +8,17 @@
       "channels": [
         {
           "id": "sports_001",
-          "name": "ESPN",
+          "name": "Sports Now",
           "logoUrl": "https://iptv-org.github.io/iptv/logos/espn.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+          "streamUrl": "https://espn-hls.amagi.tv/playlist.m3u8",
           "isHD": true,
           "isFeatured": true
         },
         {
           "id": "sports_002",
-          "name": "Fox Sports",
+          "name": "Fox Sports Now",
           "logoUrl": "https://iptv-org.github.io/iptv/logos/foxsports.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+          "streamUrl": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
           "isHD": true,
           "isFeatured": false
         }
@@ -26,3 +26,4 @@
     }
   ]
 }
+

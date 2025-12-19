@@ -18,7 +18,47 @@
           "id": "bd_002",
           "name": "ATN News",
           "logoUrl": "https://iptv-org.github.io/iptv/logos/atnnews.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+          "streamUrl": "https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8",
+          "isHD": true,
+          "isFeatured": false
+        },
+        {
+          "id": "bd_003",
+          "name": "Somoy TV",
+          "logoUrl": "https://i.imgur.com/18m3T6f.jpg",
+          "streamUrl": "https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8",
+          "isHD": true,
+          "isFeatured": true
+        },
+        {
+          "id": "bd_004",
+          "name": "Independent TV",
+          "logoUrl": "https://i.imgur.com/AMk8mRZ.png",
+          "streamUrl": "http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8",
+          "isHD": true,
+          "isFeatured": false
+        },
+        {
+          "id": "bd_005",
+          "name": "Jamuna TV",
+          "logoUrl": "https://i.imgur.com/GKZxePQ.png",
+          "streamUrl": "http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8",
+          "isHD": true,
+          "isFeatured": true
+        },
+        {
+          "id": "bd_006",
+          "name": "Channel 24",
+          "logoUrl": "https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png",
+          "streamUrl": "https://bol.iptv.digijadoo.net/live/channel_24/chunks.m3u8",
+          "isHD": true,
+          "isFeatured": false
+        },
+        {
+          "id": "bd_007",
+          "name": "NTV",
+          "logoUrl": "https://i.imgur.com/3usnOla.png",
+          "streamUrl": "https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8",
           "isHD": true,
           "isFeatured": false
         }
@@ -26,3 +66,4 @@
     }
   ]
 }
+

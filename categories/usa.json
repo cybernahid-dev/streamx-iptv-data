@@ -10,7 +10,7 @@
           "id": "us_001",
           "name": "ABC News",
           "logoUrl": "https://iptv-org.github.io/iptv/logos/abcnews.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/countries/us.m3u",
+          "streamUrl": "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8",
           "isHD": true,
           "isFeatured": true
         },
@@ -18,7 +18,7 @@
           "id": "us_002",
           "name": "NBC News",
           "logoUrl": "https://iptv-org.github.io/iptv/logos/nbcnews.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/countries/us.m3u",
+          "streamUrl": "https://nbcnews-now.akamaized.net/hls/live/2042781/nbcnewsnow/master_4000.m3u8",
           "isHD": true,
           "isFeatured": false
         }
@@ -26,3 +26,4 @@
     }
   ]
 }
+

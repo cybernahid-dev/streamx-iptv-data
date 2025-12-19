@@ -8,55 +8,20 @@
       "id": "kids_001",
       "name": "PBS Kids",
       "logoUrl": "https://iptv-org.github.io/iptv/logos/pbskids.png",
-      "streamUrl": "https://iptv-org.github.io/iptv/categories/kids.m3u",
+      "streamUrl": "https://live-cdn.pbskids.org/out/u/aim/wttw.m3u8",
       "isHD": true,
       "isFeatured": true,
       "ageGroup": "3-8"
     },
     {
       "id": "kids_002",
-      "name": "Duck TV",
-      "logoUrl": "https://iptv-org.github.io/iptv/logos/ducktv.png",
-      "streamUrl": "https://iptv-org.github.io/iptv/categories/kids.m3u",
-      "isHD": true,
-      "isFeatured": false,
-      "ageGroup": "1-5"
-    },
-    {
-      "id": "kids_003",
-      "name": "BabyTV (Free Streams)",
-      "logoUrl": "https://iptv-org.github.io/iptv/logos/babytv.png",
-      "streamUrl": "https://iptv-org.github.io/iptv/categories/kids.m3u",
-      "isHD": true,
-      "isFeatured": true,
-      "ageGroup": "1-4"
-    },
-    {
-      "id": "kids_004",
       "name": "Toon Goggles",
       "logoUrl": "https://iptv-org.github.io/iptv/logos/toongoggles.png",
-      "streamUrl": "https://iptv-org.github.io/iptv/categories/kids.m3u",
+      "streamUrl": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36",
       "isHD": true,
       "isFeatured": false,
       "ageGroup": "4-10"
-    },
-    {
-      "id": "kids_005",
-      "name": "Smile of a Child",
-      "logoUrl": "https://iptv-org.github.io/iptv/logos/smileofachild.png",
-      "streamUrl": "https://iptv-org.github.io/iptv/categories/kids.m3u",
-      "isHD": true,
-      "isFeatured": false,
-      "ageGroup": "5-12"
-    },
-    {
-      "id": "kids_006",
-      "name": "Cartoonito (Public)",
-      "logoUrl": "https://iptv-org.github.io/iptv/logos/cartoonito.png",
-      "streamUrl": "https://iptv-org.github.io/iptv/categories/kids.m3u",
-      "isHD": true,
-      "isFeatured": true,
-      "ageGroup": "3-7"
     }
   ]
 }
+

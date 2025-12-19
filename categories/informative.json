@@ -10,15 +10,23 @@
           "id": "info_001",
           "name": "NASA TV",
           "logoUrl": "https://iptv-org.github.io/iptv/logos/nasatv.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/categories/science.m3u",
+          "streamUrl": "https://ntv1.akamaihd.net/hls/live/269486/ntv1/index.m3u8",
           "isHD": true,
           "isFeatured": true
         },
         {
           "id": "info_002",
-          "name": "Discovery Science (Public)",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/discoveryscience.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/categories/science.m3u",
+          "name": "NASA Media",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/nasatv.png",
+          "streamUrl": "http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8",
+          "isHD": true,
+          "isFeatured": false
+        },
+        {
+          "id": "info_003",
+          "name": "Exploration TV",
+          "logoUrl": "https://i.imgur.com/k6uY9fS.png",
+          "streamUrl": "https://exploration-samsung.amagi.tv/playlist.m3u8",
           "isHD": true,
           "isFeatured": false
         }
@@ -27,44 +35,29 @@
     {
       "categoryId": "cat_animal",
       "categoryName": "Animal & Wildlife",
-      "icon": "🐅",
+      "icon": "🦁",
       "channels": [
         {
-          "id": "info_003",
+          "id": "info_004",
           "name": "Love Nature",
           "logoUrl": "https://iptv-org.github.io/iptv/logos/lovenature.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
+          "streamUrl": "https://lovenature-rakuten.amagi.tv/playlist.m3u8",
           "isHD": true,
           "isFeatured": true
         },
         {
-          "id": "info_004",
-          "name": "Wildlife TV",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/wildlifetv.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
+          "id": "info_005",
+          "name": "Real Wild",
+          "logoUrl": "https://i.imgur.com/k6uY9fS.png",
+          "streamUrl": "https://realwild-samsunguk.amagi.tv/playlist.m3u8",
           "isHD": true,
           "isFeatured": false
-        }
-      ]
-    },
-    {
-      "categoryId": "cat_history",
-      "categoryName": "History & Civilization",
-      "icon": "🏛️",
-      "channels": [
-        {
-          "id": "info_005",
-          "name": "History Hit",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/historyhit.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/categories/history.m3u",
-          "isHD": true,
-          "isFeatured": true
         },
         {
           "id": "info_006",
-          "name": "Timeline",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/timeline.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/categories/history.m3u",
+          "name": "WildEarth",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/wildearth.png",
+          "streamUrl": "https://wildearth-samsung.amagi.tv/playlist.m3u8",
           "isHD": true,
           "isFeatured": false
         }
@@ -73,63 +66,81 @@
     {
       "categoryId": "cat_documentary",
       "categoryName": "Documentary",
-      "icon": "🎥",
+      "icon": "🎞️",
       "channels": [
         {
           "id": "info_007",
-          "name": "DW Documentary",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/dwdocumentary.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
+          "name": "DW News (Info)",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/dwnews.png",
+          "streamUrl": "https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8",
           "isHD": true,
           "isFeatured": true
         },
         {
           "id": "info_008",
-          "name": "RT Documentary",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/rtdoc.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
+          "name": "Wonder",
+          "logoUrl": "https://i.imgur.com/Y17Uu88.png",
+          "streamUrl": "https://wonder-samsung.amagi.tv/playlist.m3u8",
           "isHD": true,
           "isFeatured": false
-        }
-      ]
-    },
-    {
-      "categoryId": "cat_tech",
-      "categoryName": "Technology & Space",
-      "icon": "🧠",
-      "channels": [
+        },
         {
           "id": "info_009",
-          "name": "Tech Linked",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/techlinked.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/categories/technology.m3u",
+          "name": "Real Stories",
+          "logoUrl": "https://i.imgur.com/0uB0A9t.png",
+          "streamUrl": "https://realstories-samsung.amagi.tv/playlist.m3u8",
           "isHD": true,
           "isFeatured": false
         },
         {
           "id": "info_010",
-          "name": "Space & Beyond",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/space.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/categories/science.m3u",
+          "name": "Timeline History",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/timeline.png",
+          "streamUrl": "https://timeline-samsung.amagi.tv/playlist.m3u8",
           "isHD": true,
           "isFeatured": true
         }
       ]
     },
     {
-      "categoryId": "cat_nature",
-      "categoryName": "Nature & Earth",
-      "icon": "🌍",
+      "categoryId": "cat_news_global",
+      "categoryName": "Global News & Info",
+      "icon": "🗞️",
       "channels": [
         {
           "id": "info_011",
-          "name": "Earth Live",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/earth.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/categories/nature.m3u",
+          "name": "Al Jazeera English",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/aljazeeraenglish.png",
+          "streamUrl": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
           "isHD": true,
           "isFeatured": true
+        },
+        {
+          "id": "info_012",
+          "name": "Bloomberg TV",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/bloomberg.png",
+          "streamUrl": "https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8",
+          "isHD": true,
+          "isFeatured": true
+        },
+        {
+          "id": "info_013",
+          "name": "France 24 English",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/france24english.png",
+          "streamUrl": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/france24english/playlist.m3u8",
+          "isHD": true,
+          "isFeatured": false
+        },
+        {
+          "id": "info_014",
+          "name": "Euronews English",
+          "logoUrl": "https://iptv-org.github.io/iptv/logos/euronews.png",
+          "streamUrl": "https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8",
+          "isHD": true,
+          "isFeatured": false
         }
       ]
     }
   ]
 }
+

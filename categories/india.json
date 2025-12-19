@@ -10,7 +10,7 @@
           "id": "in_001",
           "name": "DD News",
           "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/DD_News.svg/1200px-DD_News.svg.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/countries/in.m3u",
+          "streamUrl": "https://ddnews.akamaized.net/hls/live/2034177/ddnews/master.m3u8",
           "isHD": true,
           "isFeatured": true
         },
@@ -18,7 +18,7 @@
           "id": "in_002",
           "name": "Zee News",
           "logoUrl": "https://iptv-org.github.io/iptv/logos/zeenews.png",
-          "streamUrl": "https://iptv-org.github.io/iptv/countries/in.m3u",
+          "streamUrl": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
           "isHD": true,
           "isFeatured": false
         }
@@ -26,3 +26,4 @@
     }
   ]
 }
+
