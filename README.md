@@ -1,174 +1,181 @@
-# 🌐 StreamX Ultra – Official IPTV JSON Data
+<p align="center">
+  <img src="https://img.shields.io/badge/AeonCoreX-Official%20Project-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/StreamX%20Ultra-Live%20TV%20Platform-1E90FF?style=for-the-badge&logo=tvtime&logoColor=white"/>
+</p>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/streamx-iptv-data?style=social)](https://github.com/yourusername/streamx-iptv-data)  
-[![GitHub license](https://img.shields.io/github/license/yourusername/streamx-iptv-data)](LICENSE)
+<p align="center">
+  <img src="https://img.shields.io/badge/IPTV-JSON%20Data-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Auto%20Updated-Daily-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HD%20Streams-Supported-blue?style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername/streamx-iptv-data?style=social"/>
+  <img src="https://img.shields.io/github/forks/yourusername/streamx-iptv-data?style=social"/>
+  <img src="https://img.shields.io/github/license/yourusername/streamx-iptv-data"/>
+</p>
 
 ---
 
-## 🚀 Overview
+# 🚀 StreamX Ultra – Official IPTV Data Repository
 
-**StreamX Ultra** is a futuristic IPTV platform designed to deliver **live TV channels**, **HD streams**, **sports events**, and **informative content** directly to your app.  
-This repository contains **structured JSON data** for all categories, including auto-updating country channels, movies, kids content, sports, and informative channels.
+### 🌐 AeonCoreX Official Live TV Infrastructure
 
-All JSON files are structured to **auto-integrate with the StreamX Ultra app**, providing seamless updates and a rich user experience.
+**StreamX Ultra** is the official next-generation **Live TV & IPTV platform** by **AeonCoreX**.  
+This repository contains the **core IPTV data backbone** that powers StreamX Ultra across all platforms.
+
+> ⚠️ This is an **official AeonCoreX production repository**.
+
+---
+
+## 🏢 About AeonCoreX
+
+**AeonCoreX** is a future-driven technology company building scalable platforms in:
+
+- Live TV & IPTV Infrastructure  
+- Streaming & Media Automation  
+- Cyber & Cloud Systems  
+- Data-Driven Platforms  
+
+**StreamX Ultra** is AeonCoreX’s **official live TV platform**, and this repository serves as its **single source of truth for IPTV data**.
+
+---
+
+## 📌 Purpose of This Repository
+
+This repository provides **structured, category-wise JSON data** consumed directly by the **StreamX Ultra application**.
+
+### Key Responsibilities:
+- Centralized IPTV data source  
+- Automatic channel updates  
+- Category-based channel organization  
+- Live sports & upcoming event metadata  
+- Fast, scalable, and app-friendly structure  
+
+---
+
+## 🧠 High-Level Architecture
+
+Public M3U Sources ↓ Automation Engine (Python) ↓ Validated & Normalized JSON ↓ GitHub Repository (This Repo) ↓ StreamX Ultra App ↓ End Users (Live TV Experience)
 
 ---
 
 ## 📂 Repository Structure
 
-
-streamx-iptv-data/ │ ├── index.json                # Master index file for all categories ├── auto_m3u_to_json.py       # Automated Python script for M3U to JSON & GitHub update └── categories/               # All category-wise JSON ├── bangladesh.json ├── india.json ├── usa.json ├── sports.json ├── movies.json ├── kids.json └── informative.json
-
----
-
-## 🏷️ Categories
-
-| Category       | Description                                        | Icon  |
-|----------------|----------------------------------------------------|-------|
-| Bangladesh     | All Bangladeshi TV channels                        | 🇧🇩    |
-| India          | All Indian TV channels                              | 🇮🇳    |
-| USA            | All USA channels                                   | 🇺🇸    |
-| Sports         | Live sports channels with HD streams & schedules  | 🏅    |
-| Movies         | Action, Entertainment & Movie channels            | 🎬    |
-| Kids           | Children’s & Cartoon channels                      | 🧒    |
-| Informative    | Discovery, Science, Documentary, Animal, History | 🔬 🐅 🏛️ 🎥 🧠 🌍 |
+streamx-iptv-data/ │ ├── index.json │   └── Master entry point for StreamX Ultra │ ├── categories/ │   ├── bangladesh.json │   ├── india.json │   ├── usa.json │   ├── sports.json │   ├── movies.json │   ├── kids.json │   └── informative.json │ ├── assets/ │   └── Logos, icons & branding resources │ ├── README.md ├── LICENSE └── .gitignore
 
 ---
 
-## ⚡ Features
+## 🗂️ Available Categories
 
-- **HD Streams:** All channels marked with `isHD: true`.
-- **Featured Channels:** Top channels auto-featured for every category.
-- **Kids Parental Control:** `parentalControl: true` flag for all kids channels.
-- **Live Sports Integration:** Channels include live events and upcoming matches with countdown timers.
-- **Auto Daily Update:** Python script can be scheduled via Termux or cron job to refresh JSON automatically.
-- **GitHub Push:** Auto push to repo ensures StreamX Ultra app always fetches the latest data.
-- **JSON Structure:** Fully compatible with StreamX Ultra app.
+### 🌍 Regional
+- Bangladesh 🇧🇩
+- India 🇮🇳
+- USA 🇺🇸
+- (Expandable worldwide)
 
----
+### 🏅 Sports
+- Live sports channels  
+- Event-based streams  
+- Upcoming match metadata (time & status)
 
-## 🛠️ Automated Script
+### 🎬 Movies & Entertainment
+- Action & Entertainment channels  
+- Movie-focused IPTV streams  
 
-- **File:** `auto_m3u_to_json.py`  
-- **Functions:**
-  - Parse M3U links per category
-  - Generate category-wise JSON files
-  - Assign featured channels and HD flag
-  - Add `liveEvent` objects for sports channels
-  - Update master `index.json`
-  - Auto push files to GitHub repository
+### 🧒 Kids
+- Cartoon & kids TV  
+- Educational content  
+- Parental-safe categorization  
 
-- **Dependencies:**
-  ```bash
-  pip install requests PyGithub
-
-Run manually:
-
-python auto_m3u_to_json.py
-
-Run daily (Termux loop):
-
-while true; do
-  python ~/streamx-iptv-data/auto_m3u_to_json.py
-  sleep 86400
-done
-
-Run daily (Linux cron job example):
-
-0 3 * * * /usr/bin/python3 /home/user/streamx-iptv-data/auto_m3u_to_json.py
-
-
+### 🧠 Informative
+- Discovery & Science  
+- Documentary  
+- Nature & Wildlife  
+- History & Civilization  
+- Technology & Space  
 
 ---
 
-## 🌐 Master Index
+## ⚡ Core Features
 
-File: index.json
-
-Contains references to all category JSON files.
-
-Example structure:
-
-
-{
-  "appName": "StreamX Ultra",
-  "version": "1.0.0",
-  "categories": [
-    {
-      "id": "cat_bangladesh",
-      "name": "Bangladesh",
-      "file": "categories/bangladesh.json",
-      "parentalControl": false
-    },
-    {
-      "id": "cat_sports",
-      "name": "Sports",
-      "file": "categories/sports.json",
-      "parentalControl": false
-    }
-  ]
-}
-
+- 🔄 **Automated Daily Updates**
+- 📦 **Category-wise JSON Architecture**
+- 📺 **HD Stream Metadata**
+- ⭐ **Featured Channel System**
+- ⏰ **Upcoming Sports Event Support**
+- 🚀 **Optimized for Fast App Load**
+- 🔐 **Production-Safe & Scalable**
 
 ---
 
-## 🔗 Integration with StreamX Ultra App
+## 🔄 Automation System
 
-1. Clone the repository:
+This repository is maintained using an **internal automation pipeline**:
 
-git clone https://github.com/cybernahid-dev/streamx-iptv-data.git
+- M3U sources are fetched automatically  
+- Channels are parsed & validated  
+- JSON files are regenerated  
+- Data is pushed to GitHub  
+- StreamX Ultra app syncs instantly  
 
+⏱ Update frequency: **Daily (or configurable)**
 
-2. Point your StreamX Ultra app to the raw GitHub URL:
-
-https://raw.githubusercontent.com/cybernahid-dev/streamx-iptv-data/main/index.json
-
-
-3. App will automatically fetch all categories and channels.
-
-
-
+> Automation scripts are intentionally excluded from GitHub for security reasons.
 
 ---
 
-## 📝 Contribution Guidelines
+## 🔗 App Integration
 
-Pull requests are welcome for new channels, M3U updates, or improvements.
-
-Ensure all JSON follows the same structure.
-
-Do not include private M3U links without proper authorization.
+The StreamX Ultra app only needs **one endpoint**:
 
 
+index.json
 
----
+From this file, the app dynamically loads:
+- All categories  
+- All channels  
+- All metadata  
 
-## 📄 License
-
-This repository is licensed under MIT License – see the LICENSE file for details.
-
+No hard-coded channels.  
+No app updates required for content changes.
 
 ---
 
-## 🔮 Future Roadmap
+## ⚠️ Usage & Distribution Policy
 
-🔹 Real-time live sports API integration
-
-🔹 Push notifications for upcoming matches
-
-🔹 Regional category expansion (Europe, Asia, Africa)
-
-🔹 User ratings & channel popularity tracking
-
-🔹 HD/4K stream detection and tagging
-
-
+- Intended for **StreamX Ultra** and **AeonCoreX-approved platforms**  
+- Redistribution without permission is discouraged  
+- Private / paid streams are not included  
 
 ---
 
-> Made with ❤️ for StreamX Ultra by cybernahid-dev
+## 📄 License & Copyright
 
+© 2025 AeonCoreX
 
+This repository is licensed under the **MIT License**.  
+However, **AeonCoreX**, **StreamX Ultra**, branding, and platform identity remain the **exclusive property of AeonCoreX**.
+
+See [LICENSE](LICENSE) for details.
 
 ---
 
+## 🔮 Roadmap
+
+- 🌐 Global country expansion  
+- 🧠 AI-based channel recommendations  
+- 🔔 Live sports notifications  
+- 📊 Popularity & analytics engine  
+- 📡 Adaptive bitrate & 4K streams  
+
+---
+
+## 🤝 Maintained By
+
+**AeonCoreX – Core Platform Team**  
+Project: **StreamX Ultra**  
+Role: **Official IPTV Data Infrastructure**
+
+> Built for scale. Designed for the future.
