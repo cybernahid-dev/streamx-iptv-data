@@ -107,16 +107,15 @@
       "category": "Bangladesh"
     },
     {
-      "id": "deepto_tv_bd"
-      "name": "Deepto TV"
-      "logoUrl":
-"",
+         "id": "deepto_tv_bd",
+      "name": "Deepto TV",
+      "logoUrl": "",
       "streamUrls": [
-
-"https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
-
-"https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
-                   ]
-                  }
-                  
+        "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
+      ],
+      "category": "Bangladesh"
+    }
+  ]
+}
 
