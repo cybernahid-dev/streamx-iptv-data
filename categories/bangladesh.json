@@ -18,7 +18,9 @@
       "logoUrl": "https://i.ibb.co/JCdQ0qf/Jamuna-TV.png",
       "streamUrls": [
         "https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8",
-        "https://rhridoy136.shortcm.li/jamunatv.m3u8"
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+
+"https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8"
       ],
       "category": "Bangladesh"
     },
@@ -27,7 +29,7 @@
       "name": "Channel 24",
       "logoUrl": "https://i.ibb.co/kBYm2m3/Channel-24-logo-svg.png",
       "streamUrls": [
-        "https://rhridoy136.shortcm.li/channel24.m3u8",
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
         "http://123.108.122.253/hls/channel24.m3u8"
       ],
       "category": "Bangladesh"
@@ -48,7 +50,7 @@
       "logoUrl": "https://i.ibb.co/FmPjYg0/Independent-Television-logo-svg.png",
       "streamUrls": [
         "https://rhridoy136.shortcm.li/independenttv.m3u8",
-        "http://123.108.122.253/hls/independent.m3u8"
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
       ],
       "category": "Bangladesh"
     },
@@ -58,7 +60,9 @@
       "logoUrl": "https://i.ibb.co/9Gsm9p9/ntv-logo.png",
       "streamUrls": [
         "https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8",
-        "http://123.108.122.253/hls/ntv.m3u8"
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+
+"https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8"
       ],
       "category": "Bangladesh"
     },
@@ -78,7 +82,7 @@
       "logoUrl": "https://i.ibb.co/3Y8f152/Channel-i-logo-svg.png",
       "streamUrls": [
         "https://rhridoy136.shortcm.li/channeli.m3u8",
-        "http://162.254.149.187:1935/live/channel-i/playlist.m3u8"
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
       ],
       "category": "Bangladesh"
     },
@@ -101,6 +105,18 @@
         "http://123.108.122.253/hls/nagoriktv.m3u8"
       ],
       "category": "Bangladesh"
-    }
-  ]
-}
+    },
+    {
+      "id": "deepto_tv_bd"
+      "name": "Deepto TV"
+      "logoUrl":
+"",
+      "streamUrls": [
+
+"https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
+
+"https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
+                   ]
+                  }
+                 }
+
