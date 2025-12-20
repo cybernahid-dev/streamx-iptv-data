@@ -1,0 +1,98 @@
+{
+  "channels": [
+    {
+      "id": "bbc_one_uk",
+      "name": "BBC One",
+      "logoUrl": "https://i.ibb.co/vVRfP7j/BBC-One-logo-2021-svg.png",
+      "streamUrls": [
+        "http://live.free-iptv.cf:80/live/bbc1/index.m3u8",
+        "https://vs-cmaf-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=1/b=1000-8000/main.m3u8"
+      ],
+      "category": "UK"
+    },
+    {
+      "id": "bbc_two_uk",
+      "name": "BBC Two",
+      "logoUrl": "https://i.ibb.co/Jc2XfSj/BBC-Two-logo-2021-svg.png",
+      "streamUrls": [
+        "http://live.free-iptv.cf:80/live/bbc2/index.m3u8",
+        "https://vs-cmaf-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=1/b=1000-8000/main.m3u8"
+      ],
+      "category": "UK"
+    },
+    {
+      "id": "itv1_uk",
+      "name": "ITV1",
+      "logoUrl": "https://i.ibb.co/8Y4Bq4b/ITV1-logo-2013-svg.png",
+      "streamUrls": [
+        "http://live.free-iptv.cf:80/live/itv1/index.m3u8"
+      ],
+      "category": "UK"
+    },
+    {
+      "id": "channel_4_uk",
+      "name": "Channel 4",
+      "logoUrl": "https://i.ibb.co/L6bT1QG/Channel-4-logo-2015-svg.png",
+      "streamUrls": [
+        "http://live.free-iptv.cf:80/live/ch4/index.m3u8",
+        "https://cdn-1.ustv247.com/channel4/live.m3u8"
+      ],
+      "category": "UK"
+    },
+    {
+      "id": "sky_news_uk",
+      "name": "Sky News",
+      "logoUrl": "https://i.ibb.co/kQvL1mY/Sky-News-logo-2018-svg.png",
+      "streamUrls": [
+        "https://skynews-pluto-all.skynews.com/v1/master/sky-news-pluto-all/sky-news-pluto-all.m3u8",
+        "https://skynews-roku.akamaized.net/hls/live/2034966/skynews-roku/master.m3u8"
+      ],
+      "category": "UK"
+    },
+    {
+      "id": "gb_news_uk",
+      "name": "GB News",
+      "logoUrl": "https://i.ibb.co/Bq47Rj0/GB-News-logo-svg.png",
+      "streamUrls": [
+        "https://live.gbnews.uk/hls/live.m3u8"
+      ],
+      "category": "UK"
+    },
+    {
+      "id": "talktv_uk",
+      "name": "TalkTV",
+      "logoUrl": "https://i.ibb.co/4Z58H5s/Talk-TV-UK-logo-svg.png",
+      "streamUrls": [
+        "https://cdn-tvalb.akamaized.net/hls/live/2103430/talkTV/master.m3u8"
+      ],
+      "category": "UK"
+    },
+    {
+      "id": "pluto_tv_movies_uk",
+      "name": "Pluto TV Movies",
+      "logoUrl": "https://i.ibb.co/L8y25rW/Pluto-TV-logo-svg.png",
+      "streamUrls": [
+        "http://cfd-v4-service-channel-stitcher-gb-1.prd.pluto.tv/stitch/hls/channel/5d515832a8dfb4793836d396/master.m3u8"
+      ],
+      "category": "UK"
+    },
+    {
+      "id": "dave_uk",
+      "name": "Dave",
+      "logoUrl": "https://i.ibb.co/jGGqB67/Dave-logo-2022-svg.png",
+      "streamUrls": [
+        "https://uktv-dave.amagi.tv/playlist.m3u8"
+      ],
+      "category": "UK"
+    },
+    {
+      "id": "cbs_reality_uk",
+      "name": "CBS Reality",
+      "logoUrl": "https://i.ibb.co/dDzR653/CBS-Reality-logo-svg.png",
+      "streamUrls": [
+        "https://amc-cdn-live-1-ched-cbc-amc.amagi.tv/playlist.m3u8"
+      ],
+      "category": "UK"
+    }
+  ]
+}

@@ -1,29 +1,100 @@
 {
-  "categoryGroup": "Sports",
-  "categories": [
+  "channels": [
     {
-      "categoryId": "cat_sports",
-      "categoryName": "Live Sports",
-      "icon": "🏅",
-      "channels": [
-        {
-          "id": "sports_001",
-          "name": "Sports Now",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/espn.png",
-          "streamUrl": "https://espn-hls.amagi.tv/playlist.m3u8",
-          "isHD": true,
-          "isFeatured": true
-        },
-        {
-          "id": "sports_002",
-          "name": "Fox Sports Now",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/foxsports.png",
-          "streamUrl": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
-          "isHD": true,
-          "isFeatured": false
-        }
-      ]
+      "id": "sky_sports_main_event",
+      "name": "Sky Sports Main Event",
+      "logoUrl": "https://i.ibb.co/VMyB25g/sky-sports-main-event-hd-1-logo.png",
+      "streamUrls": [
+        "http://tvpanel.one:80/live/den9179/611carc/586761.m3u8",
+        "http://tvpanel.one:80/live/den9179/611carc/586762.m3u8"
+      ],
+      "category": "Sports"
+    },
+    {
+      "id": "sky_sports_football",
+      "name": "Sky Sports Football",
+      "logoUrl": "https://i.ibb.co/z5pBZCv/sky-sports-football-hd-logo.png",
+      "streamUrls": [
+        "http://tvpanel.one:80/live/den9179/611carc/586763.m3u8",
+        "http://tvpanel.one:80/live/den9179/611carc/586764.m3u8"
+      ],
+      "category": "Sports"
+    },
+    {
+      "id": "bein_sports_1_hd",
+      "name": "beIN Sports 1 HD",
+      "logoUrl": "https://i.ibb.co/3B77kSj/bein-sports-1-logo.png",
+      "streamUrls": [
+        "http://2111.space:8080/live/hossam1/hossam1/42486.ts",
+        "https://sdarot.website/live/hls/s62/index.m3u8"
+      ],
+      "category": "Sports"
+    },
+    {
+      "id": "willow_cricket_hd",
+      "name": "Willow Cricket HD",
+      "logoUrl": "https://i.ibb.co/3S4f8t8/willow-hd-logo.png",
+      "streamUrls": [
+        "https://b41d-210-210-149-14.ngrok-free.app/live/2301",
+        "https://dai.google.com/linear/hls/event/l32v-4s7RMaAnA-2p4fGkQ/master.m3u8"
+      ],
+      "category": "Sports"
+    },
+    {
+      "id": "ten_sports_pk",
+      "name": "Ten Sports Pakistan",
+      "logoUrl": "https://i.ibb.co/N2zW4bZ/Ten-Sports-Pakistan-Logo-svg.png",
+      "streamUrls": [
+        "https://cdn-silicon.yuppcdn.net/ecache/trans/ms-tensports-1/playlist.m3u8"
+      ],
+      "category": "Sports"
+    },
+    {
+      "id": "sport_tv_1_pt",
+      "name": "Sport TV 1 Portugal",
+      "logoUrl": "https://i.ibb.co/F8q1f60/sport-tv-1-logo.png",
+      "streamUrls": [
+        "http://185.236.229.13:4000/play/a040",
+        "http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2525/index.m3u8"
+      ],
+      "category": "Sports"
+    },
+    {
+      "id": "rtsh_sport",
+      "name": "RTSH Sport",
+      "logoUrl": "https://i.ibb.co/7jXjH08/rtsh-sport-logo.png",
+      "streamUrls": [
+        "http://95.107.132.105/out/u/638_1.m3u8",
+        "http://185.226.88.6:9510/tch"
+      ],
+      "category": "Sports"
+    },
+    {
+      "id": "ad_sports_1",
+      "name": "AD Sports 1",
+      "logoUrl": "https://i.ibb.co/51bTqG5/ad-sports-1-logo.png",
+      "streamUrls": [
+        "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
+      ],
+      "category": "Sports"
+    },
+    {
+      "id": "ad_sports_2",
+      "name": "AD Sports 2",
+      "logoUrl": "https://i.ibb.co/1Kk2W98/ad-sports-2-logo.png",
+      "streamUrls": [
+        "https://admdn2.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"
+      ],
+      "category": "Sports"
+    },
+    {
+      "id": "dd_sports",
+      "name": "DD Sports",
+      "logoUrl": "https://i.ibb.co/4Z5vMhP/dd-sports-logo.png",
+      "streamUrls": [
+        "https://dd-sports.jagobd.com.bd/live-hls/live.m3u8"
+      ],
+      "category": "Sports"
     }
   ]
 }
-

@@ -1,146 +1,96 @@
 {
-  "categoryGroup": "Informative",
-  "categories": [
+  "channels": [
     {
-      "categoryId": "cat_discovery",
-      "categoryName": "Discovery & Science",
-      "icon": "🔬",
-      "channels": [
-        {
-          "id": "info_001",
-          "name": "NASA TV",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/nasatv.png",
-          "streamUrl": "https://ntv1.akamaihd.net/hls/live/269486/ntv1/index.m3u8",
-          "isHD": true,
-          "isFeatured": true
-        },
-        {
-          "id": "info_002",
-          "name": "NASA Media",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/nasatv.png",
-          "streamUrl": "http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8",
-          "isHD": true,
-          "isFeatured": false
-        },
-        {
-          "id": "info_003",
-          "name": "Exploration TV",
-          "logoUrl": "https://i.imgur.com/k6uY9fS.png",
-          "streamUrl": "https://exploration-samsung.amagi.tv/playlist.m3u8",
-          "isHD": true,
-          "isFeatured": false
-        }
-      ]
+      "id": "nasa_tv_live",
+      "name": "NASA TV Live",
+      "logoUrl": "https://i.ibb.co/V9hPhYQ/NASA-TV-logo-svg.png",
+      "streamUrls": [
+        "https://endpnt.com/hls/nasa-public/playlist.m3u8",
+        "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8"
+      ],
+      "category": "Informative"
     },
     {
-      "categoryId": "cat_animal",
-      "categoryName": "Animal & Wildlife",
-      "icon": "🦁",
-      "channels": [
-        {
-          "id": "info_004",
-          "name": "Love Nature",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/lovenature.png",
-          "streamUrl": "https://lovenature-rakuten.amagi.tv/playlist.m3u8",
-          "isHD": true,
-          "isFeatured": true
-        },
-        {
-          "id": "info_005",
-          "name": "Real Wild",
-          "logoUrl": "https://i.imgur.com/k6uY9fS.png",
-          "streamUrl": "https://realwild-samsunguk.amagi.tv/playlist.m3u8",
-          "isHD": true,
-          "isFeatured": false
-        },
-        {
-          "id": "info_006",
-          "name": "WildEarth",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/wildearth.png",
-          "streamUrl": "https://wildearth-samsung.amagi.tv/playlist.m3u8",
-          "isHD": true,
-          "isFeatured": false
-        }
-      ]
+      "id": "nasa_tv_uhd",
+      "name": "NASA TV UHD",
+      "logoUrl": "https://i.ibb.co/V9hPhYQ/NASA-TV-logo-svg.png",
+      "streamUrls": [
+        "https://endpnt.com/hls/nasa4k/playlist.m3u8"
+      ],
+      "category": "Informative"
     },
     {
-      "categoryId": "cat_documentary",
-      "categoryName": "Documentary",
-      "icon": "🎞️",
-      "channels": [
-        {
-          "id": "info_007",
-          "name": "DW News (Info)",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/dwnews.png",
-          "streamUrl": "https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8",
-          "isHD": true,
-          "isFeatured": true
-        },
-        {
-          "id": "info_008",
-          "name": "Wonder",
-          "logoUrl": "https://i.imgur.com/Y17Uu88.png",
-          "streamUrl": "https://wonder-samsung.amagi.tv/playlist.m3u8",
-          "isHD": true,
-          "isFeatured": false
-        },
-        {
-          "id": "info_009",
-          "name": "Real Stories",
-          "logoUrl": "https://i.imgur.com/0uB0A9t.png",
-          "streamUrl": "https://realstories-samsung.amagi.tv/playlist.m3u8",
-          "isHD": true,
-          "isFeatured": false
-        },
-        {
-          "id": "info_010",
-          "name": "Timeline History",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/timeline.png",
-          "streamUrl": "https://timeline-samsung.amagi.tv/playlist.m3u8",
-          "isHD": true,
-          "isFeatured": true
-        }
-      ]
+      "id": "al_jazeera_doc",
+      "name": "Al Jazeera Documentary",
+      "logoUrl": "https://i.ibb.co/bF99fCg/Al-Jazeera-Documentary-Channel-logo-svg.png",
+      "streamUrls": [
+        "https://live-prod-doc.aje.int.prg.bright-cdn.com/live-prod-doc/ajd-hd-3/playlist.m3u8"
+      ],
+      "category": "Informative"
     },
     {
-      "categoryId": "cat_news_global",
-      "categoryName": "Global News & Info",
-      "icon": "🗞️",
-      "channels": [
-        {
-          "id": "info_011",
-          "name": "Al Jazeera English",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/aljazeeraenglish.png",
-          "streamUrl": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
-          "isHD": true,
-          "isFeatured": true
-        },
-        {
-          "id": "info_012",
-          "name": "Bloomberg TV",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/bloomberg.png",
-          "streamUrl": "https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8",
-          "isHD": true,
-          "isFeatured": true
-        },
-        {
-          "id": "info_013",
-          "name": "France 24 English",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/france24english.png",
-          "streamUrl": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/france24english/playlist.m3u8",
-          "isHD": true,
-          "isFeatured": false
-        },
-        {
-          "id": "info_014",
-          "name": "Euronews English",
-          "logoUrl": "https://iptv-org.github.io/iptv/logos/euronews.png",
-          "streamUrl": "https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8",
-          "isHD": true,
-          "isFeatured": false
-        }
-      ]
+      "id": "dw_documentary",
+      "name": "DW Documentary",
+      "logoUrl": "https://i.ibb.co/5cQ32qV/DW-Deutsch-logo-svg.png",
+      "streamUrls": [
+        "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8"
+      ],
+      "category": "Informative"
+    },
+    {
+      "id": "bloomberg_tv",
+      "name": "Bloomberg TV",
+      "logoUrl": "https://i.ibb.co/1Kk2WzK/Bloomberg-Television-logo-svg.png",
+      "streamUrls": [
+        "https://cdn-streams.bloomberg.com/btv/us/master.m3u8"
+      ],
+      "category": "Informative"
+    },
+    {
+      "id": "france24_en",
+      "name": "France 24 (English)",
+      "logoUrl": "https://i.ibb.co/vBhtK1Y/France-24-logo-svg.png",
+      "streamUrls": [
+        "http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
+        "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8"
+      ],
+      "category": "Informative"
+    },
+    {
+      "id": "euronews_en",
+      "name": "Euronews (English)",
+      "logoUrl": "https://i.ibb.co/v4b23Jb/Euronews-logo-svg.png",
+      "streamUrls": [
+        "https://euronews-euronews-world-1-eu.rakuten.wurl.tv/playlist.m3u8"
+      ],
+      "category": "Informative"
+    },
+    {
+      "id": "un_web_tv",
+      "name": "UN Web TV",
+      "logoUrl": "https://i.ibb.co/rQfLgG7/UN-Web-TV-logo-svg.png",
+      "streamUrls": [
+        "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_o33o5g3a/format/applehttp/protocol/https/a.m3u8"
+      ],
+      "category": "Informative"
+    },
+    {
+      "id": "cspan_1",
+      "name": "C-SPAN 1",
+      "logoUrl": "https://i.ibb.co/L5hP3p6/C-SPAN-logo-svg.png",
+      "streamUrls": [
+        "https://dw03.oit.duke.edu/live/c-span/livestream/playlist.m3u8"
+      ],
+      "category": "Informative"
+    },
+    {
+      "id": "al_jazeera_en",
+      "name": "Al Jazeera (English)",
+      "logoUrl": "https://i.ibb.co/3sXf23V/Al-Jazeera-English-logo-svg.png",
+      "streamUrls": [
+        "https://live-prod-web-aje.aje.int.prg.bright-cdn.com/live-prod-web-aje/aj-english-hd/master.m3u8"
+      ],
+      "category": "Informative"
     }
   ]
 }
-

@@ -1,27 +1,94 @@
 {
-  "categoryId": "cat_kids",
-  "categoryName": "Kids",
-  "icon": "🧒",
-  "parentalControl": true,
   "channels": [
     {
-      "id": "kids_001",
+      "id": "pbs_kids_us",
       "name": "PBS Kids",
-      "logoUrl": "https://iptv-org.github.io/iptv/logos/pbskids.png",
-      "streamUrl": "https://live-cdn.pbskids.org/out/u/aim/wttw.m3u8",
-      "isHD": true,
-      "isFeatured": true,
-      "ageGroup": "3-8"
+      "logoUrl": "https://i.ibb.co/hK5xQ4D/PBS-Kids-logo-svg.png",
+      "streamUrls": [
+        "https://content.pbskids.org/hls_live/2022-05-18/16-52-19-155/pbskids-livestream.m3u8"
+      ],
+      "category": "Kids"
     },
     {
-      "id": "kids_002",
-      "name": "Toon Goggles",
-      "logoUrl": "https://iptv-org.github.io/iptv/logos/toongoggles.png",
-      "streamUrl": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36",
-      "isHD": true,
-      "isFeatured": false,
-      "ageGroup": "4-10"
+      "id": "moonbug_kids",
+      "name": "Moonbug Kids",
+      "logoUrl": "https://i.ibb.co/b3y9tP9/Moonbug-Entertainment-logo-svg.png",
+      "streamUrls": [
+        "https://moonbug-kids-2-us.samsung.wurl.com/playlist.m3u8"
+      ],
+      "category": "Kids"
+    },
+    {
+      "id": "pluto_tv_jr",
+      "name": "Pluto TV Junior",
+      "logoUrl": "https://i.ibb.co/L8y25rW/Pluto-TV-logo-svg.png",
+      "streamUrls": [
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b5b46537ff1a773f3744223/master.m3u8"
+      ],
+      "category": "Kids"
+    },
+    {
+      "id": "kartoon_channel",
+      "name": "Kartoon Channel!",
+      "logoUrl": "https://i.ibb.co/GcyS499/Kartoon-Channel-logo-svg.png",
+      "streamUrls": [
+        "https://kartoon-channel.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Kids"
+    },
+    {
+      "id": "duck_tv",
+      "name": "Duck TV",
+      "logoUrl": "https://i.ibb.co/nzh321n/ducktv-logo.png",
+      "streamUrls": [
+        "https://me-asia-samsung-prod.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Kids"
+    },
+    {
+      "id": "happy_kids_tv",
+      "name": "Happy Kids TV",
+      "logoUrl": "https://i.ibb.co/R4m2F3P/happykids-logo.png",
+      "streamUrls": [
+        "https://d35j504z0x2n2k.cloudfront.net/v1/master/3d047c388e23f993d56a316b252d91b7d522f790/Happy-Kids-HAPPY-KIDS-AMP/playlist.m3u8"
+      ],
+      "category": "Kids"
+    },
+    {
+      "id": "pocket_watch",
+      "name": "Pocket Watch",
+      "logoUrl": "https://i.ibb.co/XzK45X5/Pocket-watch-logo.png",
+      "streamUrls": [
+        "https://linear-41.frequency.stream/41/hls/master/playlist.m3u8"
+      ],
+      "category": "Kids"
+    },
+    {
+      "id": "cbeebies_uk",
+      "name": "CBeebies",
+      "logoUrl": "https://i.ibb.co/k27P9Xj/CBeebies-logo-2016-svg.png",
+      "streamUrls": [
+        "https://vs-cmaf-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=1/b=1000-8000/main.m3u8"
+      ],
+      "category": "Kids"
+    },
+    {
+      "id": "sesame_street",
+      "name": "Sesame Street",
+      "logoUrl": "https://i.ibb.co/2d1hV3v/Sesame-Street-logo-svg.png",
+      "streamUrls": [
+        "https://sesamestreet-samsung-us.samsung.wurl.com/playlist.m3u8"
+      ],
+      "category": "Kids"
+    },
+    {
+      "id": "kidoodle_tv",
+      "name": "Kidoodle TV",
+      "logoUrl": "https://i.ibb.co/Qv6rY8n/kidoodle-tv-logo.png",
+      "streamUrls": [
+        "https://d35j504z0x2n2k.cloudfront.net/v1/master/3d047c388e23f993d56a316b252d91b7d522f790/Kidoodle-TV-KIDOODLE-TV-AMP/playlist.m3u8"
+      ],
+      "category": "Kids"
     }
   ]
 }
-
