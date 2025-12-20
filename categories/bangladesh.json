@@ -6,7 +6,9 @@
       "logoUrl": "https://images.seeklogo.com/logo-png/53/1/somoy-tv-logo-png_seeklogo-536972.png",
       "streamUrls": [
         "http://103.250.71.30:8081/somoylive/somoy000.smil/playlist.m3u8",
-        "https://rhridoy136.shortcm.li/shomoytv.m3u8"
+        "https://rhridoy136.shortcm.li/shomoytv.m3u8",
+
+"https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
       ],
       "category": "Bangladesh"
     },
