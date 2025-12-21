@@ -3,7 +3,7 @@
     {
       "id": "somoy_tv_bd",
       "name": "Somoy TV",
-      "logoUrl": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/somoy_tv.png",
       "streamUrls": [
         "http://103.250.71.30:8081/somoylive/somoy000.smil/playlist.m3u8",
         "https://rhridoy136.shortcm.li/shomoytv.m3u8",
@@ -15,7 +15,7 @@
     {
       "id": "jamuna_tv_bd",
       "name": "Jamuna TV",
-      "logoUrl": "https://i.ibb.co/JCdQ0qf/Jamuna-TV.png",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/jamuna_tv.png",
       "streamUrls": [
         "https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8",
         "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
@@ -37,7 +37,7 @@
     {
       "id": "gazi_tv_bd",
       "name": "Gazi TV (GTV)",
-      "logoUrl": "https://i.ibb.co/MfZVjwL/Gazi-TV-Logo-svg.png",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/gazi_tv.png",
       "streamUrls": [
         "https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8",
         "https://stream.sunplex.live/GAZI-TV/index.m3u8"
@@ -57,7 +57,7 @@
     {
       "id": "ntv_bd",
       "name": "NTV",
-      "logoUrl": "https://i.ibb.co/9Gsm9p9/ntv-logo.png",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/ntv.png",
       "streamUrls": [
         "https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8",
         "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
@@ -79,7 +79,7 @@
     {
       "id": "channel_i_bd",
       "name": "Channel i",
-      "logoUrl": "https://i.ibb.co/3Y8f152/Channel-i-logo-svg.png",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/channel_i.png",
       "streamUrls": [
         "https://rhridoy136.shortcm.li/channeli.m3u8",
         "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
@@ -89,7 +89,7 @@
     {
       "id": "ekushey_tv_bd",
       "name": "Ekushey TV",
-      "logoUrl": "https://i.ibb.co/Wc6xztx/Ekushey-Television-logo-svg.png",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/Ekushey_tv.png",
       "streamUrls": [
         "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
         "http://172.32.1.88:1935/tvprogram/Ekushey-TV/playlist.m3u8"
