@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/streamx-iptv-data?style=social"/>
-  <img src="https://img.shields.io/github/forks/yourusername/streamx-iptv-data?style=social"/>
-  <img src="https://img.shields.io/github/license/yourusername/streamx-iptv-data"/>
+  <img src="https://img.shields.io/github/stars/cybernahid-dev/streamx-iptv-data?style=social"/>
+  <img src="https://img.shields.io/github/forks/cybernahid-dev/streamx-iptv-data?style=social"/>
+  <img src="https://img.shields.io/github/license/cybernahid-dev/streamx-iptv-data"/>
 </p>
 
 ---
