@@ -5,7 +5,7 @@
       "name": "Aaj Tak",
       "logoUrl": "https://i.ibb.co/L5hYfT3/Aaj-Tak-logo-svg.png",
       "streamUrls": [
-        "https://at-live.jiocinema.com/live/hls/1_1_2000/master.m3u8",
+        "https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8",
         "https://feeds.intoday.in/aajtak/api/aajtak-livetv/hls/master.m3u8"
       ],
       "category": "India"
