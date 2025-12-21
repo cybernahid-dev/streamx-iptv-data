@@ -6,7 +6,7 @@
       "logoUrl": "https://i.ibb.co/L5hYfT3/Aaj-Tak-logo-svg.png",
       "streamUrls": [
         "https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8",
-        "https://feeds.intoday.in/aajtak/api/aajtak-livetv/hls/master.m3u8"
+        "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8"
       ],
       "category": "India"
     },
