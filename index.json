@@ -31,6 +31,10 @@
     {
       "name": "Music",
       "file": "categories/music.json"
+    },
+    {
+      "name": "UAE",
+      "file": "categories/uae.json"
     }
   ]
 }
