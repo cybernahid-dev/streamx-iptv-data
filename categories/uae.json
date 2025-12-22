@@ -3,7 +3,7 @@
     {
       "id": "al_aan_tv_uae",
       "name": "Al Aan TV",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/Al_Aan_tv.png",
       "streamUrls": [
         "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.dailymotion.com/AlAanTV"
       ],
@@ -12,7 +12,7 @@
     {
       "id": "al_arabiya_uae",
       "name": "Al Arabiya",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/al-arabiya_tv.png",
       "streamUrls": [
         "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
         "https://ythls.onrender.com/channel/UCahpxixMCwoANAftn6IxkTg.m3u8",
@@ -24,7 +24,7 @@
     {
       "id": "al_dafrah_tv_uae",
       "name": "Al DafrahTV TV",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/al_dafrah_tv.png",
       "streamUrls": [
         "https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist.m3u8"
       ],
@@ -33,7 +33,7 @@
     {
       "id": "al_mashhad_uae",
       "name": "Al Mashhad",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/al_mashhad_tv.png",
       "streamUrls": [
         "https://ythls.onrender.com/channel/UCWnBTuzUUDpKhJPGuDQMynA.m3u8"
       ],
@@ -42,7 +42,7 @@
     {
       "id": "al_hadath_tv_uae",
       "name": "Al Hadath TV",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/al-hadath_tv.png",
       "streamUrls": [
         "https://ythls.onrender.com/channel/UCrj5BGAhtWxDfqbza9T9hqA.m3u8"
       ],
@@ -51,7 +51,7 @@
     {
       "id": "al_shallal_tv_uae",
       "name": "Al Shallal TV",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/Al_shallal_tv.jpg",
       "streamUrls": [
         "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8"
       ],
@@ -60,7 +60,7 @@
     {
       "id": "al_sharqiya_min_kabla_iq",
       "name": "Al Sharqiya Min Kabla",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/Al_Sharqiya_logo.png",
       "streamUrls": [
         "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8"
       ],
@@ -69,7 +69,7 @@
     {
       "id": "al_wousta_tv_uae",
       "name": "Al Wousta TV",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/Al-Wousta_tv.png",
       "streamUrls": [
         "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8"
       ],
@@ -78,7 +78,7 @@
     {
       "id": "al_yaum_tv_uae",
       "name": "Al Yaum TV",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/al_yaum_tv.png",
       "streamUrls": [
         "https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8"
       ],
@@ -87,7 +87,7 @@
     {
       "id": "baynounah_tv_uae",
       "name": "Baynounah TV",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/baynounah_tv.png",
       "streamUrls": [
         "https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/playlist.m3u8"
       ],
@@ -96,7 +96,7 @@
     {
       "id": "cartoon_network_arabia_uae",
       "name": "Cartoon Network Arabia",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/Cartoon_Network_Arabic_logo.png",
       "streamUrls": [
         "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8"
       ],
@@ -105,7 +105,7 @@
     {
       "id": "cnbc_arabia_uae",
       "name": "CNBC Arabia",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/CNBC_Arabia_Logo.png",
       "streamUrls": [
         "https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8",
         "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.dailymotion.com/CNBCArabia"
@@ -115,7 +115,7 @@
     {
       "id": "dubai_one_uae",
       "name": "Dubai One",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/Dubaione-logo.png",
       "streamUrls": [
         "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8"
       ],
@@ -124,7 +124,7 @@
     {
       "id": "dubai_racing_2_uae",
       "name": "Dubai Racing 2",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/dubai_racing2.png",
       "streamUrls": [
         "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8"
       ],
@@ -133,7 +133,7 @@
     {
       "id": "dubai_racing_3_uae",
       "name": "Dubai Racing 3",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/dubai_racing3.png",
       "streamUrls": [
         "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8"
       ],
@@ -142,7 +142,7 @@
     {
       "id": "dubai_racing_uae",
       "name": "Dubai Racing",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/dubai_racing.png",
       "streamUrls": [
         "https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8"
       ],
@@ -151,7 +151,7 @@
     {
       "id": "dubai_sports_1_uae",
       "name": "Dubai Sports 1",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/dubai_sports.png",
       "streamUrls": [
         "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8"
       ],
@@ -160,7 +160,7 @@
     {
       "id": "dubai_sports_2_uae",
       "name": "Dubai Sports 2",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/dubaisports2.png",
       "streamUrls": [
         "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8"
       ],
