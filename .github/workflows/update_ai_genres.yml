@@ -3,7 +3,7 @@ name: Auto-Categorize Channels with AI
 on:
   # প্রতিদিন রাত ৪টায় (UTC) স্বয়ংক্রিয়ভাবে চলবে
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '0 * * * *'
   # ম্যানুয়ালি চালানোর জন্যও অপশন
   workflow_dispatch:
 

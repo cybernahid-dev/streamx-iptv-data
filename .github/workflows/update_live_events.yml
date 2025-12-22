@@ -3,7 +3,7 @@ name: Auto-update Live Events
 on:
   schedule:
     # প্রতিদিন রাত ২টায় (UTC) স্বয়ংক্রিয়ভাবে চলবে
-    - cron: '0 2 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
