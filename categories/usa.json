@@ -5,7 +5,6 @@
       "name": "ABC News Live",
       "logoUrl": "https://i.ibb.co/9V5x1wJ/ABC-News-Live-logo.png",
       "streamUrls": [
-        "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8",
         "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8"
       ],
       "category": "USA"
@@ -14,28 +13,21 @@
       "id": "nbc_news_now_us",
       "name": "NBC News NOW",
       "logoUrl": "https://i.ibb.co/2dG8mH5/NBC-News-Now-logo-2020-svg.png",
-      "streamUrls": [
-        "https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8",
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "USA"
     },
     {
       "id": "cbs_news_us",
       "name": "CBS News",
       "logoUrl": "https://i.ibb.co/3Cg1g0r/CBS-News-logo-svg.png",
-      "streamUrls": [
-        "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d51c929ba/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "USA"
     },
     {
       "id": "pbs_kids_us",
       "name": "PBS Kids",
       "logoUrl": "https://i.ibb.co/hK5xQ4D/PBS-Kids-logo-svg.png",
-      "streamUrls": [
-        "https://content.pbskids.org/hls_live/2022-05-18/16-52-19-155/pbskids-livestream.m3u8"
-      ],
+      "streamUrls": [],
       "category": "USA"
     },
     {
@@ -60,36 +52,28 @@
       "id": "newsmax_us",
       "name": "Newsmax",
       "logoUrl": "https://i.ibb.co/Ld11tS7/Newsmax-TV-logo-svg.png",
-      "streamUrls": [
-        "https://nmx-i.akamaihd.net/hls/live/529965/Newsmax/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "USA"
     },
     {
       "id": "cheddar_news_us",
       "name": "Cheddar News",
       "logoUrl": "https://i.ibb.co/1nKxJgB/Cheddar-News-logo-svg.png",
-      "streamUrls": [
-        "https://dai.google.com/linear/hls/event/5q5t71MkT2a6Z-QZ-g5M7w/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "USA"
     },
     {
       "id": " Scripps_news_us",
       "name": "Scripps News",
       "logoUrl": "https://i.ibb.co/n1bSwnw/Scripps-News-logo-svg.png",
-      "streamUrls": [
-        "https://dai.google.com/linear/hls/event/synu5Am3T8-p6O8kGv2aMA/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "USA"
     },
     {
       "id": "law_and_crime_us",
       "name": "Law & Crime",
       "logoUrl": "https://i.ibb.co/rQ2g4sY/Law-Crime-logo-svg.png",
-      "streamUrls": [
-        "https://dai.google.com/linear/hls/event/LdF0A4n-Rbi0gM8KFG56YQ/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "USA"
     }
   ]

@@ -5,7 +5,7 @@
       "name": "Vevo Pop",
       "logoUrl": "https://i.ibb.co/4Z5vMhP/vevo-logo.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a381cf7e979b16132e4828f/master.m3u8"
+        "https://jmp2.uk/stvp-GBBC19000017V"
       ],
       "category": "Music"
     },
@@ -13,81 +13,63 @@
       "id": "vevo_hiphop_pluto",
       "name": "Vevo Hip-Hop",
       "logoUrl": "https://i.ibb.co/4Z5vMhP/vevo-logo.png",
-      "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f778794def7940007e0350d/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Music"
     },
     {
       "id": "vevo_80s_pluto",
       "name": "Vevo 80s",
       "logoUrl": "https://i.ibb.co/4Z5vMhP/vevo-logo.png",
-      "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ab940348c22b2711681a29f/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Music"
     },
     {
       "id": "vevo_90s_pluto",
       "name": "Vevo 90s",
       "logoUrl": "https://i.ibb.co/4Z5vMhP/vevo-logo.png",
-      "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ab9405615363e710e2da19f/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Music"
     },
     {
       "id": "mtv_live_pluto",
       "name": "MTV Live",
       "logoUrl": "https://i.ibb.co/zZ7Z5hH/MTV-Live-logo-2021-svg.png",
-      "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1b29a00713d60007835111/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Music"
     },
     {
       "id": "now_rock_uk",
       "name": "Now Rock",
       "logoUrl": "https://i.ibb.co/2Wn7bYf/now-rock-logo.png",
-      "streamUrls": [
-        "https://ais-now-rock.amagi.tv/playlist.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Music"
     },
     {
       "id": "clubland_tv_uk",
       "name": "Clubland TV",
       "logoUrl": "https://i.ibb.co/Jk1jV7d/clubland-tv-logo.png",
-      "streamUrls": [
-        "https://ais-now-clubland.amagi.tv/playlist.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Music"
     },
     {
       "id": "capital_tv_uk",
       "name": "Capital TV",
       "logoUrl": "https://i.ibb.co/9G3Xy7C/capital-tv-logo.png",
-      "streamUrls": [
-        "https://live-capital-bauer.simplestream.com/live/capital/playlist.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Music"
     },
     {
       "id": "qello_concerts",
       "name": "Qello Concerts",
       "logoUrl": "https://i.ibb.co/51L865n/qello-concerts-logo.png",
-      "streamUrls": [
-        "https://stirr-qelloconcerts-1-samsungus.wurl.com/manifest/playlist.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Music"
     },
     {
       "id": "stingray_hits",
       "name": "Stingray Hits",
       "logoUrl": "https://i.ibb.co/tLWz9Gk/stingray-hits-logo.png",
-      "streamUrls": [
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00980-stingray-stingrayhits-plex/playlist.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Music"
     }
   ]

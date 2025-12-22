@@ -5,7 +5,6 @@
       "name": "Aaj Tak",
       "logoUrl": "https://i.ibb.co/L5hYfT3/Aaj-Tak-logo-svg.png",
       "streamUrls": [
-        "https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8",
         "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8"
       ],
       "category": "India"
@@ -14,28 +13,21 @@
       "id": "abp_news_in",
       "name": "ABP News",
       "logoUrl": "https://i.ibb.co/8Y4Wc8g/ABP-News-logo-svg.png",
-      "streamUrls": [
-        "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "India"
     },
     {
       "id": "ndtv_india_in",
       "name": "NDTV India",
       "logoUrl": "https://i.ibb.co/RzM8h7Q/NDTV-India-logo-svg.png",
-      "streamUrls": [
-        "https://ndtvindia-live.akamaized.net/hls/live/2022434/ndtvindia/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "India"
     },
     {
       "id": "zee_news_in",
       "name": "Zee News",
       "logoUrl": "https://i.ibb.co/Qk425n5/Zee-News-logo-svg.png",
-      "streamUrls": [
-        "https://zeenews.india.com/hindi/live-tv/hls/live.m3u8",
-        "https://z5x5x5h3.stackpathcdn.com/zeenews/live/playlist.m3u8"
-      ],
+      "streamUrls": [],
       "category": "India"
     },
     {
@@ -43,7 +35,7 @@
       "name": "India TV",
       "logoUrl": "https://i.ibb.co/3cY1bK6/India-TV-logo-svg.png",
       "streamUrls": [
-        "https://indiatv-livetv.akamaized.net/indiatv-livetv/live/indiatv.isml/playlist.m3u8"
+        "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8"
       ],
       "category": "India"
     },
@@ -51,27 +43,21 @@
       "id": "sony_sab_in",
       "name": "Sony SAB",
       "logoUrl": "https://i.ibb.co/tZ5XWzP/Sony-SAB-logo-svg.png",
-      "streamUrls": [
-        "https://sonysab-live.jiocinema.com/hls/live/2022513/sonysab/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "India"
     },
     {
       "id": "colors_in",
       "name": "Colors",
       "logoUrl": "https://i.ibb.co/bzzjC1h/Colors-TV-logo-svg.png",
-      "streamUrls": [
-        "https://colors-live.jiocinema.com/live/hls/1_1_2000/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "India"
     },
     {
       "id": "star_plus_in",
       "name": "StarPlus",
       "logoUrl": "https://i.ibb.co/Wc2L4qP/Star-Plus-logo-svg.png",
-      "streamUrls": [
-        "https://star-plus-live.akamaized.net/hls/live/2022002/star-plus/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "India"
     },
     {
@@ -79,7 +65,7 @@
       "name": "B4U Music",
       "logoUrl": "https://i.ibb.co/Jqj840w/B4-U-Music-logo-svg.png",
       "streamUrls": [
-        "https://b4umusic-live.akamaized.net/hls/live/2022001/b4u-music/master.m3u8"
+        "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8"
       ],
       "category": "India"
     },
@@ -87,9 +73,7 @@
       "id": "9xm_in",
       "name": "9XM",
       "logoUrl": "https://i.ibb.co/M7X1b9V/9xm-logo.png",
-      "streamUrls": [
-        "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
-      ],
+      "streamUrls": [],
       "category": "India"
     }
   ]

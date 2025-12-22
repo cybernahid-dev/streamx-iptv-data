@@ -4,12 +4,7 @@
       "id": "somoy_tv_bd",
       "name": "Somoy TV",
       "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/somoy_tv.png",
-      "streamUrls": [
-        "http://103.250.71.30:8081/somoylive/somoy000.smil/playlist.m3u8",
-        "https://rhridoy136.shortcm.li/shomoytv.m3u8",
-
-"https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Bangladesh"
     },
     {
@@ -17,10 +12,7 @@
       "name": "Jamuna TV",
       "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/jamuna_tv.png",
       "streamUrls": [
-        "https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8",
-        "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
-
-"https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8"
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8"
       ],
       "category": "Bangladesh"
     },
@@ -28,20 +20,14 @@
       "id": "channel_24_bd",
       "name": "Channel 24",
       "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/channel24.png",
-      "streamUrls": [
-        "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
-        "http://123.108.122.253/hls/channel24.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Bangladesh"
     },
     {
       "id": "gazi_tv_bd",
       "name": "Gazi TV (GTV)",
       "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/gazi_tv.png",
-      "streamUrls": [
-        "https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8",
-        "https://stream.sunplex.live/GAZI-TV/index.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Bangladesh"
     },
     {
@@ -49,7 +35,6 @@
       "name": "Independent TV",
       "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/independent_tv.png",
       "streamUrls": [
-        "https://rhridoy136.shortcm.li/independenttv.m3u8",
         "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
       ],
       "category": "Bangladesh"
@@ -59,10 +44,7 @@
       "name": "NTV",
       "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/ntv.png",
       "streamUrls": [
-        "https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8",
-        "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
-
-"https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8"
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8"
       ],
       "category": "Bangladesh"
     },
@@ -70,10 +52,7 @@
       "id": "rtv_bd",
       "name": "RTV",
       "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/rtv.png",
-      "streamUrls": [
-        "https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8",
-        "https://rhridoy136.shortcm.li/rtv.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Bangladesh"
     },
     {
@@ -81,7 +60,6 @@
       "name": "Channel i",
       "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/channel_i.png",
       "streamUrls": [
-        "https://rhridoy136.shortcm.li/channeli.m3u8",
         "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
       ],
       "category": "Bangladesh"
@@ -91,8 +69,7 @@
       "name": "Ekushey TV",
       "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/Ekushey_tv.png",
       "streamUrls": [
-        "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
-        "http://172.32.1.88:1935/tvprogram/Ekushey-TV/playlist.m3u8"
+        "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
       ],
       "category": "Bangladesh"
     },
@@ -100,35 +77,24 @@
       "id": "nagorik_tv_bd",
       "name": "Nagorik TV",
       "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/nagorik_tv.png",
-      "streamUrls": [
-        "https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8",
-        "http://123.108.122.253/hls/nagoriktv.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Bangladesh"
     },
     {
-         "id": "deepto_tv_bd",
+      "id": "deepto_tv_bd",
       "name": "Deepto TV",
       "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/deepto_tv.png",
-      "streamUrls": [
-        "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
-        "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Bangladesh"
-     },
-     {
-         "id": "duronto_tv_bd",
+    },
+    {
+      "id": "duronto_tv_bd",
       "name": "Duronto TV",
-      "logoUrl":
-"https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/duronto_tv.png",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/duronto_tv.png",
       "streamUrls": [
-
-"https://tvsen4.aynaott.com/durontotv/index.m3u8"
+        "https://tvsen4.aynaott.com/durontotv/index.m3u8"
       ],
       "category": "Bangladesh"
-  
-        
     }
   ]
 }
-

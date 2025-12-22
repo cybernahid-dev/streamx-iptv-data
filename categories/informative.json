@@ -4,10 +4,7 @@
       "id": "nasa_tv_live",
       "name": "NASA TV Live",
       "logoUrl": "https://i.ibb.co/V9hPhYQ/NASA-TV-logo-svg.png",
-      "streamUrls": [
-        "https://endpnt.com/hls/nasa-public/playlist.m3u8",
-        "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Informative"
     },
     {
@@ -23,9 +20,7 @@
       "id": "al_jazeera_doc",
       "name": "Al Jazeera Documentary",
       "logoUrl": "https://i.ibb.co/bF99fCg/Al-Jazeera-Documentary-Channel-logo-svg.png",
-      "streamUrls": [
-        "https://live-prod-doc.aje.int.prg.bright-cdn.com/live-prod-doc/ajd-hd-3/playlist.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Informative"
     },
     {
@@ -41,28 +36,21 @@
       "id": "bloomberg_tv",
       "name": "Bloomberg TV",
       "logoUrl": "https://i.ibb.co/1Kk2WzK/Bloomberg-Television-logo-svg.png",
-      "streamUrls": [
-        "https://cdn-streams.bloomberg.com/btv/us/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Informative"
     },
     {
       "id": "france24_en",
       "name": "France 24 (English)",
       "logoUrl": "https://i.ibb.co/vBhtK1Y/France-24-logo-svg.png",
-      "streamUrls": [
-        "http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
-        "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Informative"
     },
     {
       "id": "euronews_en",
       "name": "Euronews (English)",
       "logoUrl": "https://i.ibb.co/v4b23Jb/Euronews-logo-svg.png",
-      "streamUrls": [
-        "https://euronews-euronews-world-1-eu.rakuten.wurl.tv/playlist.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Informative"
     },
     {
@@ -70,7 +58,7 @@
       "name": "UN Web TV",
       "logoUrl": "https://i.ibb.co/rQfLgG7/UN-Web-TV-logo-svg.png",
       "streamUrls": [
-        "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_o33o5g3a/format/applehttp/protocol/https/a.m3u8"
+        "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8"
       ],
       "category": "Informative"
     },
@@ -78,18 +66,14 @@
       "id": "cspan_1",
       "name": "C-SPAN 1",
       "logoUrl": "https://i.ibb.co/L5hP3p6/C-SPAN-logo-svg.png",
-      "streamUrls": [
-        "https://dw03.oit.duke.edu/live/c-span/livestream/playlist.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Informative"
     },
     {
       "id": "al_jazeera_en",
       "name": "Al Jazeera (English)",
       "logoUrl": "https://i.ibb.co/3sXf23V/Al-Jazeera-English-logo-svg.png",
-      "streamUrls": [
-        "https://live-prod-web-aje.aje.int.prg.bright-cdn.com/live-prod-web-aje/aj-english-hd/master.m3u8"
-      ],
+      "streamUrls": [],
       "category": "Informative"
     }
   ]
