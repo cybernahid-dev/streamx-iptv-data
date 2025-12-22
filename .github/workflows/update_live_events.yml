@@ -1,0 +1,44 @@
+name: Auto-update Live Events
+
+on:
+  schedule:
+    # প্রতিদিন রাত ২টায় (UTC) স্বয়ংক্রিয়ভাবে চলবে
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-events:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Python dependencies
+        run: |
+          pip install requests
+          pip install beautifulsoup4
+
+      - name: Run events scraper script
+        run: python update_events.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          if [[ -n $(git status -s categories/events.json) ]]; then
+            git add categories/events.json
+            git commit -m "chore(auto): Update live events schedule"
+            git push
+            echo "Events file updated and pushed."
+          else
+            echo "No changes in events file to commit."
+          fi
