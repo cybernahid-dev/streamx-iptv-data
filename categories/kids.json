@@ -40,7 +40,8 @@
       "name": "Happy Kids TV",
       "logoUrl": "https://i.ibb.co/R4m2F3P/happykids-logo.png",
       "streamUrls": [],
-      "category": "Kids"
+      "category": "Kids",
+      "genre": "Kids"
     },
     {
       "id": "pocket_watch",
@@ -68,7 +69,8 @@
       "name": "Kidoodle TV",
       "logoUrl": "https://i.ibb.co/Qv6rY8n/kidoodle-tv-logo.png",
       "streamUrls": [],
-      "category": "Kids"
+      "category": "Kids",
+      "genre": "Kids"
     }
   ]
 }

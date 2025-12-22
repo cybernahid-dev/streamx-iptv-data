@@ -14,7 +14,8 @@
       "name": "ABP News",
       "logoUrl": "https://i.ibb.co/8Y4Wc8g/ABP-News-logo-svg.png",
       "streamUrls": [],
-      "category": "India"
+      "category": "India",
+      "genre": "News"
     },
     {
       "id": "ndtv_india_in",

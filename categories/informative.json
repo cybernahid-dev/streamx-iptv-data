@@ -21,7 +21,8 @@
       "name": "Al Jazeera Documentary",
       "logoUrl": "https://i.ibb.co/bF99fCg/Al-Jazeera-Documentary-Channel-logo-svg.png",
       "streamUrls": [],
-      "category": "Informative"
+      "category": "Informative",
+      "genre": "Informative"
     },
     {
       "id": "dw_documentary",
