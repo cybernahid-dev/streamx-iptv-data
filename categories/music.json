@@ -7,7 +7,8 @@
       "streamUrls": [
         "https://jmp2.uk/stvp-GBBC19000017V"
       ],
-      "category": "Music"
+      "category": "Music",
+      "genre": "Music"
     },
     {
       "id": "vevo_hiphop_pluto",
@@ -28,7 +29,8 @@
       "name": "Vevo 90s",
       "logoUrl": "https://i.ibb.co/4Z5vMhP/vevo-logo.png",
       "streamUrls": [],
-      "category": "Music"
+      "category": "Music",
+      "genre": "Music"
     },
     {
       "id": "mtv_live_pluto",
@@ -63,7 +65,8 @@
       "name": "Qello Concerts",
       "logoUrl": "https://i.ibb.co/51L865n/qello-concerts-logo.png",
       "streamUrls": [],
-      "category": "Music"
+      "category": "Music",
+      "genre": "Music"
     },
     {
       "id": "stingray_hits",

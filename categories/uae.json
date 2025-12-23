@@ -7,7 +7,8 @@
       "streamUrls": [
         "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.dailymotion.com/AlAanTV"
       ],
-      "category": "UAE"
+      "category": "UAE",
+      "genre": "News"
     },
     {
       "id": "al_arabiya_uae",
@@ -19,7 +20,8 @@
         "https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
         "https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"
       ],
-      "category": "UAE"
+      "category": "UAE",
+      "genre": "News"
     },
     {
       "id": "al_dafrah_tv_uae",
@@ -46,7 +48,8 @@
       "streamUrls": [
         "https://ythls.onrender.com/channel/UCrj5BGAhtWxDfqbza9T9hqA.m3u8"
       ],
-      "category": "UAE"
+      "category": "UAE",
+      "genre": "News"
     },
     {
       "id": "al_shallal_tv_uae",
@@ -137,7 +140,8 @@
       "streamUrls": [
         "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8"
       ],
-      "category": "UAE"
+      "category": "UAE",
+      "genre": "Sports"
     },
     {
       "id": "dubai_racing_uae",
@@ -189,4 +193,3 @@
     }
   ]
 }
-
