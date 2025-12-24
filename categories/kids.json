@@ -19,7 +19,8 @@
       "name": "Pluto TV Junior",
       "logoUrl": "https://i.ibb.co/L8y25rW/Pluto-TV-logo-svg.png",
       "streamUrls": [],
-      "category": "Kids"
+      "category": "Kids",
+      "genre": "KIDS"
     },
     {
       "id": "kartoon_channel",
@@ -55,7 +56,8 @@
       "name": "CBeebies",
       "logoUrl": "https://i.ibb.co/k27P9Xj/CBeebies-logo-2016-svg.png",
       "streamUrls": [],
-      "category": "Kids"
+      "category": "Kids",
+      "genre": "KIDS"
     },
     {
       "id": "sesame_street",
