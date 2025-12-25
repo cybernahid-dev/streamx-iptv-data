@@ -34,11 +34,7 @@
     },
     {
       "name": "UAE",
-      "file": "categories/uae.json"
-    },
-    {
-      "name": "Events"
-      "file": "categories/events.json"
+      "file": "categories/uae.json
     }
   ]
 }
