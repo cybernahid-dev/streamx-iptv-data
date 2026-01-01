@@ -7,17 +7,17 @@ import os
 # ==========================================
 CATEGORY_CONFIG = {
     # দেশ ভিত্তিক (Country Based)
-    "bangladesh.json": {"type": "country", "filter": "BD", "category_name": "Bangladesh"},
-    "india.json": {"type": "country", "filter": "IN", "category_name": "India"},
-    "usa.json": {"type": "country", "filter": "US", "category_name": "USA"},
-    "uk.json": {"type": "country", "filter": "GB", "category_name": "UK"},
-    "uae.json": {"type": "country", "filter": "AE", "category_name": "UAE"},
+    "categories/bangladesh.json": {"type": "country", "filter": "BD", "category_name": "Bangladesh"},
+    "categories/india.json": {"type": "country", "filter": "IN", "category_name": "India"},
+    "categories/usa.json": {"type": "country", "filter": "US", "category_name": "USA"},
+    "categories/uk.json": {"type": "country", "filter": "GB", "category_name": "UK"},
+    "categories/uae.json": {"type": "country", "filter": "AE", "category_name": "UAE"},
     
     # ক্যাটাগরি ভিত্তিক (Genre Based)
-    "sports.json": {"type": "genre", "filter": ["sports"], "category_name": "Sports"},
-    "kids.json": {"type": "genre", "filter": ["kids", "animation"], "category_name": "Kids"},
-    "music.json": {"type": "genre", "filter": ["music"], "category_name": "Music"},
-    "informative.json": {"type": "genre", "filter": ["documentary", "education", "science"], "category_name": "Informative"}
+    "categories/sports.json": {"type": "genre", "filter": ["sports"], "category_name": "Sports"},
+    "categories/kids.json": {"type": "genre", "filter": ["kids", "animation"], "category_name": "Kids"},
+    "categories/music.json": {"type": "genre", "filter": ["music"], "category_name": "Music"},
+    "categories/informative.json": {"type": "genre", "filter": ["documentary", "education", "science"], "category_name": "Informative"}
 }
 
 # API URLs
