@@ -185,7 +185,7 @@
     {
       "id": "majid_tv_uae",
       "name": "Majid TV",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/majid_tv.png",
       "streamUrls": [
         "https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8"
       ],
