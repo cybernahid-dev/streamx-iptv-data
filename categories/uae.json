@@ -173,7 +173,7 @@
     {
       "id": "dubai_tv_uae",
       "name": "Dubai TV",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/dubai_tv.png",
       "streamUrls": [
         "http://210.210.155.37/uq2663/h/h152/index2.m3u8",
         "https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8",
