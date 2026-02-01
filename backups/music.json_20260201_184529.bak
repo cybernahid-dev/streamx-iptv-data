@@ -90,8 +90,7 @@
       "name": "30A Music",
       "logoUrl": "https://www.parsatv.com/index_files/channels/30atv.jpg",
       "streamUrls": [
-        "https://30a-tv.com/music.m3u8",
-        "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8"
+        "https://30a-tv.com/music.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -111,7 +110,6 @@
       "name": "4 Fun TV",
       "logoUrl": "https://w7.pngwing.com/pngs/913/246/png-transparent-4fun-tv-television-channel-8tv-4fun-gold-funny-logo-purple-television-violet.png",
       "streamUrls": [
-        "https://stream.4fun.tv:8888/hls/4f.m3u8",
         "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
       ],
       "category": "Music",
@@ -142,7 +140,6 @@
       "name": "51 Radio TV",
       "logoUrl": "https://i.imgur.com/UupkBt6.png",
       "streamUrls": [
-        "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8",
         "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
       ],
       "category": "Music",
@@ -213,8 +210,7 @@
       "name": "9X Jhakaas",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/81/9X_Jhakaas_2011.jpg/revision/latest/scale-to-width-down/220?cb=20180603140119",
       "streamUrls": [
-        "https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8",
-        "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8"
+        "https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -224,8 +220,7 @@
       "name": "9X Tashan",
       "logoUrl": "https://png.pngitem.com/pimgs/s/613-6130656_9x-tashan-logo-png-transparent-png.png",
       "streamUrls": [
-        "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8",
-        "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8"
+        "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -235,8 +230,7 @@
       "name": "9XM",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f1/9xm_blue.svg/revision/latest/scale-to-width-down/250?cb=20210508163726",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8",
-        "https://9xjio.wiseplayout.com/9XM/master.m3u8"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -426,8 +420,7 @@
       "name": "B4U Music",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",
       "streamUrls": [
-        "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
-        "https://mumt04.tangotv.in/B4UMUSIC/index.m3u8"
+        "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -687,9 +680,7 @@
       "name": "California Music Channel",
       "logoUrl": "https://assets-jpcust.jwpsrv.com/thumbnails/ordrcr5j-720.jpg",
       "streamUrls": [
-        "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
-        "https://cmc-ono.amagi.tv/playlist.m3u8",
-        "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8"
+        "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -869,7 +860,6 @@
       "name": "DM Sat",
       "logoUrl": "https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/dm-sat-sender-logo-275910.png",
       "streamUrls": [
-        "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8",
         "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd"
       ],
       "category": "Music",
@@ -990,8 +980,7 @@
       "name": "Deluxe Music",
       "logoUrl": "https://seeklogo.com/images/D/deluxe-music-logo-3059AF0E9D-seeklogo.com.png",
       "streamUrls": [
-        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
-        "https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8"
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1221,9 +1210,7 @@
       "name": "First Music Channel",
       "logoUrl": "https://www.nicepng.com/png/detail/357-3578615_i-one-tv-1-first-music-channel.png",
       "streamUrls": [
-        "http://hz1.teleport.cc/HLS/HD.m3u8",
-        "http://hz1.teleport.cc/HLS/SD.m3u8",
-        "http://rtmp.one.by:1200"
+        "http://hz1.teleport.cc/HLS/SD.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1233,7 +1220,6 @@
       "name": "First Music Channel Russia",
       "logoUrl": "https://www.logotypes101.com/logos/288/BF8E1FBE79EECB7A332B99577F1D83E6/First_Channel_Russia.png",
       "streamUrls": [
-        "http://rtmp.one.by:2300",
         "http://rtmp.one.by:2200"
       ],
       "category": "Music",
@@ -1374,8 +1360,6 @@
       "name": "Hitradio O3",
       "logoUrl": "https://static.wikia.nocookie.net/tbslogos/images/6/6d/Hitradio_Ö3_2000s.png/revision/latest?cb=20241013162748",
       "streamUrls": [
-        "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
-        "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8",
         "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd"
       ],
       "category": "Music",
@@ -1516,8 +1500,7 @@
       "name": "Jawhara TV",
       "logoUrl": "https://i.imgur.com/mRSQ5bP.png",
       "streamUrls": [
-        "http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8",
-        "https://streaming.toutech.net/live/jtv/index.m3u8"
+        "http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1597,9 +1580,7 @@
       "name": "Kiss Kiss TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Kiss_Logo_Purple_2020.png/225px-Kiss_Logo_Purple_2020.png",
       "streamUrls": [
-        "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
-        "https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8",
-        "https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8"
+        "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1919,8 +1900,7 @@
       "name": "MBC FM",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/2d/MBC_FM_logo_original.png/revision/latest/scale-to-width-down/250?cb=20211229223959",
       "streamUrls": [
-        "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8",
-        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8"
+        "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1950,7 +1930,6 @@
       "name": "MTV Biggest Pop",
       "logoUrl": "https://iili.io/bF51d7.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c",
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994"
       ],
       "category": "Music",
@@ -1961,8 +1940,7 @@
       "name": "MTV Classic",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45",
-        "https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8"
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2072,8 +2050,7 @@
       "name": "MasMusica FM",
       "logoUrl": "https://masmusica.fm/wp-content/uploads/2021/06/bg_album_art.png",
       "streamUrls": [
-        "https://movil.ejeserver.com/live/masmusica.m3u8",
-        "https://video.ejeserver.com/live/masmusica.m3u8"
+        "https://movil.ejeserver.com/live/masmusica.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2263,8 +2240,7 @@
       "name": "Muzyka 1",
       "logoUrl": "https://p1.hiclipart.com/preview/345/192/897/tv-cartoon-kabel-eins-logo-television-television-channel-cable-television-wikipedia-logo-prosieben-png-clipart.jpg",
       "streamUrls": [
-        "https://kino-1.catcast.tv/content/37745/index.m3u8",
-        "https://kino-1.catcast.tv/content/37742/index.m3u8"
+        "https://kino-1.catcast.tv/content/37745/index.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2324,9 +2300,7 @@
       "name": "NOW Rock",
       "logoUrl": "https://i.imgur.com/GuM4GnX.png",
       "streamUrls": [
-        "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8",
-        "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
-        "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8"
+        "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2376,9 +2350,7 @@
       "name": "Now 70s",
       "logoUrl": "https://i.postimg.cc/xdWDWzXr/now70s.png",
       "streamUrls": [
-        "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8",
-        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8",
-        "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"
+        "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2388,9 +2360,7 @@
       "name": "Now 80s",
       "logoUrl": "https://www.tvchannellists.com/wiki/images/2/24/Now_80s.png",
       "streamUrls": [
-        "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
-        "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
-        "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8"
+        "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2470,8 +2440,7 @@
       "name": "Ocko",
       "logoUrl": "https://seeklogo.com/images/O/ocko-logo-664AC4FAA7-seeklogo.com.gif",
       "streamUrls": [
-        "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
-        "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8"
+        "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2661,8 +2630,7 @@
       "name": "Panorama FM",
       "logoUrl": "https://i.imgur.com/JkDD3bK.png",
       "streamUrls": [
-        "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8",
-        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8"
+        "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2762,8 +2730,7 @@
       "name": "Pluto TV MTV Latino",
       "logoUrl": "https://www.tvchannellists.com/wiki/images/5/5f/MTV_Pluto_TV.svg",
       "streamUrls": [
-        "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=",
-        "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+        "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId="
       ],
       "category": "Music",
       "genre": "Music"
@@ -2863,9 +2830,7 @@
       "name": "Qello Concerts by Stingray",
       "logoUrl": "https://png.pngitem.com/pimgs/s/240-2401110_stingray-qello-logo-hd-png-download.png",
       "streamUrls": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb439-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ba3de05-22ef-4ab2-8d11-c4a6c21d39ba",
-        "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2885,7 +2850,6 @@
       "name": "Qwest TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Qwest_TV_Logo.jpg",
       "streamUrls": [
-        "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8",
         "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8"
       ],
       "category": "Music",
@@ -2896,8 +2860,7 @@
       "name": "Qwest TV Jazz & Beyond",
       "logoUrl": "https://www.gibtele.com/uploads/Qwest+jazz+beyond.png",
       "streamUrls": [
-        "https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8"
+        "https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3137,7 +3100,6 @@
       "name": "Radio Hit",
       "logoUrl": "https://w7.pngwing.com/pngs/947/947/png-transparent-radio-hit-hd-logo.png",
       "streamUrls": [
-        "http://lova.me/hls/hit.m3u8",
         "http://lova.me/hls/hithd.m3u8"
       ],
       "category": "Music",
@@ -3168,8 +3130,7 @@
       "name": "Radio Italia Trend TV",
       "logoUrl": "https://www.quotidianomotori.com/wp-content/uploads/2020/04/11/10/00/logo-radio-italia.png",
       "streamUrls": [
-        "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8",
-        "https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8"
+        "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3319,8 +3280,7 @@
       "name": "Radio Weser TV Bremen",
       "logoUrl": "https://radiowesertv.info/files/logo.png",
       "streamUrls": [
-        "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
-        "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
+        "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3340,7 +3300,6 @@
       "name": "Radiofreccia",
       "logoUrl": "https://spcdn.shortpixel.ai/spio3/ret_img,q_cdnize,to_avif,s_avif/www.quotidianomotori.com/wp-content/uploads/2025/08/radiofreccia-logo.jpg",
       "streamUrls": [
-        "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
       ],
       "category": "Music",
@@ -3381,8 +3340,7 @@
       "name": "Retro Music TV",
       "logoUrl": "https://media.extralife.cz/static/img/2020/12/efebc0b-204069-retro-music-tv-logo.png",
       "streamUrls": [
-        "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
-        "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8"
+        "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3532,7 +3490,6 @@
       "name": "Sky Folk TV",
       "logoUrl": "https://i.imgur.com/ya5xpUL.png",
       "streamUrls": [
-        "https://skyfolk.mk/live.m3u8",
         "https://eu.live.skyfolk.mk/live.m3u8"
       ],
       "category": "Music",
@@ -3573,7 +3530,6 @@
       "name": "Solo Bailalo",
       "logoUrl": "https://radios-online.cl/storage/radios/18120/39701/conversions/V52SQfaQrvWzR2adMrXUt2ciEYSTxq-metaNjYucG5n--lg.webp",
       "streamUrls": [
-        "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8",
         "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8"
       ],
       "category": "Music",
@@ -3714,7 +3670,6 @@
       "name": "Stingray Hit List",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/15/Stingray_Hits.svg/revision/latest/scale-to-width-down/250?cb=20191114172731",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054"
       ],
       "category": "Music",
@@ -3755,8 +3710,7 @@
       "name": "Stingray Naturescape",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/91/Stingray_Naturescape.svg/revision/latest/scale-to-width-down/300?cb=20200102192817",
       "streamUrls": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
-        "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3786,7 +3740,6 @@
       "name": "Stingray Remember the 80s",
       "logoUrl": "http://p-img.movetv.com/1920x1080/14cfd4ebe24f5a91dcf07221945ceef8.jpeg",
       "streamUrls": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8",
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071"
       ],
       "category": "Music",
@@ -3877,8 +3830,7 @@
       "name": "Strana FM",
       "logoUrl": "https://images.seeklogo.com/logo-png/47/1/strana-tv-logo-png_seeklogo-476040.png",
       "streamUrls": [
-        "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
-        "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8"
+        "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4028,8 +3980,7 @@
       "name": "Tarab",
       "logoUrl": "http://www.sources-tv.com/wp-content/uploads/2020/09/art-tarab-200-1.jpg",
       "streamUrls": [
-        "https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8",
-        "https://shls-live-mood-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8"
+        "https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4079,8 +4030,7 @@
       "name": "The Country Network",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
       "streamUrls": [
-        "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8"
+        "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4210,9 +4160,7 @@
       "name": "Trace Latina",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/00/Trace_Latina.svg/revision/latest?cb=20191223072133",
       "streamUrls": [
-        "https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8",
-        "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4222,9 +4170,7 @@
       "name": "Trace Urban",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png",
       "streamUrls": [
-        "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
-        "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
-        "https://amg01131-tracetv-traceurbanse-samsungse-ov22d.amagi.tv/playlist/amg01131-tracetv-traceurbanse-samsungse/playlist.m3u8"
+        "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4284,8 +4230,7 @@
       "name": "Turkmen Owazy",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/27/Turkmen_Ovazy.png/revision/latest/scale-to-width-down/250?cb=20211225160825",
       "streamUrls": [
-        "https://alpha.tv.online.tm/hls/ch005.m3u8",
-        "https://alpha.tv.online.tm/legacyhls/ch005.m3u8"
+        "https://alpha.tv.online.tm/hls/ch005.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4395,9 +4340,7 @@
       "name": "Vevo '70s",
       "logoUrl": "https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",
       "streamUrls": [
-        "https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8",
-        "https://amg00056-vevotv-vevo70saunz-samsungnz-lmeak.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8",
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b"
+        "https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4407,8 +4350,6 @@
       "name": "Vevo '80s",
       "logoUrl": "https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/Vevo-80s_1838.png?$296_164_PNG$",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42",
-        "https://amg00056-vevotv-vevo80saunz-samsungnz-96vhe.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8",
         "https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8"
       ],
       "category": "Music",
@@ -4419,9 +4360,7 @@
       "name": "Vevo '90s",
       "logoUrl": "https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/Vevo-90s_1839.png?$296_164_PNG$",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1",
-        "https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8",
-        "https://amg00056-vevotv-vevo90saunz-samsungnz-mpus0.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8"
+        "https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4431,9 +4370,7 @@
       "name": "Vevo 2K",
       "logoUrl": "https://www.liblogo.com/img-logo/ve4911vc9f-vevo-logo-vevo-logo-black-transparent-png-stickpng.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343",
-        "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8",
-        "https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8"
+        "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4443,9 +4380,7 @@
       "name": "Vevo Country",
       "logoUrl": "https://www.liblogo.com/img-logo/ve4911vc9f-vevo-logo-vevo-logo-black-transparent-png-stickpng.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc209-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e6e85b0-154a-4a57-b91f-09965c300dbe",
-        "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8",
-        "https://amg00056-vevotv-vevocountryau-samsungnz-kcm6r.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8"
+        "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4465,9 +4400,7 @@
       "name": "Vevo Pop",
       "logoUrl": "https://www.liblogo.com/img-logo/ve4911vc9f-vevo-logo-vevo-logo-black-transparent-png-stickpng.png",
       "streamUrls": [
-        "https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8",
-        "https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8",
-        "https://amg00056-vevotv-vevopopau-samsungnz-wa3bw.amagi.tv/playlist/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8"
+        "https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4487,9 +4420,7 @@
       "name": "Vevo Retro Rock",
       "logoUrl": "https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/1000x1000_Vevo-retro-rock.png?$296_164_PNG$",
       "streamUrls": [
-        "https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8",
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c",
-        "https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8"
+        "https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4599,8 +4530,7 @@
       "name": "XITE",
       "logoUrl": "https://www.nicepng.com/png/detail/837-8374457_xite-tv-logo.png",
       "streamUrls": [
-        "https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8",
-        "https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8"
+        "https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4650,7 +4580,6 @@
       "name": "Yo! MTV",
       "logoUrl": "https://www.tvchannellists.com/wiki/images/9/9f/Yo!_MTV.svg",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d",
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654102ed770cf1000866c307/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e98-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c7b00a0-d803-41b5-95bb-c20d39e69ce2"
       ],
       "category": "Music",
@@ -4834,105 +4763,6 @@
         "https://nogoumtv.nrpstream.com/hls/stream.m3u8"
       ],
       "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "7SMusic.in",
-      "name": "7S Music",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/a/ac/76_Tamil_channel.jpeg/revision/latest/scale-to-width-down/250?cb=20191225165506",
-      "streamUrls": [
-        "https://mumt03.tangotv.in/7SMUSIC/index.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "9XJalwa.in",
-      "name": "9X Jalwa",
-      "logoUrl": "https://e7.pngegg.com/pngimages/849/297/png-clipart-9x-jalwa-television-channel-9x-media-streaming-media-others-miscellaneous-television.png",
-      "streamUrls": [
-        "https://mumt03.tangotv.in/9XJALWA/index.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "AMusicChannel.ng",
-      "name": "AMusic Channel",
-      "logoUrl": "http://amusic.tv/wp-content/uploads/2018/11/AMusic-odi-e1541702049958.png",
-      "streamUrls": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "MuzTV.ru",
-      "name": "Muz-TV",
-      "logoUrl": "https://images.seeklogo.com/logo-png/47/1/muz-tv-logo-png_seeklogo-470403.png",
-      "streamUrls": [
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "NPCRadioeTV.pt",
-      "name": "NPC Radio e TV",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b6/NPC_Rádio_e_TV.png/revision/latest?cb=20250830145641",
-      "streamUrls": [
-        "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "OckoGold.cz",
-      "name": "Ocko Gold",
-      "logoUrl": "https://photos.live-tv-channels.org/tv-logo/cz-ocko-gold-6331.jpg",
-      "streamUrls": [
-        "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "RadioConexionWebTV.ar",
-      "name": "Radio Conexion Web TV",
-      "logoUrl": "https://i.imgur.com/pXS38zo.png",
-      "streamUrls": [
-        "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "SuperTV.ro",
-      "name": "Super TV",
-      "logoUrl": "https://i.imgur.com/hxF3yhw.png",
-      "streamUrls": [
-        "http://iptv.supertv.ro:8000/play/a001/index.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "Zoom.in",
-      "name": "Zoom",
-      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png/revision/latest?cb=20111013233308",
-      "streamUrls": [
-        "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
       "genre": "Music"
     }
   ]
