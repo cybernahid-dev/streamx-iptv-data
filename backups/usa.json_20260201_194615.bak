@@ -338,7 +338,6 @@
       "name": "A&E",
       "logoUrl": "https://p7.hiclipart.com/preview/226/921/233/a-e-networks-television-channel-logo-germany.jpg",
       "streamUrls": [
-        "https://tvpass.org/live/AEEast/hd",
         "https://tvpass.org/live/AEEast/sd"
       ],
       "category": "USA"
@@ -1752,7 +1751,6 @@
       "name": "C-SPAN 2",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/c-span2-logo-png-transparent.png",
       "streamUrls": [
-        "https://tvpass.org/live/CSPAN2/hd",
         "https://tvpass.org/live/CSPAN2/sd"
       ],
       "category": "USA"
@@ -3090,9 +3088,7 @@
       "name": "Disney XD",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",
       "streamUrls": [
-        "http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8",
-        "https://tvpass.org/live/DisneyXDEast/sd",
-        "https://tvpass.org/live/DisneyXDEast/hd"
+        "http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8"
       ],
       "category": "USA"
     },
@@ -3432,8 +3428,9 @@
       "name": "FXX",
       "logoUrl": "https://cdn.freelogovectors.net/wp-content/uploads/2018/03/fx-tv-channel-logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/FXXEast/sd",
-        "https://tvpass.org/live/FXXEast/hd"
+        "https://fl1.moveonjoy.com/FXX/index.m3u8",
+        "https://tvpass.org/live/FXXEast/hd",
+        "https://tvpass.org/live/FXXEast/sd"
       ],
       "category": "USA"
     },
@@ -4321,8 +4318,7 @@
       "name": "IFC",
       "logoUrl": "https://images.amcnetworks.com/ifc.com/wp-content/uploads/2011/11/ifc_logo_default_share.png",
       "streamUrls": [
-        "https://tvpass.org/live/IFCEast/sd",
-        "https://tvpass.org/live/IFCEast/hd"
+        "https://tvpass.org/live/IFCEast/sd"
       ],
       "category": "USA"
     },
@@ -6399,7 +6395,6 @@
       "name": "NBC Sports Boston",
       "logoUrl": "https://brandslogos.com/wp-content/uploads/images/large/nbc-sports-logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-boston/sd",
         "https://tvpass.org/live/nbc-sports-boston/hd"
       ],
       "category": "USA"
@@ -11176,8 +11171,7 @@
       "name": "WIS-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WIS-DT2_2024_(cropped).webp/250px-WIS-DT2_2024_(cropped).webp.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd",
-        "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd"
+        "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd"
       ],
       "category": "USA"
     },
@@ -11463,9 +11457,7 @@
       "name": "WNJU-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logo-timeline/images/b/bb/Wnju197087.png/revision/latest/scale-to-width-down/200?cb=20210320202530",
       "streamUrls": [
-        "http://104.238.205.28:9090/278678_.m3u8",
-        "https://tvpass.org/live/TelemundoEast/sd",
-        "https://tvpass.org/live/TelemundoEast/hd"
+        "http://104.238.205.28:9090/278678_.m3u8"
       ],
       "category": "USA"
     },
@@ -12274,8 +12266,7 @@
       "name": "FX Movie Channel",
       "logoUrl": "https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/640px-FXM_Logo.svg.png&w=640&q=50",
       "streamUrls": [
-        "https://tvpass.org/live/FXMovieChannel/hd",
-        "https://tvpass.org/live/FXMovieChannel/sd"
+        "https://tvpass.org/live/FXMovieChannel/hd"
       ],
       "category": "USA"
     },
@@ -12302,7 +12293,7 @@
       "name": "Logo",
       "logoUrl": "https://p1.hiclipart.com/preview/345/192/897/tv-cartoon-kabel-eins-logo-television-television-channel-cable-television-wikipedia-logo-prosieben-png-clipart.jpg",
       "streamUrls": [
-        "https://tvpass.org/live/LogoEast/hd"
+        "https://tvpass.org/live/LogoEast/sd"
       ],
       "category": "USA"
     },
@@ -12311,8 +12302,7 @@
       "name": "KFMB-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd"
       ],
       "category": "USA"
     },
@@ -12321,8 +12311,7 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/hd",
-        "https://tvpass.org/live/nbc-sports-bay-area/sd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd"
       ],
       "category": "USA"
     },

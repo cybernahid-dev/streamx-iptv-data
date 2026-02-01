@@ -176,7 +176,7 @@ https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://e7.pngegg.com/pngimages/538/957/png-clipart-nbc-sports-network-six-nations-championship-nbcuniversal-nbc-sports-bay-area-television-text.png" group-title="Sports",NBC Sports Bay Area
-https://tvpass.org/live/nbc-sports-bay-area/sd
+https://tvpass.org/live/nbc-sports-bay-area/hd
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="Sports",NFL Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
 #EXTINF:-1 tvg-id="NHRATV.us" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nhra-4-logo-png-transparent.png" group-title="Sports",NHRA TV
@@ -262,7 +262,7 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TSNTheOcho.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN8_The_Ocho_ESPN_Organization_Logo.svg/1200px-ESPN8_The_Ocho_ESPN_Organization_Logo.svg.png" group-title="Sports",TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/30/TSN1.png/revision/latest?cb=20140901045701" group-title="Sports",TSN1
-https://tvpass.org/live/tsn1/sd
+https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/1280px-TSN2_New_Logo.svg.png" group-title="Sports",TSN2
 https://tvpass.org/live/tsn2/hd
 #EXTINF:-1 tvg-id="TVRSport.ro" tvg-logo="https://images.seeklogo.com/logo-png/50/1/tvr-sport-logo-png_seeklogo-509876.png" group-title="Sports",TVR Sport
@@ -316,15 +316,15 @@ https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 #EXTINF:-1 tvg-id="AS3SportTV.ve" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/2f/Stv3-21.png/revision/latest/scale-to-width-down/1200?cb=20240215020544&path-prefix=pt-br" group-title="Sports",AS3 Sport TV
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/nbc-sports-logo.png" group-title="Sports",NBC Sports Boston
-https://tvpass.org/live/nbc-sports-boston/hd
+https://tvpass.org/live/nbc-sports-boston/sd
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1280px-TSN3.svg.png" group-title="Sports",TSN3
 https://tvpass.org/live/tsn3/sd
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="Sports",TSN4
-https://tvpass.org/live/tsn4/hd
+https://tvpass.org/live/tsn4/sd
 #EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://tvfarsi.com/wp-content/uploads/2024/05/IRIB-Shabake-3-Live-Irans-Youthful-Hub-for-Sports-Entertainment-and-Beyond.webp" group-title="Sports",IRIB 3
 https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-logo="https://png.pngitem.com/pimgs/s/216-2164879_nbc-sports-philadelphia-nbc-sports-philadelphia-logo-png.png" group-title="Sports",NBC Sports Philadelphia
-https://tvpass.org/live/nbc-sports-philadelphia/hd
+https://tvpass.org/live/nbc-sports-philadelphia/sd
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/320px-TSN5.svg.png" group-title="Sports",TSN5
 https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://www.parsatv.com/index_files/channels/varzeshtv.png" group-title="Sports",Varzesh TV
@@ -345,3 +345,5 @@ https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://beinxtraespanol.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
+#EXTINF:-1 tvg-id="ViaplayTV.fi" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/Viaplay-TV-Logo-Vertical-2025-300x300.png" group-title="Sports",Viaplay TV
+https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true

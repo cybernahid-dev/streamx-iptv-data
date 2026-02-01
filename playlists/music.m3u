@@ -644,7 +644,7 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="RadioWeserTVBremen.de" tvg-logo="https://radiowesertv.info/files/logo.png" group-title="Music",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioZeta.it" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2020/02/radio-zeta.png" group-title="Music",Radio Zeta
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1 tvg-id="Radiofreccia.it" tvg-logo="https://spcdn.shortpixel.ai/spio3/ret_img,q_cdnize,to_avif,s_avif/www.quotidianomotori.com/wp-content/uploads/2025/08/radiofreccia-logo.jpg" group-title="Music",Radiofreccia
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RajMusixMalayalam.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Raj_Musix_Malayalam.jpeg/revision/latest/scale-to-width-down/300?cb=20191228090947" group-title="Music",Raj Musix Malayalam
@@ -957,3 +957,5 @@ https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png/revision/latest?cb=20111013233308" group-title="Music",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa" tvg-logo="https://play-lh.googleusercontent.com/-SmvgcBV9LnyUA0U8n48dG2bbhutRHOSMhu3m5h3qRBbQSjzAOzxnWglCNC4X-WBBjc" group-title="Music",Fabulosa Estereo 100.5 FM
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8

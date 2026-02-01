@@ -636,9 +636,7 @@
       "name": "Disney XD",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",
       "streamUrls": [
-        "http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8",
-        "https://tvpass.org/live/DisneyXDEast/sd",
-        "https://tvpass.org/live/DisneyXDEast/hd"
+        "http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1480,7 +1478,6 @@
       "name": "Pooya TV",
       "logoUrl": "https://logopond.com/logos/cdbfa85bffde5542a22414f9d312af9b.png",
       "streamUrls": [
-        "https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8",
         "https://ncdn.telewebion.com/pooya/live/playlist.m3u8"
       ],
       "category": "Kids",

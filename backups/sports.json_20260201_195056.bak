@@ -238,9 +238,7 @@
       "name": "Belarus-5",
       "logoUrl": "https://images.seeklogo.com/logo-png/45/1/belarus-5-logo-png_seeklogo-458059.png",
       "streamUrls": [
-        "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+        "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -971,7 +969,6 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://e7.pngegg.com/pngimages/538/957/png-clipart-nbc-sports-network-six-nations-championship-nbcuniversal-nbc-sports-bay-area-television-text.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/hd",
         "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "Sports",
@@ -1417,7 +1414,6 @@
       "name": "TSN1",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/3/30/TSN1.png/revision/latest?cb=20140901045701",
       "streamUrls": [
-        "https://tvpass.org/live/tsn1/hd",
         "https://tvpass.org/live/tsn1/sd"
       ],
       "category": "Sports",
@@ -1700,7 +1696,6 @@
       "name": "NBC Sports Boston",
       "logoUrl": "https://brandslogos.com/wp-content/uploads/images/large/nbc-sports-logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-boston/sd",
         "https://tvpass.org/live/nbc-sports-boston/hd"
       ],
       "category": "Sports",
@@ -1722,7 +1717,6 @@
       "name": "TSN4",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png",
       "streamUrls": [
-        "https://tvpass.org/live/tsn4/sd",
         "https://tvpass.org/live/tsn4/hd"
       ],
       "category": "Sports",
@@ -1744,7 +1738,6 @@
       "name": "NBC Sports Philadelphia",
       "logoUrl": "https://png.pngitem.com/pimgs/s/216-2164879_nbc-sports-philadelphia-nbc-sports-philadelphia-logo-png.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-philadelphia/sd",
         "https://tvpass.org/live/nbc-sports-philadelphia/hd"
       ],
       "category": "Sports",
@@ -1861,17 +1854,6 @@
         "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8",
         "https://bein-xtra-xumo.amagi.tv/playlist.m3u8",
         "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "ViaplayTV.fi",
-      "name": "Viaplay TV",
-      "logoUrl": "https://brandlogo.org/wp-content/uploads/2025/03/Viaplay-TV-Logo-Vertical-2025-300x300.png",
-      "streamUrls": [
-        "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
       ],
       "category": "Sports",
       "languages": [],

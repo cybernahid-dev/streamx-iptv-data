@@ -62,7 +62,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-id="90sThrowback.us" tvg-logo="https://www.pngmart.com/files/21/90s-Logo-PNG-Photos.png" group-title="USA",90s Throwback
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
 #EXTINF:-1 tvg-id="AE.us" tvg-logo="https://p7.hiclipart.com/preview/226/921/233/a-e-networks-television-channel-logo-germany.jpg" group-title="USA",A&E
-https://tvpass.org/live/AEEast/sd
+https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://seeklogo.com/images/A/abc-news-live-logo-43D7223618-seeklogo.com.png" group-title="USA",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive1.us" tvg-logo="https://seeklogo.com/images/A/abc-news-live-logo-43D7223618-seeklogo.com.png" group-title="USA",ABC News Live 1
@@ -364,7 +364,7 @@ https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playl
 #EXTINF:-1 tvg-id="CSPAN.us" tvg-logo="https://www.clipartmax.com/png/middle/481-4815233_c-span-tv-logo.png" group-title="USA",C-SPAN
 https://fl1.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 tvg-id="CSPAN2.us" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/c-span2-logo-png-transparent.png" group-title="USA",C-SPAN 2
-https://tvpass.org/live/CSPAN2/sd
+https://tvpass.org/live/CSPAN2/hd
 #EXTINF:-1 tvg-id="CBNEspanol.us" tvg-logo="https://www.hispanochannel.tv/wp-content/uploads/2022/05/cbn-espanol-channel.png" group-title="USA",CBN Espanol
 https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CBNFamily.us" tvg-logo="https://image.roku.com/developer_channels/prod/b8a7fbc8508bddc8edc12b9edd8baccfed4287d230b63c3e750777d65dd9007d.png" group-title="USA",CBN Family
@@ -718,7 +718,7 @@ http://38.199.6.1:17001/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="FXM.us" tvg-logo="https://www.pngitem.com/pimgs/m/29-296104_fxm-fxm-channel-logo-hd-png-download.png" group-title="USA",FXM
 https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/03/fx-tv-channel-logo.png" group-title="USA",FXX
-https://fl1.moveonjoy.com/FXX/index.m3u8
+https://tvpass.org/live/FXXEast/sd
 #EXTINF:-1 tvg-id="FYI.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI,_logo.svg/1200px-FYI,_logo.svg.png" group-title="USA",FYI
 https://fl1.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us" tvg-logo="https://www.pngitem.com/pimgs/m/7-73309_failarmy-logo-hd-png-download.png" group-title="USA",FailArmy
@@ -1350,7 +1350,7 @@ https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/03/nbc_logo-600x600.png" group-title="USA",NBC News NOW
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/nbc-sports-logo.png" group-title="USA",NBC Sports Boston
-https://tvpass.org/live/nbc-sports-boston/hd
+https://tvpass.org/live/nbc-sports-boston/sd
 #EXTINF:-1 tvg-id="NBCUniverso.us" tvg-logo="https://www.pngkey.com/png/full/142-1421337_nbc-universo-logo-variant-nbc-universo-png.png" group-title="USA",NBC Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://cdn.mos.cms.futurecdn.net/N3rrABdQnoheHa8d3Z7yFG.jpg" group-title="USA",NBCLX
@@ -2608,7 +2608,7 @@ https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="KCBSDT1.us" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/KCBS_1988.svg/revision/latest/scale-to-width-down/250?cb=20180207220836&path-prefix=pt-br" group-title="USA",KCBS-DT1
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="Logo.us" tvg-logo="https://p1.hiclipart.com/preview/345/192/897/tv-cartoon-kabel-eins-logo-television-television-channel-cable-television-wikipedia-logo-prosieben-png-clipart.jpg" group-title="USA",Logo
-https://tvpass.org/live/LogoEast/sd
+https://tvpass.org/live/LogoEast/hd
 #EXTINF:-1 tvg-id="KFMBDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png" group-title="USA",KFMB-DT2
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png" group-title="USA",NBC Sports Bay Area

@@ -3330,7 +3330,6 @@
       "name": "Radio Zeta",
       "logoUrl": "https://massimoemanuelli.com/wp-content/uploads/2020/02/radio-zeta.png",
       "streamUrls": [
-        "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8",
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
       ],
       "category": "Music",
@@ -4931,17 +4930,6 @@
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png/revision/latest?cb=20111013233308",
       "streamUrls": [
         "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "FabulosaEstereo1005FM.pa",
-      "name": "Fabulosa Estereo 100.5 FM",
-      "logoUrl": "https://play-lh.googleusercontent.com/-SmvgcBV9LnyUA0U8n48dG2bbhutRHOSMhu3m5h3qRBbQSjzAOzxnWglCNC4X-WBBjc",
-      "streamUrls": [
-        "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8"
       ],
       "category": "Music",
       "languages": [],
