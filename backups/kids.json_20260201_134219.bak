@@ -1853,16 +1853,6 @@
       ],
       "category": "Kids",
       "genre": "Kids"
-    },
-    {
-      "id": "DisneyChannelLatinAmerica.ar",
-      "name": "Disney Channel Latin America",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://201.230.121.186:8000/play/a0fb/index.m3u8"
-      ],
-      "category": "Kids",
-      "genre": "Kids"
     }
   ]
 }

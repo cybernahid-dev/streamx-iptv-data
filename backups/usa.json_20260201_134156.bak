@@ -11721,42 +11721,6 @@
         "https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8"
       ],
       "category": "USA"
-    },
-    {
-      "id": "ABC.us",
-      "name": "ABC",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://41.205.93.154/ABC/index.m3u8"
-      ],
-      "category": "USA"
-    },
-    {
-      "id": "WTTWDT1.us",
-      "name": "WTTW-DT1",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://68.251.105.81:5004/auto/v11.1"
-      ],
-      "category": "USA"
-    },
-    {
-      "id": "WTTWDT2.us",
-      "name": "WTTW-DT2",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://68.251.105.81:5004/auto/v11.2"
-      ],
-      "category": "USA"
-    },
-    {
-      "id": "WTTWDT3.us",
-      "name": "WTTW-DT3",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://68.251.105.81:5004/auto/v11.3"
-      ],
-      "category": "USA"
     }
   ]
 }

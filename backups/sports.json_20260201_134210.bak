@@ -1631,46 +1631,6 @@
       ],
       "category": "Sports",
       "genre": "Sports"
-    },
-    {
-      "id": "AS3SportTV.ve",
-      "name": "AS3 Sport TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "NBCSportsBoston.us",
-      "name": "NBC Sports Boston",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-boston/hd"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "TSN3.ca",
-      "name": "TSN3",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://tvpass.org/live/tsn3/hd"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "TSN4.ca",
-      "name": "TSN4",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://tvpass.org/live/tsn4/hd"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
     }
   ]
 }
