@@ -2,13 +2,25 @@ import json
 import requests
 import os
 import concurrent.futures
+import shutil
+import time
+import logging
+import tempfile
+from datetime import datetime
 
-# --- CONFIGURATION ---
-CATEGORY_DIR = "categories"
+# --- ⚙️ CONFIGURATION (Advanced) ---
+BASE_DIR = os.getcwd()
+CATEGORY_DIR = os.path.join(BASE_DIR, "categories")
+BACKUP_DIR = os.path.join(BASE_DIR, "backups")
+
+# API Endpoints
 STREAMS_API = "https://iptv-org.github.io/api/streams.json"
 CHANNELS_API = "https://iptv-org.github.io/api/channels.json"
 
-# আপনার ফাইলের নামের সাথে API ফিল্টার রুলস
+# Default Assets
+DEFAULT_LOGO = "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png"
+
+# Filter Rules
 CATEGORY_RULES = {
     "bangladesh.json": {"type": "country", "filter": "BD", "category_name": "Bangladesh"},
     "india.json": {"type": "country", "filter": "IN", "category_name": "India"},
@@ -21,98 +33,137 @@ CATEGORY_RULES = {
     "informative.json": {"type": "genre", "filter": ["documentary", "education", "science"], "category_name": "Informative"}
 }
 
-# --- HELPER FUNCTIONS ---
+# --- 📝 LOGGING SETUP ---
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - [%(levelname)s] - %(message)s',
+    datefmt='%H:%M:%S'
+)
+logger = logging.getLogger()
 
-def check_link_status(url):
-    """
-    লিংকটি জীবিত কিনা চেক করে।
-    Timeout 5 সেকেন্ড করা হয়েছে।
-    """
-    if not url: return False
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
+# --- 🛡️ SAFETY FUNCTIONS ---
+
+def create_backup(filepath):
+    """Safety Feature: মডিফাই করার আগে ফাইলের ব্যাকআপ তৈরি করে।"""
+    if not os.path.exists(filepath):
+        return
+    
+    if not os.path.exists(BACKUP_DIR):
+        os.makedirs(BACKUP_DIR)
+        
+    filename = os.path.basename(filepath)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    backup_path = os.path.join(BACKUP_DIR, f"{filename}_{timestamp}.bak")
+    
     try:
-        response = requests.head(url, headers=headers, timeout=5, allow_redirects=True)
-        return response.status_code == 200
-    except:
-        return False
+        shutil.copy2(filepath, backup_path)
+        logger.info(f"🛡️ Backup created: {backup_path}")
+    except Exception as e:
+        logger.warning(f"⚠️ Backup failed: {e}")
+
+def atomic_save_json(filepath, data):
+    """Safety Feature: ডাটা করাপশন রোধ করতে Atomic Save পদ্ধতি।"""
+    dir_name = os.path.dirname(filepath)
+    # টেম্পোরারি ফাইল তৈরি
+    with tempfile.NamedTemporaryFile('w', dir=dir_name, delete=False, encoding='utf-8') as tmp_file:
+        json.dump(data, tmp_file, indent=2, ensure_ascii=False)
+        temp_name = tmp_file.name
+    
+    # টেম্প ফাইলটি মেইন ফাইলের জায়গায় রিপ্লেস করা (Atomically)
+    try:
+        shutil.move(temp_name, filepath)
+        logger.info(f"💾 Safely saved: {os.path.basename(filepath)}")
+    except Exception as e:
+        logger.error(f"❌ Save failed: {e}")
+        os.remove(temp_name)
 
 def load_json(filepath):
     if os.path.exists(filepath):
         try:
             with open(filepath, 'r', encoding='utf-8') as f:
                 return json.load(f)
-        except:
+        except json.JSONDecodeError:
+            logger.error(f"❌ Corrupted JSON found: {filepath}. Starting empty.")
             return {"channels": []}
     return {"channels": []}
 
-def save_json(filepath, data):
-    with open(filepath, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+# --- 🌐 NETWORK FUNCTIONS ---
 
-def process_stream_check(stream, details, existing_urls):
-    """
-    এটি একটি নির্দিষ্ট স্ট্রিম চেক করে।
-    মাল্টি-থ্রেডিং এর জন্য ব্যবহৃত হবে।
-    """
+def get_headers():
+    return {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+        "Accept": "*/*",
+        "Connection": "keep-alive"
+    }
+
+def check_link_status(url):
+    """Advanced Check: লিঙ্কটি লাইভ কিনা চেক করে (Connect Timeout 3s, Read Timeout 5s)"""
+    if not url: return False
+    try:
+        # stream=True ব্যবহার করা হয়েছে যাতে পুরো ভিডিও ডাউনলোড না করে
+        with requests.get(url, headers=get_headers(), stream=True, timeout=(3.05, 5), allow_redirects=True) as response:
+            if response.status_code == 200:
+                # কন্টেন্ট টাইপ চেক (অপশনাল, কিন্তু ভালো)
+                content_type = response.headers.get('Content-Type', '').lower()
+                if 'application/x-mpegurl' in content_type or 'video' in content_type or 'octet-stream' in content_type:
+                    return True
+                return True # টাইপ না মিললেও 200 মানে লাইভ
+            return False
+    except:
+        return False
+
+def process_stream_check(stream, details):
     url = stream.get('url')
     ch_id = stream.get('channel')
-    
-    # ১. যদি লিংকটি ইতিমধ্যে আপনার ফাইলে থাকে, তবে চেক করার দরকার নেই (নিরাপদ)
-    if url in existing_urls:
-        return None 
-
-    # ২. নতুন লিংক হলে চেক করি সেটা জীবিত কি না
     if check_link_status(url):
-        return (ch_id, url, details) # সফল হলে ডাটা রিটার্ন করবে
+        return (ch_id, url, details)
+    return None
+
+# --- 🚀 MAIN LOGIC ---
+
+def update_channels_pro():
+    logger.info("🚀 Starting Ultimate Channel Updater...")
     
-    return None # ডেড লিংক হলে কিছু রিটার্ন করবে না
-
-# --- MAIN LOGIC ---
-
-def update_channels():
-    print("📡 Fetching API Data from iptv-org...")
+    # ১. API ডাটা ফেচ করা
     try:
-        api_streams = requests.get(STREAMS_API).json()
-        api_channels = requests.get(CHANNELS_API).json()
-        
-        # চ্যানেল ইনফো ম্যাপ
+        logger.info("📡 Fetching global IPTV database...")
+        api_streams = requests.get(STREAMS_API, timeout=10).json()
+        api_channels = requests.get(CHANNELS_API, timeout=10).json()
         channel_info_map = {c['id']: c for c in api_channels}
+        logger.info(f"✅ Loaded {len(api_channels)} channels and {len(api_streams)} streams.")
     except Exception as e:
-        print(f"❌ Critical Error fetching API: {e}")
+        logger.critical(f"❌ Critical API Error: {e}")
         return
 
     if not os.path.exists(CATEGORY_DIR):
         os.makedirs(CATEGORY_DIR)
 
+    # ২. প্রসেসিং শুরু
     for filename, rules in CATEGORY_RULES.items():
         filepath = os.path.join(CATEGORY_DIR, filename)
-        print(f"\n🔄 Processing: {filename}...")
+        logger.info(f"\n🔍 Processing Category: {rules['category_name']} ({filename})")
 
-        # ১. বর্তমান ডাটা লোড (আপনার ম্যানুয়াল ডাটা মেমোরিতে রাখা হচ্ছে)
+        # বর্তমান ডাটা লোড
         current_data = load_json(filepath)
-        channel_map = {ch['id']: ch for ch in current_data.get('channels', [])}
+        existing_ids = {ch['id'] for ch in current_data.get('channels', [])}
         
-        # বর্তমান সব লিংক একটি সেটে রাখা (ডুপ্লিকেট এড়ানোর জন্য)
-        all_existing_urls = set()
-        for ch in channel_map.values():
-            for u in ch.get('streamUrls', []):
-                all_existing_urls.add(u)
-
-        # ২. API থেকে পোটেনশিয়াল স্ট্রিম ফিল্টার করা
+        # পোটেনশিয়াল চ্যানেল খোঁজা
         streams_to_check = []
         for stream in api_streams:
             ch_id = stream.get('channel')
-            if not ch_id or ch_id not in channel_info_map: continue
             
-            # API স্ট্যাটাস ফিল্টার
-            if stream.get('status') == 'error' or stream.get('status') == 'offline': continue
+            # 🛡️ Safety: আইডি আগে থাকলে স্কিপ (Strictly No Touch Policy)
+            if not ch_id or ch_id in existing_ids:
+                continue
+            
+            if stream.get('status') in ['error', 'offline']: 
+                continue
 
-            ch_details = channel_info_map[ch_id]
-            is_match = False
+            ch_details = channel_info_map.get(ch_id)
+            if not ch_details: continue
 
             # রুলস চেকিং
+            is_match = False
             if rules['type'] == 'country':
                 if ch_details.get('country') == rules['filter']: is_match = True
             elif rules['type'] == 'genre':
@@ -123,78 +174,67 @@ def update_channels():
                         break
             
             if is_match:
-                streams_to_check.append((stream, ch_details))
+                # ডুপ্লিকেট স্ট্রিম চেক (একই আইডির একাধিক স্ট্রিম থাকলে প্রথমটি নেওয়া হবে চেকিংয়ের জন্য)
+                already_queued = any(s[0].get('channel') == ch_id for s in streams_to_check)
+                if not already_queued:
+                    streams_to_check.append((stream, ch_details))
 
-        print(f"   - Found {len(streams_to_check)} potential streams. Checking live status...")
+        if not streams_to_check:
+            logger.info("   macOS😴 No new channels found.")
+            continue
 
-        # ৩. প্যারালাল প্রসেসিং (Thread Pool - 10 Workers)
-        new_links_count = 0
-        new_channels_count = 0
+        logger.info(f"   ⚡ Found {len(streams_to_check)} potential NEW channels. Checking liveness...")
 
-        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        # মাল্টি-থ্রেডিং চেকিং (আরও ফাস্ট)
+        new_channels_list = []
+        with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
             future_to_url = {
-                executor.submit(process_stream_check, s, d, all_existing_urls): s 
+                executor.submit(process_stream_check, s, d): s 
                 for s, d in streams_to_check
             }
 
             for future in concurrent.futures.as_completed(future_to_url):
                 result = future.result()
                 if result:
-                    # যদি লিংকটি লাইভ হয় তবেই আমরা এখানে আসবো
                     ch_id, url, details = result
                     
-                    # API থেকে লোগো বের করা
+                    # 🖼️ Smart Logo Logic
                     api_logo = details.get('logo')
+                    final_logo = api_logo if api_logo else DEFAULT_LOGO
 
-                    if ch_id in channel_map:
-                        # [SCENARIO A] চ্যানেলটি ইতিমধ্যে আছে
-                        
-                        # ১. লিংক যোগ করা (যদি নতুন হয়)
-                        if url not in channel_map[ch_id]['streamUrls']:
-                            channel_map[ch_id]['streamUrls'].append(url)
-                            new_links_count += 1
-                        
-                        # ২. লোগো চেক (Smart Backfill)
-                        # যদি আপনার ফাইলে লোগো না থাকে, শুধু তখনই API লোগো বসাবে
-                        # আপনার ম্যানুয়াল লোগো থাকলে হাত দেবে না
-                        current_logo = channel_map[ch_id].get('logoUrl', '')
-                        if not current_logo and api_logo:
-                            channel_map[ch_id]['logoUrl'] = api_logo
-                            print(f"     [UPDATE] Added missing logo for: {channel_map[ch_id]['name']}")
+                    new_channel = {
+                        "id": ch_id,
+                        "name": details.get('name', 'Unknown Channel'),
+                        "logoUrl": final_logo,
+                        "streamUrls": [url],
+                        "category": rules['category_name']
+                    }
+                    if rules['type'] == 'genre':
+                         new_channel["genre"] = rules['category_name']
+                    
+                    new_channels_list.append(new_channel)
+                    print(f"     ✅ [LIVE] {details.get('name')}")
 
-                    else:
-                        # [SCENARIO B] একদম নতুন চ্যানেল
-                        
-                        # ১. লোগো চেক (Strict Policy)
-                        # যদি API তে লোগো না থাকে, আমরা চ্যানেলটি অ্যাড করবো না
-                        if not api_logo:
-                            continue # Skip adding this channel
+        # ৩. ডাটা সেভ করা (যদি নতুন চ্যানেল পাওয়া যায়)
+        if new_channels_list:
+            # 🔡 নতুন চ্যানেলগুলোকে A-Z সর্ট করা
+            new_channels_list.sort(key=lambda x: x['name'])
+            
+            logger.info(f"   📥 Adding {len(new_channels_list)} confirmed live channels.")
+            
+            # 🛡️ ব্যাকআপ নেওয়া
+            create_backup(filepath)
+            
+            # লিস্ট আপডেট
+            current_data['channels'].extend(new_channels_list)
+            
+            # 💾 Atomic Save
+            atomic_save_json(filepath, current_data)
+        else:
+            logger.info("   ⚠️ Potential channels found, but none were live.")
 
-                        # সব শর্ত পূরণ হলে নতুন চ্যানেল তৈরি
-                        new_channel = {
-                            "id": ch_id,
-                            "name": details.get('name', 'Unknown Channel'),
-                            "logoUrl": api_logo,
-                            "streamUrls": [url],
-                            "category": rules['category_name']
-                        }
-                        # Genre থাকলে অ্যাড হবে
-                        if rules['type'] == 'genre':
-                             new_channel["genre"] = rules['category_name']
-                        
-                        channel_map[ch_id] = new_channel
-                        new_channels_count += 1
-                        print(f"     [NEW] Added: {details.get('name')}")
-
-        # ৪. ফাইল সেভ
-        final_list = list(channel_map.values())
-        
-        # অপশনাল: নাম অনুযায়ী সাজাতে চাইলে নিচের লাইন আনকমেন্ট করুন
-        # final_list.sort(key=lambda x: x['name']) 
-
-        save_json(filepath, {"channels": final_list})
-        print(f"✅ Saved {filename}: +{new_channels_count} New Channels, +{new_links_count} New Links.")
+    logger.info("\n🎉 All updates completed successfully!")
 
 if __name__ == "__main__":
-    update_channels()
+    update_channels_pro()
 
