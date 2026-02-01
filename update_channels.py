@@ -8,10 +8,13 @@ import logging
 import tempfile
 from datetime import datetime
 
-# --- ⚙️ CONFIGURATION (Advanced) ---
+# --- ⚙️ CONFIGURATION (Ultimate) ---
 BASE_DIR = os.getcwd()
 CATEGORY_DIR = os.path.join(BASE_DIR, "categories")
 BACKUP_DIR = os.path.join(BASE_DIR, "backups")
+
+# ব্যাকআপ কনফিগারেশন: প্রতি ফাইলের জন্য সর্বোচ্চ কতগুলো ব্যাকআপ রাখবেন?
+MAX_BACKUPS_TO_KEEP = 5 
 
 # API Endpoints
 STREAMS_API = "https://iptv-org.github.io/api/streams.json"
@@ -41,10 +44,42 @@ logging.basicConfig(
 )
 logger = logging.getLogger()
 
-# --- 🛡️ SAFETY FUNCTIONS ---
+# --- 🛡️ SAFETY & CLEANUP FUNCTIONS ---
+
+def cleanup_old_backups():
+    """পুরানো ব্যাকআপ ফাইল অটোমেটিক ডিলিট করে (Clean Storage)।"""
+    if not os.path.exists(BACKUP_DIR):
+        return
+
+    logger.info("🧹 Checking for old backups to clean...")
+    all_backups = [f for f in os.listdir(BACKUP_DIR) if f.endswith(".bak")]
+    
+    deleted_count = 0
+    # ক্যাটাগরি অনুযায়ী চেক করা
+    for filename in CATEGORY_RULES.keys():
+        # এই নির্দিষ্ট ফাইলের সব ব্যাকআপ খুঁজে বের করা
+        file_backups = [f for f in all_backups if f.startswith(f"{filename}_")]
+        
+        # তারিখ অনুযায়ী সাজানো (Oldest first)
+        file_backups.sort()
+        
+        # যদি MAX_BACKUPS_TO_KEEP এর চেয়ে বেশি থাকে, তবে পুরানোগুলো ডিলিট করো
+        if len(file_backups) > MAX_BACKUPS_TO_KEEP:
+            files_to_delete = file_backups[:-MAX_BACKUPS_TO_KEEP] # নতুন ৫টি রেখে বাকি সব ডিলিট
+            
+            for old_file in files_to_delete:
+                try:
+                    os.remove(os.path.join(BACKUP_DIR, old_file))
+                    logger.info(f"   🗑️ Auto-Deleted Old Backup: {old_file}")
+                    deleted_count += 1
+                except Exception as e:
+                    logger.warning(f"   ⚠️ Failed to delete {old_file}: {e}")
+    
+    if deleted_count == 0:
+        logger.info("   ✅ No old backups needed deletion.")
 
 def create_backup(filepath):
-    """Safety Feature: মডিফাই করার আগে ফাইলের ব্যাকআপ তৈরি করে।"""
+    """সেভ করার আগে ফাইলের ব্যাকআপ তৈরি করে।"""
     if not os.path.exists(filepath):
         return
     
@@ -62,20 +97,25 @@ def create_backup(filepath):
         logger.warning(f"⚠️ Backup failed: {e}")
 
 def atomic_save_json(filepath, data):
-    """Safety Feature: ডাটা করাপশন রোধ করতে Atomic Save পদ্ধতি।"""
+    """ডাটা সেভ করে এবং টেম্পোরারি ফাইল অটোমেটিক রিমুভ করে।"""
     dir_name = os.path.dirname(filepath)
-    # টেম্পোরারি ফাইল তৈরি
+    
+    # ১. টেম্পোরারি ফাইল তৈরি
     with tempfile.NamedTemporaryFile('w', dir=dir_name, delete=False, encoding='utf-8') as tmp_file:
         json.dump(data, tmp_file, indent=2, ensure_ascii=False)
         temp_name = tmp_file.name
     
-    # টেম্প ফাইলটি মেইন ফাইলের জায়গায় রিপ্লেস করা (Atomically)
+    # ২. সেভ করার চেষ্টা (Replace logic)
     try:
         shutil.move(temp_name, filepath)
-        logger.info(f"💾 Safely saved: {os.path.basename(filepath)}")
+        # shutil.move সফল হলে সোর্স (temp) ফাইল অটোমেটিক ডিলিট হয়ে যায়
+        logger.info(f"💾 Safely saved & Temp file cleaned: {os.path.basename(filepath)}")
     except Exception as e:
         logger.error(f"❌ Save failed: {e}")
-        os.remove(temp_name)
+        # ৩. ফেইল করলে ম্যানুয়ালি টেম্প ফাইল ডিলিট
+        if os.path.exists(temp_name):
+            os.remove(temp_name)
+            logger.info("   🧹 Residual Temp file removed manually.")
 
 def load_json(filepath):
     if os.path.exists(filepath):
@@ -97,17 +137,15 @@ def get_headers():
     }
 
 def check_link_status(url):
-    """Advanced Check: লিঙ্কটি লাইভ কিনা চেক করে (Connect Timeout 3s, Read Timeout 5s)"""
+    """Advanced Check: লিঙ্কটি লাইভ কিনা চেক করে"""
     if not url: return False
     try:
-        # stream=True ব্যবহার করা হয়েছে যাতে পুরো ভিডিও ডাউনলোড না করে
         with requests.get(url, headers=get_headers(), stream=True, timeout=(3.05, 5), allow_redirects=True) as response:
             if response.status_code == 200:
-                # কন্টেন্ট টাইপ চেক (অপশনাল, কিন্তু ভালো)
                 content_type = response.headers.get('Content-Type', '').lower()
                 if 'application/x-mpegurl' in content_type or 'video' in content_type or 'octet-stream' in content_type:
                     return True
-                return True # টাইপ না মিললেও 200 মানে লাইভ
+                return True 
             return False
     except:
         return False
@@ -122,9 +160,11 @@ def process_stream_check(stream, details):
 # --- 🚀 MAIN LOGIC ---
 
 def update_channels_pro():
-    logger.info("🚀 Starting Ultimate Channel Updater...")
+    logger.info("🚀 Starting Ultimate Channel Updater (Clean Mode)...")
     
-    # ১. API ডাটা ফেচ করা
+    # শুরুতে পুরনো ব্যাকআপ ডিলিট করা
+    cleanup_old_backups()
+
     try:
         logger.info("📡 Fetching global IPTV database...")
         api_streams = requests.get(STREAMS_API, timeout=10).json()
@@ -138,31 +178,22 @@ def update_channels_pro():
     if not os.path.exists(CATEGORY_DIR):
         os.makedirs(CATEGORY_DIR)
 
-    # ২. প্রসেসিং শুরু
     for filename, rules in CATEGORY_RULES.items():
         filepath = os.path.join(CATEGORY_DIR, filename)
         logger.info(f"\n🔍 Processing Category: {rules['category_name']} ({filename})")
 
-        # বর্তমান ডাটা লোড
         current_data = load_json(filepath)
         existing_ids = {ch['id'] for ch in current_data.get('channels', [])}
         
-        # পোটেনশিয়াল চ্যানেল খোঁজা
         streams_to_check = []
         for stream in api_streams:
             ch_id = stream.get('channel')
-            
-            # 🛡️ Safety: আইডি আগে থাকলে স্কিপ (Strictly No Touch Policy)
-            if not ch_id or ch_id in existing_ids:
-                continue
-            
-            if stream.get('status') in ['error', 'offline']: 
-                continue
+            if not ch_id or ch_id in existing_ids: continue
+            if stream.get('status') in ['error', 'offline']: continue
 
             ch_details = channel_info_map.get(ch_id)
             if not ch_details: continue
 
-            # রুলস চেকিং
             is_match = False
             if rules['type'] == 'country':
                 if ch_details.get('country') == rules['filter']: is_match = True
@@ -174,18 +205,16 @@ def update_channels_pro():
                         break
             
             if is_match:
-                # ডুপ্লিকেট স্ট্রিম চেক (একই আইডির একাধিক স্ট্রিম থাকলে প্রথমটি নেওয়া হবে চেকিংয়ের জন্য)
                 already_queued = any(s[0].get('channel') == ch_id for s in streams_to_check)
                 if not already_queued:
                     streams_to_check.append((stream, ch_details))
 
         if not streams_to_check:
-            logger.info("   macOS😴 No new channels found.")
+            logger.info("   😴 No new channels found.")
             continue
 
         logger.info(f"   ⚡ Found {len(streams_to_check)} potential NEW channels. Checking liveness...")
 
-        # মাল্টি-থ্রেডিং চেকিং (আরও ফাস্ট)
         new_channels_list = []
         with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
             future_to_url = {
@@ -198,7 +227,6 @@ def update_channels_pro():
                 if result:
                     ch_id, url, details = result
                     
-                    # 🖼️ Smart Logo Logic
                     api_logo = details.get('logo')
                     final_logo = api_logo if api_logo else DEFAULT_LOGO
 
@@ -215,25 +243,23 @@ def update_channels_pro():
                     new_channels_list.append(new_channel)
                     print(f"     ✅ [LIVE] {details.get('name')}")
 
-        # ৩. ডাটা সেভ করা (যদি নতুন চ্যানেল পাওয়া যায়)
         if new_channels_list:
-            # 🔡 নতুন চ্যানেলগুলোকে A-Z সর্ট করা
             new_channels_list.sort(key=lambda x: x['name'])
             
             logger.info(f"   📥 Adding {len(new_channels_list)} confirmed live channels.")
             
-            # 🛡️ ব্যাকআপ নেওয়া
+            # ব্যাকআপ তৈরি
             create_backup(filepath)
             
-            # লিস্ট আপডেট
+            # ডাটা আপডেট
             current_data['channels'].extend(new_channels_list)
             
-            # 💾 Atomic Save
+            # সেভ এবং টেম্প ফাইল ক্লিনআপ
             atomic_save_json(filepath, current_data)
         else:
             logger.info("   ⚠️ Potential channels found, but none were live.")
 
-    logger.info("\n🎉 All updates completed successfully!")
+    logger.info("\n🎉 All updates and cleanups completed successfully!")
 
 if __name__ == "__main__":
     update_channels_pro()
