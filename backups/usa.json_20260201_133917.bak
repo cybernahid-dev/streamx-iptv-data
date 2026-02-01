@@ -1,0 +1,80 @@
+{
+  "channels": [
+    {
+      "id": "abc_news_live_us",
+      "name": "ABC News Live",
+      "logoUrl": "https://i.ibb.co/9V5x1wJ/ABC-News-Live-logo.png",
+      "streamUrls": [
+        "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "nbc_news_now_us",
+      "name": "NBC News NOW",
+      "logoUrl": "https://i.ibb.co/2dG8mH5/NBC-News-Now-logo-2020-svg.png",
+      "streamUrls": [],
+      "category": "USA"
+    },
+    {
+      "id": "cbs_news_us",
+      "name": "CBS News",
+      "logoUrl": "https://i.ibb.co/3Cg1g0r/CBS-News-logo-svg.png",
+      "streamUrls": [],
+      "category": "USA"
+    },
+    {
+      "id": "pbs_kids_us",
+      "name": "PBS Kids",
+      "logoUrl": "https://i.ibb.co/hK5xQ4D/PBS-Kids-logo-svg.png",
+      "streamUrls": [],
+      "category": "USA"
+    },
+    {
+      "id": "charge_tv_us",
+      "name": "Charge!",
+      "logoUrl": "https://i.ibb.co/jDG4b8N/Charge-logo-svg.png",
+      "streamUrls": [
+        "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "accuweather_us",
+      "name": "AccuWeather",
+      "logoUrl": "https://i.ibb.co/v4xH083/Accu-Weather-logo-svg.png",
+      "streamUrls": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "newsmax_us",
+      "name": "Newsmax",
+      "logoUrl": "https://i.ibb.co/Ld11tS7/Newsmax-TV-logo-svg.png",
+      "streamUrls": [],
+      "category": "USA"
+    },
+    {
+      "id": "cheddar_news_us",
+      "name": "Cheddar News",
+      "logoUrl": "https://i.ibb.co/1nKxJgB/Cheddar-News-logo-svg.png",
+      "streamUrls": [],
+      "category": "USA"
+    },
+    {
+      "id": " Scripps_news_us",
+      "name": "Scripps News",
+      "logoUrl": "https://i.ibb.co/n1bSwnw/Scripps-News-logo-svg.png",
+      "streamUrls": [],
+      "category": "USA"
+    },
+    {
+      "id": "law_and_crime_us",
+      "name": "Law & Crime",
+      "logoUrl": "https://i.ibb.co/rQ2g4sY/Law-Crime-logo-svg.png",
+      "streamUrls": [],
+      "category": "USA"
+    }
+  ]
+}

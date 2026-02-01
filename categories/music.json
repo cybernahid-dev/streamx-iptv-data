@@ -74,6 +74,4656 @@
       "logoUrl": "https://i.ibb.co/tLWz9Gk/stingray-hits-logo.png",
       "streamUrls": [],
       "category": "Music"
+    },
+    {
+      "id": "13Festival.cl",
+      "name": "13 Festival",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "30AMusic.us",
+      "name": "30A Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://30a-tv.com/music.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "3ABNPraiseHimMusicNetwork.us",
+      "name": "3ABN Praise Him Music Network",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "4FunTV.pl",
+      "name": "4 Fun TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "4Music.fr",
+      "name": "4 Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://musichls.persiana.live/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "4Kurd.fr",
+      "name": "4Kurd",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://4kuhls.persiana.live/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "51RadioTV.it",
+      "name": "51 Radio TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "7RadioVisione.it",
+      "name": "7 RadioVisione",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "7YOUME.it",
+      "name": "7 YOU & ME",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "7080TV.it",
+      "name": "70-80 TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "88Stereo.cr",
+      "name": "88 Stereo",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "8XM.pk",
+      "name": "8XM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "981PearlFM.sx",
+      "name": "98.1 Pearl FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "9XJhakaas.in",
+      "name": "9X Jhakaas",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "9XTashan.in",
+      "name": "9X Tashan",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "9XM.in",
+      "name": "9XM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "A1.ru",
+      "name": "A1",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://31.148.48.15/A1/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ACWUGTV.ug",
+      "name": "ACW UG TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.acwugtv.com/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AERadioTV.cl",
+      "name": "AE Radio TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AFNTV.ir",
+      "name": "AFN TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AMC.af",
+      "name": "AMC",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://amchls.wns.live/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AXSTV.us",
+      "name": "AXS TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://fl1.moveonjoy.com/Axs_TV/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AbdulmajeedAbdullah.sa",
+      "name": "Abdulmajeed Abdullah",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ActivaTV.es",
+      "name": "Activa TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streamtv.mediasector.es/hls/activatv/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AfrobeatTVEntertainment.uk",
+      "name": "Afrobeat TV Entertainment",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.ecable.tv/afrobeats/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AghaniAghaniTV.lb",
+      "name": "Aghani Aghani TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AlbKanaleMusicTV.al",
+      "name": "AlbKanale Music TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://albportal.net/albkanalemusic.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AntenneKaernten.at",
+      "name": "Antenne Kaernten",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AntenneSteiermark.at",
+      "name": "Antenne Steiermark",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ArabicaTV.lb",
+      "name": "Arabica TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AtomicAcademyTV.ro",
+      "name": "Atomic Academy TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://atomic.streamnet.ro/academia.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AtomicTV.ro",
+      "name": "Atomic TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://atomic.streamnet.ro/atomictv.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AvangTV.us",
+      "name": "Avang TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://hls.avang.live/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "AzaharesRadiovisualMultimedia.ar",
+      "name": "Azahares Radiovisual Multimedia",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "B4UMusic.in",
+      "name": "B4U Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BEATTV.nl",
+      "name": "BEATTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://tv.beatfm.nl/live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BIZMusic.uz",
+      "name": "BIZ Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BOKTV.za",
+      "name": "BOKTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BPXTVRadio.us",
+      "name": "BPX TV Radio",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BRIDGE.ru",
+      "name": "BRIDGE",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://31.148.48.15/Bridge_TV/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BRIDGEClassic.ru",
+      "name": "BRIDGE Classic",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://31.148.48.15/Bridge_TV_Classic/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BRIDGEDeluxe.ru",
+      "name": "BRIDGE Deluxe",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://31.148.48.15/Bridge_TV_HD/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BRIDGEHits.ru",
+      "name": "BRIDGE Hits",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://31.148.48.15/Bridge_TV_Dance/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BTATV.ve",
+      "name": "BTA TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BTBMusic.pl",
+      "name": "BTB Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BalleBalle.in",
+      "name": "Balle Balle",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mcncdndigital.com/balleballetv/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BarazaTVDeepHouse.gr",
+      "name": "Baraza TV Deep House",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BarazaTVRelaxing.gr",
+      "name": "Baraza TV Relaxing",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BarbudMusic.af",
+      "name": "Barbud Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BeatsRadio.ar",
+      "name": "Beats Radio",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BelRTL.be",
+      "name": "Bel RTL",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BestofDanceTV.ee",
+      "name": "Best of Dance TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BibelTVMusik.de",
+      "name": "Bibel TV Musik",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "BravoTV.hr",
+      "name": "Bravo! TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CEACOMTV.bo",
+      "name": "CEACOM TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CKNOFM.ca",
+      "name": "CKNO-FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://videostream.jpbgdigital.com/NOWTV.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CMCTV.hr",
+      "name": "CMC TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.cmctv.hr:49998/cmc/live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CMT.us",
+      "name": "CMT",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://fl1.moveonjoy.com/CMT/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CMTEqualPlay.us",
+      "name": "CMT Equal Play",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280712-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd328c28-b23b-4f85-9b18-9d73786f7109"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CadenaElite.es",
+      "name": "Cadena Elite",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CaliforniaMusicChannel.us",
+      "name": "California Music Channel",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Canal3KMKTV.cr",
+      "name": "Canal 3 KMK TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CityEdenBirmaPlay.ru",
+      "name": "City Eden Birma Play",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cityeden.catcast.tv/content/34364/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CityEdenClassicMusic.ru",
+      "name": "City Eden Classic Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cityeden.catcast.tv/content/47400/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CityEdenMeditationMusic.ru",
+      "name": "City Eden Meditation Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cityeden.catcast.tv/content/47410/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CityEdenPlay.ru",
+      "name": "City Eden Play",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cityeden.catcast.tv/content/34100/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CityEdenSirtakiTV.ru",
+      "name": "City Eden Sirtaki TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cityeden.catcast.tv/content/46421/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CityTV.bg",
+      "name": "City TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://tv.city.bg/play/tshls/citytv/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Classica.us",
+      "name": "Classica",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280711-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1c3ac7db-5cfe-4d39-aec3-70a684e58c38"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ClubbingTV.us",
+      "name": "Clubbing TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CompanyTV.it",
+      "name": "Company TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ConectaTV.mx",
+      "name": "Conecta TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CoolFM989.aw",
+      "name": "Cool FM 98.9",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Couleur3.ch",
+      "name": "Couleur 3",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "CumbiaMix.ar",
+      "name": "Cumbia Mix",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "D3TV.ml",
+      "name": "D3 TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DASDING908.de",
+      "name": "DASDING 90.8",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DBMTV.fr",
+      "name": "DBM TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DMSat.rs",
+      "name": "DM Sat",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DMF.de",
+      "name": "DMF",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DSTV.bg",
+      "name": "DSTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://46.249.95.140:8081/hls/data.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DanceFM.cl",
+      "name": "Dance FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DanceTVAlgorhythm.ee",
+      "name": "DanceTV Algorhythm",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DanceTVDeepHouseDistrict.ee",
+      "name": "DanceTV Deep House District",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DanceTVEDMMainstage.ee",
+      "name": "DanceTV EDM Mainstage",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DanceTVHouseFloor.ee",
+      "name": "DanceTV House Floor",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DanceTVMinimalTech.ee",
+      "name": "DanceTV Minimal Tech",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DanceTVTechnoWarehouse.ee",
+      "name": "DanceTV Techno Warehouse",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DeluxeDance.de",
+      "name": "Deluxe Dance",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DeluxeLounge.de",
+      "name": "Deluxe Lounge",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://jmp2.uk/stvp-CHAJ0500413A"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DeluxeMusic.de",
+      "name": "Deluxe Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DeluxeRap.de",
+      "name": "Deluxe Rap",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Dhamaal.in",
+      "name": "Dhamaal",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-1.pishow.tv/live/1291/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DhoomMusic.in",
+      "name": "Dhoom Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-1.pishow.tv/live/1456/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DismarRadioTV.py",
+      "name": "Dismar Radio TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "DreamTurk.tr",
+      "name": "Dream Turk",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "EBSMusika.us",
+      "name": "EBS Musika",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ETVMusic.in",
+      "name": "ETV Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ElRadio9090FM.eg",
+      "name": "El Radio 9090 FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://9090video.mobtada.com/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ElSolNetworkTV.ec",
+      "name": "El Sol Network TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "EnerGeekRadio.cl",
+      "name": "EnerGeek Radio",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "EuroIndieMusicChartTV.it",
+      "name": "Euro Indie Music Chart TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "EuropaPlusTV.ru",
+      "name": "Europa Plus TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://31.148.48.15/Europa_Plus_HD/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ExtraTV.hr",
+      "name": "Extra TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FMITALIA.it",
+      "name": "FM ITALIA",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FMMundo.ec",
+      "name": "FM Mundo",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FMTV.uk",
+      "name": "FMTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FTV.uz",
+      "name": "FTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream8.cinerama.uz/1018/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FUSIONTV.mq",
+      "name": "FUSION TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Fairuz.sa",
+      "name": "Fairuz",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FalastiniTV.ps",
+      "name": "Falastini TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Famatv.pt",
+      "name": "Famatv",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FarraPlay.py",
+      "name": "Farra Play",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://159.203.148.226/live/farra.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FirstMusicChannel.by",
+      "name": "First Music Channel",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://hz1.teleport.cc/HLS/SD.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FirstMusicChannelRussia.by",
+      "name": "First Music Channel Russia",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://rtmp.one.by:2200"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FolkKlubTV.au",
+      "name": "Folk Klub TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FolkTV.mk",
+      "name": "Folk TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FolxMusicTelevision.de",
+      "name": "Folx Music Television",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FolxSlovenija.si",
+      "name": "Folx Slovenija",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FomixTV.nl",
+      "name": "FomixTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.fomixmedia.nl/FomixTV/video.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FunRadio.fr",
+      "name": "Fun Radio",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "GEMMifaPlus.tr",
+      "name": "GEM Mifa +",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "GMTV.us",
+      "name": "GMTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "GOTV.py",
+      "name": "GO TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "GexTV.cr",
+      "name": "Gex TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "GigantFM.nl",
+      "name": "Gigant FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "GugakTV.kr",
+      "name": "Gugak TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "HighVisionTV.us",
+      "name": "High Vision TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "HitradioO3.at",
+      "name": "Hitradio O3",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "HypeVisualRadio.nl",
+      "name": "Hype Visual Radio",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "INTVAustralia.au",
+      "name": "INTV Australia",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://tv1.intv.mk:1935/live/intv/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "IQChannel.cr",
+      "name": "IQ Channel",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ITVPersianMusic.ir",
+      "name": "ITV Persian Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "IdentiteTeleCaraibes.mq",
+      "name": "Identite Tele Caraibes",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vdo2.pro-fhi.net:3769/stream/play.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ImagenFM1051.hn",
+      "name": "Imagen FM 105.1",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streaming.imagenfm105-1.com/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ImpactTVDance.ro",
+      "name": "Impact TV Dance",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://online.tvimpact.live/hls/dancetv.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ImpactTVManele.ro",
+      "name": "Impact TV Manele",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://online.tvimpact.live/hls/impact_tv.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "InfinitaTV.ec",
+      "name": "Infinita TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "IsaiAruvi.in",
+      "name": "Isai Aruvi",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "IsangoTV.rw",
+      "name": "Isango TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "IvoireChannel.ci",
+      "name": "Ivoire Channel",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "JRTVJarviradio.fi",
+      "name": "JRTV Jarviradio",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "JawharaTV.tn",
+      "name": "Jawhara TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "JooMusic.pk",
+      "name": "JooMusic",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "JordanSongs.jo",
+      "name": "Jordan Songs",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "JuiceTV.nz",
+      "name": "Juice TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://juicex.nz/hls/mystream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "JuniorMusic.pl",
+      "name": "Junior Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://liveovh011.cda.pl/enc117/topkidsjrhdraw/topkidsjrhdraw.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "KandelaTV.ve",
+      "name": "KandelaTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "KayhanTV.af",
+      "name": "Kayhan TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "KissKissNapoliTV.it",
+      "name": "Kiss Kiss Napoli TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "KissKissTV.it",
+      "name": "Kiss Kiss TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "KissTV.ro",
+      "name": "Kiss TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "KlapeiTambureTV.hr",
+      "name": "Klape i Tambure TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.cmctv.hr:49998/kit/live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "KpopTVPlay.br",
+      "name": "KpopTV Play",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "KralPopTV.tr",
+      "name": "Kral Pop TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Kronehit.at",
+      "name": "Kronehit",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "KurdMaxMusic.iq",
+      "name": "KurdMax Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "KuriakosMusic.pt",
+      "name": "Kuriakos Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LIVExLIVE.us",
+      "name": "LIVExLIVE",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://livestream.liveone.com/lc1/p1.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LRTKlasika.lt",
+      "name": "LRT Klasika",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream-live.lrt.lt/klasika/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LRTOpus.lt",
+      "name": "LRT Opus",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream-live.lrt.lt/opus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LaFabulosaTV.pe",
+      "name": "La Fabulosa TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://eu1.servers10.com:8081/8004/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LaHermandadSalsera.co",
+      "name": "La Hermandad Salsera",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LaKalle.co",
+      "name": "La Kalle",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LaMoradaRadioTV.co",
+      "name": "La Morada Radio TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://movil.ejeserver.com/live/lamoradatv.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LaPerlaRadioTV.ec",
+      "name": "La Perla Radio TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://eu1.servers10.com:8081/8068/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LaQueBuenaAtlanta.us",
+      "name": "La Que Buena Atlanta",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LaTop1029.hn",
+      "name": "La Top 102.9",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LaTop1077.hn",
+      "name": "La Top 107.7",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LaVozdelTropico.do",
+      "name": "La Voz del Tropico",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LaX.pr",
+      "name": "La-X",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Lausitzwelle.de",
+      "name": "Lausitzwelle",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref="
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LingkarTV.id",
+      "name": "Lingkar TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lingkartv.my.id/hls/lingkartv.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LiraTV.es",
+      "name": "LiraTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LittoralFMTV.fr",
+      "name": "Littoral FM TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Live99FM.bq",
+      "name": "Live99FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://media.streambrothers.com:1936/8014/8014/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LoboTV.mx",
+      "name": "Lobo TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LookThoongTV.la",
+      "name": "Look Thoong TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LunaEstereo1064FM.co",
+      "name": "Luna Estereo 106.4 FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "M1.lt",
+      "name": "M-1",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "M2.ua",
+      "name": "M2",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.m2.tv/hls3/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MBCAmerica.us",
+      "name": "MBC America",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MBCFM.ae",
+      "name": "MBC FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MBCLoud.sa",
+      "name": "MBC Loud",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MCN6MusicChannel.us",
+      "name": "MCN6 Music Channel",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MTVBiggestPop.us",
+      "name": "MTV Biggest Pop",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MTVClassic.us",
+      "name": "MTV Classic",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MTVLive.us",
+      "name": "MTV Live",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MTVSpankinNew.us",
+      "name": "MTV Spankin' New",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MadrasFMTV.gp",
+      "name": "Madras FM TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MagicTV.bg",
+      "name": "Magic TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://bss1.neterra.tv/magictv/magictv.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MagicTV.ro",
+      "name": "Magic TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MajidAlMohandis.sa",
+      "name": "Majid Al Mohandis",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MakaoTV.do",
+      "name": "Makao TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MarinaTV.kw",
+      "name": "Marina TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MarutamMusic.in",
+      "name": "Marutam Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mntv.livebox.co.in/musichls/live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MasFM.ar",
+      "name": "Mas FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vivo.solumedia.com:19360/masfm/masfm.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MasMusicaFM.co",
+      "name": "MasMusica FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://movil.ejeserver.com/live/masmusica.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Mastiii.in",
+      "name": "Mastiii",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumt02.tangotv.in/MASTIII/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MaturTV.ru",
+      "name": "Matur TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MedMuzik.tr",
+      "name": "Med Muzik",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://54.36.110.140/live3/live3.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Melody.fr",
+      "name": "Melody",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MelodyFM.jo",
+      "name": "Melody FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MetropoliMediosTV.ec",
+      "name": "Metropoli Medios TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://eu1.servers10.com:8081/8214/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Mezzo.fr",
+      "name": "Mezzo",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Mh1Music.in",
+      "name": "Mh 1 Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/MHONE/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MielTV.pe",
+      "name": "Miel TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MohammedAbdo.sa",
+      "name": "Mohammed Abdo",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MosaiqueFM.tn",
+      "name": "Mosaique FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MouvTV.fr",
+      "name": "Mouv' TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Much.ca",
+      "name": "Much",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://fl1.moveonjoy.com/MUCH/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MusicIndia.in",
+      "name": "Music India",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-2.pishow.tv/live/226/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MusicInformationChannel.id",
+      "name": "Music Information Channel",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mic.siar.us/mic/live/mic.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MusicTVGranada.es",
+      "name": "Music TV Granada",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MuzSoyuz.ru",
+      "name": "Muz Soyuz",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MuzangalaTV.ao",
+      "name": "Muzangala TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Muzyka1.ru",
+      "name": "Muzyka 1",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://kino-1.catcast.tv/content/37745/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MuzykaKino.ru",
+      "name": "Muzyka Kino",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://kino-1.catcast.tv/content/37739/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MuzykaPervogo.ru",
+      "name": "Muzyka Pervogo",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://31.148.48.15/Muzika_Pervogo/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MuzzOne.kz",
+      "name": "MuzzOne",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Myx.ph",
+      "name": "Myx",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "NEWKPOP.us",
+      "name": "NEW K-POP",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "NOWRock.uk",
+      "name": "NOW Rock",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "NRG91.gr",
+      "name": "NRG 91",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://tv.nrg91.gr:1935/onweb/live/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "NRGTV.gr",
+      "name": "NRG TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "NavahangTV.fi",
+      "name": "Navahang TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://hls.navahang.live/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "NextHD.py",
+      "name": "Next HD",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Now70s.uk",
+      "name": "Now 70s",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Now80s.uk",
+      "name": "Now 80s",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Now90s00s.uk",
+      "name": "Now 90s00s",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "NuevaVidaFM.pr",
+      "name": "Nueva Vida FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Number1Ask.tr",
+      "name": "Number 1 Ask",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Number1Damar.tr",
+      "name": "Number 1 Damar",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Number1Dance.tr",
+      "name": "Number 1 Dance",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Number1TV.tr",
+      "name": "Number 1 TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ONFM.pt",
+      "name": "ON FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Ocko.cz",
+      "name": "Ocko",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "OckoExpres.cz",
+      "name": "Ocko Expres",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Onda15TV.es",
+      "name": "Onda 15 TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "OndaValenciaTV.es",
+      "name": "Onda Valencia TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "OndambientalTV.co",
+      "name": "Ondambiental TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "OneAdria.de",
+      "name": "One Adria",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "OneMusicTelevision.de",
+      "name": "One Music Television",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "OneTV.lb",
+      "name": "One TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "OneFM.lb",
+      "name": "OneFM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "OrangeBanglaTV.in",
+      "name": "Orange Bangla TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-4.pishow.tv/live/1499/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "P2MTV.fr",
+      "name": "P2M TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vdo2.pro-fhi.net:3207/stream/play.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PJDigitalRadioTV.ec",
+      "name": "PJ Digital Radio TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PMCRoyale.ae",
+      "name": "PMC Royale",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://pmcrohls.wns.live/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "POPWorldTV.es",
+      "name": "POP World TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PRIDEtvLATAM.cl",
+      "name": "PRIDEtv LATAM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PTCChakde.in",
+      "name": "PTC Chakde",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-1.pishow.tv/live/449/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PTCMusic.in",
+      "name": "PTC Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PamirTV.ca",
+      "name": "Pamir TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PanikTV.gr",
+      "name": "Panik TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PanoramaFM.sa",
+      "name": "Panorama FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ParrandaVallenata.co",
+      "name": "Parranda Vallenata",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PeppersTV.in",
+      "name": "Peppers TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-2.pishow.tv/live/1383/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Pequeradio.es",
+      "name": "Pequeradio",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PersianaFolk.fr",
+      "name": "Persiana Folk",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://sonhls.persiana.live/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PersianaNostalgia.fr",
+      "name": "Persiana Nostalgia",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://noshls.persiana.live/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PersianaVibe.fr",
+      "name": "Persiana Vibe",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://raphls.persiana.live/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Planet1009FM.pa",
+      "name": "Planet 100.9 FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PlayTV.cm",
+      "name": "Play TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PlayTV.gr",
+      "name": "Play TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PlutoTVMTVLatino.us",
+      "name": "Pluto TV MTV Latino",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId="
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Power1017FM.aw",
+      "name": "Power 101.7 FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PowerDance.tr",
+      "name": "Power Dance",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PowerHitRadio.lt",
+      "name": "Power Hit Radio",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PowerLove.tr",
+      "name": "Power Love",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PowerTurkAkustik.tr",
+      "name": "PowerTurk Akustik",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PowerTurkSlow.tr",
+      "name": "PowerTurk Slow",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PowerTurkTaptaze.tr",
+      "name": "PowerTurk Taptaze",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PublicMusic.in",
+      "name": "Public Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-3.pishow.tv/live/441/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "QMusic.be",
+      "name": "Q-Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "QelloConcertsbyStingray.ca",
+      "name": "Qello Concerts by Stingray",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Qmusic.nl",
+      "name": "Qmusic",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.qmusic.nl/qmusic/videohls.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "QwestTV.fr",
+      "name": "Qwest TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "QwestTVJazzBeyond.fr",
+      "name": "Qwest TV Jazz & Beyond",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RADIODISCOuntTV.ch",
+      "name": "RADIO DISCOunt TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RFPtv.pt",
+      "name": "RFPtv",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RHTGuadeloupe.gp",
+      "name": "RHT Guadeloupe",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RJTV.us",
+      "name": "RJTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://rjtvhls.wns.live/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RTILa3.ci",
+      "name": "RTI La 3",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://69.64.57.208/la3/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RTL1025Best.it",
+      "name": "RTL 102.5 Best",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RTL1025BroSis.it",
+      "name": "RTL 102.5 Bro&Sis",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RTL1025Caliente.it",
+      "name": "RTL 102.5 Caliente",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RTL1025Disco.it",
+      "name": "RTL 102.5 Disco",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RTL1025Napule.it",
+      "name": "RTL 102.5 Napule",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RTL1025TV.it",
+      "name": "RTL 102.5 TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RTL1025Traffic.it",
+      "name": "RTL 102.5 Traffic",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RTLGold.lu",
+      "name": "RTL Gold",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RTL2.fr",
+      "name": "RTL2",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RTVVida.es",
+      "name": "RTV Vida",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RUTV.ru",
+      "name": "RU.TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://hls-03-video.webcaramba.com/rutv/live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RabehSaqer.sa",
+      "name": "Rabeh Saqer",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioAlegria985FM.ec",
+      "name": "Radio Alegria 98.5 FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://video.compuwebecuador.com:3880/stream/play.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioBonita1067.ec",
+      "name": "Radio Bonita 106.7",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloudvideo.servers10.com:8081/8154/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioCarnavalTV.es",
+      "name": "Radio Carnaval TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://eu1.servers10.com:8081/8116/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioContact.be",
+      "name": "Radio Contact",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioCuencaEstereo.ec",
+      "name": "Radio Cuenca Estereo",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://eu1.servers10.com:8081/8074/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioFantastica989FM.ec",
+      "name": "Radio Fantastica 98.9 FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://190.107.232.9:8082/livestream/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioHit.ru",
+      "name": "Radio Hit",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://lova.me/hls/hithd.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioHitFMTV.rs",
+      "name": "Radio Hit FM TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioIdeal.hn",
+      "name": "Radio Ideal",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://www.idealfm104-7.com/hls/0/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioItaliaTrendTV.it",
+      "name": "Radio Italia Trend TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioJND.nl",
+      "name": "Radio JND",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioKaraoke.fr",
+      "name": "Radio Karaoke",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke-2.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioKarolinaTV.rs",
+      "name": "Radio Karolina TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioLolaTV.rs",
+      "name": "Radio Lola TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioMaster.pe",
+      "name": "Radio Master",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioMonumentalTV.ec",
+      "name": "Radio Monumental TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioPiterPanTV.it",
+      "name": "Radio Piter Pan TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioRealpolitik.ar",
+      "name": "Radio Realpolitik",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioReformaSeOye.pa",
+      "name": "Radio Reforma Se Oye",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://www.streaming507.net:19360/mevo2/mevo2.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioSWHTV.lv",
+      "name": "Radio SWH TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioShanson.ru",
+      "name": "Radio Shanson",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioTVSalOne.cv",
+      "name": "Radio TV Sal One",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioTeleHit.ht",
+      "name": "Radio Tele Hit",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioTropical.pe",
+      "name": "Radio Tropical",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioWeserTVBremen.de",
+      "name": "Radio Weser TV Bremen",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioZeta.it",
+      "name": "Radio Zeta",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Radiofreccia.it",
+      "name": "Radiofreccia",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RajMusixMalayalam.in",
+      "name": "Raj Musix Malayalam",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RajMusixTelugu.in",
+      "name": "Raj Musix Telugu",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-1.pishow.tv/live/1213/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RashidAlMajed.sa",
+      "name": "Rashid AlMajed",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RetroMusicTV.cz",
+      "name": "Retro Music TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Reyali.co",
+      "name": "Reyali",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://eu1.servers10.com:8081/8090/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RockTV.ro",
+      "name": "Rock TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SONGTVRussia.ru",
+      "name": "SONGTV Russia",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SOYPlanchaTV.cr",
+      "name": "SOY Plancha TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "STZTelebista.es",
+      "name": "STZ Telebista",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SalsaGordaTelevision.co",
+      "name": "Salsa Gorda Television",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SaltoBrasaMusic.nl",
+      "name": "Salto Brasa Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://salto-streams.nl/hls/sotv1.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SanaPlus.in",
+      "name": "Sana Plus",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://galaxyott.live/hls/sanaplus.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SangeetBangla.in",
+      "name": "Sangeet Bangla",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-4.pishow.tv/live/1143/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SangeetBhojpuri.in",
+      "name": "Sangeet Bhojpuri",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-4.pishow.tv/live/1293/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SangeetMarathi.in",
+      "name": "Sangeet Marathi",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-3.pishow.tv/live/1229/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ShansonTV.ru",
+      "name": "Shanson TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://uiptv.do.am/1ufc/602079679/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ShowBox.in",
+      "name": "ShowBox",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://epiconvh.akamaized.net/live/showbox/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SiembraTV.do",
+      "name": "Siembra TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streamunoapp.com:3809/live/siembratvlive.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SkyFolkTV.mk",
+      "name": "Sky Folk TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://eu.live.skyfolk.mk/live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SlagerMuzika.cz",
+      "name": "Slager Muzika",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream-23.mazana.tv/slagrmuzika.m3u8s"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SlagerOriginal.cz",
+      "name": "Slager Original",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream-13.mazana.tv/slagroriginal.m3u8s"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SolMusica.es",
+      "name": "Sol Musica",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SoloBailalo.cl",
+      "name": "Solo Bailalo",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SpektraTV.es",
+      "name": "SpektraTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SpiritTV.us",
+      "name": "Spirit TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Star101FM.gu",
+      "name": "Star 101 FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SteelbirdMusic.in",
+      "name": "Steelbird Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayCMusic.ca",
+      "name": "Stingray CMusic",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayClassicRock.ca",
+      "name": "Stingray Classic Rock",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayClassica.ca",
+      "name": "Stingray Classica",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayDJAZZ.ca",
+      "name": "Stingray DJAZZ",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayEasyListening.ca",
+      "name": "Stingray Easy Listening",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayEverything80s.ca",
+      "name": "Stingray Everything '80s",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayFlashback70s.ca",
+      "name": "Stingray Flashback 70's",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayGreatestHits.ca",
+      "name": "Stingray Greatest Hits",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayGreatestHolidayHits.us",
+      "name": "Stingray Greatest Holiday Hits",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayHitList.ca",
+      "name": "Stingray Hit List",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayHolidayHits.ca",
+      "name": "Stingray Holiday Hits",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayHotCountry.ca",
+      "name": "Stingray Hot Country",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayKaraoke.ca",
+      "name": "Stingray Karaoke",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayNaturescape.ca",
+      "name": "Stingray Naturescape",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayNothinBut90s.ca",
+      "name": "Stingray Nothin' But 90s",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayPopAdult.ca",
+      "name": "Stingray Pop Adult",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayRememberthe80s.ca",
+      "name": "Stingray Remember the 80s",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayRockAlternative.ca",
+      "name": "Stingray Rock Alternative",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayRomanceLatino.ca",
+      "name": "Stingray Romance Latino",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingraySmoothJazz.ca",
+      "name": "Stingray Smooth Jazz",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingraySoulStorm.ca",
+      "name": "Stingray Soul Storm",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayTheSpa.ca",
+      "name": "Stingray The Spa",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayTodaysKPop.ca",
+      "name": "Stingray Today's K-Pop",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayTodaysLatinPop.ca",
+      "name": "Stingray Today's Latin Pop",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayUrbanBeat.ca",
+      "name": "Stingray Urban Beat",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StranaFM.ru",
+      "name": "Strana FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "StrykTV.us",
+      "name": "Stryk TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://fffffff110156200.tvustream.com:8298/ryfy.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SunMusic.in",
+      "name": "Sun Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://15.235.144.106:14055"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SuperQPanama.pa",
+      "name": "Super Q Panama",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "SupermusicaTV.co",
+      "name": "Supermusica TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "T2TV.ir",
+      "name": "T2 TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://t2hls.wns.live/hls/stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TDIRadioTV.rs",
+      "name": "TDI Radio TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TMA.gp",
+      "name": "TMA",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://hls.tmacaraibes.com/live/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TNTMusic.ru",
+      "name": "TNT Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TRTMuzik.tr",
+      "name": "TRT Muzik",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TVExitos.do",
+      "name": "TV Exitos",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TVOMIX.es",
+      "name": "TVOMIX",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloud.tvomix.com/TVOMIX/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TVSMusicNetwork.us",
+      "name": "TVS Music Network",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TVUNO.pe",
+      "name": "TVUNO",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TabbarHits.in",
+      "name": "Tabbar Hits",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Tarab.sa",
+      "name": "Tarab",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TarangMusic.in",
+      "name": "Tarang Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TeleDominicanaTV.do",
+      "name": "Tele Dominicana TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TeleZoukla.mq",
+      "name": "Tele Zoukla",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vdo.pro-fhi.net:3228/stream/play.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Tele7music.ro",
+      "name": "Tele7music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.tele7music.ro/hls/stream/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TheCountryNetwork.us",
+      "name": "The Country Network",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TheVoice.bg",
+      "name": "The Voice",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://bss1.neterra.tv/thevoice/thevoice.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TiankovFolk.bg",
+      "name": "Tiankov Folk",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streamer103.neterra.tv/tiankov-folk/live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TiankovOrientFolk.bg",
+      "name": "Tiankov Orient Folk",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streamer103.neterra.tv/tiankov-orient/live.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TodayRadio.lu",
+      "name": "Today Radio",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TopEstradaTV.mk",
+      "name": "TopEstrada TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://live.topestrada.com/live/topestrada/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TopicalMoonRD.do",
+      "name": "Topical Moon RD",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Totalmusic.uk",
+      "name": "Totalmusic",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Totalmusic2000s.uk",
+      "name": "Totalmusic 2000s",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Totalmusic80s.uk",
+      "name": "Totalmusic 80s",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TotalmusicConcerts.uk",
+      "name": "Totalmusic Concerts",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TotalmusicDance.uk",
+      "name": "Totalmusic Dance",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TraceBrazuca.fr",
+      "name": "Trace Brazuca",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TraceLatina.fr",
+      "name": "Trace Latina",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TraceUrban.fr",
+      "name": "Trace Urban",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TraditionalTV.ro",
+      "name": "Traditional TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://83.103.149.75:8085/udp/239.30.0.9:4000"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TropiQ997FM.pa",
+      "name": "Tropi Q 99.7 FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TropicalMusicTV.us",
+      "name": "Tropical Music TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TuMusicaHD.do",
+      "name": "Tu Musica HD",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mlb.essastream.com:8081/tumusicahd/tracks-v1a1/mono.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TurboMixRadioTV.pe",
+      "name": "Turbo Mix Radio TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TurkmenOwazy.tm",
+      "name": "Turkmen Owazy",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://alpha.tv.online.tm/hls/ch005.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "UltimateTV.in",
+      "name": "Ultimate TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.galaxyott.live/live/utv/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "UrbanoTV.cr",
+      "name": "Urbano TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VClassicTV.cl",
+      "name": "V Classic TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "V2BEATTV.uk",
+      "name": "V2BEAT TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://abr.de1se01.v2beat.live/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VAMTV.cw",
+      "name": "VAM TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VH1.us",
+      "name": "VH1",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://fl1.moveonjoy.com/VH1/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VIVARussia.ru",
+      "name": "VIVA Russia",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VMLatino.cr",
+      "name": "VM Latino",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VaanavilTV.in",
+      "name": "Vaanavil TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VallenatoInternacional.us",
+      "name": "Vallenato Internacional",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Vevo70s.us",
+      "name": "Vevo '70s",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Vevo80s.us",
+      "name": "Vevo '80s",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Vevo90s.us",
+      "name": "Vevo '90s",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Vevo2K.us",
+      "name": "Vevo 2K",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VevoCountry.us",
+      "name": "Vevo Country",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VevoLatino.us",
+      "name": "Vevo Latino",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VevoPop.us",
+      "name": "Vevo Pop",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VevoRB.us",
+      "name": "Vevo R&B",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VevoRetroRock.us",
+      "name": "Vevo Retro Rock",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VevoTrueSchoolHipHop.us",
+      "name": "Vevo True School Hip-Hop",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VideoTourChannel.cr",
+      "name": "Video Tour Channel",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://k4.usastreams.com/videotour/videotour/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VintageMusic.cr",
+      "name": "Vintage Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VisionTelevision.mx",
+      "name": "Vision Television",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloudvideo.servers10.com:8081/8016/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VoiceOverRadioTV.cr",
+      "name": "VoiceOver Radio TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VolksmusikTV.de",
+      "name": "Volksmusik TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VosyTV.ec",
+      "name": "Vos y TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "WVCULP.us",
+      "name": "WVCU-LP",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Wanasah.ae",
+      "name": "Wanasah",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://wanasah-prod-dub-enc.edgenextcdn.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "XLevelMedia.ar",
+      "name": "X Level Media",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "XITE.nl",
+      "name": "XITE",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "XITERockxMetal.nl",
+      "name": "XITE Rock x Metal",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "XPTV1.es",
+      "name": "XPTV1",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "YRFMusic.in",
+      "name": "YRF Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "YleX.fi",
+      "name": "YleX",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "YoMTV.us",
+      "name": "Yo! MTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654102ed770cf1000866c307/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e98-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c7b00a0-d803-41b5-95bb-c20d39e69ce2"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ZBMusic.in",
+      "name": "ZB Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://server.zillarbarta.com/zbmusic/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ZFMZoetermeerTV.nl",
+      "name": "ZFM Zoetermeer TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://zfmzoetermeer.nl/live/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ZUTV.ro",
+      "name": "ZU TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://hls.rundletv.eu.org/LIVE$RadioZU/6.m3u8/Level/300720051?end=END&start=LIVE"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ZharPtitsa.ru",
+      "name": "Zhar Ptitsa",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ZorTV.uz",
+      "name": "Zo'r TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "ZweiMusicTelevision.de",
+      "name": "Zwei Music Television",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "iTVAfrobeatsMusic.ca",
+      "name": "iTV Afrobeats Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "iTVArabicMusic.ca",
+      "name": "iTV Arabic Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "iTVIndianMusic.ca",
+      "name": "iTV Indian Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "iTVLatinMusic.ca",
+      "name": "iTV Latin Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "iTVTurkishMusic.ca",
+      "name": "iTV Turkish Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "iTVUrbanMusic.ca",
+      "name": "iTV Urban Music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "m2oTV.it",
+      "name": "m2o TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "o2tv.ru",
+      "name": "o2tv",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://31.148.48.15/O2_HD/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
     }
   ]
 }
