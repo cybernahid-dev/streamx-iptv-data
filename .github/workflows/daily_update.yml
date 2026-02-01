@@ -24,8 +24,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        # নতুন লাইব্রেরি 'duckduckgo-search' এখানে যুক্ত করা হয়েছে
-        pip install requests duckduckgo-search
+        # 'python -m pip' ব্যবহার করলে পাথ সমস্যা হয় না
+        python -m pip install requests duckduckgo-search
 
     - name: Run Update Script
       run: python update_channels.py

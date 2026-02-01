@@ -11,8 +11,9 @@ from datetime import datetime
 # লাইব্রেরি ইমপোর্ট (Scraping এর জন্য)
 try:
     from duckduckgo_search import DDGS
-except ImportError:
-    print("❌ Error: 'duckduckgo-search' library missing.")
+except ImportError as e:
+    print(f"❌ Error: 'duckduckgo-search' library missing or failed to import.")
+    print(f"Details: {e}")
     print("👉 Please run: pip install duckduckgo-search")
     exit()
 
@@ -58,10 +59,12 @@ def find_real_logo_online(channel_name):
     query = f"{channel_name} tv channel logo transparent wikipedia"
     try:
         # DDGS ব্যবহার করে ইমেজ সার্চ (১টি রেজাল্ট আনবে)
-        results = list(DDGS().images(query, max_results=1))
-        if results:
-            image_url = results[0]['image']
-            return image_url
+        # Context Manager ব্যবহার করা ভালো
+        with DDGS() as ddgs:
+            results = list(ddgs.images(query, max_results=1))
+            if results:
+                image_url = results[0]['image']
+                return image_url
     except Exception as e:
         logger.warning(f"   ⚠️ Logo search failed for {channel_name}: {e}")
     
