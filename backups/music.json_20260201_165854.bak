@@ -78,7 +78,7 @@
     {
       "id": "13Festival.cl",
       "name": "13 Festival",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg/revision/latest?cb=20230902024552&path-prefix=es",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
       ],
@@ -88,7 +88,7 @@
     {
       "id": "30AMusic.us",
       "name": "30A Music",
-      "logoUrl": "https://www.parsatv.com/index_files/channels/30atv.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://30a-tv.com/music.m3u8"
       ],
@@ -98,7 +98,7 @@
     {
       "id": "3ABNPraiseHimMusicNetwork.us",
       "name": "3ABN Praise Him Music Network",
-      "logoUrl": "https://www.dashtv.net/wp-content/uploads/2023/04/Networks_3ABN_Praise_Him_1280x720-1024x576.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8"
       ],
@@ -108,7 +108,7 @@
     {
       "id": "4FunTV.pl",
       "name": "4 Fun TV",
-      "logoUrl": "https://w7.pngwing.com/pngs/913/246/png-transparent-4fun-tv-television-channel-8tv-4fun-gold-funny-logo-purple-television-violet.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
       ],
@@ -118,7 +118,7 @@
     {
       "id": "4Music.fr",
       "name": "4 Music",
-      "logoUrl": "https://w7.pngwing.com/pngs/1014/913/png-transparent-4music-television-channel-logo-creative-television-text-rectangle.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://musichls.persiana.live/hls/stream.m3u8"
       ],
@@ -128,7 +128,7 @@
     {
       "id": "4Kurd.fr",
       "name": "4Kurd",
-      "logoUrl": "https://www.aparatchi.com/images/chanells-logo/4kurd.svg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://4kuhls.persiana.live/hls/stream.m3u8"
       ],
@@ -138,7 +138,7 @@
     {
       "id": "51RadioTV.it",
       "name": "51 Radio TV",
-      "logoUrl": "https://i.imgur.com/UupkBt6.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
       ],
@@ -148,7 +148,7 @@
     {
       "id": "7RadioVisione.it",
       "name": "7 RadioVisione",
-      "logoUrl": "https://cdn-profiles.tunein.com/s154487/images/logog.png?t=1701259639000",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8"
       ],
@@ -158,7 +158,7 @@
     {
       "id": "7YOUME.it",
       "name": "7 YOU & ME",
-      "logoUrl": "https://www.vhv.rs/dpng/d/560-5605996_tv-network-logos-png-png-transparent-tv-channel.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8"
       ],
@@ -168,7 +168,7 @@
     {
       "id": "7080TV.it",
       "name": "70-80 TV",
-      "logoUrl": "https://www.vhv.rs/dpng/d/560-5606202_tv-channel-logos-different-channels-on-tv-hd.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8"
       ],
@@ -178,7 +178,7 @@
     {
       "id": "88Stereo.cr",
       "name": "88 Stereo",
-      "logoUrl": "https://www.kindpng.com/picc/m/682-6822848_88-stereo-costa-rica-hd-png-download.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8"
       ],
@@ -188,7 +188,7 @@
     {
       "id": "8XM.pk",
       "name": "8XM",
-      "logoUrl": "https://www.vhv.rs/dpng/d/488-4888540_8xm-logo-png-transparent-png.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8"
       ],
@@ -198,7 +198,7 @@
     {
       "id": "981PearlFM.sx",
       "name": "98.1 Pearl FM",
-      "logoUrl": "https://i.imgur.com/GY750xh.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8"
       ],
@@ -208,7 +208,7 @@
     {
       "id": "9XJhakaas.in",
       "name": "9X Jhakaas",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/81/9X_Jhakaas_2011.jpg/revision/latest/scale-to-width-down/220?cb=20180603140119",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8"
       ],
@@ -218,7 +218,7 @@
     {
       "id": "9XTashan.in",
       "name": "9X Tashan",
-      "logoUrl": "https://png.pngitem.com/pimgs/s/613-6130656_9x-tashan-logo-png-transparent-png.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8"
       ],
@@ -228,7 +228,7 @@
     {
       "id": "9XM.in",
       "name": "9XM",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f1/9xm_blue.svg/revision/latest/scale-to-width-down/250?cb=20210508163726",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8"
       ],
@@ -238,7 +238,7 @@
     {
       "id": "A1.ru",
       "name": "A1",
-      "logoUrl": "https://www.indianetzone.com/public/admin/uploadImage/Logo_of_A1_Television_1.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://31.148.48.15/A1/index.m3u8"
       ],
@@ -248,7 +248,7 @@
     {
       "id": "ACWUGTV.ug",
       "name": "ACW UG TV",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/aa/acw-ug-tv-ug.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live.acwugtv.com/hls/stream.m3u8"
       ],
@@ -258,7 +258,7 @@
     {
       "id": "AERadioTV.cl",
       "name": "AE Radio TV",
-      "logoUrl": "https://cdn.imgbin.com/19/14/0/imgbin-a-e-networks-television-channel-logo-germany-tK80xbnYCrCTm5uUTDkC29wyw.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8"
       ],
@@ -268,7 +268,7 @@
     {
       "id": "AFNTV.ir",
       "name": "AFN TV",
-      "logoUrl": "https://www.seekpng.com/png/detail/368-3688671_afn-spectrum-01-logo-png-transparent-afn-news.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
       ],
@@ -278,7 +278,7 @@
     {
       "id": "AMC.af",
       "name": "AMC",
-      "logoUrl": "https://www.pngall.com/wp-content/uploads/15/AMC-Logo-PNG.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://amchls.wns.live/hls/stream.m3u8"
       ],
@@ -288,7 +288,7 @@
     {
       "id": "AXSTV.us",
       "name": "AXS TV",
-      "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/250px-AXS_TV_logo.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://fl1.moveonjoy.com/Axs_TV/index.m3u8"
       ],
@@ -298,7 +298,7 @@
     {
       "id": "AbdulmajeedAbdullah.sa",
       "name": "Abdulmajeed Abdullah",
-      "logoUrl": "http://stoore.ae/cdn/shop/files/Badge-Abdul-Majeed-Abdullah-3_2e69ab59.jpg?v=1749635915&width=2048",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8"
       ],
@@ -308,7 +308,7 @@
     {
       "id": "ActivaTV.es",
       "name": "Activa TV",
-      "logoUrl": "https://i.imgur.com/S69lDu4.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streamtv.mediasector.es/hls/activatv/index.m3u8"
       ],
@@ -318,7 +318,7 @@
     {
       "id": "AfrobeatTVEntertainment.uk",
       "name": "Afrobeat TV Entertainment",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100076442564251",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream.ecable.tv/afrobeats/index.m3u8"
       ],
@@ -328,7 +328,7 @@
     {
       "id": "AghaniAghaniTV.lb",
       "name": "Aghani Aghani TV",
-      "logoUrl": "http://www.lyngsat-logo.com/logo/tv/aa/aghani_aghani_tv_lb.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8"
       ],
@@ -338,7 +338,7 @@
     {
       "id": "AlbKanaleMusicTV.al",
       "name": "AlbKanale Music TV",
-      "logoUrl": "http://albportal.net/images/ALBKANALEMUSIC-NEW.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://albportal.net/albkanalemusic.m3u8"
       ],
@@ -348,7 +348,7 @@
     {
       "id": "AntenneKaernten.at",
       "name": "Antenne Kaernten",
-      "logoUrl": "https://images.seeklogo.com/logo-png/52/1/antenne-karnten-logo-png_seeklogo-520427.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8"
       ],
@@ -358,7 +358,7 @@
     {
       "id": "AntenneSteiermark.at",
       "name": "Antenne Steiermark",
-      "logoUrl": "https://images.seeklogo.com/logo-png/52/1/antenne-steiermark-logo-png_seeklogo-520428.png?v=1957865617595083760",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8"
       ],
@@ -368,7 +368,7 @@
     {
       "id": "ArabicaTV.lb",
       "name": "Arabica TV",
-      "logoUrl": "https://arabica-tv.com/wp-content/uploads/2022/07/Arabica-tv-Logo-1.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
       ],
@@ -378,7 +378,7 @@
     {
       "id": "AtomicAcademyTV.ro",
       "name": "Atomic Academy TV",
-      "logoUrl": "https://atomicacademytv.ro/wp-content/uploads/2024/08/Academie-Logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://atomic.streamnet.ro/academia.m3u8"
       ],
@@ -388,7 +388,7 @@
     {
       "id": "AtomicTV.ro",
       "name": "Atomic TV",
-      "logoUrl": "https://www.atomictv.ro/wp-content/uploads/2021/10/Atomic_TV.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://atomic.streamnet.ro/atomictv.m3u8"
       ],
@@ -398,7 +398,7 @@
     {
       "id": "AvangTV.us",
       "name": "Avang TV",
-      "logoUrl": "https://www.avang.live/_next/image?url=/avangtvtextlogo.png&w=384&q=75",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://hls.avang.live/hls/stream.m3u8"
       ],
@@ -408,7 +408,7 @@
     {
       "id": "AzaharesRadiovisualMultimedia.ar",
       "name": "Azahares Radiovisual Multimedia",
-      "logoUrl": "https://i.imgur.com/g1BFoSs.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8"
       ],
@@ -418,7 +418,7 @@
     {
       "id": "B4UMusic.in",
       "name": "B4U Music",
-      "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8"
       ],
@@ -428,7 +428,7 @@
     {
       "id": "BEATTV.nl",
       "name": "BEATTV",
-      "logoUrl": "https://mir-s3-cdn-cf.behance.net/projects/404/140bb3218947541.Y3JvcCwyMDQxLDE1OTYsMCww.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://tv.beatfm.nl/live.m3u8"
       ],
@@ -438,7 +438,7 @@
     {
       "id": "BIZMusic.uz",
       "name": "BIZ Music",
-      "logoUrl": "https://w7.pngwing.com/pngs/404/78/png-transparent-biz-tv-hd-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8"
       ],
@@ -448,7 +448,7 @@
     {
       "id": "BOKTV.za",
       "name": "BOKTV",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=983266855190359&get_thumbnail=1",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8"
       ],
@@ -458,7 +458,7 @@
     {
       "id": "BPXTVRadio.us",
       "name": "BPX TV Radio",
-      "logoUrl": "https://i.imgur.com/86VXni8.jpeg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8"
       ],
@@ -468,7 +468,7 @@
     {
       "id": "BRIDGE.ru",
       "name": "BRIDGE",
-      "logoUrl": "https://seeklogo.com/images/B/bridge-tv-logo-EA33673C86-seeklogo.com.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://31.148.48.15/Bridge_TV/index.m3u8"
       ],
@@ -478,7 +478,7 @@
     {
       "id": "BRIDGEClassic.ru",
       "name": "BRIDGE Classic",
-      "logoUrl": "http://bridgetv.ru/s/img/logo/nopadding/bridgetv_classic.svg?nopadding=true",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://31.148.48.15/Bridge_TV_Classic/index.m3u8"
       ],
@@ -488,7 +488,7 @@
     {
       "id": "BRIDGEDeluxe.ru",
       "name": "BRIDGE Deluxe",
-      "logoUrl": "https://static.wikia.nocookie.net/tvpedia/images/b/b5/Bridge_TV_Deluxe.svg/revision/latest?cb=20190902114610&path-prefix=ru",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://31.148.48.15/Bridge_TV_HD/index.m3u8"
       ],
@@ -498,7 +498,7 @@
     {
       "id": "BRIDGEHits.ru",
       "name": "BRIDGE Hits",
-      "logoUrl": "https://seeklogo.com/images/B/bridge-tv-hits-logo-DF64E42767-seeklogo.com.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://31.148.48.15/Bridge_TV_Dance/index.m3u8"
       ],
@@ -508,7 +508,7 @@
     {
       "id": "BTATV.ve",
       "name": "BTA TV",
-      "logoUrl": "https://image.pngaaa.com/168/1099168-middle.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
       ],
@@ -518,7 +518,7 @@
     {
       "id": "BTBMusic.pl",
       "name": "BTB Music",
-      "logoUrl": "https://singletrackworld.com/wp-content/uploads/2022/04/btb-tv-logo-2.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
       ],
@@ -528,7 +528,7 @@
     {
       "id": "BalleBalle.in",
       "name": "Balle Balle",
-      "logoUrl": "https://www.gulfbuzz.com/wp-content/uploads/2021/03/Untitled-design-4-min-696x478.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mcncdndigital.com/balleballetv/index.m3u8"
       ],
@@ -538,7 +538,7 @@
     {
       "id": "BarazaTVDeepHouse.gr",
       "name": "Baraza TV Deep House",
-      "logoUrl": "https://i.imgur.com/TZ1unwF.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8"
       ],
@@ -548,7 +548,7 @@
     {
       "id": "BarazaTVRelaxing.gr",
       "name": "Baraza TV Relaxing",
-      "logoUrl": "https://i.imgur.com/TZ1unwF.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8"
       ],
@@ -558,7 +558,7 @@
     {
       "id": "BarbudMusic.af",
       "name": "Barbud Music",
-      "logoUrl": "https://barbudmusic.com/wp-content/uploads/2022/01/barbud-logo-op.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8"
       ],
@@ -568,7 +568,7 @@
     {
       "id": "BeatsRadio.ar",
       "name": "Beats Radio",
-      "logoUrl": "https://www.freepnglogos.com/uploads/beats-png-logo/media-beats-png-logo-16.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8"
       ],
@@ -578,7 +578,7 @@
     {
       "id": "BelRTL.be",
       "name": "Bel RTL",
-      "logoUrl": "https://www.logotypes101.com/logos/459/4F71660A4975BCF10A3FE07BB1765E21/Bel_RTL.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8"
       ],
@@ -588,7 +588,7 @@
     {
       "id": "BestofDanceTV.ee",
       "name": "Best of Dance TV",
-      "logoUrl": "https://www.dancechanneltv.com/upload/logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8"
       ],
@@ -598,7 +598,7 @@
     {
       "id": "BibelTVMusik.de",
       "name": "Bibel TV Musik",
-      "logoUrl": "https://i.imgur.com/yIqOcP5.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8"
       ],
@@ -608,7 +608,7 @@
     {
       "id": "BravoTV.hr",
       "name": "Bravo! TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/1200px-Bravo_TV.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8"
       ],
@@ -618,7 +618,7 @@
     {
       "id": "CEACOMTV.bo",
       "name": "CEACOM TV",
-      "logoUrl": "https://ceacomtv.com/images/ceacom/logos/Logo+CEACOM+02+icon.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://eu1.servers10.com:8081/ceacom/index.m3u8"
       ],
@@ -628,7 +628,7 @@
     {
       "id": "CKNOFM.ca",
       "name": "CKNO-FM",
-      "logoUrl": "https://i.imgur.com/sF2g7KE.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://videostream.jpbgdigital.com/NOWTV.m3u8"
       ],
@@ -638,7 +638,7 @@
     {
       "id": "CMCTV.hr",
       "name": "CMC TV",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/d/d0/CMC_TV.svg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream.cmctv.hr:49998/cmc/live.m3u8"
       ],
@@ -648,7 +648,7 @@
     {
       "id": "CMT.us",
       "name": "CMT",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://fl1.moveonjoy.com/CMT/index.m3u8"
       ],
@@ -658,7 +658,7 @@
     {
       "id": "CMTEqualPlay.us",
       "name": "CMT Equal Play",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/54/CMT_Equal_Play.svg/revision/latest/scale-to-width-down/250?cb=20210629162050",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280712-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd328c28-b23b-4f85-9b18-9d73786f7109"
       ],
@@ -668,7 +668,7 @@
     {
       "id": "CadenaElite.es",
       "name": "Cadena Elite",
-      "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/BtnZvgnaBa.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
       ],
@@ -678,7 +678,7 @@
     {
       "id": "CaliforniaMusicChannel.us",
       "name": "California Music Channel",
-      "logoUrl": "https://assets-jpcust.jwpsrv.com/thumbnails/ordrcr5j-720.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8"
       ],
@@ -688,7 +688,7 @@
     {
       "id": "Canal3KMKTV.cr",
       "name": "Canal 3 KMK TV",
-      "logoUrl": "https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2024-01/canal-3-kmk-tv-costa-rica-min.png.webp?itok=uOur17Lh",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
       ],
@@ -698,7 +698,7 @@
     {
       "id": "CityEdenBirmaPlay.ru",
       "name": "City Eden Birma Play",
-      "logoUrl": "https://i.imgur.com/t6wlmal.jpeg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cityeden.catcast.tv/content/34364/index.m3u8"
       ],
@@ -708,7 +708,7 @@
     {
       "id": "CityEdenClassicMusic.ru",
       "name": "City Eden Classic Music",
-      "logoUrl": "https://i.imgur.com/t6wlmal.jpeg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cityeden.catcast.tv/content/47400/index.m3u8"
       ],
@@ -718,7 +718,7 @@
     {
       "id": "CityEdenMeditationMusic.ru",
       "name": "City Eden Meditation Music",
-      "logoUrl": "https://i.imgur.com/t6wlmal.jpeg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cityeden.catcast.tv/content/47410/index.m3u8"
       ],
@@ -728,7 +728,7 @@
     {
       "id": "CityEdenPlay.ru",
       "name": "City Eden Play",
-      "logoUrl": "https://i.imgur.com/t6wlmal.jpeg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cityeden.catcast.tv/content/34100/index.m3u8"
       ],
@@ -738,7 +738,7 @@
     {
       "id": "CityEdenSirtakiTV.ru",
       "name": "City Eden Sirtaki TV",
-      "logoUrl": "https://i.imgur.com/t6wlmal.jpeg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cityeden.catcast.tv/content/46421/index.m3u8"
       ],
@@ -748,7 +748,7 @@
     {
       "id": "CityTV.bg",
       "name": "City TV",
-      "logoUrl": "https://logowik.com/content/uploads/images/city-tv7517.logowik.com.webp",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://tv.city.bg/play/tshls/citytv/index.m3u8"
       ],
@@ -758,7 +758,7 @@
     {
       "id": "Classica.us",
       "name": "Classica",
-      "logoUrl": "https://img.favpng.com/6/17/22/classica-hd-logo-high-definition-television-television-channel-paramount-channel-italy-png-favpng-Pf8NaVKxgLZMwgi2xtyGpQQPi.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280711-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1c3ac7db-5cfe-4d39-aec3-70a684e58c38"
       ],
@@ -768,7 +768,7 @@
     {
       "id": "ClubbingTV.us",
       "name": "Clubbing TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8"
       ],
@@ -778,7 +778,7 @@
     {
       "id": "CompanyTV.it",
       "name": "Company TV",
-      "logoUrl": "https://www.pngitem.com/pimgs/m/274-2740975_transparent-tv-channel-logos-hd-png-download.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8"
       ],
@@ -788,7 +788,7 @@
     {
       "id": "ConectaTV.mx",
       "name": "Conecta TV",
-      "logoUrl": "https://play-lh.googleusercontent.com/X_WzRIYbmrHobR33xDSq3g2nyPis-xaD3rJILHUmVGlBzOi9R720TKKTTS2PiS7fTNs",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8"
       ],
@@ -798,7 +798,7 @@
     {
       "id": "CoolFM989.aw",
       "name": "Cool FM 98.9",
-      "logoUrl": "https://i.imgur.com/uGE6lZ2.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8"
       ],
@@ -808,7 +808,7 @@
     {
       "id": "Couleur3.ch",
       "name": "Couleur 3",
-      "logoUrl": "https://logowik.com/content/uploads/images/couleur-31128.logowik.com.webp",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8"
       ],
@@ -818,7 +818,7 @@
     {
       "id": "CumbiaMix.ar",
       "name": "Cumbia Mix",
-      "logoUrl": "https://yt3.googleusercontent.com/1WnM6Z3-DiDm0UcUfaJhz7HubBP2HB0x9xRaeKcoQHvZvzMS1esPH_xn51zli9bAuZ3VSOybsA=w544-c-h544-k-c0x00ffffff-no-l90-rj",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8"
       ],
@@ -828,7 +828,7 @@
     {
       "id": "D3TV.ml",
       "name": "D3 TV",
-      "logoUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/560dfea6-13fc-45c5-abb5-0692213c6010/dg3t6b1-2751d34e-df72-4843-994a-ac9f847d3326.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2MGRmZWE2LTEzZmMtNDVjNS1hYmI1LTA2OTIyMTNjNjAxMFwvZGczdDZiMS0yNzUxZDM0ZS1kZjcyLTQ4NDMtOTk0YS1hYzlmODQ3ZDMzMjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5_L7kEN1xdpIsbjC3zAYCkqVDLiM-xWBCMDHfvF6stM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8"
       ],
@@ -838,7 +838,7 @@
     {
       "id": "DASDING908.de",
       "name": "DASDING 90.8",
-      "logoUrl": "https://cdn-profiles.tunein.com/s20295/images/logog.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8"
       ],
@@ -848,7 +848,7 @@
     {
       "id": "DBMTV.fr",
       "name": "DBM TV",
-      "logoUrl": "https://i.imgur.com/ab6p2SW.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
       ],
@@ -858,7 +858,7 @@
     {
       "id": "DMSat.rs",
       "name": "DM Sat",
-      "logoUrl": "https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/dm-sat-sender-logo-275910.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd"
       ],
@@ -868,7 +868,7 @@
     {
       "id": "DMF.de",
       "name": "DMF",
-      "logoUrl": "https://brandlogo.org/wp-content/uploads/2024/06/DMF-Logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8"
       ],
@@ -878,7 +878,7 @@
     {
       "id": "DSTV.bg",
       "name": "DSTV",
-      "logoUrl": "https://www.liblogo.com/img-logo/ds8510df8d-dstv-logo-dstv-logopedia-.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://46.249.95.140:8081/hls/data.m3u8"
       ],
@@ -888,7 +888,7 @@
     {
       "id": "DanceFM.cl",
       "name": "Dance FM",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/0f/Dance_FM_Blue_&_Pink.png/revision/latest?cb=20210806154955",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8"
       ],
@@ -898,7 +898,7 @@
     {
       "id": "DanceTVAlgorhythm.ee",
       "name": "DanceTV Algorhythm",
-      "logoUrl": "https://www.dancechanneltv.com/upload/logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8"
       ],
@@ -908,7 +908,7 @@
     {
       "id": "DanceTVDeepHouseDistrict.ee",
       "name": "DanceTV Deep House District",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8"
       ],
@@ -918,7 +918,7 @@
     {
       "id": "DanceTVEDMMainstage.ee",
       "name": "DanceTV EDM Mainstage",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8"
       ],
@@ -928,7 +928,7 @@
     {
       "id": "DanceTVHouseFloor.ee",
       "name": "DanceTV House Floor",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8"
       ],
@@ -938,7 +938,7 @@
     {
       "id": "DanceTVMinimalTech.ee",
       "name": "DanceTV Minimal Tech",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8"
       ],
@@ -948,7 +948,7 @@
     {
       "id": "DanceTVTechnoWarehouse.ee",
       "name": "DanceTV Techno Warehouse",
-      "logoUrl": "https://www.dancechanneltv.com/upload/flogo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8"
       ],
@@ -958,7 +958,7 @@
     {
       "id": "DeluxeDance.de",
       "name": "Deluxe Dance",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/26/Deluxe_Dance_by_Kontor_(2023).svg/revision/latest/scale-to-width-down/200?cb=20230127211304",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
       ],
@@ -968,7 +968,7 @@
     {
       "id": "DeluxeLounge.de",
       "name": "Deluxe Lounge",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/62/Deluxe_Lounge_HD_logo.svg/revision/latest?cb=20231101180933",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://jmp2.uk/stvp-CHAJ0500413A"
       ],
@@ -978,7 +978,7 @@
     {
       "id": "DeluxeMusic.de",
       "name": "Deluxe Music",
-      "logoUrl": "https://seeklogo.com/images/D/deluxe-music-logo-3059AF0E9D-seeklogo.com.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
       ],
@@ -988,7 +988,7 @@
     {
       "id": "DeluxeRap.de",
       "name": "Deluxe Rap",
-      "logoUrl": "https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_RAP_LOGO_RGB-1.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
       ],
@@ -998,7 +998,7 @@
     {
       "id": "Dhamaal.in",
       "name": "Dhamaal",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Dhamaal_Gujarat_Sabgroup.png/revision/latest?cb=20210227202142",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-1.pishow.tv/live/1291/master.m3u8"
       ],
@@ -1008,7 +1008,7 @@
     {
       "id": "DhoomMusic.in",
       "name": "Dhoom Music",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/61/Dhoom_Music_old.jpeg/revision/latest/scale-to-width-down/250?cb=20191218152011",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-1.pishow.tv/live/1456/master.m3u8"
       ],
@@ -1018,7 +1018,7 @@
     {
       "id": "DismarRadioTV.py",
       "name": "Dismar Radio TV",
-      "logoUrl": "https://play-lh.googleusercontent.com/lxkdoEt5hBnfsfpfrGQwtSkiHKQwCOHN838ft6p23qBKlWPzO1XPHrw-zcpBf29ENA",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
       ],
@@ -1028,7 +1028,7 @@
     {
       "id": "DreamTurk.tr",
       "name": "Dream Turk",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/80/Dream_Turk.png/revision/latest?cb=20220108143903",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8"
       ],
@@ -1038,7 +1038,7 @@
     {
       "id": "EBSMusika.us",
       "name": "EBS Musika",
-      "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nHFBUsDJvKlfBIXZ3G4EGW84-oR7ZNr9PPZrTg8fBt-Q=s900-c-k-c0x00ffffff-no-rj",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8"
       ],
@@ -1048,7 +1048,7 @@
     {
       "id": "ETVMusic.in",
       "name": "ETV Music",
-      "logoUrl": "https://yt3.ggpht.com/a/AATXAJxCqNkFE1BBlovnW8ktfErc7tjXMKm3UEFi=s900-c-k-c0xffffffff-no-rj-mo",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8"
       ],
@@ -1058,7 +1058,7 @@
     {
       "id": "ElRadio9090FM.eg",
       "name": "El Radio 9090 FM",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/d6/El-Radio_9090_FM_Logo_2013.png/revision/latest/scale-to-width-down/300?cb=20250121021222",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://9090video.mobtada.com/hls/stream.m3u8"
       ],
@@ -1068,7 +1068,7 @@
     {
       "id": "ElSolNetworkTV.ec",
       "name": "El Sol Network TV",
-      "logoUrl": "https://i.imgur.com/TIH3zlP.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8"
       ],
@@ -1078,7 +1078,7 @@
     {
       "id": "EnerGeekRadio.cl",
       "name": "EnerGeek Radio",
-      "logoUrl": "https://energeek.cl/wp-content/uploads/2024/10/energeekbg-1.webp",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH"
       ],
@@ -1088,7 +1088,7 @@
     {
       "id": "EuroIndieMusicChartTV.it",
       "name": "Euro Indie Music Chart TV",
-      "logoUrl": "https://euroindiemusic.info/wp-content/uploads/2021/06/Aqua-Play-Icon-Personal-Logo-700x700.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8"
       ],
@@ -1098,7 +1098,7 @@
     {
       "id": "EuropaPlusTV.ru",
       "name": "Europa Plus TV",
-      "logoUrl": "https://vectorseek.com/wp-content/uploads/2024/02/Europa-Plus-TV-Logo-Vector.svg-.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://31.148.48.15/Europa_Plus_HD/index.m3u8"
       ],
@@ -1108,7 +1108,7 @@
     {
       "id": "ExtraTV.hr",
       "name": "Extra TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/1200px-E4_Extra_logo_2022.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8"
       ],
@@ -1118,7 +1118,7 @@
     {
       "id": "FMITALIA.it",
       "name": "FM ITALIA",
-      "logoUrl": "https://images.sftcdn.net/images/t_app-icon-m/p/32ab29af-3f49-49f2-8db4-d1fd8daca9c8/1258678993/italia-fm-logo",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8"
       ],
@@ -1128,7 +1128,7 @@
     {
       "id": "FMMundo.ec",
       "name": "FM Mundo",
-      "logoUrl": "https://linktr.ee/og/image/FM_Mundo.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8"
       ],
@@ -1138,7 +1138,7 @@
     {
       "id": "FMTV.uk",
       "name": "FMTV",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/13/FMTV-OKTV.png/revision/latest/scale-to-width-down/1200?cb=20230819232014&path-prefix=es",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
       ],
@@ -1148,7 +1148,7 @@
     {
       "id": "FTV.uz",
       "name": "FTV",
-      "logoUrl": "https://images.seeklogo.com/logo-png/5/1/ftv-logo-png_seeklogo-58076.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream8.cinerama.uz/1018/playlist.m3u8"
       ],
@@ -1158,7 +1158,7 @@
     {
       "id": "FUSIONTV.mq",
       "name": "FUSION TV",
-      "logoUrl": "https://www.kindpng.com/picc/m/153-1531184_fusion-logo-fusion-tv-logo-png-transparent-png.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8"
       ],
@@ -1168,7 +1168,7 @@
     {
       "id": "Fairuz.sa",
       "name": "Fairuz",
-      "logoUrl": "https://fairuzequiposecuador.com/wp-content/uploads/2022/06/LOGO-FAIRUZ-XXL-scaled.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8"
       ],
@@ -1178,7 +1178,7 @@
     {
       "id": "FalastiniTV.ps",
       "name": "Falastini TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Falastini_tv_channel_logo_(2015-2024)_black_colored.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8"
       ],
@@ -1198,7 +1198,7 @@
     {
       "id": "FarraPlay.py",
       "name": "Farra Play",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100085060155530",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://159.203.148.226/live/farra.m3u8"
       ],
@@ -1208,7 +1208,7 @@
     {
       "id": "FirstMusicChannel.by",
       "name": "First Music Channel",
-      "logoUrl": "https://www.nicepng.com/png/detail/357-3578615_i-one-tv-1-first-music-channel.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://hz1.teleport.cc/HLS/SD.m3u8"
       ],
@@ -1218,7 +1218,7 @@
     {
       "id": "FirstMusicChannelRussia.by",
       "name": "First Music Channel Russia",
-      "logoUrl": "https://www.logotypes101.com/logos/288/BF8E1FBE79EECB7A332B99577F1D83E6/First_Channel_Russia.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://rtmp.one.by:2200"
       ],
@@ -1228,7 +1228,7 @@
     {
       "id": "FolkKlubTV.au",
       "name": "Folk Klub TV",
-      "logoUrl": "https://i.imgur.com/Seq7Od7.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8"
       ],
@@ -1238,7 +1238,7 @@
     {
       "id": "FolkTV.mk",
       "name": "Folk TV",
-      "logoUrl": "https://image.roku.com/developer_channels/prod/eb914f0ccb415c7f6c3e1a6c0ea40982a6d38ce45efecd7d9fb0f5f8b7fc7409.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8"
       ],
@@ -1248,7 +1248,7 @@
     {
       "id": "FolxMusicTelevision.de",
       "name": "Folx Music Television",
-      "logoUrl": "https://seeklogo.com/images/F/folx-music-television-logo-079CBEF9D0-seeklogo.com.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8"
       ],
@@ -1258,7 +1258,7 @@
     {
       "id": "FolxSlovenija.si",
       "name": "Folx Slovenija",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/c/ca/Folx_Slovenija_2020.jpg/revision/latest/scale-to-width-down/200?cb=20210110130448",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8"
       ],
@@ -1268,7 +1268,7 @@
     {
       "id": "FomixTV.nl",
       "name": "FomixTV",
-      "logoUrl": "https://www.vhv.rs/dpng/d/524-5244555_fox-tv-logo-png-fox-channel-logo-vector.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream.fomixmedia.nl/FomixTV/video.m3u8"
       ],
@@ -1278,7 +1278,7 @@
     {
       "id": "FunRadio.fr",
       "name": "Fun Radio",
-      "logoUrl": "https://assets.stickpng.com/images/585aa6d34f6ae202fedf2905.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8"
       ],
@@ -1288,7 +1288,7 @@
     {
       "id": "GEMMifaPlus.tr",
       "name": "GEM Mifa +",
-      "logoUrl": "https://www.aparatchi.com/images/TV/mifa-plus.png#joomlaImage:/local-images/TV/mifa-plus.png?width=1080&height=720",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8"
       ],
@@ -1298,7 +1298,7 @@
     {
       "id": "GMTV.us",
       "name": "GMTV",
-      "logoUrl": "https://user-content.static.wf/avidwiki/thumb/e/e8/GMTV_(2004)_(From_-_August_31,_2004_broadcast).png/1067px-GMTV_(2004)_(From_-_August_31,_2004_broadcast).png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341"
       ],
@@ -1308,7 +1308,7 @@
     {
       "id": "GOTV.py",
       "name": "GO TV",
-      "logoUrl": "https://w7.pngwing.com/pngs/593/897/png-transparent-go-tv-television-channel-africa-multichoice-africa-television-text-trademark-thumbnail.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
       ],
@@ -1318,7 +1318,7 @@
     {
       "id": "GexTV.cr",
       "name": "Gex TV",
-      "logoUrl": "https://static.wikitide.net/gexpediawiki/9/9b/Gex_Trilogy_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
       ],
@@ -1328,7 +1328,7 @@
     {
       "id": "GigantFM.nl",
       "name": "Gigant FM",
-      "logoUrl": "https://images.sftcdn.net/images/t_app-icon-m/p/0ae1801c-d057-4059-a017-6ab0f488bf95/3110986511/gigant-fm-logo",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8"
       ],
@@ -1338,7 +1338,7 @@
     {
       "id": "GugakTV.kr",
       "name": "Gugak TV",
-      "logoUrl": "https://i.imgur.com/Ey7Htm8.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
       ],
@@ -1348,7 +1348,7 @@
     {
       "id": "HighVisionTV.us",
       "name": "High Vision TV",
-      "logoUrl": "https://www.parsatv.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/highvision.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8"
       ],
@@ -1358,7 +1358,7 @@
     {
       "id": "HitradioO3.at",
       "name": "Hitradio O3",
-      "logoUrl": "https://static.wikia.nocookie.net/tbslogos/images/6/6d/Hitradio_Ö3_2000s.png/revision/latest?cb=20241013162748",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd"
       ],
@@ -1368,7 +1368,7 @@
     {
       "id": "HypeVisualRadio.nl",
       "name": "Hype Visual Radio",
-      "logoUrl": "https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8"
       ],
@@ -1378,7 +1378,7 @@
     {
       "id": "INTVAustralia.au",
       "name": "INTV Australia",
-      "logoUrl": "https://intv.com.ar/wp-content/uploads/2023/12/Intv_Logo-Naranja-compress.gif",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://tv1.intv.mk:1935/live/intv/index.m3u8"
       ],
@@ -1388,7 +1388,7 @@
     {
       "id": "IQChannel.cr",
       "name": "IQ Channel",
-      "logoUrl": "https://i.imgur.com/hwuaomt.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://rtmp.info/iqtv/envivo/playlist.m3u8"
       ],
@@ -1398,7 +1398,7 @@
     {
       "id": "ITVPersianMusic.ir",
       "name": "ITV Persian Music",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8"
       ],
@@ -1408,7 +1408,7 @@
     {
       "id": "IdentiteTeleCaraibes.mq",
       "name": "Identite Tele Caraibes",
-      "logoUrl": "https://i.ytimg.com/vi/ayAuPjKngyg/maxresdefault.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://vdo2.pro-fhi.net:3769/stream/play.m3u8"
       ],
@@ -1418,7 +1418,7 @@
     {
       "id": "ImagenFM1051.hn",
       "name": "Imagen FM 105.1",
-      "logoUrl": "https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streaming.imagenfm105-1.com/hls/stream.m3u8"
       ],
@@ -1428,7 +1428,7 @@
     {
       "id": "ImpactTVDance.ro",
       "name": "Impact TV Dance",
-      "logoUrl": "https://ritsatv.ru/files/poster/medium/900491.webp",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://online.tvimpact.live/hls/dancetv.m3u8"
       ],
@@ -1438,7 +1438,7 @@
     {
       "id": "ImpactTVManele.ro",
       "name": "Impact TV Manele",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/22/Manele_TV_(unlaunched).png/revision/latest?cb=20220426135056",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://online.tvimpact.live/hls/impact_tv.m3u8"
       ],
@@ -1448,7 +1448,7 @@
     {
       "id": "InfinitaTV.ec",
       "name": "Infinita TV",
-      "logoUrl": "https://www.vivalivetv.com/public/files/shows/0/1/3235-640x360-FFFFFF.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
       ],
@@ -1458,7 +1458,7 @@
     {
       "id": "IsaiAruvi.in",
       "name": "Isai Aruvi",
-      "logoUrl": "https://www.brandsnbehind.com/wp-content/uploads/2020/05/isaiaruvi-logo.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8"
       ],
@@ -1468,7 +1468,7 @@
     {
       "id": "IsangoTV.rw",
       "name": "Isango TV",
-      "logoUrl": "https://i.imgur.com/EfsHaMQ.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8"
       ],
@@ -1478,7 +1478,7 @@
     {
       "id": "IvoireChannel.ci",
       "name": "Ivoire Channel",
-      "logoUrl": "https://gamako.net/iptv/logos/PlayerJS_channelsCover_ivoirechannel.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"
       ],
@@ -1488,7 +1488,7 @@
     {
       "id": "JRTVJarviradio.fi",
       "name": "JRTV Jarviradio",
-      "logoUrl": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8"
       ],
@@ -1498,7 +1498,7 @@
     {
       "id": "JawharaTV.tn",
       "name": "Jawhara TV",
-      "logoUrl": "https://i.imgur.com/mRSQ5bP.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8"
       ],
@@ -1508,7 +1508,7 @@
     {
       "id": "JooMusic.pk",
       "name": "JooMusic",
-      "logoUrl": "https://m.media-amazon.com/images/I/615Dek5V5-L.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
       ],
@@ -1518,7 +1518,7 @@
     {
       "id": "JordanSongs.jo",
       "name": "Jordan Songs",
-      "logoUrl": "https://i.ytimg.com/vi/_QvOp4s_DOY/hqdefault.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8"
       ],
@@ -1528,7 +1528,7 @@
     {
       "id": "JuiceTV.nz",
       "name": "Juice TV",
-      "logoUrl": "https://www.juicetv.live/assets/Uploads/logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://juicex.nz/hls/mystream.m3u8"
       ],
@@ -1538,7 +1538,7 @@
     {
       "id": "JuniorMusic.pl",
       "name": "Junior Music",
-      "logoUrl": "https://i.ytimg.com/vi/iDYgcNTEFoM/maxresdefault.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://liveovh011.cda.pl/enc117/topkidsjrhdraw/topkidsjrhdraw.m3u8"
       ],
@@ -1548,7 +1548,7 @@
     {
       "id": "KandelaTV.ve",
       "name": "KandelaTV",
-      "logoUrl": "https://i.imgur.com/cCFxyIp.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
       ],
@@ -1558,7 +1558,7 @@
     {
       "id": "KayhanTV.af",
       "name": "Kayhan TV",
-      "logoUrl": "https://i.imgur.com/2MDjU7x.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8"
       ],
@@ -1568,7 +1568,7 @@
     {
       "id": "KissKissNapoliTV.it",
       "name": "Kiss Kiss Napoli TV",
-      "logoUrl": "https://i.imgur.com/RsGiBwE.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8"
       ],
@@ -1578,7 +1578,7 @@
     {
       "id": "KissKissTV.it",
       "name": "Kiss Kiss TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Kiss_Logo_Purple_2020.png/225px-Kiss_Logo_Purple_2020.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8"
       ],
@@ -1588,7 +1588,7 @@
     {
       "id": "KissTV.ro",
       "name": "Kiss TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Kiss_Logo_Purple_2020.png/225px-Kiss_Logo_Purple_2020.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8"
       ],
@@ -1598,7 +1598,7 @@
     {
       "id": "KlapeiTambureTV.hr",
       "name": "Klape i Tambure TV",
-      "logoUrl": "https://i.imgur.com/sKj3dgc.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream.cmctv.hr:49998/kit/live.m3u8"
       ],
@@ -1608,7 +1608,7 @@
     {
       "id": "KpopTVPlay.br",
       "name": "KpopTV Play",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest/scale-to-width-down/250?cb=20230625152624",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
       ],
@@ -1618,7 +1618,7 @@
     {
       "id": "KralPopTV.tr",
       "name": "Kral Pop TV",
-      "logoUrl": "https://w7.pngwing.com/pngs/615/813/png-transparent-turkey-kral-pop-kral-tv-turkish-pop-music-radio-electronics-text-fm-broadcasting.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8"
       ],
@@ -1628,7 +1628,7 @@
     {
       "id": "Kronehit.at",
       "name": "Kronehit",
-      "logoUrl": "https://iconape.com/wp-content/png_logo_vector/kronehit-logo2018-nachtblau-rgb.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
       ],
@@ -1638,7 +1638,7 @@
     {
       "id": "KurdMaxMusic.iq",
       "name": "KurdMax Music",
-      "logoUrl": "https://kurditv.com/wp-content/uploads/2023/03/Kurdmax-Music-TV.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8"
       ],
@@ -1648,7 +1648,7 @@
     {
       "id": "KuriakosMusic.pt",
       "name": "Kuriakos Music",
-      "logoUrl": "https://kuriakos.com/wp-content/uploads/2023/09/Logo_Kuriakos_v3-1024x238.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8"
       ],
@@ -1658,7 +1658,7 @@
     {
       "id": "LIVExLIVE.us",
       "name": "LIVExLIVE",
-      "logoUrl": "https://companieslogo.com/img/orig/LIVX_BIG-9cc1b88c.png?t=0",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://livestream.liveone.com/lc1/p1.m3u8"
       ],
@@ -1668,7 +1668,7 @@
     {
       "id": "LRTKlasika.lt",
       "name": "LRT Klasika",
-      "logoUrl": "https://logowik.com/content/uploads/images/lithuanian-national-radio-and-television-lrt-klasika2045.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream-live.lrt.lt/klasika/master.m3u8"
       ],
@@ -1678,7 +1678,7 @@
     {
       "id": "LRTOpus.lt",
       "name": "LRT Opus",
-      "logoUrl": "https://logowik.com/content/uploads/images/lithuanian-national-radio-and-television-lrt-opus7430.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream-live.lrt.lt/opus/master.m3u8"
       ],
@@ -1688,7 +1688,7 @@
     {
       "id": "LaFabulosaTV.pe",
       "name": "La Fabulosa TV",
-      "logoUrl": "https://play-lh.googleusercontent.com/uAWknopxTjrCZBERWPxEAm2Cpn8McyJWA2002BRBV0cbyzE_gWuuVHcafNBfTe2DRA",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://eu1.servers10.com:8081/8004/index.m3u8"
       ],
@@ -1698,7 +1698,7 @@
     {
       "id": "LaHermandadSalsera.co",
       "name": "La Hermandad Salsera",
-      "logoUrl": "https://lahermandadsalsera.com/wp-content/uploads/2020/06/Logo-La-Hermandad-Salsera-Oficial.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8"
       ],
@@ -1708,7 +1708,7 @@
     {
       "id": "LaKalle.co",
       "name": "La Kalle",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/La_Kalle_Colombia_2025_logo.svg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8"
       ],
@@ -1718,7 +1718,7 @@
     {
       "id": "LaMoradaRadioTV.co",
       "name": "La Morada Radio TV",
-      "logoUrl": "https://play-lh.googleusercontent.com/H49e3VyfYtDzTZE7qEyzNNhkOt_nOLu_1ZfGy9rb-H6Gms6LVAy2RZSiIRXOZdLyKOU",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://movil.ejeserver.com/live/lamoradatv.m3u8"
       ],
@@ -1728,7 +1728,7 @@
     {
       "id": "LaPerlaRadioTV.ec",
       "name": "La Perla Radio TV",
-      "logoUrl": "https://i.imgur.com/8wDMgmB.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://eu1.servers10.com:8081/8068/index.m3u8"
       ],
@@ -1738,7 +1738,7 @@
     {
       "id": "LaQueBuenaAtlanta.us",
       "name": "La Que Buena Atlanta",
-      "logoUrl": "https://fastly.4sqi.net/img/general/600x600/59519768_z4xHWJZcmX0Gh-9hK74GNUKWbSopTjkgbxqmL9HPc84.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8"
       ],
@@ -1748,7 +1748,7 @@
     {
       "id": "LaTop1029.hn",
       "name": "La Top 102.9",
-      "logoUrl": "https://www.pngitem.com/pimgs/m/274-2740975_transparent-tv-channel-logos-hd-png-download.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8"
       ],
@@ -1758,7 +1758,7 @@
     {
       "id": "LaTop1077.hn",
       "name": "La Top 107.7",
-      "logoUrl": "https://www.medios.gt/galeriausuarios/honduras1/imagenesmessage/imagem080131205702988.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8"
       ],
@@ -1768,7 +1768,7 @@
     {
       "id": "LaVozdelTropico.do",
       "name": "La Voz del Tropico",
-      "logoUrl": "https://i.imgur.com/DKDFpHt.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8"
       ],
@@ -1778,7 +1778,7 @@
     {
       "id": "LaX.pr",
       "name": "La-X",
-      "logoUrl": "https://www.pngitem.com/pimgs/m/274-2740975_transparent-tv-channel-logos-hd-png-download.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8"
       ],
@@ -1788,7 +1788,7 @@
     {
       "id": "Lausitzwelle.de",
       "name": "Lausitzwelle",
-      "logoUrl": "https://lausitzwelle.de/wp-content/uploads/2024/11/LW_LOGO_Transparent-1536x548.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref="
       ],
@@ -1798,7 +1798,7 @@
     {
       "id": "LingkarTV.id",
       "name": "Lingkar TV",
-      "logoUrl": "https://lingkar.tv/assets/img/logo-lingkartv.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lingkartv.my.id/hls/lingkartv.m3u8"
       ],
@@ -1808,7 +1808,7 @@
     {
       "id": "LiraTV.es",
       "name": "LiraTV",
-      "logoUrl": "https://liratv.es/wp-content/uploads/2021/07/LIRA-TV-1.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
       ],
@@ -1818,7 +1818,7 @@
     {
       "id": "LittoralFMTV.fr",
       "name": "Littoral FM TV",
-      "logoUrl": "https://images.lesindesradios.fr/radios/littoral/images/logo_XVXnlAO28F.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
       ],
@@ -1828,7 +1828,7 @@
     {
       "id": "Live99FM.bq",
       "name": "Live99FM",
-      "logoUrl": "https://i.imgur.com/U43UrQT.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://media.streambrothers.com:1936/8014/8014/playlist.m3u8"
       ],
@@ -1838,7 +1838,7 @@
     {
       "id": "LoboTV.mx",
       "name": "Lobo TV",
-      "logoUrl": "https://lobotv.com.mx/images/2022/12/07/lobotvlogos-17.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8"
       ],
@@ -1848,7 +1848,7 @@
     {
       "id": "LookThoongTV.la",
       "name": "Look Thoong TV",
-      "logoUrl": "https://img.freepik.com/premium-vector/tv-channel-button-logo-design-vector-template_567288-1201.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8"
       ],
@@ -1858,7 +1858,7 @@
     {
       "id": "LunaEstereo1064FM.co",
       "name": "Luna Estereo 106.4 FM",
-      "logoUrl": "https://play-lh.googleusercontent.com/kXYdgSnVJUhg8xGXIF96H6GjMsifax5NvVuXwHs-dirRwph6BKi3iYN8yr1AUblCJpQ",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
       ],
@@ -1868,7 +1868,7 @@
     {
       "id": "M1.lt",
       "name": "M-1",
-      "logoUrl": "https://www.pngitem.com/pimgs/m/274-2740975_transparent-tv-channel-logos-hd-png-download.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8"
       ],
@@ -1878,7 +1878,7 @@
     {
       "id": "M2.ua",
       "name": "M2",
-      "logoUrl": "https://www.pinclipart.com/picdir/big/297-2978575_m2-tv-channel-wikipedia-global-youth-day-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live.m2.tv/hls3/stream.m3u8"
       ],
@@ -1898,7 +1898,7 @@
     {
       "id": "MBCFM.ae",
       "name": "MBC FM",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/2d/MBC_FM_logo_original.png/revision/latest/scale-to-width-down/250?cb=20211229223959",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8"
       ],
@@ -1908,7 +1908,7 @@
     {
       "id": "MBCLoud.sa",
       "name": "MBC Loud",
-      "logoUrl": "https://www.mbc.net/_next/image?url=https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/3_MBC_LOUD_FM_LOGO_2e3ac0664d.webp&w=3840&q=50",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8"
       ],
@@ -1918,7 +1918,7 @@
     {
       "id": "MCN6MusicChannel.us",
       "name": "MCN6 Music Channel",
-      "logoUrl": "https://i.imgur.com/j6IiysJ.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8"
       ],
@@ -1928,7 +1928,7 @@
     {
       "id": "MTVBiggestPop.us",
       "name": "MTV Biggest Pop",
-      "logoUrl": "https://iili.io/bF51d7.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994"
       ],
@@ -1938,7 +1938,7 @@
     {
       "id": "MTVClassic.us",
       "name": "MTV Classic",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45"
       ],
@@ -1948,7 +1948,7 @@
     {
       "id": "MTVLive.us",
       "name": "MTV Live",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1262px-MTV_Live_2021_logo.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8"
       ],
@@ -1958,7 +1958,7 @@
     {
       "id": "MTVSpankinNew.us",
       "name": "MTV Spankin' New",
-      "logoUrl": "https://cmflix.net/uploads/tv_image/mtv-spankin-new.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4"
       ],
@@ -1968,7 +1968,7 @@
     {
       "id": "MadrasFMTV.gp",
       "name": "Madras FM TV",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063713364450",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8"
       ],
@@ -1978,7 +1978,7 @@
     {
       "id": "MagicTV.bg",
       "name": "Magic TV",
-      "logoUrl": "https://vectorseek.com/wp-content/uploads/2023/02/Magic-TV-Logo-Vector.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://bss1.neterra.tv/magictv/magictv.m3u8"
       ],
@@ -1988,7 +1988,7 @@
     {
       "id": "MagicTV.ro",
       "name": "Magic TV",
-      "logoUrl": "https://vectorseek.com/wp-content/uploads/2023/02/Magic-TV-Logo-Vector.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
       ],
@@ -1998,7 +1998,7 @@
     {
       "id": "MajidAlMohandis.sa",
       "name": "Majid Al Mohandis",
-      "logoUrl": "https://images.seeklogo.com/logo-png/51/1/majid-tv-logo-png_seeklogo-512338.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8"
       ],
@@ -2008,7 +2008,7 @@
     {
       "id": "MakaoTV.do",
       "name": "Makao TV",
-      "logoUrl": "https://i.imgur.com/asD5y7i.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8"
       ],
@@ -2018,7 +2018,7 @@
     {
       "id": "MarinaTV.kw",
       "name": "Marina TV",
-      "logoUrl": "https://m7et.com/wp-content/uploads/2022/09/تردد-قناة-مارينا-marina-TV-الجديد-2022-1.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8"
       ],
@@ -2028,7 +2028,7 @@
     {
       "id": "MarutamMusic.in",
       "name": "Marutam Music",
-      "logoUrl": "https://i.imgur.com/cFNw4Af.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mntv.livebox.co.in/musichls/live.m3u8"
       ],
@@ -2038,7 +2038,7 @@
     {
       "id": "MasFM.ar",
       "name": "Mas FM",
-      "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kl4bOH0EPqgarS65G-rveKjmoI9tVvh67iAAYiixDd6Vo=s900-c-k-c0x00ffffff-no-rj",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://vivo.solumedia.com:19360/masfm/masfm.m3u8"
       ],
@@ -2048,7 +2048,7 @@
     {
       "id": "MasMusicaFM.co",
       "name": "MasMusica FM",
-      "logoUrl": "https://masmusica.fm/wp-content/uploads/2021/06/bg_album_art.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://movil.ejeserver.com/live/masmusica.m3u8"
       ],
@@ -2058,7 +2058,7 @@
     {
       "id": "Mastiii.in",
       "name": "Mastiii",
-      "logoUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/dac9fa101578521.5f21d577e0ed7.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mumt02.tangotv.in/MASTIII/index.m3u8"
       ],
@@ -2068,7 +2068,7 @@
     {
       "id": "MaturTV.ru",
       "name": "Matur TV",
-      "logoUrl": "https://www.vhv.rs/dpng/d/560-5605996_tv-network-logos-png-png-transparent-tv-channel.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8"
       ],
@@ -2078,7 +2078,7 @@
     {
       "id": "MedMuzik.tr",
       "name": "Med Muzik",
-      "logoUrl": "https://www.bernamegeh.org/wp-content/uploads/2019/08/medmuzik.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://54.36.110.140/live3/live3.m3u8"
       ],
@@ -2088,7 +2088,7 @@
     {
       "id": "Melody.fr",
       "name": "Melody",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Melody_logo_2013.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8"
       ],
@@ -2098,7 +2098,7 @@
     {
       "id": "MelodyFM.jo",
       "name": "Melody FM",
-      "logoUrl": "https://melodyfm.com.ar/wp-content/uploads/2025/07/logo-transparente.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
       ],
@@ -2108,7 +2108,7 @@
     {
       "id": "MetropoliMediosTV.ec",
       "name": "Metropoli Medios TV",
-      "logoUrl": "https://iconape.com/wp-content/png_logo_vector/tv-metropolis-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://eu1.servers10.com:8081/8214/index.m3u8"
       ],
@@ -2118,7 +2118,7 @@
     {
       "id": "Mezzo.fr",
       "name": "Mezzo",
-      "logoUrl": "https://www.liblogo.com/img-logo/me4013fa1c-mezzo-tv-logo-file-mezzo-logo-svg-wikimedia-commons.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8"
       ],
@@ -2128,7 +2128,7 @@
     {
       "id": "Mh1Music.in",
       "name": "Mh 1 Music",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f9/Mh-one.png/revision/latest/scale-to-width-down/250?cb=20230126181929",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mumt04.tangotv.in/MHONE/index.m3u8"
       ],
@@ -2138,7 +2138,7 @@
     {
       "id": "MielTV.pe",
       "name": "Miel TV",
-      "logoUrl": "https://i.imgur.com/dPSFrCs.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
       ],
@@ -2148,7 +2148,7 @@
     {
       "id": "MohammedAbdo.sa",
       "name": "Mohammed Abdo",
-      "logoUrl": "https://static.sarhne.com/og.php?photo=https://www.sarhne.com/assets/img/logo-150.jpg&name=Mohamed+abdo",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8"
       ],
@@ -2158,7 +2158,7 @@
     {
       "id": "MosaiqueFM.tn",
       "name": "Mosaique FM",
-      "logoUrl": "https://media.licdn.com/dms/image/D4D0BAQHWhPjwe3heGQ/company-logo_200_200/0/1696870319746?e=2147483647&v=beta&t=J46IUFklJamJarBG96Aq7hHTUt6DvO_wDA1qzDq3uGY",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR"
       ],
@@ -2168,7 +2168,7 @@
     {
       "id": "MouvTV.fr",
       "name": "Mouv' TV",
-      "logoUrl": "https://www.radiofrance.fr/s3/cruiser-production/2022/06/1f700e39-1df3-4f07-af50-73ffc3ee3ab1/1200x680_mouv-logo-rs.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8"
       ],
@@ -2178,7 +2178,7 @@
     {
       "id": "Much.ca",
       "name": "Much",
-      "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Much_-_2013_logo.svg/220px-Much_-_2013_logo.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://fl1.moveonjoy.com/MUCH/index.m3u8"
       ],
@@ -2188,7 +2188,7 @@
     {
       "id": "MusicIndia.in",
       "name": "Music India",
-      "logoUrl": "https://pbs.twimg.com/profile_images/618036953/music_india.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-2.pishow.tv/live/226/master.m3u8"
       ],
@@ -2198,7 +2198,7 @@
     {
       "id": "MusicInformationChannel.id",
       "name": "Music Information Channel",
-      "logoUrl": "http://3.bp.blogspot.com/-bbqr6oPry0I/T1B_57R3xwI/AAAAAAAAB_o/hTUEzBzIjCM/s1600/cmusictv-logo.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mic.siar.us/mic/live/mic.m3u8"
       ],
@@ -2208,7 +2208,7 @@
     {
       "id": "MusicTVGranada.es",
       "name": "Music TV Granada",
-      "logoUrl": "https://w7.pngwing.com/pngs/303/100/png-transparent-granada-television-hd-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
       ],
@@ -2218,7 +2218,7 @@
     {
       "id": "MuzSoyuz.ru",
       "name": "Muz Soyuz",
-      "logoUrl": "https://images.seeklogo.com/logo-png/47/1/muz-tv-logo-png_seeklogo-470403.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8"
       ],
@@ -2228,7 +2228,7 @@
     {
       "id": "MuzangalaTV.ao",
       "name": "Muzangala TV",
-      "logoUrl": "https://muzangala.tv/wp-content/uploads/2022/08/LOGO_MUZANGALA_TV_.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8"
       ],
@@ -2238,7 +2238,7 @@
     {
       "id": "Muzyka1.ru",
       "name": "Muzyka 1",
-      "logoUrl": "https://p1.hiclipart.com/preview/345/192/897/tv-cartoon-kabel-eins-logo-television-television-channel-cable-television-wikipedia-logo-prosieben-png-clipart.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://kino-1.catcast.tv/content/37745/index.m3u8"
       ],
@@ -2248,7 +2248,7 @@
     {
       "id": "MuzykaKino.ru",
       "name": "Muzyka Kino",
-      "logoUrl": "https://w7.pngwing.com/pngs/438/106/png-transparent-muzic-logo-television-channel-music-zee-tv-zee-entertainment-enterprises-kino-miscellaneous-television-trademark.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://kino-1.catcast.tv/content/37739/index.m3u8"
       ],
@@ -2258,7 +2258,7 @@
     {
       "id": "MuzykaPervogo.ru",
       "name": "Muzyka Pervogo",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/0/0f/Muzyka_Pervogo.svg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://31.148.48.15/Muzika_Pervogo/index.m3u8"
       ],
@@ -2268,7 +2268,7 @@
     {
       "id": "MuzzOne.kz",
       "name": "MuzzOne",
-      "logoUrl": "https://static.tildacdn.pro/tild3133-3165-4164-b230-643066666531/logo_small_1.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8"
       ],
@@ -2278,7 +2278,7 @@
     {
       "id": "Myx.ph",
       "name": "Myx",
-      "logoUrl": "https://seeklogo.com/images/M/myx-logo-92B3A952D0-seeklogo.com.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd"
       ],
@@ -2288,7 +2288,7 @@
     {
       "id": "NEWKPOP.us",
       "name": "NEW K-POP",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/6/6c/NEW_KPOP_(SamsungTV+).png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8"
       ],
@@ -2298,7 +2298,7 @@
     {
       "id": "NOWRock.uk",
       "name": "NOW Rock",
-      "logoUrl": "https://i.imgur.com/GuM4GnX.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8"
       ],
@@ -2308,7 +2308,7 @@
     {
       "id": "NRG91.gr",
       "name": "NRG 91",
-      "logoUrl": "https://png.pngitem.com/pimgs/s/444-4449742_nrg-91-tv-logo-png-transparent-png.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://tv.nrg91.gr:1935/onweb/live/master.m3u8"
       ],
@@ -2318,7 +2318,7 @@
     {
       "id": "NRGTV.gr",
       "name": "NRG TV",
-      "logoUrl": "https://images.seeklogo.com/logo-png/53/1/nrg-logo-png_seeklogo-531823.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8"
       ],
@@ -2328,7 +2328,7 @@
     {
       "id": "NavahangTV.fi",
       "name": "Navahang TV",
-      "logoUrl": "https://www.navahang.com/assets/logo/Navahang-Logo-Home.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://hls.navahang.live/hls/stream.m3u8"
       ],
@@ -2338,7 +2338,7 @@
     {
       "id": "NextHD.py",
       "name": "Next HD",
-      "logoUrl": "https://www.vhv.rs/dpng/d/560-5605996_tv-network-logos-png-png-transparent-tv-channel.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
       ],
@@ -2348,7 +2348,7 @@
     {
       "id": "Now70s.uk",
       "name": "Now 70s",
-      "logoUrl": "https://i.postimg.cc/xdWDWzXr/now70s.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8"
       ],
@@ -2358,7 +2358,7 @@
     {
       "id": "Now80s.uk",
       "name": "Now 80s",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/2/24/Now_80s.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
       ],
@@ -2368,7 +2368,7 @@
     {
       "id": "Now90s00s.uk",
       "name": "Now 90s00s",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/2/2a/NOW_90s_&_00s.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8"
       ],
@@ -2378,7 +2378,7 @@
     {
       "id": "NuevaVidaFM.pr",
       "name": "Nueva Vida FM",
-      "logoUrl": "https://yt3.ggpht.com/a/AATXAJzD6_asOSWYKwZjnAzuSyME0jtCxQgrglvc9g=s900-c-k-c0xffffffff-no-rj-mo",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8"
       ],
@@ -2388,7 +2388,7 @@
     {
       "id": "Number1Ask.tr",
       "name": "Number 1 Ask",
-      "logoUrl": "https://pngset.com/images/ask-logo-parallel-text-alphabet-number-symbol-transparent-png-181356.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
       ],
@@ -2398,7 +2398,7 @@
     {
       "id": "Number1Damar.tr",
       "name": "Number 1 Damar",
-      "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/number1-turk-damar-dinle.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"
       ],
@@ -2408,7 +2408,7 @@
     {
       "id": "Number1Dance.tr",
       "name": "Number 1 Dance",
-      "logoUrl": "https://radyolar.net.tr/uploads/img/number1-dance.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
       ],
@@ -2418,7 +2418,7 @@
     {
       "id": "Number1TV.tr",
       "name": "Number 1 TV",
-      "logoUrl": "https://p1.hiclipart.com/preview/345/192/897/tv-cartoon-kabel-eins-logo-television-television-channel-cable-television-wikipedia-logo-prosieben-png-clipart.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8"
       ],
@@ -2428,7 +2428,7 @@
     {
       "id": "ONFM.pt",
       "name": "ON FM",
-      "logoUrl": "https://www.vhv.rs/dpng/d/544-5442633_fm-tv-channel-hd-png-download.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8"
       ],
@@ -2438,7 +2438,7 @@
     {
       "id": "Ocko.cz",
       "name": "Ocko",
-      "logoUrl": "https://seeklogo.com/images/O/ocko-logo-664AC4FAA7-seeklogo.com.gif",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8"
       ],
@@ -2448,7 +2448,7 @@
     {
       "id": "OckoExpres.cz",
       "name": "Ocko Expres",
-      "logoUrl": "https://telly.cz/wp-content/themes/telly/dist/images/channel/ocko-expres.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8"
       ],
@@ -2458,7 +2458,7 @@
     {
       "id": "Onda15TV.es",
       "name": "Onda 15 TV",
-      "logoUrl": "https://directostv.teleame.com/wp-content/uploads/2019/04/Onda-15-TV-en-DIRECTO-Online-.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
       ],
@@ -2468,7 +2468,7 @@
     {
       "id": "OndaValenciaTV.es",
       "name": "Onda Valencia TV",
-      "logoUrl": "https://tvtolive.com/wp-content/uploads/Onda-Valencia-TV-tvtolive.com_.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
       ],
@@ -2478,7 +2478,7 @@
     {
       "id": "OndambientalTV.co",
       "name": "Ondambiental TV",
-      "logoUrl": "https://i.imgur.com/u5804Au.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8"
       ],
@@ -2488,7 +2488,7 @@
     {
       "id": "OneAdria.de",
       "name": "One Adria",
-      "logoUrl": "https://montenegro.mom-gmr.org/uploads/tx_lfrogmom/company/Adria_TV.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8"
       ],
@@ -2498,7 +2498,7 @@
     {
       "id": "OneMusicTelevision.de",
       "name": "One Music Television",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/c/c9/One_Music_Television.png/revision/latest?cb=20201114231706",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8"
       ],
@@ -2508,7 +2508,7 @@
     {
       "id": "OneTV.lb",
       "name": "One TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/af/ONE_TV_2021_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8"
       ],
@@ -2518,7 +2518,7 @@
     {
       "id": "OneFM.lb",
       "name": "OneFM",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b8/One_FM_Switzerland.png/revision/latest?cb=20100915170804",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8"
       ],
@@ -2528,7 +2528,7 @@
     {
       "id": "OrangeBanglaTV.in",
       "name": "Orange Bangla TV",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/d1/Orange_TV.jpg/revision/latest/scale-to-width-down/200?cb=20191222182211",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-4.pishow.tv/live/1499/master.m3u8"
       ],
@@ -2538,7 +2538,7 @@
     {
       "id": "P2MTV.fr",
       "name": "P2M TV",
-      "logoUrl": "https://p2mtv.com/wp-content/uploads/2023/08/363501045_6914953078566949_1170508259438111981_n.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://vdo2.pro-fhi.net:3207/stream/play.m3u8"
       ],
@@ -2548,7 +2548,7 @@
     {
       "id": "PJDigitalRadioTV.ec",
       "name": "PJ Digital Radio TV",
-      "logoUrl": "https://playzonastore.com/panel/uploads/radios/67f0ad141f151.webp",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8"
       ],
@@ -2558,7 +2558,7 @@
     {
       "id": "PMCRoyale.ae",
       "name": "PMC Royale",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://pmcrohls.wns.live/hls/stream.m3u8"
       ],
@@ -2568,7 +2568,7 @@
     {
       "id": "POPWorldTV.es",
       "name": "POP World TV",
-      "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/ff/a2/c2ffa2cc-1db0-ffc0-00ad-ce78d622fd51/Popworld-0-0-1x_U007epad-0-1-85-220.png/1200x630wa.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8"
       ],
@@ -2578,7 +2578,7 @@
     {
       "id": "PRIDEtvLATAM.cl",
       "name": "PRIDEtv LATAM",
-      "logoUrl": "https://neotv.cl/img/pridetv-512.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
       ],
@@ -2588,7 +2588,7 @@
     {
       "id": "PTCChakde.in",
       "name": "PTC Chakde",
-      "logoUrl": "http://www.ptcnetwork.tv/wp-content/uploads/2016/06/images.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-1.pishow.tv/live/449/master.m3u8"
       ],
@@ -2608,7 +2608,7 @@
     {
       "id": "PamirTV.ca",
       "name": "Pamir TV",
-      "logoUrl": "https://www.parsatv.com/index_files/channels/pamirtv.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
       ],
@@ -2618,7 +2618,7 @@
     {
       "id": "PanikTV.gr",
       "name": "Panik TV",
-      "logoUrl": "https://mir-s3-cdn-cf.behance.net/projects/404/7e595f135042867.Y3JvcCwxMTA0LDg2NCwxMjAsMA.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
       ],
@@ -2628,7 +2628,7 @@
     {
       "id": "PanoramaFM.sa",
       "name": "Panorama FM",
-      "logoUrl": "https://i.imgur.com/JkDD3bK.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8"
       ],
@@ -2638,7 +2638,7 @@
     {
       "id": "ParrandaVallenata.co",
       "name": "Parranda Vallenata",
-      "logoUrl": "https://www.parrandavallenataibague.com/wp-content/uploads/2024/07/portasda-768x768.jpeg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8"
       ],
@@ -2648,7 +2648,7 @@
     {
       "id": "PeppersTV.in",
       "name": "Peppers TV",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/29/Peppers.jpeg/revision/latest/scale-to-width-down/250?cb=20191224095839",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-2.pishow.tv/live/1383/master.m3u8"
       ],
@@ -2658,7 +2658,7 @@
     {
       "id": "Pequeradio.es",
       "name": "Pequeradio",
-      "logoUrl": "https://gust-production.s3.amazonaws.com/uploads/startup/logo_image/120600/logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
       ],
@@ -2668,7 +2668,7 @@
     {
       "id": "PersianaFolk.fr",
       "name": "Persiana Folk",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/pp/persiana-folk-fr.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://sonhls.persiana.live/hls/stream.m3u8"
       ],
@@ -2678,7 +2678,7 @@
     {
       "id": "PersianaNostalgia.fr",
       "name": "Persiana Nostalgia",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f2/Persiana-nostalgia-fr.png/revision/latest?cb=20220306063503",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://noshls.persiana.live/hls/stream.m3u8"
       ],
@@ -2688,7 +2688,7 @@
     {
       "id": "PersianaVibe.fr",
       "name": "Persiana Vibe",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/pp/persiana-vibe-fr.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://raphls.persiana.live/hls/stream.m3u8"
       ],
@@ -2698,7 +2698,7 @@
     {
       "id": "Planet1009FM.pa",
       "name": "Planet 100.9 FM",
-      "logoUrl": "https://topchannelradios.com/wp-content/uploads/2025/03/planet-100.9.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8"
       ],
@@ -2708,7 +2708,7 @@
     {
       "id": "PlayTV.cm",
       "name": "Play TV",
-      "logoUrl": "https://www.nicepng.com/png/detail/357-3574662_channel-4-wikipedia-rcn-tv-guide-tv-channel.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8"
       ],
@@ -2718,7 +2718,7 @@
     {
       "id": "PlayTV.gr",
       "name": "Play TV",
-      "logoUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/play-tv-logos-design-template-6adf2c94dc3fcfeea083e7edd817863a_screen.jpg?ts=1666541305",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8"
       ],
@@ -2728,7 +2728,7 @@
     {
       "id": "PlutoTVMTVLatino.us",
       "name": "Pluto TV MTV Latino",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/5/5f/MTV_Pluto_TV.svg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId="
       ],
@@ -2738,7 +2738,7 @@
     {
       "id": "Power1017FM.aw",
       "name": "Power 101.7 FM",
-      "logoUrl": "https://www.vhv.rs/dpng/d/544-5442633_fm-tv-channel-hd-png-download.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8"
       ],
@@ -2748,7 +2748,7 @@
     {
       "id": "PowerDance.tr",
       "name": "Power Dance",
-      "logoUrl": "https://i.imgur.com/QpPteBO.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
       ],
@@ -2758,7 +2758,7 @@
     {
       "id": "PowerHitRadio.lt",
       "name": "Power Hit Radio",
-      "logoUrl": "https://w7.pngwing.com/pngs/855/549/png-transparent-power-hit-radio-hd-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g"
       ],
@@ -2768,7 +2768,7 @@
     {
       "id": "PowerLove.tr",
       "name": "Power Love",
-      "logoUrl": "https://i.imgur.com/0RzUswR.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
       ],
@@ -2778,7 +2778,7 @@
     {
       "id": "PowerTurkAkustik.tr",
       "name": "PowerTurk Akustik",
-      "logoUrl": "https://i.imgur.com/driabBO.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
       ],
@@ -2788,7 +2788,7 @@
     {
       "id": "PowerTurkSlow.tr",
       "name": "PowerTurk Slow",
-      "logoUrl": "https://i.imgur.com/tQSoQXW.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
       ],
@@ -2798,7 +2798,7 @@
     {
       "id": "PowerTurkTaptaze.tr",
       "name": "PowerTurk Taptaze",
-      "logoUrl": "https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-power-turk-taptaze.jpg?itok=xNKw5pue",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
       ],
@@ -2808,7 +2808,7 @@
     {
       "id": "PublicMusic.in",
       "name": "Public Music",
-      "logoUrl": "https://crystalpng.com/wp-content/uploads/2025/02/mtv-logo-04.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-3.pishow.tv/live/441/master.m3u8"
       ],
@@ -2818,7 +2818,7 @@
     {
       "id": "QMusic.be",
       "name": "Q-Music",
-      "logoUrl": "https://w7.pngwing.com/pngs/76/191/png-transparent-q-music-hd-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8"
       ],
@@ -2828,7 +2828,7 @@
     {
       "id": "QelloConcertsbyStingray.ca",
       "name": "Qello Concerts by Stingray",
-      "logoUrl": "https://png.pngitem.com/pimgs/s/240-2401110_stingray-qello-logo-hd-png-download.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052"
       ],
@@ -2838,7 +2838,7 @@
     {
       "id": "Qmusic.nl",
       "name": "Qmusic",
-      "logoUrl": "https://iconape.com/wp-content/files/pq/297098/svg/qmusic-seeklogo.com.svg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream.qmusic.nl/qmusic/videohls.m3u8"
       ],
@@ -2848,7 +2848,7 @@
     {
       "id": "QwestTV.fr",
       "name": "Qwest TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Qwest_TV_Logo.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8"
       ],
@@ -2858,7 +2858,7 @@
     {
       "id": "QwestTVJazzBeyond.fr",
       "name": "Qwest TV Jazz & Beyond",
-      "logoUrl": "https://www.gibtele.com/uploads/Qwest+jazz+beyond.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8"
       ],
@@ -2868,7 +2868,7 @@
     {
       "id": "RADIODISCOuntTV.ch",
       "name": "RADIO DISCOunt TV",
-      "logoUrl": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgnvbV3QkMCxIOU3RhdGlvblByb2ZpbGUYgIDgzv3isQgMogEEemVubw/image/?u=1727166926000",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8"
       ],
@@ -2878,7 +2878,7 @@
     {
       "id": "RFPtv.pt",
       "name": "RFPtv",
-      "logoUrl": "http://www.rfptv.pt/storage/479/config/MYvhCGImba3MPCwmRu2pZgGkFhy2L6tkTLsSO3LN.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8"
       ],
@@ -2888,7 +2888,7 @@
     {
       "id": "RHTGuadeloupe.gp",
       "name": "RHT Guadeloupe",
-      "logoUrl": "https://dbs.radioline.fr/pictures/radio_f5888225992a1d44a0ae6d6079e06076/logo600.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8"
       ],
@@ -2898,7 +2898,7 @@
     {
       "id": "RJTV.us",
       "name": "RJTV",
-      "logoUrl": "https://images.seeklogo.com/logo-png/32/1/rj-tv-logo-png_seeklogo-327517.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://rjtvhls.wns.live/hls/stream.m3u8"
       ],
@@ -2908,7 +2908,7 @@
     {
       "id": "RTILa3.ci",
       "name": "RTI La 3",
-      "logoUrl": "https://play-lh.googleusercontent.com/6ezi-6nDoJSJ6PBpCZMo9aEJ39vPNuSmrDMXooBhhlQP7fv32abq9oRzDA_PIfwuOH4",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://69.64.57.208/la3/index.m3u8"
       ],
@@ -2918,7 +2918,7 @@
     {
       "id": "RTL1025Best.it",
       "name": "RTL 102.5 Best",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/1200px-RTL_102.5_logo.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8"
       ],
@@ -2928,7 +2928,7 @@
     {
       "id": "RTL1025BroSis.it",
       "name": "RTL 102.5 Bro&Sis",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/1200px-RTL_102.5_logo.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8"
       ],
@@ -2938,7 +2938,7 @@
     {
       "id": "RTL1025Caliente.it",
       "name": "RTL 102.5 Caliente",
-      "logoUrl": "https://www.tvdream.net/img/rtl-1025-caliente-cover.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8"
       ],
@@ -2948,7 +2948,7 @@
     {
       "id": "RTL1025Disco.it",
       "name": "RTL 102.5 Disco",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/1200px-RTL_102.5_logo.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8"
       ],
@@ -2958,7 +2958,7 @@
     {
       "id": "RTL1025Napule.it",
       "name": "RTL 102.5 Napule",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/1200px-RTL_102.5_logo.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8"
       ],
@@ -2968,7 +2968,7 @@
     {
       "id": "RTL1025TV.it",
       "name": "RTL 102.5 TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/1200px-RTL_102.5_logo.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
       ],
@@ -2978,7 +2978,7 @@
     {
       "id": "RTL1025Traffic.it",
       "name": "RTL 102.5 Traffic",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/1200px-RTL_102.5_logo.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
       ],
@@ -2988,7 +2988,7 @@
     {
       "id": "RTLGold.lu",
       "name": "RTL Gold",
-      "logoUrl": "https://seeklogo.com/images/R/rtl-gold-logo-5FFA57ED8F-seeklogo.com.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8"
       ],
@@ -2998,7 +2998,7 @@
     {
       "id": "RTL2.fr",
       "name": "RTL2",
-      "logoUrl": "https://assets.stickpng.com/images/5848343ecef1014c0b5e4ab2.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8"
       ],
@@ -3008,7 +3008,7 @@
     {
       "id": "RTVVida.es",
       "name": "RTV Vida",
-      "logoUrl": "https://i.pinimg.com/originals/38/31/87/3831875122887bf8d00d18247a776d4f.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8"
       ],
@@ -3018,7 +3018,7 @@
     {
       "id": "RUTV.ru",
       "name": "RU.TV",
-      "logoUrl": "https://i.pinimg.com/originals/9e/4e/c8/9e4ec8f20fd182234d050011fdd38fea.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://hls-03-video.webcaramba.com/rutv/live.m3u8"
       ],
@@ -3028,7 +3028,7 @@
     {
       "id": "RabehSaqer.sa",
       "name": "Rabeh Saqer",
-      "logoUrl": "https://imgs.ototoy.jp/imgs/jacket/1097/00000003.1639579810.5159_640.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8"
       ],
@@ -3038,7 +3038,7 @@
     {
       "id": "RadioAlegria985FM.ec",
       "name": "Radio Alegria 98.5 FM",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1272727856992788",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://video.compuwebecuador.com:3880/stream/play.m3u8"
       ],
@@ -3048,7 +3048,7 @@
     {
       "id": "RadioBonita1067.ec",
       "name": "Radio Bonita 106.7",
-      "logoUrl": "https://i.imgur.com/IvZtqyz.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloudvideo.servers10.com:8081/8154/index.m3u8"
       ],
@@ -3058,7 +3058,7 @@
     {
       "id": "RadioCarnavalTV.es",
       "name": "Radio Carnaval TV",
-      "logoUrl": "https://i.imgur.com/cdpbkSo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://eu1.servers10.com:8081/8116/index.m3u8"
       ],
@@ -3068,7 +3068,7 @@
     {
       "id": "RadioContact.be",
       "name": "Radio Contact",
-      "logoUrl": "https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/contactfm/images/logo_dBRvfZGGAL.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8"
       ],
@@ -3078,7 +3078,7 @@
     {
       "id": "RadioCuencaEstereo.ec",
       "name": "Radio Cuenca Estereo",
-      "logoUrl": "https://i.imgur.com/qZzSOeU.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://eu1.servers10.com:8081/8074/index.m3u8"
       ],
@@ -3088,7 +3088,7 @@
     {
       "id": "RadioFantastica989FM.ec",
       "name": "Radio Fantastica 98.9 FM",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/4/4f/Fantástica2020.png/revision/latest?cb=20231023204533&path-prefix=es",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://190.107.232.9:8082/livestream/stream.m3u8"
       ],
@@ -3098,7 +3098,7 @@
     {
       "id": "RadioHit.ru",
       "name": "Radio Hit",
-      "logoUrl": "https://w7.pngwing.com/pngs/947/947/png-transparent-radio-hit-hd-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://lova.me/hls/hithd.m3u8"
       ],
@@ -3108,7 +3108,7 @@
     {
       "id": "RadioHitFMTV.rs",
       "name": "Radio Hit FM TV",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/1/19/Radio_Hit_FM.svg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8"
       ],
@@ -3118,7 +3118,7 @@
     {
       "id": "RadioIdeal.hn",
       "name": "Radio Ideal",
-      "logoUrl": "https://seeklogo.com/images/I/ideal-tv-logo-5DD69B9F73-seeklogo.com.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://www.idealfm104-7.com/hls/0/stream.m3u8"
       ],
@@ -3128,7 +3128,7 @@
     {
       "id": "RadioItaliaTrendTV.it",
       "name": "Radio Italia Trend TV",
-      "logoUrl": "https://www.quotidianomotori.com/wp-content/uploads/2020/04/11/10/00/logo-radio-italia.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8"
       ],
@@ -3138,7 +3138,7 @@
     {
       "id": "RadioJND.nl",
       "name": "Radio JND",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/fd/Radio_JND_Feel_the_Music.png/revision/latest?cb=20240621192724",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8"
       ],
@@ -3148,7 +3148,7 @@
     {
       "id": "RadioKaraoke.fr",
       "name": "Radio Karaoke",
-      "logoUrl": "https://p7.hiclipart.com/preview/358/857/292/eden-cafe-karaoke-video-television-karaoke-ok.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke-2.m3u8"
       ],
@@ -3158,7 +3158,7 @@
     {
       "id": "RadioKarolinaTV.rs",
       "name": "Radio Karolina TV",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/9/94/Radio_Karolina.svg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8"
       ],
@@ -3168,7 +3168,7 @@
     {
       "id": "RadioLolaTV.rs",
       "name": "Radio Lola TV",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/c/cb/Radio_Lola.svg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8"
       ],
@@ -3178,7 +3178,7 @@
     {
       "id": "RadioMaster.pe",
       "name": "Radio Master",
-      "logoUrl": "https://streaminglocucionar.com/portal/images/logos/radiomaster.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8"
       ],
@@ -3188,7 +3188,7 @@
     {
       "id": "RadioMonumentalTV.ec",
       "name": "Radio Monumental TV",
-      "logoUrl": "https://grupovierci.brightspotcdn.com/dims4/default/838115d/2147483647/strip/true/crop/450x290+0+0/resize/800x516!/quality/90/?url=https://k2-prod-grupo-vierci.s3.us-east-1.amazonaws.com/brightspot/fd/16/a36ce1d2417caad3e0670e43991b/logo-monumental.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8"
       ],
@@ -3198,7 +3198,7 @@
     {
       "id": "RadioPiterPanTV.it",
       "name": "Radio Piter Pan TV",
-      "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/tSVufVXQG4.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
       ],
@@ -3208,7 +3208,7 @@
     {
       "id": "RadioRealpolitik.ar",
       "name": "Radio Realpolitik",
-      "logoUrl": "https://i.imgur.com/L9KCdTX.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8"
       ],
@@ -3218,7 +3218,7 @@
     {
       "id": "RadioReformaSeOye.pa",
       "name": "Radio Reforma Se Oye",
-      "logoUrl": "https://i.imgur.com/TVoTQBX.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://www.streaming507.net:19360/mevo2/mevo2.m3u8"
       ],
@@ -3228,7 +3228,7 @@
     {
       "id": "RadioSWHTV.lv",
       "name": "Radio SWH TV",
-      "logoUrl": "https://w7.pngwing.com/pngs/863/444/png-transparent-swh-radio-hd-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8"
       ],
@@ -3238,7 +3238,7 @@
     {
       "id": "RadioShanson.ru",
       "name": "Radio Shanson",
-      "logoUrl": "https://images.seeklogo.com/logo-png/37/1/radio-shanson-logo-png_seeklogo-373578.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8"
       ],
@@ -3258,7 +3258,7 @@
     {
       "id": "RadioTeleHit.ht",
       "name": "Radio Tele Hit",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8"
       ],
@@ -3268,7 +3268,7 @@
     {
       "id": "RadioTropical.pe",
       "name": "Radio Tropical",
-      "logoUrl": "https://radiotropical.pe/wp-content/uploads/2020/08/logo-png-fondo-blanco.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
       ],
@@ -3278,7 +3278,7 @@
     {
       "id": "RadioWeserTVBremen.de",
       "name": "Radio Weser TV Bremen",
-      "logoUrl": "https://radiowesertv.info/files/logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8"
       ],
@@ -3288,7 +3288,7 @@
     {
       "id": "RadioZeta.it",
       "name": "Radio Zeta",
-      "logoUrl": "https://massimoemanuelli.com/wp-content/uploads/2020/02/radio-zeta.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
       ],
@@ -3298,7 +3298,7 @@
     {
       "id": "Radiofreccia.it",
       "name": "Radiofreccia",
-      "logoUrl": "https://spcdn.shortpixel.ai/spio3/ret_img,q_cdnize,to_avif,s_avif/www.quotidianomotori.com/wp-content/uploads/2025/08/radiofreccia-logo.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
       ],
@@ -3308,7 +3308,7 @@
     {
       "id": "RajMusixMalayalam.in",
       "name": "Raj Musix Malayalam",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/d5/Raj_Musix_Malayalam.jpeg/revision/latest/scale-to-width-down/300?cb=20191228090947",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8"
       ],
@@ -3318,7 +3318,7 @@
     {
       "id": "RajMusixTelugu.in",
       "name": "Raj Musix Telugu",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/52/Raj_Musix_Telugu.jpeg/revision/latest?cb=20191226174827",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-1.pishow.tv/live/1213/master.m3u8"
       ],
@@ -3328,7 +3328,7 @@
     {
       "id": "RashidAlMajed.sa",
       "name": "Rashid AlMajed",
-      "logoUrl": "https://i3radio.com/userfiles-aplin/avatars/logo-4963994115.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8"
       ],
@@ -3338,7 +3338,7 @@
     {
       "id": "RetroMusicTV.cz",
       "name": "Retro Music TV",
-      "logoUrl": "https://media.extralife.cz/static/img/2020/12/efebc0b-204069-retro-music-tv-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
       ],
@@ -3348,7 +3348,7 @@
     {
       "id": "Reyali.co",
       "name": "Reyali",
-      "logoUrl": "https://tl.vhv.rs/dpng/s/560-5606202_tv-channel-logos-different-channels-on-tv-hd.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://eu1.servers10.com:8081/8090/index.m3u8"
       ],
@@ -3358,7 +3358,7 @@
     {
       "id": "RockTV.ro",
       "name": "Rock TV",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/9/93/Rock_TV.svg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8"
       ],
@@ -3368,7 +3368,7 @@
     {
       "id": "SONGTVRussia.ru",
       "name": "SONGTV Russia",
-      "logoUrl": "https://tvtvtv.ru/icons/songtv_ru.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
       ],
@@ -3378,7 +3378,7 @@
     {
       "id": "SOYPlanchaTV.cr",
       "name": "SOY Plancha TV",
-      "logoUrl": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
       ],
@@ -3388,7 +3388,7 @@
     {
       "id": "STZTelebista.es",
       "name": "STZ Telebista",
-      "logoUrl": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1200,h=630,fit=crop,f=jpeg/Yg2O5n2xkwcBl04M/logo-stz-telebista-fondo-ALp0bKLkq8cJ061P.png?no-cache=1673261515869",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8"
       ],
@@ -3398,7 +3398,7 @@
     {
       "id": "SalsaGordaTelevision.co",
       "name": "Salsa Gorda Television",
-      "logoUrl": "https://tvguatemala.net/wp-content/uploads/2023/09/Salsa-Gorda-Television.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
       ],
@@ -3408,7 +3408,7 @@
     {
       "id": "SaltoBrasaMusic.nl",
       "name": "Salto Brasa Music",
-      "logoUrl": "https://vod.salto.nl/data/media/logo/brasa-music",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://salto-streams.nl/hls/sotv1.m3u8"
       ],
@@ -3418,7 +3418,7 @@
     {
       "id": "SanaPlus.in",
       "name": "Sana Plus",
-      "logoUrl": "https://play-lh.googleusercontent.com/dlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://galaxyott.live/hls/sanaplus.m3u8"
       ],
@@ -3428,7 +3428,7 @@
     {
       "id": "SangeetBangla.in",
       "name": "Sangeet Bangla",
-      "logoUrl": "https://ik.imagekit.io/hoichoi/svf/wp-content/uploads/2021/11/sb-logho.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-4.pishow.tv/live/1143/master.m3u8"
       ],
@@ -3438,7 +3438,7 @@
     {
       "id": "SangeetBhojpuri.in",
       "name": "Sangeet Bhojpuri",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sangeet_Bhojpuri.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-4.pishow.tv/live/1293/master.m3u8"
       ],
@@ -3448,7 +3448,7 @@
     {
       "id": "SangeetMarathi.in",
       "name": "Sangeet Marathi",
-      "logoUrl": "https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/sangeet-marathi.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-3.pishow.tv/live/1229/master.m3u8"
       ],
@@ -3458,7 +3458,7 @@
     {
       "id": "ShansonTV.ru",
       "name": "Shanson TV",
-      "logoUrl": "https://seeklogo.com/images/S/shanson-tv-logo-3FDB29680C-seeklogo.com.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://uiptv.do.am/1ufc/602079679/playlist.m3u8"
       ],
@@ -3468,7 +3468,7 @@
     {
       "id": "ShowBox.in",
       "name": "ShowBox",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e2/Showbox_logo.png/revision/latest/scale-to-width-down/250?cb=20200120174638",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://epiconvh.akamaized.net/live/showbox/master.m3u8"
       ],
@@ -3478,7 +3478,7 @@
     {
       "id": "SiembraTV.do",
       "name": "Siembra TV",
-      "logoUrl": "https://www.vivalivetv.com/public/files/shows/0/1/3226-640x360-FFFFFF.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streamunoapp.com:3809/live/siembratvlive.m3u8"
       ],
@@ -3488,7 +3488,7 @@
     {
       "id": "SkyFolkTV.mk",
       "name": "Sky Folk TV",
-      "logoUrl": "https://i.imgur.com/ya5xpUL.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://eu.live.skyfolk.mk/live.m3u8"
       ],
@@ -3498,7 +3498,7 @@
     {
       "id": "SlagerMuzika.cz",
       "name": "Slager Muzika",
-      "logoUrl": "https://static.sweet.tv/images/icons/channels/v2/914-slager-muzika-hd.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream-23.mazana.tv/slagrmuzika.m3u8s"
       ],
@@ -3508,7 +3508,7 @@
     {
       "id": "SlagerOriginal.cz",
       "name": "Slager Original",
-      "logoUrl": "https://i.imgur.com/0YjeWcq.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream-13.mazana.tv/slagroriginal.m3u8s"
       ],
@@ -3518,7 +3518,7 @@
     {
       "id": "SolMusica.es",
       "name": "Sol Musica",
-      "logoUrl": "https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/bc01f8034ad02d41063d4c5c8c835f09_sollogo+web.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8"
       ],
@@ -3528,7 +3528,7 @@
     {
       "id": "SoloBailalo.cl",
       "name": "Solo Bailalo",
-      "logoUrl": "https://radios-online.cl/storage/radios/18120/39701/conversions/V52SQfaQrvWzR2adMrXUt2ciEYSTxq-metaNjYucG5n--lg.webp",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8"
       ],
@@ -3538,7 +3538,7 @@
     {
       "id": "SpektraTV.es",
       "name": "SpektraTV",
-      "logoUrl": "https://spektratv.com/img/logo_intro.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
       ],
@@ -3548,7 +3548,7 @@
     {
       "id": "SpiritTV.us",
       "name": "Spirit TV",
-      "logoUrl": "https://image.roku.com/developer_channels/prod/032555e036ef279976df8727b85bd2c7bd168f3accb535727c3edbb931e08201.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8"
       ],
@@ -3558,7 +3558,7 @@
     {
       "id": "Star101FM.gu",
       "name": "Star 101 FM",
-      "logoUrl": "https://static.wixstatic.com/media/3645fc_bc6c1a6ce4a249688ce47096db85d135~mv2.png/v1/fill/w_1024,h_1024,al_c/3645fc_bc6c1a6ce4a249688ce47096db85d135~mv2.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8"
       ],
@@ -3568,7 +3568,7 @@
     {
       "id": "SteelbirdMusic.in",
       "name": "Steelbird Music",
-      "logoUrl": "https://i.imgur.com/Egijzx3.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8"
       ],
@@ -3578,7 +3578,7 @@
     {
       "id": "StingrayCMusic.ca",
       "name": "Stingray CMusic",
-      "logoUrl": "https://iconape.com/wp-content/png_logo_vector/stingray-cmusic.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3588,7 +3588,7 @@
     {
       "id": "StingrayClassicRock.ca",
       "name": "Stingray Classic Rock",
-      "logoUrl": "https://logowik.com/content/uploads/images/stingray-classica8017.logowik.com.webp",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3598,7 +3598,7 @@
     {
       "id": "StingrayClassica.ca",
       "name": "Stingray Classica",
-      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/e/e3/Stingray_Classica_RGB-02.svg/revision/latest/scale-to-width-down/250?cb=20191120223259",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3608,7 +3608,7 @@
     {
       "id": "StingrayDJAZZ.ca",
       "name": "Stingray DJAZZ",
-      "logoUrl": "https://w7.pngwing.com/pngs/799/978/png-transparent-stingray-djazz-musician-television-channel-route-messengers-of-pa-stingray-television-text-logo-thumbnail.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3618,7 +3618,7 @@
     {
       "id": "StingrayEasyListening.ca",
       "name": "Stingray Easy Listening",
-      "logoUrl": "http://p-img.movetv.com/1920x1080/a0e15c99ddf7dfddccae2d20015064c6.jpeg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3628,7 +3628,7 @@
     {
       "id": "StingrayEverything80s.ca",
       "name": "Stingray Everything '80s",
-      "logoUrl": "https://i.imgur.com/6E3wYrb.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3638,7 +3638,7 @@
     {
       "id": "StingrayFlashback70s.ca",
       "name": "Stingray Flashback 70's",
-      "logoUrl": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20231024T231806SQUARE.png_20231024231807.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3648,7 +3648,7 @@
     {
       "id": "StingrayGreatestHits.ca",
       "name": "Stingray Greatest Hits",
-      "logoUrl": "https://image.xumo.com/v1/channels/channel/99991120/600x337.webp?type=channelTile",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053"
       ],
@@ -3658,7 +3658,7 @@
     {
       "id": "StingrayGreatestHolidayHits.us",
       "name": "Stingray Greatest Holiday Hits",
-      "logoUrl": "https://image.xumo.com/v1/channels/channel/99991120/600x337.webp?type=channelTile",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8"
       ],
@@ -3668,7 +3668,7 @@
     {
       "id": "StingrayHitList.ca",
       "name": "Stingray Hit List",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/15/Stingray_Hits.svg/revision/latest/scale-to-width-down/250?cb=20191114172731",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054"
       ],
@@ -3678,7 +3678,7 @@
     {
       "id": "StingrayHolidayHits.ca",
       "name": "Stingray Holiday Hits",
-      "logoUrl": "https://image.xumo.com/v1/channels/channel/99991120/600x337.webp?type=channelTile",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3688,7 +3688,7 @@
     {
       "id": "StingrayHotCountry.ca",
       "name": "Stingray Hot Country",
-      "logoUrl": "https://secureservercdn.net/198.71.233.64/9vu.5ab.myftpupload.com/wp-content/uploads/2020/02/Stingray-Country.jpg?time=1607021877",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3698,7 +3698,7 @@
     {
       "id": "StingrayKaraoke.ca",
       "name": "Stingray Karaoke",
-      "logoUrl": "https://images.sr.roku.com/idType/roku/context/trc/id/stingray/providers/provider_1_23_1539019879233_stingray-karaoke-partner-tile-092818.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3708,7 +3708,7 @@
     {
       "id": "StingrayNaturescape.ca",
       "name": "Stingray Naturescape",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/91/Stingray_Naturescape.svg/revision/latest/scale-to-width-down/300?cb=20200102192817",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056"
       ],
@@ -3718,7 +3718,7 @@
     {
       "id": "StingrayNothinBut90s.ca",
       "name": "Stingray Nothin' But 90s",
-      "logoUrl": "https://images.plex.tv/photo?size=large-1280&url=https://provider-static.plex.tv/epg/cms/production/da6927ae-6eb8-4a69-94e7-9380866ae86d/8530_SM_Plex_Music-Channels_1920x1080-nothing_but_90s.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3728,7 +3728,7 @@
     {
       "id": "StingrayPopAdult.ca",
       "name": "Stingray Pop Adult",
-      "logoUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c9274ced11768aab7ef96be3a7875727.webp",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3738,7 +3738,7 @@
     {
       "id": "StingrayRememberthe80s.ca",
       "name": "Stingray Remember the 80s",
-      "logoUrl": "http://p-img.movetv.com/1920x1080/14cfd4ebe24f5a91dcf07221945ceef8.jpeg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071"
       ],
@@ -3748,7 +3748,7 @@
     {
       "id": "StingrayRockAlternative.ca",
       "name": "Stingray Rock Alternative",
-      "logoUrl": "https://proxy.zeno.fm/content/stations/010f2752-45ec-4e46-914a-0db0e422464e/image/?u=1701700071000",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3758,7 +3758,7 @@
     {
       "id": "StingrayRomanceLatino.ca",
       "name": "Stingray Romance Latino",
-      "logoUrl": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20231024T231821SQUARE.png_20231024231822.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3768,7 +3768,7 @@
     {
       "id": "StingraySmoothJazz.ca",
       "name": "Stingray Smooth Jazz",
-      "logoUrl": "https://provider-static.plex.tv/epg/cms/production/29ddf015-97fa-44ab-8bda-c97a683f5457/8530_SM_Plex_Music-Channels_1920x1080-Smooth_jazz.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3778,7 +3778,7 @@
     {
       "id": "StingraySoulStorm.ca",
       "name": "Stingray Soul Storm",
-      "logoUrl": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https://provider-static.plex.tv/epg/cms/production/78e1657f-a0f0-42ae-88ce-6a2a590adcac/8530_SM_Plex_Music-Channels_1920x1080-Soul_storm.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3788,7 +3788,7 @@
     {
       "id": "StingrayTheSpa.ca",
       "name": "Stingray The Spa",
-      "logoUrl": "http://p-img.movetv.com/1920x1080/459346318a7ecf0831fe5794309586f4.jpeg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3798,7 +3798,7 @@
     {
       "id": "StingrayTodaysKPop.ca",
       "name": "Stingray Today's K-Pop",
-      "logoUrl": "https://smotret-tv.ru/wp-content/uploads/2024/10/stingray-todays-kpop-png.webp",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3808,7 +3808,7 @@
     {
       "id": "StingrayTodaysLatinPop.ca",
       "name": "Stingray Today's Latin Pop",
-      "logoUrl": "https://smotret-tv.ru/wp-content/uploads/2024/10/stingray-todays-latin-pop-png.webp",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3818,7 +3818,7 @@
     {
       "id": "StingrayUrbanBeat.ca",
       "name": "Stingray Urban Beat",
-      "logoUrl": "https://s3.klowdtv.net/herring/images/channels/stingrayMusicUrbanBeats/logo_big.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8"
       ],
@@ -3828,7 +3828,7 @@
     {
       "id": "StranaFM.ru",
       "name": "Strana FM",
-      "logoUrl": "https://images.seeklogo.com/logo-png/47/1/strana-tv-logo-png_seeklogo-476040.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8"
       ],
@@ -3838,7 +3838,7 @@
     {
       "id": "StrykTV.us",
       "name": "Stryk TV",
-      "logoUrl": "https://stryktv.com/wp-content/uploads/2022/08/stryktv-logo-transparent.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://fffffff110156200.tvustream.com:8298/ryfy.m3u8"
       ],
@@ -3848,7 +3848,7 @@
     {
       "id": "SunMusic.in",
       "name": "Sun Music",
-      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20180318045647",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://15.235.144.106:14055"
       ],
@@ -3858,7 +3858,7 @@
     {
       "id": "SuperQPanama.pa",
       "name": "Super Q Panama",
-      "logoUrl": "https://www.medios.gt/galeriausuarios/panama/imagenesmessage/imagem020204144703401.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8"
       ],
@@ -3868,7 +3868,7 @@
     {
       "id": "SupermusicaTV.co",
       "name": "Supermusica TV",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100071807086241",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8"
       ],
@@ -3878,7 +3878,7 @@
     {
       "id": "T2TV.ir",
       "name": "T2 TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/T2_(Tele2)_logo_2024.svg/250px-T2_(Tele2)_logo_2024.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://t2hls.wns.live/hls/stream.m3u8"
       ],
@@ -3888,7 +3888,7 @@
     {
       "id": "TDIRadioTV.rs",
       "name": "TDI Radio TV",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/5/5f/TDI_Radio.svg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8"
       ],
@@ -3898,7 +3898,7 @@
     {
       "id": "TMA.gp",
       "name": "TMA",
-      "logoUrl": "http://www.tma.tv/images/Logo-chaine-TMA.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://hls.tmacaraibes.com/live/index.m3u8"
       ],
@@ -3908,7 +3908,7 @@
     {
       "id": "TNTMusic.ru",
       "name": "TNT Music",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1"
       ],
@@ -3918,7 +3918,7 @@
     {
       "id": "TRTMuzik.tr",
       "name": "TRT Muzik",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_Müzik_logo.svg/512px-TRT_Müzik_logo.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
       ],
@@ -3928,7 +3928,7 @@
     {
       "id": "TVExitos.do",
       "name": "TV Exitos",
-      "logoUrl": "https://dominicanchannels.com/wp-content/uploads/tvexitos-1.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8"
       ],
@@ -3938,7 +3938,7 @@
     {
       "id": "TVOMIX.es",
       "name": "TVOMIX",
-      "logoUrl": "https://linktr.ee/og/image/tvomix.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloud.tvomix.com/TVOMIX/index.m3u8"
       ],
@@ -3948,7 +3948,7 @@
     {
       "id": "TVSMusicNetwork.us",
       "name": "TVS Music Network",
-      "logoUrl": "https://www.vhv.rs/dpng/d/477-4772733_tv-network-logos-png-tv-channels-logo-transparent.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8"
       ],
@@ -3958,7 +3958,7 @@
     {
       "id": "TVUNO.pe",
       "name": "TVUNO",
-      "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSOtCbLY4hQttgj9mwkLjjOOl7_0La7_OG7tAJq3SZQMX_odw6E0JPgKOIaul1hYdBAc9o7YxS_e-qhMwMzAu8jY-kLEfRNidXNXfHpIRpHp_PmfD_Xz8bcLmkvsmLEcbgDmdgw4sz9E9Rlz17DbyRlSOL3bzZ-MTOfK0vG6sUAU4WJS0nnqsMjFWW8iw/s0-rw/VECTOR69.COM-TvOne-Logo-Download-Free-PNG.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
       ],
@@ -3968,7 +3968,7 @@
     {
       "id": "TabbarHits.in",
       "name": "Tabbar Hits",
-      "logoUrl": "https://play-lh.googleusercontent.com/7tuoGbv6gIUt_nrQY49awHtnauihlKk43k-OzU9shrG_V6tsZ-nYc36pc_xhBnk79Gvx",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8"
       ],
@@ -3978,7 +3978,7 @@
     {
       "id": "Tarab.sa",
       "name": "Tarab",
-      "logoUrl": "http://www.sources-tv.com/wp-content/uploads/2020/09/art-tarab-200-1.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8"
       ],
@@ -3988,7 +3988,7 @@
     {
       "id": "TarangMusic.in",
       "name": "Tarang Music",
-      "logoUrl": "https://www.nicepng.com/png/detail/353-3534947_tarang-music-image-tarang-music-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8"
       ],
@@ -3998,7 +3998,7 @@
     {
       "id": "TeleDominicanaTV.do",
       "name": "Tele Dominicana TV",
-      "logoUrl": "https://www.vivalivetv.com/public/files/shows/0/1/3238-640x360-FFFFFF.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8"
       ],
@@ -4008,7 +4008,7 @@
     {
       "id": "TeleZoukla.mq",
       "name": "Tele Zoukla",
-      "logoUrl": "https://i.imgur.com/lWYKgPC.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://vdo.pro-fhi.net:3228/stream/play.m3u8"
       ],
@@ -4018,7 +4018,7 @@
     {
       "id": "Tele7music.ro",
       "name": "Tele7music",
-      "logoUrl": "https://tele7music.ro/wp-content/uploads/2022/11/logo-tele7music-300x300.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live.tele7music.ro/hls/stream/index.m3u8"
       ],
@@ -4028,7 +4028,7 @@
     {
       "id": "TheCountryNetwork.us",
       "name": "The Country Network",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8"
       ],
@@ -4038,7 +4038,7 @@
     {
       "id": "TheVoice.bg",
       "name": "The Voice",
-      "logoUrl": "https://logodix.com/logo/1322838.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://bss1.neterra.tv/thevoice/thevoice.m3u8"
       ],
@@ -4048,7 +4048,7 @@
     {
       "id": "TiankovFolk.bg",
       "name": "Tiankov Folk",
-      "logoUrl": "https://static.wikia.nocookie.net/bulgarian-televisions/images/2/2f/Tiankov-orientfolk.png/revision/latest?cb=20200830172045",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streamer103.neterra.tv/tiankov-folk/live.m3u8"
       ],
@@ -4058,7 +4058,7 @@
     {
       "id": "TiankovOrientFolk.bg",
       "name": "Tiankov Orient Folk",
-      "logoUrl": "https://static.wikia.nocookie.net/bulgarian-televisions/images/2/2f/Tiankov-orientfolk.png/revision/latest?cb=20200830172045",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://streamer103.neterra.tv/tiankov-orient/live.m3u8"
       ],
@@ -4068,7 +4068,7 @@
     {
       "id": "TodayRadio.lu",
       "name": "Today Radio",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=119080824263144",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8"
       ],
@@ -4078,7 +4078,7 @@
     {
       "id": "TopEstradaTV.mk",
       "name": "TopEstrada TV",
-      "logoUrl": "https://media.licdn.com/dms/image/C5622AQFhgWUXWfbjsw/feedshare-shrink_2048_1536/0/1574699499733?e=2147483647&v=beta&t=XlgxBrXcZBWnBJzmZsjJ2fx35Dn4vVbpbKdJzgsyjKY",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://live.topestrada.com/live/topestrada/playlist.m3u8"
       ],
@@ -4088,7 +4088,7 @@
     {
       "id": "TopicalMoonRD.do",
       "name": "Topical Moon RD",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100085330932809",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8"
       ],
@@ -4098,7 +4098,7 @@
     {
       "id": "Totalmusic.uk",
       "name": "Totalmusic",
-      "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCd6I5sBfbltRCWihbSte8eP2LF2eH3wm4xjw1WR5sD33HQUHfOdd6E2bJLC4TjCH0KhMBiGW_Dx-TcrydNSlWBWnHh9LnlsyqR7GGB2UFYc4KeVQJiEJ6aLpoMwAJjYYiUYWQR7uOPxs4wrpWkpR6z8TdYxXVZc4G7-fs4jND_m0nmxO7wGNG5Yf2TQ/s1920/Totalmusic+slogan.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8"
       ],
@@ -4108,7 +4108,7 @@
     {
       "id": "Totalmusic2000s.uk",
       "name": "Totalmusic 2000s",
-      "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCd6I5sBfbltRCWihbSte8eP2LF2eH3wm4xjw1WR5sD33HQUHfOdd6E2bJLC4TjCH0KhMBiGW_Dx-TcrydNSlWBWnHh9LnlsyqR7GGB2UFYc4KeVQJiEJ6aLpoMwAJjYYiUYWQR7uOPxs4wrpWkpR6z8TdYxXVZc4G7-fs4jND_m0nmxO7wGNG5Yf2TQ/s1920/Totalmusic+slogan.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8"
       ],
@@ -4118,7 +4118,7 @@
     {
       "id": "Totalmusic80s.uk",
       "name": "Totalmusic 80s",
-      "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCd6I5sBfbltRCWihbSte8eP2LF2eH3wm4xjw1WR5sD33HQUHfOdd6E2bJLC4TjCH0KhMBiGW_Dx-TcrydNSlWBWnHh9LnlsyqR7GGB2UFYc4KeVQJiEJ6aLpoMwAJjYYiUYWQR7uOPxs4wrpWkpR6z8TdYxXVZc4G7-fs4jND_m0nmxO7wGNG5Yf2TQ/s1920/Totalmusic+slogan.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8"
       ],
@@ -4128,7 +4128,7 @@
     {
       "id": "TotalmusicConcerts.uk",
       "name": "Totalmusic Concerts",
-      "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCd6I5sBfbltRCWihbSte8eP2LF2eH3wm4xjw1WR5sD33HQUHfOdd6E2bJLC4TjCH0KhMBiGW_Dx-TcrydNSlWBWnHh9LnlsyqR7GGB2UFYc4KeVQJiEJ6aLpoMwAJjYYiUYWQR7uOPxs4wrpWkpR6z8TdYxXVZc4G7-fs4jND_m0nmxO7wGNG5Yf2TQ/s1920/Totalmusic+slogan.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8"
       ],
@@ -4138,7 +4138,7 @@
     {
       "id": "TotalmusicDance.uk",
       "name": "Totalmusic Dance",
-      "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCd6I5sBfbltRCWihbSte8eP2LF2eH3wm4xjw1WR5sD33HQUHfOdd6E2bJLC4TjCH0KhMBiGW_Dx-TcrydNSlWBWnHh9LnlsyqR7GGB2UFYc4KeVQJiEJ6aLpoMwAJjYYiUYWQR7uOPxs4wrpWkpR6z8TdYxXVZc4G7-fs4jND_m0nmxO7wGNG5Yf2TQ/s1920/Totalmusic+slogan.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8"
       ],
@@ -4148,7 +4148,7 @@
     {
       "id": "TraceBrazuca.fr",
       "name": "Trace Brazuca",
-      "logoUrl": "https://br.trace.tv/wp-content/uploads/2022/06/trace-brazuca-logo.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8"
       ],
@@ -4158,7 +4158,7 @@
     {
       "id": "TraceLatina.fr",
       "name": "Trace Latina",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/00/Trace_Latina.svg/revision/latest?cb=20191223072133",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8"
       ],
@@ -4168,7 +4168,7 @@
     {
       "id": "TraceUrban.fr",
       "name": "Trace Urban",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
       ],
@@ -4178,7 +4178,7 @@
     {
       "id": "TraditionalTV.ro",
       "name": "Traditional TV",
-      "logoUrl": "https://www.vhv.rs/dpng/d/560-5605996_tv-network-logos-png-png-transparent-tv-channel.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://83.103.149.75:8085/udp/239.30.0.9:4000"
       ],
@@ -4188,7 +4188,7 @@
     {
       "id": "TropiQ997FM.pa",
       "name": "Tropi Q 99.7 FM",
-      "logoUrl": "https://i3radio.com/userfiles-aplin/avatars/logo-1903709209.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8"
       ],
@@ -4198,7 +4198,7 @@
     {
       "id": "TropicalMusicTV.us",
       "name": "Tropical Music TV",
-      "logoUrl": "https://image.roku.com/developer_channels/prod/6c6b66ab1d26a90933bfadf97054b95f95721fcd1d475d300b0fe00e67c20e23.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8"
       ],
@@ -4208,7 +4208,7 @@
     {
       "id": "TuMusicaHD.do",
       "name": "Tu Musica HD",
-      "logoUrl": "https://dominicanchannels.com/wp-content/uploads/tumusica-hd.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mlb.essastream.com:8081/tumusicahd/tracks-v1a1/mono.m3u8"
       ],
@@ -4218,7 +4218,7 @@
     {
       "id": "TurboMixRadioTV.pe",
       "name": "Turbo Mix Radio TV",
-      "logoUrl": "https://thumbnail.anii.io/pe/radio-turbo-mix-92-5-fm-cajamarca-peru.webp",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8"
       ],
@@ -4228,7 +4228,7 @@
     {
       "id": "TurkmenOwazy.tm",
       "name": "Turkmen Owazy",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/27/Turkmen_Ovazy.png/revision/latest/scale-to-width-down/250?cb=20211225160825",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://alpha.tv.online.tm/hls/ch005.m3u8"
       ],
@@ -4238,7 +4238,7 @@
     {
       "id": "UltimateTV.in",
       "name": "Ultimate TV",
-      "logoUrl": "https://w7.pngwing.com/pngs/336/298/png-transparent-ultimatetv-hd-logo-thumbnail.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream.galaxyott.live/live/utv/index.m3u8"
       ],
@@ -4248,7 +4248,7 @@
     {
       "id": "UrbanoTV.cr",
       "name": "Urbano TV",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100088966008090",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
       ],
@@ -4258,7 +4258,7 @@
     {
       "id": "VClassicTV.cl",
       "name": "V Classic TV",
-      "logoUrl": "https://i.imgur.com/WIACJSy.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8"
       ],
@@ -4268,7 +4268,7 @@
     {
       "id": "V2BEATTV.uk",
       "name": "V2BEAT TV",
-      "logoUrl": "https://i.imgur.com/PXGqyLn.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://abr.de1se01.v2beat.live/playlist.m3u8"
       ],
@@ -4278,7 +4278,7 @@
     {
       "id": "VAMTV.cw",
       "name": "VAM TV",
-      "logoUrl": "https://i.imgur.com/CD1PffA.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8"
       ],
@@ -4288,7 +4288,7 @@
     {
       "id": "VH1.us",
       "name": "VH1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://fl1.moveonjoy.com/VH1/index.m3u8"
       ],
@@ -4298,7 +4298,7 @@
     {
       "id": "VIVARussia.ru",
       "name": "VIVA Russia",
-      "logoUrl": "https://logowiki.net/wp-content/uploads/imgp/VIVA-TV-Logo-1-9594.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
       ],
@@ -4308,7 +4308,7 @@
     {
       "id": "VMLatino.cr",
       "name": "VM Latino",
-      "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj02s4teeuLSbJKSQeqBP2NKYEEeV1SzEZwfgUVJMpW8UJEOnkqj01eirYlfdGDgG6x4XNuaflbCp3rPl7bAL3T8tiE1f0uMsyJr-ny3U61Ee0HuNBkTQFFDgRgMdoRwwWaigxZtlEugoh-z1xgiIKAXnLDGze9sAfjtnmTp7580cP7gTFgGF1gw4HxIf41/w1200-h630-p-k-no-nu/VM+LATINO.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
       ],
@@ -4318,7 +4318,7 @@
     {
       "id": "VaanavilTV.in",
       "name": "Vaanavil TV",
-      "logoUrl": "https://www.kindpng.com/picc/m/282-2828008_vaanavil-tv-channel-logo-hd-png-download.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8"
       ],
@@ -4328,7 +4328,7 @@
     {
       "id": "VallenatoInternacional.us",
       "name": "Vallenato Internacional",
-      "logoUrl": "https://image.roku.com/developer_channels/prod/3f4740711f32174fe3b7b82ed40bff9ecff191bdb2a4da07ef4a98d766869740.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8"
       ],
@@ -4338,7 +4338,7 @@
     {
       "id": "Vevo70s.us",
       "name": "Vevo '70s",
-      "logoUrl": "https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8"
       ],
@@ -4348,7 +4348,7 @@
     {
       "id": "Vevo80s.us",
       "name": "Vevo '80s",
-      "logoUrl": "https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/Vevo-80s_1838.png?$296_164_PNG$",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8"
       ],
@@ -4358,7 +4358,7 @@
     {
       "id": "Vevo90s.us",
       "name": "Vevo '90s",
-      "logoUrl": "https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/Vevo-90s_1839.png?$296_164_PNG$",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8"
       ],
@@ -4368,7 +4368,7 @@
     {
       "id": "Vevo2K.us",
       "name": "Vevo 2K",
-      "logoUrl": "https://www.liblogo.com/img-logo/ve4911vc9f-vevo-logo-vevo-logo-black-transparent-png-stickpng.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8"
       ],
@@ -4378,7 +4378,7 @@
     {
       "id": "VevoCountry.us",
       "name": "Vevo Country",
-      "logoUrl": "https://www.liblogo.com/img-logo/ve4911vc9f-vevo-logo-vevo-logo-black-transparent-png-stickpng.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8"
       ],
@@ -4388,7 +4388,7 @@
     {
       "id": "VevoLatino.us",
       "name": "Vevo Latino",
-      "logoUrl": "https://i.imgur.com/D7SwmuB.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8"
       ],
@@ -4398,7 +4398,7 @@
     {
       "id": "VevoPop.us",
       "name": "Vevo Pop",
-      "logoUrl": "https://www.liblogo.com/img-logo/ve4911vc9f-vevo-logo-vevo-logo-black-transparent-png-stickpng.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8"
       ],
@@ -4408,7 +4408,7 @@
     {
       "id": "VevoRB.us",
       "name": "Vevo R&B",
-      "logoUrl": "https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854"
       ],
@@ -4418,7 +4418,7 @@
     {
       "id": "VevoRetroRock.us",
       "name": "Vevo Retro Rock",
-      "logoUrl": "https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/1000x1000_Vevo-retro-rock.png?$296_164_PNG$",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8"
       ],
@@ -4428,7 +4428,7 @@
     {
       "id": "VevoTrueSchoolHipHop.us",
       "name": "Vevo True School Hip-Hop",
-      "logoUrl": "https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e"
       ],
@@ -4438,7 +4438,7 @@
     {
       "id": "VideoTourChannel.cr",
       "name": "Video Tour Channel",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://k4.usastreams.com/videotour/videotour/playlist.m3u8"
       ],
@@ -4448,7 +4448,7 @@
     {
       "id": "VintageMusic.cr",
       "name": "Vintage Music",
-      "logoUrl": "https://www.pngall.com/wp-content/uploads/15/MTV-Logo-PNG-Images-HD.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
       ],
@@ -4458,7 +4458,7 @@
     {
       "id": "VisionTelevision.mx",
       "name": "Vision Television",
-      "logoUrl": "https://i.imgur.com/HV5tgcM.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloudvideo.servers10.com:8081/8016/index.m3u8"
       ],
@@ -4468,7 +4468,7 @@
     {
       "id": "VoiceOverRadioTV.cr",
       "name": "VoiceOver Radio TV",
-      "logoUrl": "https://png.pngitem.com/pimgs/s/169-1696229_home-logo-voice-over-radio-hd-png-download.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
       ],
@@ -4478,7 +4478,7 @@
     {
       "id": "VolksmusikTV.de",
       "name": "Volksmusik TV",
-      "logoUrl": "https://bilder.fernsehserien.de/logos/hr/1086-615dfd6c9f428b5e13ec961542ee4d27.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8"
       ],
@@ -4488,7 +4488,7 @@
     {
       "id": "VosyTV.ec",
       "name": "Vos y TV",
-      "logoUrl": "https://image.roku.com/developer_channels/prod/75f6f347edac05c144c1edb76305f7bcc9f9297a048320ffe7e79eddfa16665c.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
       ],
@@ -4498,7 +4498,7 @@
     {
       "id": "WVCULP.us",
       "name": "WVCU-LP",
-      "logoUrl": "https://www.vhv.rs/dpng/d/560-5605996_tv-network-logos-png-png-transparent-tv-channel.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8"
       ],
@@ -4508,7 +4508,7 @@
     {
       "id": "Wanasah.ae",
       "name": "Wanasah",
-      "logoUrl": "http://wanasah.ca/wp-content/uploads/2022/01/wanasah-final-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://wanasah-prod-dub-enc.edgenextcdn.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8"
       ],
@@ -4518,7 +4518,7 @@
     {
       "id": "XLevelMedia.ar",
       "name": "X Level Media",
-      "logoUrl": "https://xlevelmedia.com/wp-content/uploads/2024/12/X_LEVEL_LOGO_NUEVO_3D_2.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8"
       ],
@@ -4528,7 +4528,7 @@
     {
       "id": "XITE.nl",
       "name": "XITE",
-      "logoUrl": "https://www.nicepng.com/png/detail/837-8374457_xite-tv-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8"
       ],
@@ -4538,7 +4538,7 @@
     {
       "id": "XITERockxMetal.nl",
       "name": "XITE Rock x Metal",
-      "logoUrl": "https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5&w=6380",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8"
       ],
@@ -4548,7 +4548,7 @@
     {
       "id": "XPTV1.es",
       "name": "XPTV1",
-      "logoUrl": "https://image.roku.com/developer_channels/prod/6dc1a6229e86eda30f1dec615a3e1c42b6d12b7358c1de84698f1a8100b0da97.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8"
       ],
@@ -4558,7 +4558,7 @@
     {
       "id": "YRFMusic.in",
       "name": "YRF Music",
-      "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
       ],
@@ -4568,7 +4568,7 @@
     {
       "id": "YleX.fi",
       "name": "YleX",
-      "logoUrl": "https://iconape.com/wp-content/png_logo_vector/ylex-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8"
       ],
@@ -4578,7 +4578,7 @@
     {
       "id": "YoMTV.us",
       "name": "Yo! MTV",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/9/9f/Yo!_MTV.svg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654102ed770cf1000866c307/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e98-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c7b00a0-d803-41b5-95bb-c20d39e69ce2"
       ],
@@ -4588,7 +4588,7 @@
     {
       "id": "ZBMusic.in",
       "name": "ZB Music",
-      "logoUrl": "https://img.freepik.com/premium-vector/zb-logo-design_731343-1007.jpg?w=900",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://server.zillarbarta.com/zbmusic/index.m3u8"
       ],
@@ -4598,7 +4598,7 @@
     {
       "id": "ZFMZoetermeerTV.nl",
       "name": "ZFM Zoetermeer TV",
-      "logoUrl": "https://www.zfmzoetermeer.nl/wp-content/uploads/2023/08/Logo-op-blauwe-achtergrond-1024x576.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://zfmzoetermeer.nl/live/master.m3u8"
       ],
@@ -4608,7 +4608,7 @@
     {
       "id": "ZUTV.ro",
       "name": "ZU TV",
-      "logoUrl": "https://w7.pngwing.com/pngs/155/499/png-transparent-zu-tv-satellite-television-television-channel-antena-5-microphone-creative-advertising-television-text-rectangle-thumbnail.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://hls.rundletv.eu.org/LIVE$RadioZU/6.m3u8/Level/300720051?end=END&start=LIVE"
       ],
@@ -4618,7 +4618,7 @@
     {
       "id": "ZharPtitsa.ru",
       "name": "Zhar Ptitsa",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/zz/zhar-ptitsa-ru.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8"
       ],
@@ -4628,7 +4628,7 @@
     {
       "id": "ZorTV.uz",
       "name": "Zo'r TV",
-      "logoUrl": "https://thumbs.dreamstime.com/b/r-letter-channel-television-logo-design-vector-280645498.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8"
       ],
@@ -4638,7 +4638,7 @@
     {
       "id": "ZweiMusicTelevision.de",
       "name": "Zwei Music Television",
-      "logoUrl": "https://images.seeklogo.com/logo-png/49/1/zwei-music-television-logo-png_seeklogo-498400.png?v=1957680272877479312",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8"
       ],
@@ -4648,7 +4648,7 @@
     {
       "id": "iTVAfrobeatsMusic.ca",
       "name": "iTV Afrobeats Music",
-      "logoUrl": "https://occ-0-4452-114.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYfw8o4Ihf97rC-e0omyL7srm9qN411Tly3sI9in3W8IvdM6KJWm2S6gkeAFDhTFumu0ZmaK0Jk3T0kV51byrK98supDUj3jhj9_y9BYPq04.png?r=24d",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8"
       ],
@@ -4658,7 +4658,7 @@
     {
       "id": "iTVArabicMusic.ca",
       "name": "iTV Arabic Music",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8"
       ],
@@ -4668,7 +4668,7 @@
     {
       "id": "iTVIndianMusic.ca",
       "name": "iTV Indian Music",
-      "logoUrl": "https://assets.stickpng.com/images/5842ab84a6515b1e0ad75b0d.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8"
       ],
@@ -4678,7 +4678,7 @@
     {
       "id": "iTVLatinMusic.ca",
       "name": "iTV Latin Music",
-      "logoUrl": "https://assets.stickpng.com/images/5842ab84a6515b1e0ad75b0d.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8"
       ],
@@ -4688,7 +4688,7 @@
     {
       "id": "iTVTurkishMusic.ca",
       "name": "iTV Turkish Music",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8"
       ],
@@ -4698,7 +4698,7 @@
     {
       "id": "iTVUrbanMusic.ca",
       "name": "iTV Urban Music",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8"
       ],
@@ -4708,7 +4708,7 @@
     {
       "id": "m2oTV.it",
       "name": "m2o TV",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/7/7c/105841.jpg/revision/latest?cb=20190816182042",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8"
       ],
@@ -4718,7 +4718,7 @@
     {
       "id": "o2tv.ru",
       "name": "o2tv",
-      "logoUrl": "https://competition.adesignaward.com/brands/8051a88ca061aa49f92fda582f4195ea8d137df3.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://31.148.48.15/O2_HD/index.m3u8"
       ],
@@ -4728,7 +4728,7 @@
     {
       "id": "DanceHits80.ru",
       "name": "DanceHits80",
-      "logoUrl": "https://logodix.com/logo/863723.png",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://dancehits80.denvs.ru:8080/index.m3u8"
       ],
@@ -4738,19 +4738,9 @@
     {
       "id": "NidaeAlIslamRadio.sa",
       "name": "Nidae AlIslam Radio",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/a/ab/Nida_Al-Islam_Radio_Logo_2014_(02).png/revision/latest/scale-to-width-down/1200?cb=20241103125639",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "A2iMusic.sn",
-      "name": "A2i Music",
-      "logoUrl": "https://i.imgur.com/Fykhzxh.jpg",
-      "streamUrls": [
-        "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
