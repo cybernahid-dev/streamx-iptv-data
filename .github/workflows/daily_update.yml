@@ -2,7 +2,7 @@ name: Update IPTV Channels
 
 on:
   schedule:
-    # প্রতিদিন বাংলাদেশ সময় সকাল ৬টার দিকে (UTC 00:00) আপডেট হবে
+    # প্রতি ১ ঘণ্টা পর পর অটোমেটিক রান হবে
     - cron: '0 * * * *'
   workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
 
@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # ফাইলে লেখার পারমিশন দেওয়া
+      contents: write # ফাইলে পরিবর্তন সেভ করার পারমিশন
 
     steps:
     - name: Checkout content
@@ -24,7 +24,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests
+        # নতুন লাইব্রেরি 'duckduckgo-search' এখানে যুক্ত করা হয়েছে
+        pip install requests duckduckgo-search
 
     - name: Run Update Script
       run: python update_channels.py
@@ -33,7 +34,10 @@ jobs:
       run: |
         git config --global user.name "Auto-Updater"
         git config --global user.email "actions@github.com"
+        
+        # পরিবর্তনগুলো অ্যাড করা
         git add .
-        # যদি কোনো পরিবর্তন থাকে তবেই কমিট করবে
-        git diff --quiet && git diff --staged --quiet || (git commit -m "🚀 Auto-updated channels list" && git push)
+        
+        # যদি ফাইলে কোনো পরিবর্তন আসে (নতুন চ্যানেল বা লোগো ফিক্স), তবেই পুশ করবে
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🚀 Auto-updated channels & fixed logos" && git push)
 
