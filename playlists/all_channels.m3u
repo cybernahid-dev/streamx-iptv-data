@@ -3524,7 +3524,7 @@ https://tvpass.org/live/FXMovieChannel/hd
 #EXTINF:-1 tvg-id="KABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/KABC_logo_2013.svg/220px-KABC_logo_2013.svg.png" group-title="USA",KABC-DT1
 https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="KCBSDT1.us" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/KCBS_1988.svg/revision/latest/scale-to-width-down/250?cb=20180207220836&path-prefix=pt-br" group-title="USA",KCBS-DT1
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 tvg-id="Logo.us" tvg-logo="https://p1.hiclipart.com/preview/345/192/897/tv-cartoon-kabel-eins-logo-television-television-channel-cable-television-wikipedia-logo-prosieben-png-clipart.jpg" group-title="USA",Logo
 https://tvpass.org/live/LogoEast/hd
 #EXTINF:-1 tvg-id="KFMBDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png" group-title="USA",KFMB-DT2
@@ -3581,6 +3581,8 @@ https://tvpass.org/live/WNET/hd
 https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://beinxtraespanol.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="USA",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-logo="https://pngset.com/images/nfl-redzone-channel-logo-symbol-trademark-emblem-lager-transparent-png-476432.png" group-title="USA",NFL RedZone
+https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 tvg-id="gb_news_uk" tvg-logo="https://i.ibb.co/Bq47Rj0/GB-News-logo-svg.png" group-title="UK",GB News
 https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="talktv_uk" tvg-logo="https://i.ibb.co/4Z58H5s/Talk-TV-UK-logo-svg.png" group-title="UK",TalkTV
@@ -4040,7 +4042,7 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-logo="https://png.pngitem.com/pimgs/s/216-2164879_nbc-sports-philadelphia-nbc-sports-philadelphia-logo-png.png" group-title="Sports",NBC Sports Philadelphia
 https://tvpass.org/live/nbc-sports-philadelphia/sd
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/320px-TSN5.svg.png" group-title="Sports",TSN5
-https://tvpass.org/live/tsn5/hd
+https://tvpass.org/live/tsn5/sd
 #EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://www.parsatv.com/index_files/channels/varzeshtv.png" group-title="Sports",Varzesh TV
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://www.kindpng.com/picc/m/25-253210_tigo-sport-logo-png-transparent-png.png" group-title="Sports",Tigo Sports

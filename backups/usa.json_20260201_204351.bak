@@ -12293,7 +12293,7 @@
       "name": "KCBS-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/a/a7/KCBS_1988.svg/revision/latest/scale-to-width-down/250?cb=20180207220836&path-prefix=pt-br",
       "streamUrls": [
-        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd"
+        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd"
       ],
       "category": "USA"
     },
@@ -12589,16 +12589,6 @@
         "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8",
         "https://bein-xtra-xumo.amagi.tv/playlist.m3u8",
         "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "NFLRedZone.us",
-      "name": "NFL RedZone",
-      "logoUrl": "https://pngset.com/images/nfl-redzone-channel-logo-symbol-trademark-emblem-lager-transparent-png-476432.png",
-      "streamUrls": [
-        "https://tvpass.org/live/NFLRedZone/hd"
       ],
       "category": "USA",
       "languages": []
