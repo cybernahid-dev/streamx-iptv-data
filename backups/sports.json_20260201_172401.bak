@@ -1711,16 +1711,6 @@
       ],
       "category": "Sports",
       "genre": "Sports"
-    },
-    {
-      "id": "TigoSports.sv",
-      "name": "Tigo Sports",
-      "logoUrl": "https://www.kindpng.com/picc/m/25-253210_tigo-sport-logo-png-transparent-png.png",
-      "streamUrls": [
-        "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
     }
   ]
 }
