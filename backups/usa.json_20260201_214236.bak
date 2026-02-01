@@ -12293,7 +12293,7 @@
       "name": "KCBS-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/a/a7/KCBS_1988.svg/revision/latest/scale-to-width-down/250?cb=20180207220836&path-prefix=pt-br",
       "streamUrls": [
-        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd"
+        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd"
       ],
       "category": "USA"
     },
@@ -12598,7 +12598,7 @@
       "name": "NFL RedZone",
       "logoUrl": "https://pngset.com/images/nfl-redzone-channel-logo-symbol-trademark-emblem-lager-transparent-png-476432.png",
       "streamUrls": [
-        "https://tvpass.org/live/NFLRedZone/sd"
+        "https://tvpass.org/live/NFLRedZone/hd"
       ],
       "category": "USA",
       "languages": []
