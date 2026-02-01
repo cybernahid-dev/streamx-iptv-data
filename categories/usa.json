@@ -577,8 +577,8 @@
       "name": "AMC",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png",
       "streamUrls": [
-        "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8",
-        "https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8"
+        "https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8",
+        "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8"
       ],
       "category": "USA"
     },
@@ -12302,7 +12302,7 @@
       "name": "Logo",
       "logoUrl": "https://p1.hiclipart.com/preview/345/192/897/tv-cartoon-kabel-eins-logo-television-television-channel-cable-television-wikipedia-logo-prosieben-png-clipart.jpg",
       "streamUrls": [
-        "https://tvpass.org/live/LogoEast/hd"
+        "https://tvpass.org/live/LogoEast/sd"
       ],
       "category": "USA"
     },
@@ -12598,7 +12598,7 @@
       "name": "NFL RedZone",
       "logoUrl": "https://pngset.com/images/nfl-redzone-channel-logo-symbol-trademark-emblem-lager-transparent-png-476432.png",
       "streamUrls": [
-        "https://tvpass.org/live/NFLRedZone/sd"
+        "https://tvpass.org/live/NFLRedZone/hd"
       ],
       "category": "USA",
       "languages": []

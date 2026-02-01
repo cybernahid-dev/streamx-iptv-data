@@ -1032,7 +1032,7 @@ https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/64/49/1a6449e6-fdb0-5a39-7ba2-66fddff34fdf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="USA",AKC TV Puppies
 https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png" group-title="USA",AMC
-http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://www.theplatformtv.online/upload/images/AMG.jpg" group-title="USA",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="AMGATV.us" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/03/Amga-TV-Logo.jpg" group-title="USA",AMGA TV
@@ -3526,7 +3526,7 @@ https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="KCBSDT1.us" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/KCBS_1988.svg/revision/latest/scale-to-width-down/250?cb=20180207220836&path-prefix=pt-br" group-title="USA",KCBS-DT1
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="Logo.us" tvg-logo="https://p1.hiclipart.com/preview/345/192/897/tv-cartoon-kabel-eins-logo-television-television-channel-cable-television-wikipedia-logo-prosieben-png-clipart.jpg" group-title="USA",Logo
-https://tvpass.org/live/LogoEast/hd
+https://tvpass.org/live/LogoEast/sd
 #EXTINF:-1 tvg-id="KFMBDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png" group-title="USA",KFMB-DT2
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png" group-title="USA",NBC Sports Bay Area
@@ -3582,7 +3582,7 @@ https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://beinxtraespanol.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="USA",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:-1 tvg-id="NFLRedZone.us" tvg-logo="https://pngset.com/images/nfl-redzone-channel-logo-symbol-trademark-emblem-lager-transparent-png-476432.png" group-title="USA",NFL RedZone
-https://tvpass.org/live/NFLRedZone/sd
+https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 tvg-id="gb_news_uk" tvg-logo="https://i.ibb.co/Bq47Rj0/GB-News-logo-svg.png" group-title="UK",GB News
 https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="talktv_uk" tvg-logo="https://i.ibb.co/4Z58H5s/Talk-TV-UK-logo-svg.png" group-title="UK",TalkTV
@@ -5397,6 +5397,8 @@ http://iptv.supertv.ro:8000/play/a001/index.m3u8
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa" tvg-logo="https://play-lh.googleusercontent.com/-SmvgcBV9LnyUA0U8n48dG2bbhutRHOSMhu3m5h3qRBbQSjzAOzxnWglCNC4X-WBBjc" group-title="Music",Fabulosa Estereo 100.5 FM
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
+#EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://hmipromznews.com/wp-content/uploads/2019/08/logo1.png" group-title="Music",HMI PROMZ NEWS
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 #EXTINF:-1 tvg-id="nasa_tv_uhd" tvg-logo="https://i.ibb.co/V9hPhYQ/NASA-TV-logo-svg.png" group-title="Informative",NASA TV UHD
 https://endpnt.com/hls/nasa4k/playlist.m3u8
 #EXTINF:-1 tvg-id="dw_documentary" tvg-logo="https://i.ibb.co/5cQ32qV/DW-Deutsch-logo-svg.png" group-title="Informative",DW Documentary

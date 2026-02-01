@@ -4946,17 +4946,6 @@
       "category": "Music",
       "languages": [],
       "genre": "Music"
-    },
-    {
-      "id": "HMIPROMZNEWS.us",
-      "name": "HMI PROMZ NEWS",
-      "logoUrl": "https://hmipromznews.com/wp-content/uploads/2019/08/logo1.png",
-      "streamUrls": [
-        "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
     }
   ]
 }
