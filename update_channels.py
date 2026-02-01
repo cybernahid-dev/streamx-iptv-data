@@ -8,15 +8,17 @@ import logging
 import tempfile
 from datetime import datetime
 
-# লাইব্রেরি ইমপোর্ট (Scraping এর জন্য)
+# --- 📚 LIBRARY IMPORT & SAFETY ---
+DDGS = None
 try:
-    from duckduckgo_search import DDGS
+    # নতুন প্যাকেজ 'ddgs' বা পুরাতন 'duckduckgo_search' উভয়ই চেক করা হচ্ছে
+    try:
+        from ddgs import DDGS
+    except ImportError:
+        from duckduckgo_search import DDGS
 except ImportError as e:
-    print(f"❌ Critical Error: Library missing or dependency failed.")
+    print(f"⚠️ Warning: Search library missing. Logo updates will be skipped.")
     print(f"Details: {e}")
-    print("👉 Fix: Ensure 'duckduckgo-search' and 'typing_extensions' are installed.")
-    print("👉 Run: pip install duckduckgo-search typing_extensions")
-    exit(1) # স্ক্রিপ্ট বন্ধ করে দেবে কারণ এটি ছাড়া লোগো ফিক্স হবে না
 
 # --- ⚙️ CONFIGURATION (Ultimate) ---
 BASE_DIR = os.getcwd()
@@ -29,7 +31,7 @@ MAX_BACKUPS_TO_KEEP = 5
 STREAMS_API = "https://iptv-org.github.io/api/streams.json"
 CHANNELS_API = "https://iptv-org.github.io/api/channels.json"
 
-# Default Assets (এই লিংকটি থাকলে স্ক্রিপ্ট বুঝবে লোগো মিসিং)
+# Default Assets
 DEFAULT_LOGO = "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png"
 
 # Filter Rules
@@ -53,27 +55,46 @@ logging.basicConfig(
 )
 logger = logging.getLogger()
 
-# --- 🕵️‍♂️ LOGO SCRAPPING ENGINE ---
+# --- 🕵️‍♂️ LOGO SCRAPPING ENGINE (WITH CIRCUIT BREAKER) ---
+
+# গ্লোবাল ভেরিয়েবল: যদি পরপর ৩ বার ফেইল করে, আমরা সার্চ বন্ধ করে দেব
+SEARCH_FAIL_COUNT = 0
+MAX_CONSECUTIVE_FAILS = 3
+SEARCH_DISABLED = False
 
 def find_real_logo_online(channel_name):
     """DuckDuckGo ব্যবহার করে রিয়েল লোগো খুঁজে বের করে।"""
+    global SEARCH_FAIL_COUNT, SEARCH_DISABLED, DDGS
+
+    if SEARCH_DISABLED or DDGS is None:
+        return DEFAULT_LOGO
+
     query = f"{channel_name} tv channel logo transparent wikipedia"
-    try:
-        # DDGS ব্যবহার করে ইমেজ সার্চ (১টি রেজাল্ট আনবে)
-        with DDGS() as ddgs:
-            results = list(ddgs.images(query, max_results=1))
-            if results:
-                image_url = results[0]['image']
-                return image_url
-    except Exception as e:
-        logger.warning(f"   ⚠️ Logo search failed for {channel_name}: {e}")
     
-    return DEFAULT_LOGO  # না পেলে ডিফল্ট লোগোই থাকবে
+    try:
+        # Timeout সেট করা হয়েছে যাতে বেশিক্ষণ আটকে না থাকে (10s)
+        with DDGS(timeout=10) as ddgs:
+            results = list(ddgs.images(query, max_results=1))
+            
+            if results:
+                # সফল হলে ফেইল কাউন্টার রিসেট হবে
+                SEARCH_FAIL_COUNT = 0
+                return results[0]['image']
+            
+    except Exception as e:
+        SEARCH_FAIL_COUNT += 1
+        logger.warning(f"   ⚠️ Logo search failed for '{channel_name}': {e}")
+        
+        # যদি পরপর ৩ বার ফেইল হয় (যেমন IP Blocked), তাহলে এই রানের জন্য সার্চ বন্ধ
+        if SEARCH_FAIL_COUNT >= MAX_CONSECUTIVE_FAILS:
+            logger.error("   🚫 Too many search failures (IP Blocked?). Disabling logo search for this run.")
+            SEARCH_DISABLED = True
+            
+    return DEFAULT_LOGO
 
 # --- 🛡️ SAFETY & CLEANUP FUNCTIONS ---
 
 def cleanup_old_backups():
-    """পুরানো ব্যাকআপ ডিলিট করে।"""
     if not os.path.exists(BACKUP_DIR): return
     logger.info("🧹 Cleaning up old backups...")
     all_backups = [f for f in os.listdir(BACKUP_DIR) if f.endswith(".bak")]
@@ -162,17 +183,19 @@ def update_channels_ultimate():
         
         data_modified = False
 
-        # --- PART 1: FIX OLD LOGOS (Retroactive Fix) ---
-        # যাদের লোগো নেই বা ডিফল্ট লোগো আছে, তাদের খুঁজে বের করা
+        # --- PART 1: FIX OLD LOGOS ---
         logger.info("   🛠️ Checking existing channels for missing logos...")
         fixed_count = 0
         
         for ch in existing_channels:
             current_logo = ch.get('logoUrl', "")
             
-            # যদি লোগো না থাকে বা ডিফল্ট লোগো থাকে
             if not current_logo or current_logo == DEFAULT_LOGO:
-                logger.info(f"     🔎 Searching logo for existing channel: {ch['name']}...")
+                # যদি সার্চ ডিজেবল হয়ে যায়, লুপ আর সময় নষ্ট করবে না
+                if SEARCH_DISABLED: 
+                    break
+
+                logger.info(f"     🔎 Searching logo for: {ch['name']}...")
                 real_logo = find_real_logo_online(ch['name'])
                 
                 if real_logo and real_logo != DEFAULT_LOGO:
@@ -180,8 +203,7 @@ def update_channels_ultimate():
                     fixed_count += 1
                     data_modified = True
                     logger.info(f"     ✅ Fixed Logo: {ch['name']}")
-                    # সার্চের মাঝে একটু বিরতি (Rate Limit এড়াতে)
-                    time.sleep(1) 
+                    time.sleep(1) # Rate limit safety
 
         if fixed_count > 0:
             logger.info(f"   🎉 Repaired {fixed_count} logos in existing list.")
@@ -204,7 +226,6 @@ def update_channels_ultimate():
                     if target.lower() in api_cats: is_match = True; break
             
             if is_match:
-                # ডুপ্লিকেট এড়ানো
                 if not any(s[0].get('channel') == ch_id for s in streams_to_check):
                     streams_to_check.append((stream, ch_details))
 
@@ -220,17 +241,15 @@ def update_channels_ultimate():
                     if result:
                         ch_id, url, details = result
                         
-                        # লোগো ডিসিশন
                         api_logo = details.get('logo')
                         final_logo = DEFAULT_LOGO
                         
                         if api_logo:
                             final_logo = api_logo
-                        else:
-                            # API তে লোগো নেই, তাই অনলাইনে সার্চ করবো
+                        elif not SEARCH_DISABLED: # লোগো সার্চ সচল থাকলেই চেষ্টা করবে
                             logger.info(f"     🌍 Scraping logo for NEW channel: {details.get('name')}")
                             final_logo = find_real_logo_online(details.get('name'))
-                            time.sleep(1) # Safety delay
+                            time.sleep(1) 
 
                         new_channel = {
                             "id": ch_id,
@@ -250,7 +269,6 @@ def update_channels_ultimate():
                 data_modified = True
                 logger.info(f"   📥 Added {len(new_channels_list)} new channels.")
 
-        # --- SAVE IF MODIFIED ---
         if data_modified:
             create_backup(filepath)
             atomic_save_json(filepath, current_data)

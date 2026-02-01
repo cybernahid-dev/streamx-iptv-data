@@ -24,8 +24,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        # 'typing_extensions' যুক্ত করা হয়েছে কারণ duckduckgo-search এটির ওপর নির্ভরশীল
-        python -m pip install requests duckduckgo-search typing_extensions lxml
+        # লগ-এর পরামর্শ অনুযায়ী 'ddgs' ব্যবহার করা হচ্ছে
+        python -m pip install requests ddgs typing_extensions lxml
 
     - name: Run Update Script
       run: python update_channels.py
