@@ -12,10 +12,11 @@ from datetime import datetime
 try:
     from duckduckgo_search import DDGS
 except ImportError as e:
-    print(f"❌ Error: 'duckduckgo-search' library missing or failed to import.")
+    print(f"❌ Critical Error: Library missing or dependency failed.")
     print(f"Details: {e}")
-    print("👉 Please run: pip install duckduckgo-search")
-    exit()
+    print("👉 Fix: Ensure 'duckduckgo-search' and 'typing_extensions' are installed.")
+    print("👉 Run: pip install duckduckgo-search typing_extensions")
+    exit(1) # স্ক্রিপ্ট বন্ধ করে দেবে কারণ এটি ছাড়া লোগো ফিক্স হবে না
 
 # --- ⚙️ CONFIGURATION (Ultimate) ---
 BASE_DIR = os.getcwd()
@@ -59,7 +60,6 @@ def find_real_logo_online(channel_name):
     query = f"{channel_name} tv channel logo transparent wikipedia"
     try:
         # DDGS ব্যবহার করে ইমেজ সার্চ (১টি রেজাল্ট আনবে)
-        # Context Manager ব্যবহার করা ভালো
         with DDGS() as ddgs:
             results = list(ddgs.images(query, max_results=1))
             if results:
