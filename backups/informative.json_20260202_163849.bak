@@ -2225,16 +2225,6 @@
       ],
       "category": "Informative",
       "genre": "Informative"
-    },
-    {
-      "id": "JiangsuEducationalChannel.cn",
-      "name": "Jiangsu Educational Channel",
-      "logoUrl": "https://www.pngkey.com/png/detail/616-6167035_jiangsu-tv-logo.png",
-      "streamUrls": [
-        "http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY"
-      ],
-      "category": "Informative",
-      "genre": "Informative"
     }
   ]
 }
