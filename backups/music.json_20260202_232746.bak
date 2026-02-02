@@ -5018,26 +5018,6 @@
       ],
       "category": "Music",
       "genre": "Music"
-    },
-    {
-      "id": "FlexStudioRadioTV.bz",
-      "name": "Flex Studio Radio TV",
-      "logoUrl": "https://i.imgur.com/tZjqtxd.png",
-      "streamUrls": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "MyGospelTV.fr",
-      "name": "My Gospel TV",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100089785794539",
-      "streamUrls": [
-        "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
     }
   ]
 }
