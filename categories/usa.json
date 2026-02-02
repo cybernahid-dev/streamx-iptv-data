@@ -3930,7 +3930,6 @@
       "name": "Golf Channel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/GOLF/index.m3u8",
         "https://tvpass.org/live/GolfChannel/sd",
         "https://tvpass.org/live/GolfChannel/hd"
       ],
@@ -4129,7 +4128,6 @@
       "name": "Hallmark Movies & Mysteries",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
         "https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd",
         "https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd"
       ],
@@ -11748,7 +11746,8 @@
       "name": "WTXF-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/bf/WTAF1970.svg/revision/latest?cb=20200809162239",
       "streamUrls": [
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
+        "https://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8"
       ],
       "category": "USA"
     },
@@ -12611,6 +12610,26 @@
       "logoUrl": "https://hmipromznews.com/wp-content/uploads/2019/08/logo1.png",
       "streamUrls": [
         "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "EntertainmentTonight.us",
+      "name": "Entertainment Tonight",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Entertainment_Tonight_Logo.png",
+      "streamUrls": [
+        "https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "LatinZone.us",
+      "name": "Latin Zone",
+      "logoUrl": "https://back.ww-cdn.com/apiv3/cdn/2795128/apiv3/release/iphone/10/photo/meta_images_logo@2x.png?v=1726101555",
+      "streamUrls": [
+        "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8"
       ],
       "category": "USA",
       "languages": []

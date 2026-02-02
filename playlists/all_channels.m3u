@@ -919,6 +919,10 @@ https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-logo="http://img1.wikia.nocookie.net/__cb20100709071448/logopedia/images/2/23/Zee_Action.png" group-title="India",Zee Action
 http://163.61.227.29:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="ColorsTamil.in" tvg-logo="https://w7.pngwing.com/pngs/398/488/png-transparent-viacom-18-colors-bangla-television-show-colors-tamil-colors-odia-others-purple-television-violet.png" group-title="India",Colors Tamil
+http://15.235.144.106:14052/
+#EXTINF:-1 tvg-id="SunTV.in" tvg-logo="https://clipground.com/images/sun-tv-logo-png-9.png" group-title="India",Sun TV
+http://15.235.144.106:14054/
 #EXTINF:-1 tvg-id="abc_news_live_us" tvg-logo="https://i.ibb.co/9V5x1wJ/ABC-News-Live-logo.png" group-title="USA",ABC News Live
 https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8
 #EXTINF:-1 tvg-id="charge_tv_us" tvg-logo="https://i.ibb.co/jDG4b8N/Charge-logo-svg.png" group-title="USA",Charge!
@@ -1742,7 +1746,7 @@ https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09
 #EXTINF:-1 tvg-id="GoUSATV.us" tvg-logo="https://www.clipartmax.com/png/middle/249-2490477_gousa-logo-color-logo.png" group-title="USA",GoUSA TV
 https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="USA",Golf Channel
-https://fl1.moveonjoy.com/GOLF/index.m3u8
+https://tvpass.org/live/GolfChannel/sd
 #EXTINF:-1 tvg-id="GoodLife45.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Partener_TV_Romania_(Test_card).jpg/revision/latest?cb=20200919191008" group-title="USA",GoodLife 45
 https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us" tvg-logo="https://epicsubmit.com/wp-content/uploads/2023/02/Hells-kitchen-Logo-2.jpg" group-title="USA",Gordon Ramsay's Hell's Kitchen
@@ -1784,7 +1788,7 @@ https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-logo="https://www.clipartmax.com/png/middle/335-3358990_hallmark-channel-logo-transparent.png" group-title="USA",Hallmark Movies & More
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
 #EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="USA",Hallmark Movies & Mysteries
-https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 #EXTINF:-1 tvg-id="HappyDays.us" tvg-logo="https://images.fanart.tv/fanart/happy-days-52658b3c781f8.png" group-title="USA",Happy Days
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e917b5e354cf0007b97a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9cae61e-6671-48b9-8e36-973e2921034d
 #EXTINF:-1 tvg-id="HauntTV.us" tvg-logo="https://www.tvchannellists.com/wiki/images/0/0a/Haunt_TV.svg" group-title="USA",Haunt TV
@@ -3587,6 +3591,10 @@ https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playl
 https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://hmipromznews.com/wp-content/uploads/2019/08/logo1.png" group-title="USA",HMI PROMZ NEWS
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Entertainment_Tonight_Logo.png" group-title="USA",Entertainment Tonight
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1 tvg-id="LatinZone.us" tvg-logo="https://back.ww-cdn.com/apiv3/cdn/2795128/apiv3/release/iphone/10/photo/meta_images_logo@2x.png?v=1726101555" group-title="USA",Latin Zone
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 tvg-id="gb_news_uk" tvg-logo="https://i.ibb.co/Bq47Rj0/GB-News-logo-svg.png" group-title="UK",GB News
 https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="talktv_uk" tvg-logo="https://i.ibb.co/4Z58H5s/Talk-TV-UK-logo-svg.png" group-title="UK",TalkTV
@@ -3840,7 +3848,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/54
 #EXTINF:-1 tvg-id="GolClassics.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/03/gol_classics_logo.jpg" group-title="Sports",Gol Classics
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="Sports",Golf Channel
-https://fl1.moveonjoy.com/GOLF/index.m3u8
+https://tvpass.org/live/GolfChannel/hd
 #EXTINF:-1 tvg-id="HTSporTV.tr" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="Sports",HTSpor TV
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="HTVSports.vn" tvg-logo="https://i.postimg.cc/Y2ZTQRBw/HTV-Th-thao-logo-2022.png" group-title="Sports",HTV Sports
@@ -3878,7 +3886,7 @@ https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://static.tildacdn.com/tild3236-3266-4732-b464-616230313861/mma.jpg" group-title="Sports",MMA-TV.com
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100086262472991" group-title="Sports",MNB Sport
-https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-id="MSG.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/MSG_Network_logo.png/260px-MSG_Network_logo.png" group-title="Sports",MSG
 https://fl1.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 tvg-id="MadeinBOTV.it" tvg-logo="https://www.madeinbo.tv/wp-content/uploads/2023/02/Canale88_logo.jpg" group-title="Sports",MadeinBO TV
@@ -4441,6 +4449,10 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-id="TinyPop.uk" tvg-logo="https://img1.pnghut.com/23/21/6/rnDuRbBtLt/logo-brand-tiny-pop-csc-media-group-television-channel.jpg" group-title="Kids",Tiny Pop
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="GEMJunior.tr" tvg-logo="https://junior.gemsociety.org/cdn/shop/files/Gem-Junior-logo-2d.png?v=1728585360&width=535" group-title="Kids",GEM Junior
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemjunior/index-0.m3u8
+#EXTINF:-1 tvg-id="GEMKids.tr" tvg-logo="https://www.aparatchi.com/images/TV/gem+kids.png" group-title="Kids",GEM Kids
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemkids/index-0.m3u8
 #EXTINF:-1 tvg-id="vevo_pop_pluto" tvg-logo="https://i.ibb.co/4Z5vMhP/vevo-logo.png" group-title="Music",Vevo Pop
 https://jmp2.uk/stvp-GBBC19000017V
 #EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg/revision/latest?cb=20230902024552&path-prefix=es" group-title="Music",13 Festival
@@ -5405,6 +5417,10 @@ https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 #EXTINF:-1 tvg-id="GEMMifa.tr" tvg-logo="https://www.aparatchi.com/images/TV/mifa-plus.png#joomlaImage:/local-images/TV/mifa-plus.png?width=1080&height=720" group-title="Music",GEM Mifa
 https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemmifa/index-0.m3u8
+#EXTINF:-1 tvg-id="LatinZone.us" tvg-logo="https://back.ww-cdn.com/apiv3/cdn/2795128/apiv3/release/iphone/10/photo/meta_images_logo@2x.png?v=1726101555" group-title="Music",Latin Zone
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+#EXTINF:-1 tvg-id="VantageMusic.ee" tvg-logo="https://matterhorncommunications.com/wp-content/uploads/2023/03/vantage-full-logo-RGB.png" group-title="Music",Vantage Music
+https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
 #EXTINF:-1 tvg-id="nasa_tv_uhd" tvg-logo="https://i.ibb.co/V9hPhYQ/NASA-TV-logo-svg.png" group-title="Informative",NASA TV UHD
 https://endpnt.com/hls/nasa4k/playlist.m3u8
 #EXTINF:-1 tvg-id="dw_documentary" tvg-logo="https://i.ibb.co/5cQ32qV/DW-Deutsch-logo-svg.png" group-title="Informative",DW Documentary

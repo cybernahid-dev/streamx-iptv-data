@@ -4117,26 +4117,6 @@
       ],
       "category": "India",
       "languages": []
-    },
-    {
-      "id": "ColorsTamil.in",
-      "name": "Colors Tamil",
-      "logoUrl": "https://w7.pngwing.com/pngs/398/488/png-transparent-viacom-18-colors-bangla-television-show-colors-tamil-colors-odia-others-purple-television-violet.png",
-      "streamUrls": [
-        "http://15.235.144.106:14052/"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "SunTV.in",
-      "name": "Sun TV",
-      "logoUrl": "https://clipground.com/images/sun-tv-logo-png-9.png",
-      "streamUrls": [
-        "http://15.235.144.106:14054/"
-      ],
-      "category": "India",
-      "languages": []
     }
   ]
 }

@@ -678,9 +678,9 @@
       "name": "Golf Channel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/GOLF/index.m3u8",
         "https://tvpass.org/live/GolfChannel/hd",
-        "https://tvpass.org/live/GolfChannel/sd"
+        "https://tvpass.org/live/GolfChannel/sd",
+        "https://fl1.moveonjoy.com/GOLF/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -877,7 +877,6 @@
       "name": "MNB Sport",
       "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100086262472991",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd",
         "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
       ],
       "category": "Sports",

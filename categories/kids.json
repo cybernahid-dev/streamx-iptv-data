@@ -2010,6 +2010,28 @@
       "category": "Kids",
       "languages": [],
       "genre": "Kids"
+    },
+    {
+      "id": "GEMJunior.tr",
+      "name": "GEM Junior",
+      "logoUrl": "https://junior.gemsociety.org/cdn/shop/files/Gem-Junior-logo-2d.png?v=1728585360&width=535",
+      "streamUrls": [
+        "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemjunior/index-0.m3u8"
+      ],
+      "category": "Kids",
+      "languages": [],
+      "genre": "Kids"
+    },
+    {
+      "id": "GEMKids.tr",
+      "name": "GEM Kids",
+      "logoUrl": "https://www.aparatchi.com/images/TV/gem+kids.png",
+      "streamUrls": [
+        "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemkids/index-0.m3u8"
+      ],
+      "category": "Kids",
+      "languages": [],
+      "genre": "Kids"
     }
   ]
 }

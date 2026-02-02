@@ -87,7 +87,8 @@
       "name": "ACC Digital Network",
       "logoUrl": "https://www.pngkey.com/png/detail/142-1429930_acc-digital-network-logo.png",
       "streamUrls": [
-        "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8"
+        "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -237,7 +238,9 @@
       "name": "Belarus-5",
       "logoUrl": "https://images.seeklogo.com/logo-png/45/1/belarus-5-logo-png_seeklogo-458059.png",
       "streamUrls": [
-        "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+        "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -477,6 +480,7 @@
       "name": "Esport3",
       "logoUrl": "https://img1.pnghut.com/12/2/16/w74eTBDWrq/television-channel-super3-yellow-area.jpg",
       "streamUrls": [
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
         "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
       ],
       "category": "Sports",
@@ -487,6 +491,7 @@
       "name": "F1 Channel",
       "logoUrl": "https://images.pluto.tv/channels/65c69ee3d77d450008c80438/featuredImage.jpg",
       "streamUrls": [
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996",
         "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8"
       ],
       "category": "Sports",
@@ -507,7 +512,9 @@
       "name": "FIFA+",
       "logoUrl": "https://www.sportsvideo.org/wp-content/uploads/2023/07/FIFA_logo_without_slogan.svg_.png",
       "streamUrls": [
-        "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
+        "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+        "https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8",
+        "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -547,7 +554,9 @@
       "name": "FUEL TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1280px-Fuel_TV.svg.png",
       "streamUrls": [
-        "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8"
+        "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+        "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
+        "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -577,7 +586,8 @@
       "name": "FanDuel TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/FanDuel_TV_logo.svg/500px-FanDuel_TV_logo.svg.png",
       "streamUrls": [
-        "https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8"
+        "https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8",
+        "https://fl1.moveonjoy.com/TVG/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -647,6 +657,7 @@
       "name": "Glory Kickboxing",
       "logoUrl": "https://images.tapology.com/logos/2605/profile/Glory_Kickboxing-logo.jpg?1574366345",
       "streamUrls": [
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8",
         "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8"
       ],
       "category": "Sports",
@@ -667,7 +678,9 @@
       "name": "Golf Channel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/GOLF/index.m3u8"
+        "https://fl1.moveonjoy.com/GOLF/index.m3u8",
+        "https://tvpass.org/live/GolfChannel/hd",
+        "https://tvpass.org/live/GolfChannel/sd"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -717,7 +730,8 @@
       "name": "InTrouble",
       "logoUrl": "https://i0.wp.com/axiommedia.co/wp-content/uploads/2020/12/Introuble-use.png?w=752&ssl=1",
       "streamUrls": [
-        "https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -767,7 +781,9 @@
       "name": "L'Equipe",
       "logoUrl": "https://w7.pngwing.com/pngs/882/165/png-transparent-l-039-equipe-wordmark-hd-logo.png",
       "streamUrls": [
-        "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8"
+        "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8",
+        "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
+        "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -797,6 +813,8 @@
       "name": "Lucha Libre AAA",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lucha_Libre_AAA_Worldwide_logo.png/500px-Lucha_Libre_AAA_Worldwide_logo.png",
       "streamUrls": [
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=827dfdd0-3b91-4726-a4ee-e0fff420c780",
+        "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
         "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId="
       ],
       "category": "Sports",
@@ -807,7 +825,8 @@
       "name": "M-Net Sport",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/d/db/MNET_Sport.jpg/revision/latest/scale-to-width-down/205?cb=20210914004758&path-prefix=vi",
       "streamUrls": [
-        "http://ares.mnet.mk/hls/mnet-sport.m3u8"
+        "http://ares.mnet.mk/hls/mnet-sport.m3u8",
+        "https://live.mnet.mk/hls/mnet-sport.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -827,6 +846,7 @@
       "name": "MLB",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png",
       "streamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8",
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a"
       ],
       "category": "Sports",
@@ -857,7 +877,8 @@
       "name": "MNB Sport",
       "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100086262472991",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd"
+        "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd",
+        "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -867,7 +888,9 @@
       "name": "MSG",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/MSG_Network_logo.png/260px-MSG_Network_logo.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/MSG/mpegts"
+        "https://fl1.moveonjoy.com/MSG/index.m3u8",
+        "https://fl1.moveonjoy.com/MSG/mpegts",
+        "https://tvpass.org/live/msg-madison-square-gardens/hd"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -937,7 +960,8 @@
       "name": "NBA TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
       "streamUrls": [
-        "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
+        "https://fl1.moveonjoy.com/NBA_TV/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -947,7 +971,8 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://e7.pngegg.com/pngimages/538/957/png-clipart-nbc-sports-network-six-nations-championship-nbcuniversal-nbc-sports-bay-area-television-text.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/hd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd",
+        "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -977,7 +1002,8 @@
       "name": "Nautical Channel",
       "logoUrl": "https://w7.pngwing.com/pngs/395/538/png-transparent-nautical-channel-television-channel-logo-television-show-others-television-text-sport.png",
       "streamUrls": [
-        "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8"
+        "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8",
+        "https://streams2.sofast.tv/vglive-sk-231198/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -997,6 +1023,7 @@
       "name": "Ovacion TV",
       "logoUrl": "https://i.imgur.com/7Xndgxk.png",
       "streamUrls": [
+        "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8",
         "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8"
       ],
       "category": "Sports",
@@ -1017,6 +1044,7 @@
       "name": "PGA Tour",
       "logoUrl": "https://p7.hiclipart.com/preview/693/763/684/golf-channel-pga-tour-television-channel-logo-golf.jpg",
       "streamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8",
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78"
       ],
       "category": "Sports",
@@ -1067,6 +1095,8 @@
       "name": "PokerGo",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/PokerGO_logo.png",
       "streamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/b474c2bb-b34d-4c53-a94b-c4ffe884563c/playlist.m3u8",
+        "https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8",
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b"
       ],
       "category": "Sports",
@@ -1187,7 +1217,8 @@
       "name": "Racer Network",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg",
       "streamUrls": [
-        "https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8"
+        "https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8",
+        "https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungnz/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1207,7 +1238,8 @@
       "name": "Rai Sport",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rai_Sport_-_Logo_2022.svg/1200px-Rai_Sport_-_Logo_2022.svg.png",
       "streamUrls": [
-        "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd"
+        "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd",
+        "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1217,6 +1249,7 @@
       "name": "Real Madrid TV",
       "logoUrl": "https://e7.pngegg.com/pngimages/150/994/png-clipart-real-madrid-c-f-real-madrid-tv-television-channel-la-liga-real-madrid-television-text.png",
       "streamUrls": [
+        "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
         "http://176.65.146.237:8401/play/a0ak/index.m3u8"
       ],
       "category": "Sports",
@@ -1237,7 +1270,9 @@
       "name": "Red Bull TV",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png",
       "streamUrls": [
-        "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
+        "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+        "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+        "https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1247,7 +1282,8 @@
       "name": "Right Now TV",
       "logoUrl": "https://media.newsbywire.com/wp-content/uploads/2024/12/RightNowCircleLogo1920.jpg",
       "streamUrls": [
-        "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8"
+        "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
+        "https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1267,7 +1303,8 @@
       "name": "Sharjah Sports",
       "logoUrl": "https://www.parsatv.com/index_files/channels/sharjah.jpg",
       "streamUrls": [
-        "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
+        "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+        "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1287,7 +1324,9 @@
       "name": "SportsGrid",
       "logoUrl": "https://media.unreel.me/prod/fntsysportsnetwork/general/00724628-d840-46d4-bfbe-a4159a47b0b5",
       "streamUrls": [
-        "https://sportsgrid-tribal.amagi.tv/playlist.m3u8"
+        "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
+        "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
+        "https://sportsgrid-plex.amagi.tv/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1327,7 +1366,8 @@
       "name": "Strongman",
       "logoUrl": "https://png.pngitem.com/pimgs/s/648-6487774_strongman-corporation-logo-hd-png-download.png",
       "streamUrls": [
-        "https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8"
+        "https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8",
+        "https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1377,7 +1417,8 @@
       "name": "TSN1",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/3/30/TSN1.png/revision/latest?cb=20140901045701",
       "streamUrls": [
-        "https://tvpass.org/live/tsn1/hd"
+        "https://tvpass.org/live/tsn1/hd",
+        "https://tvpass.org/live/tsn1/sd"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1387,7 +1428,8 @@
       "name": "TSN2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/1280px-TSN2_New_Logo.svg.png",
       "streamUrls": [
-        "https://tvpass.org/live/tsn2/hd"
+        "https://tvpass.org/live/tsn2/hd",
+        "https://tvpass.org/live/tsn2/sd"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1517,6 +1559,8 @@
       "name": "Tennis Channel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png",
       "streamUrls": [
+        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8",
+        "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
       ],
       "category": "Sports",
@@ -1527,7 +1571,9 @@
       "name": "Trace Sport Stars",
       "logoUrl": "https://www.pngkey.com/png/detail/260-2602208_trace-sports-stars-logo.png",
       "streamUrls": [
-        "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
+        "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+        "http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8",
+        "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1547,7 +1593,8 @@
       "name": "Turkmenistan Sport",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/xlw98l1659625347.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/hls/ch004.m3u8"
+        "https://alpha.tv.online.tm/hls/ch004.m3u8",
+        "https://alpha.tv.online.tm/legacyhls/ch004.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1577,6 +1624,7 @@
       "name": "Vital Drive",
       "logoUrl": "https://play-lh.googleusercontent.com/0T4uGLkGuT-feESiKyh4uSvEhKNq-G96dEOWpVnMa_o80Run8uC04zJqbFfjT_95ZwQ",
       "streamUrls": [
+        "https://tv.a21network.ru/stream/37909/index.m3u8",
         "https://autopilot.catcast.tv/content/37909/index.m3u8"
       ],
       "category": "Sports",
@@ -1597,7 +1645,9 @@
       "name": "World Poker Tour",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21a974-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97bdb4b6-f530-4173-966d-19421ac303a0"
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21a974-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97bdb4b6-f530-4173-966d-19421ac303a0",
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890",
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1607,6 +1657,7 @@
       "name": "World of Freesports",
       "logoUrl": "https://cdn.broadbandtvnews.com/wp-content/uploads/2023/03/16225900/World-of-Freesports.jpg",
       "streamUrls": [
+        "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
         "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
       ],
       "category": "Sports",
@@ -1617,7 +1668,9 @@
       "name": "beIN SPORTS XTRA en Espanol",
       "logoUrl": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
       "streamUrls": [
-        "https://bein-esp-klowdtv.amagi.tv/playlist.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8",
+        "https://bein-esp-klowdtv.amagi.tv/playlist.m3u8",
+        "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1647,6 +1700,7 @@
       "name": "NBC Sports Boston",
       "logoUrl": "https://brandslogos.com/wp-content/uploads/images/large/nbc-sports-logo.png",
       "streamUrls": [
+        "https://tvpass.org/live/nbc-sports-boston/sd",
         "https://tvpass.org/live/nbc-sports-boston/hd"
       ],
       "category": "Sports",
@@ -1657,6 +1711,7 @@
       "name": "TSN3",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1280px-TSN3.svg.png",
       "streamUrls": [
+        "https://tvpass.org/live/tsn3/sd",
         "https://tvpass.org/live/tsn3/hd"
       ],
       "category": "Sports",
@@ -1667,6 +1722,7 @@
       "name": "TSN4",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png",
       "streamUrls": [
+        "https://tvpass.org/live/tsn4/sd",
         "https://tvpass.org/live/tsn4/hd"
       ],
       "category": "Sports",
@@ -1677,7 +1733,8 @@
       "name": "IRIB 3",
       "logoUrl": "https://tvfarsi.com/wp-content/uploads/2024/05/IRIB-Shabake-3-Live-Irans-Youthful-Hub-for-Sports-Entertainment-and-Beyond.webp",
       "streamUrls": [
-        "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8"
+        "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8",
+        "https://ncdn.telewebion.com/tv3/live/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1687,6 +1744,7 @@
       "name": "NBC Sports Philadelphia",
       "logoUrl": "https://png.pngitem.com/pimgs/s/216-2164879_nbc-sports-philadelphia-nbc-sports-philadelphia-logo-png.png",
       "streamUrls": [
+        "https://tvpass.org/live/nbc-sports-philadelphia/sd",
         "https://tvpass.org/live/nbc-sports-philadelphia/hd"
       ],
       "category": "Sports",
@@ -1697,7 +1755,8 @@
       "name": "TSN5",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/320px-TSN5.svg.png",
       "streamUrls": [
-        "https://tvpass.org/live/tsn5/hd"
+        "https://tvpass.org/live/tsn5/hd",
+        "https://tvpass.org/live/tsn5/sd"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1707,9 +1766,116 @@
       "name": "Varzesh TV",
       "logoUrl": "https://www.parsatv.com/index_files/channels/varzeshtv.png",
       "streamUrls": [
-        "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8"
+        "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8",
+        "https://ncdn.telewebion.com/varzesh/live/playlist.m3u8"
       ],
       "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "TigoSports.sv",
+      "name": "Tigo Sports",
+      "logoUrl": "https://www.kindpng.com/picc/m/25-253210_tigo-sport-logo-png-transparent-png.png",
+      "streamUrls": [
+        "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "BilliardTV.us",
+      "name": "Billiard TV",
+      "logoUrl": "https://www.parsatv.com/index_files/channels/billiardtv.png",
+      "streamUrls": [
+        "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "HardKnocks.ca",
+      "name": "Hard Knocks",
+      "logoUrl": "https://www.totalprosports.com/wp-content/uploads/2024/05/GNoFu9dW4AAGN1s-1024x563.png",
+      "streamUrls": [
+        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8",
+        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "Pac12Insider.us",
+      "name": "Pac-12 Insider",
+      "logoUrl": "https://www.sportsvideo.org/wp-content/uploads/2021/03/unnamed-8-951x535.png",
+      "streamUrls": [
+        "https://pac12-vizio.amagi.tv/playlist.m3u8",
+        "https://pac12-firetv.amagi.tv/playlist.m3u8",
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "Sportitalia.it",
+      "name": "Sportitalia",
+      "logoUrl": "https://logowiki.net/wp-content/uploads/imgp/SportItalia-Logo-1-4679.jpg",
+      "streamUrls": [
+        "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
+        "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "SwerveSports.us",
+      "name": "Swerve Sports",
+      "logoUrl": "https://static-prod.adweek.com/wp-content/uploads/2022/11/swerve-logo-for-white-background-2.png",
+      "streamUrls": [
+        "https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8",
+        "https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8",
+        "https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "W14DKD5.us",
+      "name": "W14DK-D5",
+      "logoUrl": "https://i.imgur.com/D4mZ8ll.png",
+      "streamUrls": [
+        "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "beINSPORTSXTRA.us",
+      "name": "beIN SPORTS XTRA",
+      "logoUrl": "https://beinxtraespanol.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",
+      "streamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8",
+        "https://bein-xtra-xumo.amagi.tv/playlist.m3u8",
+        "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "ViaplayTV.fi",
+      "name": "Viaplay TV",
+      "logoUrl": "https://brandlogo.org/wp-content/uploads/2025/03/Viaplay-TV-Logo-Vertical-2025-300x300.png",
+      "streamUrls": [
+        "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
+      ],
+      "category": "Sports",
+      "languages": [],
       "genre": "Sports"
     }
   ]

@@ -373,3 +373,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-id="TinyPop.uk" tvg-logo="https://img1.pnghut.com/23/21/6/rnDuRbBtLt/logo-brand-tiny-pop-csc-media-group-television-channel.jpg" group-title="Kids",Tiny Pop
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="GEMJunior.tr" tvg-logo="https://junior.gemsociety.org/cdn/shop/files/Gem-Junior-logo-2d.png?v=1728585360&width=535" group-title="Kids",GEM Junior
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemjunior/index-0.m3u8
+#EXTINF:-1 tvg-id="GEMKids.tr" tvg-logo="https://www.aparatchi.com/images/TV/gem+kids.png" group-title="Kids",GEM Kids
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemkids/index-0.m3u8

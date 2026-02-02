@@ -822,7 +822,7 @@ https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09
 #EXTINF:-1 tvg-id="GoUSATV.us" tvg-logo="https://www.clipartmax.com/png/middle/249-2490477_gousa-logo-color-logo.png" group-title="USA",GoUSA TV
 https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="USA",Golf Channel
-https://fl1.moveonjoy.com/GOLF/index.m3u8
+https://tvpass.org/live/GolfChannel/sd
 #EXTINF:-1 tvg-id="GoodLife45.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Partener_TV_Romania_(Test_card).jpg/revision/latest?cb=20200919191008" group-title="USA",GoodLife 45
 https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us" tvg-logo="https://epicsubmit.com/wp-content/uploads/2023/02/Hells-kitchen-Logo-2.jpg" group-title="USA",Gordon Ramsay's Hell's Kitchen
@@ -864,7 +864,7 @@ https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-logo="https://www.clipartmax.com/png/middle/335-3358990_hallmark-channel-logo-transparent.png" group-title="USA",Hallmark Movies & More
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
 #EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="USA",Hallmark Movies & Mysteries
-https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 #EXTINF:-1 tvg-id="HappyDays.us" tvg-logo="https://images.fanart.tv/fanart/happy-days-52658b3c781f8.png" group-title="USA",Happy Days
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e917b5e354cf0007b97a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9cae61e-6671-48b9-8e36-973e2921034d
 #EXTINF:-1 tvg-id="HauntTV.us" tvg-logo="https://www.tvchannellists.com/wiki/images/0/0a/Haunt_TV.svg" group-title="USA",Haunt TV
@@ -2667,3 +2667,7 @@ https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playl
 https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://hmipromznews.com/wp-content/uploads/2019/08/logo1.png" group-title="USA",HMI PROMZ NEWS
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Entertainment_Tonight_Logo.png" group-title="USA",Entertainment Tonight
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1 tvg-id="LatinZone.us" tvg-logo="https://back.ww-cdn.com/apiv3/cdn/2795128/apiv3/release/iphone/10/photo/meta_images_logo@2x.png?v=1726101555" group-title="USA",Latin Zone
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8

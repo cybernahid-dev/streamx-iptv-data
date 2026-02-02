@@ -891,3 +891,7 @@ https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-logo="http://img1.wikia.nocookie.net/__cb20100709071448/logopedia/images/2/23/Zee_Action.png" group-title="India",Zee Action
 http://163.61.227.29:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="ColorsTamil.in" tvg-logo="https://w7.pngwing.com/pngs/398/488/png-transparent-viacom-18-colors-bangla-television-show-colors-tamil-colors-odia-others-purple-television-violet.png" group-title="India",Colors Tamil
+http://15.235.144.106:14052/
+#EXTINF:-1 tvg-id="SunTV.in" tvg-logo="https://clipground.com/images/sun-tv-logo-png-9.png" group-title="India",Sun TV
+http://15.235.144.106:14054/
