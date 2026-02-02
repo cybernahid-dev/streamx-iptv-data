@@ -24,11 +24,8 @@ except ImportError as e:
 BASE_DIR = os.getcwd()
 CATEGORY_DIR = os.path.join(BASE_DIR, "categories")
 BACKUP_DIR = os.path.join(BASE_DIR, "backups")
-REPORT_DIR = os.path.join(BASE_DIR, "reports")
-PLAYLIST_DIR = os.path.join(BASE_DIR, "playlists")  # 🆕 New Directory for M3U
 
 MAX_BACKUPS_TO_KEEP = 5 
-MAX_STREAMS_PER_CHANNEL = 3
 
 # API Endpoints
 STREAMS_API = "https://iptv-org.github.io/api/streams.json"
@@ -58,17 +55,6 @@ USER_AGENTS = [
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
     "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
 ]
-
-# --- 📊 REPORTING STATS ---
-STATS = {
-    "checked": 0,
-    "manual_skipped": 0,
-    "repaired": 0,
-    "logo_fixed": 0,
-    "added": 0,
-    "files_updated": 0,
-    "m3u_generated": 0
-}
 
 # --- 📝 LOGGING SETUP ---
 logging.basicConfig(
@@ -130,7 +116,6 @@ def atomic_save_json(filepath, data):
     try:
         shutil.move(temp_name, filepath)
         logger.info(f"💾 Saved JSON: {os.path.basename(filepath)}")
-        STATS["files_updated"] += 1
     except Exception as e:
         logger.error(f"❌ Save failed: {e}")
         if os.path.exists(temp_name): os.remove(temp_name)
@@ -141,103 +126,6 @@ def load_json(filepath):
             with open(filepath, 'r', encoding='utf-8') as f: return json.load(f)
         except: return {"channels": []}
     return {"channels": []}
-
-# --- 🎵 M3U GENERATOR FUNCTIONS (NEW) ---
-
-def generate_m3u_from_json(json_data, filename):
-    """JSON ডেটা থেকে M3U প্লেলিস্ট তৈরি করে"""
-    if not os.path.exists(PLAYLIST_DIR): os.makedirs(PLAYLIST_DIR)
-    
-    m3u_filename = filename.replace(".json", ".m3u")
-    m3u_path = os.path.join(PLAYLIST_DIR, m3u_filename)
-    
-    content = ["#EXTM3U"]
-    
-    for ch in json_data.get('channels', []):
-        urls = ch.get('streamUrls', [])
-        if not urls: continue
-        
-        # M3U Header Construction
-        # #EXTINF:-1 tvg-id="ID" tvg-logo="URL" group-title="CATEGORY", Channel Name
-        name = ch.get('name', 'Unknown')
-        logo = ch.get('logoUrl', '')
-        cid = ch.get('id', '')
-        group = ch.get('category', 'Uncategorized')
-        
-        # Taking the primary stream
-        stream_url = urls[0] 
-        
-        line = f'#EXTINF:-1 tvg-id="{cid}" tvg-logo="{logo}" group-title="{group}",{name}'
-        content.append(line)
-        content.append(stream_url)
-    
-    try:
-        with open(m3u_path, 'w', encoding='utf-8') as f:
-            f.write('\n'.join(content))
-        logger.info(f"🎵 Generated M3U: {m3u_filename}")
-        STATS["m3u_generated"] += 1
-    except Exception as e:
-        logger.error(f"❌ M3U Generation failed for {filename}: {e}")
-
-def generate_master_playlist(all_channels):
-    """সব চ্যানেল মিলিয়ে একটি মাস্টার প্লেলিস্ট তৈরি করে"""
-    if not os.path.exists(PLAYLIST_DIR): os.makedirs(PLAYLIST_DIR)
-    master_path = os.path.join(PLAYLIST_DIR, "all_channels.m3u")
-    
-    content = ["#EXTM3U"]
-    for ch in all_channels:
-        urls = ch.get('streamUrls', [])
-        if not urls: continue
-        
-        name = ch.get('name', 'Unknown')
-        logo = ch.get('logoUrl', '')
-        cid = ch.get('id', '')
-        group = ch.get('category', 'Uncategorized')
-        stream_url = urls[0]
-        
-        line = f'#EXTINF:-1 tvg-id="{cid}" tvg-logo="{logo}" group-title="{group}",{name}'
-        content.append(line)
-        content.append(stream_url)
-        
-    try:
-        with open(master_path, 'w', encoding='utf-8') as f:
-            f.write('\n'.join(content))
-        logger.info(f"🌟 Generated Master Playlist: all_channels.m3u (Total: {len(all_channels)})")
-    except Exception as e:
-        logger.error(f"❌ Master M3U failed: {e}")
-
-def write_summary_report():
-    if not os.path.exists(REPORT_DIR): os.makedirs(REPORT_DIR)
-    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
-    filename = os.path.join(REPORT_DIR, f"report_{timestamp}.txt")
-    
-    content = f"""
-    ========================================
-       IPTV UPDATE & M3U GENERATOR REPORT
-       Date: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
-    ========================================
-    
-    📊 Statistics:
-    ----------------------------------------
-    ✅ Total Channels Checked : {STATS['checked']}
-    🛡️ Manual Channels Skipped: {STATS['manual_skipped']}
-    🩹 Broken Links Repaired  : {STATS['repaired']}
-    🖼️ Logos Fixed            : {STATS['logo_fixed']}
-    🆕 New Channels Added     : {STATS['added']}
-    
-    📂 File Operations:
-    ----------------------------------------
-    💾 JSON Files Updated     : {STATS['files_updated']}
-    🎵 M3U Playlists Created  : {STATS['m3u_generated']} + 1 Master
-    
-    ========================================
-    """
-    try:
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(content)
-        logger.info(f"📄 Report generated: {filename}")
-    except Exception as e:
-        logger.error(f"❌ Failed to write report: {e}")
 
 # --- 🌐 NETWORK FUNCTIONS (ROTATING UA) ---
 
@@ -251,31 +139,26 @@ def check_link_status(url):
             return r.status_code == 200
     except: return False
 
-def get_multiple_working_streams(channel_id, streams_by_id):
+def get_alternative_working_stream(channel_id, streams_by_id):
+    """API থেকে একই চ্যানেলের অন্য কোনো সচল লিঙ্ক খুঁজে বের করে"""
     candidates = streams_by_id.get(channel_id, [])
-    if not candidates: return []
+    for cand in candidates:
+        url = cand.get('url')
+        if check_link_status(url):
+            return url
+    return None
 
-    working_urls = []
-    check_limit = candidates[:5] 
-    
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
-        future_to_url = {executor.submit(check_link_status, s.get('url')): s.get('url') for s in check_limit}
-        
-        for future in concurrent.futures.as_completed(future_to_url):
-            url = future_to_url[future]
-            try:
-                if future.result():
-                    working_urls.append(url)
-                    if len(working_urls) >= MAX_STREAMS_PER_CHANNEL:
-                        break
-            except: pass
-            
-    return working_urls
+def process_stream_check(stream, details):
+    url = stream.get('url')
+    ch_id = stream.get('channel')
+    if check_link_status(url):
+        return (ch_id, url, details)
+    return None
 
 # --- 🚀 MAIN LOGIC ---
 
 def update_channels_ultimate():
-    logger.info("🚀 Starting Advanced Channel Updater (JSON + M3U)...")
+    logger.info("🚀 Starting Ultimate Channel Updater (Logo + Broken Link Fixer)...")
     cleanup_old_backups()
 
     try:
@@ -285,6 +168,7 @@ def update_channels_ultimate():
         
         channel_info_map = {c['id']: c for c in api_channels}
         
+        # 🆕 ফাস্ট লুকআপের জন্য স্ট্রিমগুলোকে ID দিয়ে সাজানো হচ্ছে
         streams_by_id = {}
         for s in api_streams:
             if s.get('status') not in ['error', 'offline']:
@@ -298,9 +182,6 @@ def update_channels_ultimate():
         return
 
     if not os.path.exists(CATEGORY_DIR): os.makedirs(CATEGORY_DIR)
-    
-    # Master list to hold all channels for the final M3U
-    all_channels_collection = []
 
     for filename, rules in CATEGORY_RULES.items():
         filepath = os.path.join(CATEGORY_DIR, filename)
@@ -312,36 +193,32 @@ def update_channels_ultimate():
         
         data_modified = False
 
-        # --- PART 1: MAINTENANCE ---
+        # --- PART 1: MAINTENANCE (LOGOS & BROKEN LINKS) ---
+        logger.info("   🛠️ Checking existing channels (Logos + Links)...")
+        
         for ch in existing_channels:
-            STATS["checked"] += 1
             ch_id = ch.get('id')
             
-            if ch_id not in channel_info_map:
-                STATS["manual_skipped"] += 1
-                continue 
-
+            # 1. BROKEN LINK FIXER (🆕 ADDED)
             current_urls = ch.get('streamUrls', [])
             main_url_dead = False
             
+            # বর্তমান লিঙ্ক চেক করা
             if not current_urls or not check_link_status(current_urls[0]):
                 main_url_dead = True
-            
-            if main_url_dead or len(current_urls) < 2:
-                if main_url_dead:
-                    logger.warning(f"     ❌ Dead Link: {ch.get('name')}")
+                logger.warning(f"     ❌ Dead Link Found: {ch.get('name')}")
                 
-                new_working_urls = get_multiple_working_streams(ch_id, streams_by_id)
+                # যদি লিঙ্ক ডেড হয়, আমরা নতুন লিঙ্ক খুঁজব
+                new_url = get_alternative_working_stream(ch_id, streams_by_id)
                 
-                if new_working_urls:
-                    if new_working_urls != current_urls:
-                        ch['streamUrls'] = new_working_urls
-                        data_modified = True
-                        STATS["repaired"] += 1
-                        logger.info(f"     🩹 Streams Updated: {ch.get('name')}")
-                elif main_url_dead:
-                    logger.warning(f"     ⚠️ No valid streams found for: {ch.get('name')}")
+                if new_url and new_url != current_urls[0] if current_urls else True:
+                    ch['streamUrls'] = [new_url]
+                    data_modified = True
+                    logger.info(f"     🩹 Repaired Link: {ch.get('name')} -> New URL Found")
+                else:
+                    logger.warning(f"     ⚠️ No alternative stream found for: {ch.get('name')}")
 
+            # 2. LOGO FIXER (EXISTING)
             if not SEARCH_DISABLED:
                 current_logo = ch.get('logoUrl', "")
                 if not current_logo or current_logo == DEFAULT_LOGO:
@@ -349,8 +226,7 @@ def update_channels_ultimate():
                     if real_logo and real_logo != DEFAULT_LOGO:
                         ch['logoUrl'] = real_logo
                         data_modified = True
-                        STATS["logo_fixed"] += 1
-                        logger.info(f"     ✅ Logo Updated: {ch.get('name')}")
+                        logger.info(f"     ✅ Fixed Logo: {ch.get('name')}")
                         time.sleep(1)
 
         # --- PART 2: ADD NEW CHANNELS ---
@@ -370,42 +246,37 @@ def update_channels_ultimate():
                     if target.lower() in api_cats: is_match = True; break
             
             if is_match:
-                streams_to_check.append(ch_id)
+                # প্রথম স্ট্রিমটি নিচ্ছি চেক করার জন্য
+                streams_to_check.append((streams[0], ch_details))
 
         if streams_to_check:
             logger.info(f"   ⚡ Found {len(streams_to_check)} potential NEW channels...")
-            new_channels_list = []
             
-            def process_new_channel(target_ch_id):
-                details = channel_info_map.get(target_ch_id)
-                working_urls = get_multiple_working_streams(target_ch_id, streams_by_id)
-                if working_urls:
-                    return (details, working_urls)
-                return None
-
-            with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
-                futures = [executor.submit(process_new_channel, cid) for cid in streams_to_check]
+            new_channels_list = []
+            with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+                # মডিফাইড: process_stream_check ব্যবহার করা হচ্ছে
+                futures = [executor.submit(process_stream_check, s, d) for s, d in streams_to_check]
+                
                 for future in concurrent.futures.as_completed(futures):
-                    res = future.result()
-                    if res:
-                        details, urls = res
-                        final_logo = details.get('logo')
-                        if not final_logo and not SEARCH_DISABLED:
+                    result = future.result()
+                    if result:
+                        ch_id, url, details = result
+                        
+                        api_logo = details.get('logo')
+                        final_logo = DEFAULT_LOGO
+                        if api_logo: final_logo = api_logo
+                        elif not SEARCH_DISABLED:
                             final_logo = find_real_logo_online(details.get('name'))
                         
-                        langs = details.get('languages', [])
-                        
                         new_channel = {
-                            "id": details.get('id'),
+                            "id": ch_id,
                             "name": details.get('name'),
-                            "logoUrl": final_logo or DEFAULT_LOGO,
-                            "streamUrls": urls,
-                            "category": rules['category_name'],
-                            "languages": langs
+                            "logoUrl": final_logo,
+                            "streamUrls": [url],
+                            "category": rules['category_name']
                         }
                         if rules['type'] == 'genre': new_channel["genre"] = rules['category_name']
                         new_channels_list.append(new_channel)
-                        STATS["added"] += 1
                         print(f"     ✅ [NEW] {details.get('name')}")
 
             if new_channels_list:
@@ -414,26 +285,11 @@ def update_channels_ultimate():
                 data_modified = True
                 logger.info(f"   📥 Added {len(new_channels_list)} new channels.")
 
-        # Save JSON if modified
         if data_modified:
             create_backup(filepath)
             atomic_save_json(filepath, current_data)
         
-        # --- NEW: GENERATE M3U FOR THIS CATEGORY ---
-        # আমরা প্রতিবারই M3U জেনারেট করব যাতে ফাইলটি সবসময় ফ্রেশ থাকে
-        generate_m3u_from_json(current_data, filename)
-        
-        # Add to master collection
-        all_channels_collection.extend(current_data.get('channels', []))
-
-    # --- NEW: GENERATE MASTER PLAYLIST ---
-    if all_channels_collection:
-        generate_master_playlist(all_channels_collection)
-
-    # --- FINAL REPORT ---
-    write_summary_report()
-    logger.info("\n🎉 All updates completed! Check 'playlists' folder for M3U files.")
+    logger.info("\n🎉 All updates completed!")
 
 if __name__ == "__main__":
     update_channels_ultimate()
-
