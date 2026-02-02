@@ -2215,16 +2215,6 @@
       "category": "Informative",
       "languages": [],
       "genre": "Informative"
-    },
-    {
-      "id": "UnisulTV.br",
-      "name": "Unisul TV",
-      "logoUrl": "https://2.bp.blogspot.com/-NLrsj5tuCPI/W1d4FKNYOwI/AAAAAAAAAsk/FTCgpljEkYIEShyjKHP1eutiFqE28kolACLcBGAs/s320/UnisulTV+Logo.png",
-      "streamUrls": [
-        "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
-      ],
-      "category": "Informative",
-      "genre": "Informative"
     }
   ]
 }
