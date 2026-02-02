@@ -10882,9 +10882,9 @@
       "name": "WCBS-DT1",
       "logoUrl": "https://images.seeklogo.com/logo-png/46/3/wcbs-tv-logo-png_seeklogo-469501.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/CBS/index.m3u8",
         "https://fl1.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8?PlaylistM3UCL",
-        "https://tvpass.org/live/WCBSDT1/hd"
+        "https://tvpass.org/live/WCBSDT1/hd",
+        "https://tvpass.org/live/WCBSDT1/sd"
       ],
       "category": "USA"
     },
@@ -11748,7 +11748,6 @@
       "name": "WTXF-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/bf/WTAF1970.svg/revision/latest?cb=20200809162239",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
       ],
       "category": "USA"
@@ -12293,7 +12292,8 @@
       "name": "KCBS-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/a/a7/KCBS_1988.svg/revision/latest/scale-to-width-down/250?cb=20180207220836&path-prefix=pt-br",
       "streamUrls": [
-        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd"
+        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd",
+        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd"
       ],
       "category": "USA"
     },
@@ -12302,6 +12302,7 @@
       "name": "Logo",
       "logoUrl": "https://p1.hiclipart.com/preview/345/192/897/tv-cartoon-kabel-eins-logo-television-television-channel-cable-television-wikipedia-logo-prosieben-png-clipart.jpg",
       "streamUrls": [
+        "https://tvpass.org/live/LogoEast/hd",
         "https://tvpass.org/live/LogoEast/sd"
       ],
       "category": "USA"
@@ -12598,7 +12599,18 @@
       "name": "NFL RedZone",
       "logoUrl": "https://pngset.com/images/nfl-redzone-channel-logo-symbol-trademark-emblem-lager-transparent-png-476432.png",
       "streamUrls": [
-        "https://tvpass.org/live/NFLRedZone/hd"
+        "https://tvpass.org/live/NFLRedZone/hd",
+        "https://tvpass.org/live/NFLRedZone/sd"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "HMIPROMZNEWS.us",
+      "name": "HMI PROMZ NEWS",
+      "logoUrl": "https://hmipromznews.com/wp-content/uploads/2019/08/logo1.png",
+      "streamUrls": [
+        "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8"
       ],
       "category": "USA",
       "languages": []

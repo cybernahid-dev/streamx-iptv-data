@@ -917,6 +917,8 @@ https://mumt01.tangotv.in/OMTV/index.m3u8
 https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png/revision/latest?cb=20111013233308" group-title="India",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-logo="http://img1.wikia.nocookie.net/__cb20100709071448/logopedia/images/2/23/Zee_Action.png" group-title="India",Zee Action
+http://163.61.227.29:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="abc_news_live_us" tvg-logo="https://i.ibb.co/9V5x1wJ/ABC-News-Live-logo.png" group-title="USA",ABC News Live
 https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8
 #EXTINF:-1 tvg-id="charge_tv_us" tvg-logo="https://i.ibb.co/jDG4b8N/Charge-logo-svg.png" group-title="USA",Charge!
@@ -3220,7 +3222,7 @@ https://fl1.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8
 #EXTINF:-1 tvg-id="WCBIDT1.us" tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.wcbi.com/content/uploads/2022/02/i/g/wcbi-facebook-logo.png" group-title="USA",WCBI-DT1
 https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
 #EXTINF:-1 tvg-id="WCBSDT1.us" tvg-logo="https://images.seeklogo.com/logo-png/46/3/wcbs-tv-logo-png_seeklogo-469501.png" group-title="USA",WCBS-DT1
-https://fl1.moveonjoy.com/CBS/index.m3u8
+https://fl1.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="WCCADT1.us" tvg-logo="https://i.imgur.com/XJGY8iv.png" group-title="USA",WCCA-DT1
 https://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-id="WCIUDT5.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/WCIU-TheU.png/revision/latest?cb=20200501134417" group-title="USA",WCIU-DT5
@@ -3408,7 +3410,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-
 #EXTINF:-1 tvg-id="WTVYDT1.us" tvg-logo="https://static.wikia.nocookie.net/news-stations/images/3/35/WTVY_logo.jpg/revision/latest?cb=20140127062503" group-title="USA",WTVY-DT1
 http://143.244.60.30/AL_DOTHAN_CBS/index.m3u8
 #EXTINF:-1 tvg-id="WTXFDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/WTAF1970.svg/revision/latest?cb=20200809162239" group-title="USA",WTXF-DT1
-https://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WTXLDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/ABC27.png/revision/latest/scale-to-width-down/200?cb=20171006204802" group-title="USA",WTXL-DT1
 https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
 #EXTINF:-1 tvg-id="WVCULP.us" tvg-logo="https://www.vhv.rs/dpng/d/560-5605996_tv-network-logos-png-png-transparent-tv-channel.png" group-title="USA",WVCU-LP
@@ -3526,7 +3528,7 @@ https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="KCBSDT1.us" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/KCBS_1988.svg/revision/latest/scale-to-width-down/250?cb=20180207220836&path-prefix=pt-br" group-title="USA",KCBS-DT1
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="Logo.us" tvg-logo="https://p1.hiclipart.com/preview/345/192/897/tv-cartoon-kabel-eins-logo-television-television-channel-cable-television-wikipedia-logo-prosieben-png-clipart.jpg" group-title="USA",Logo
-https://tvpass.org/live/LogoEast/sd
+https://tvpass.org/live/LogoEast/hd
 #EXTINF:-1 tvg-id="KFMBDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png" group-title="USA",KFMB-DT2
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png" group-title="USA",NBC Sports Bay Area
@@ -3583,6 +3585,8 @@ https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:-1 tvg-id="NFLRedZone.us" tvg-logo="https://pngset.com/images/nfl-redzone-channel-logo-symbol-trademark-emblem-lager-transparent-png-476432.png" group-title="USA",NFL RedZone
 https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://hmipromznews.com/wp-content/uploads/2019/08/logo1.png" group-title="USA",HMI PROMZ NEWS
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 #EXTINF:-1 tvg-id="gb_news_uk" tvg-logo="https://i.ibb.co/Bq47Rj0/GB-News-logo-svg.png" group-title="UK",GB News
 https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="talktv_uk" tvg-logo="https://i.ibb.co/4Z58H5s/Talk-TV-UK-logo-svg.png" group-title="UK",TalkTV
@@ -4090,7 +4094,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 #EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-logo="https://play-lh.googleusercontent.com/qBKFajDc1LhRCup2umIyHwP17BpyUkqZfYxxuUn2YmYRkkMKDuS3I2josQLKI7vThA" group-title="Kids",Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="Kids",Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/200px-Animaxlogo-20160701.png" group-title="Kids",Animax Asia
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="Anime.sa" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/d66127164547005.63f8781a6117c.jpg" group-title="Kids",Anime
@@ -5399,6 +5403,8 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 #EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://hmipromznews.com/wp-content/uploads/2019/08/logo1.png" group-title="Music",HMI PROMZ NEWS
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 tvg-id="GEMMifa.tr" tvg-logo="https://www.aparatchi.com/images/TV/mifa-plus.png#joomlaImage:/local-images/TV/mifa-plus.png?width=1080&height=720" group-title="Music",GEM Mifa
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemmifa/index-0.m3u8
 #EXTINF:-1 tvg-id="nasa_tv_uhd" tvg-logo="https://i.ibb.co/V9hPhYQ/NASA-TV-logo-svg.png" group-title="Informative",NASA TV UHD
 https://endpnt.com/hls/nasa4k/playlist.m3u8
 #EXTINF:-1 tvg-id="dw_documentary" tvg-logo="https://i.ibb.co/5cQ32qV/DW-Deutsch-logo-svg.png" group-title="Informative",DW Documentary

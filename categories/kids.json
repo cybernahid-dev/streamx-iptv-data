@@ -210,8 +210,8 @@
       "name": "Ani",
       "logoUrl": "https://i.imgur.com/i2AP0hp.png",
       "streamUrls": [
-        "http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8",
-        "http://31.148.48.15/Ani/index.m3u8"
+        "http://31.148.48.15/Ani/index.m3u8",
+        "http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"

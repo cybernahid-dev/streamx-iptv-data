@@ -26,7 +26,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 #EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-logo="https://play-lh.googleusercontent.com/qBKFajDc1LhRCup2umIyHwP17BpyUkqZfYxxuUn2YmYRkkMKDuS3I2josQLKI7vThA" group-title="Kids",Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="Kids",Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/200px-Animaxlogo-20160701.png" group-title="Kids",Animax Asia
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="Anime.sa" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/d66127164547005.63f8781a6117c.jpg" group-title="Kids",Anime

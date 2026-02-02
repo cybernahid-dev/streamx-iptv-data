@@ -1755,8 +1755,7 @@
       "name": "TSN5",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/320px-TSN5.svg.png",
       "streamUrls": [
-        "https://tvpass.org/live/tsn5/hd",
-        "https://tvpass.org/live/tsn5/sd"
+        "https://tvpass.org/live/tsn5/hd"
       ],
       "category": "Sports",
       "genre": "Sports"

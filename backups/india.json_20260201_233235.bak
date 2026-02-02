@@ -4107,16 +4107,6 @@
       ],
       "category": "India",
       "languages": []
-    },
-    {
-      "id": "ZeeAction.in",
-      "name": "Zee Action",
-      "logoUrl": "http://img1.wikia.nocookie.net/__cb20100709071448/logopedia/images/2/23/Zee_Action.png",
-      "streamUrls": [
-        "http://163.61.227.29:8000/play/a044/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
     }
   ]
 }

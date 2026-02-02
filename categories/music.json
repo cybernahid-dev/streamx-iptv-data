@@ -4957,6 +4957,17 @@
       "category": "Music",
       "languages": [],
       "genre": "Music"
+    },
+    {
+      "id": "GEMMifa.tr",
+      "name": "GEM Mifa",
+      "logoUrl": "https://www.aparatchi.com/images/TV/mifa-plus.png#joomlaImage:/local-images/TV/mifa-plus.png?width=1080&height=720",
+      "streamUrls": [
+        "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemmifa/index-0.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
     }
   ]
 }
