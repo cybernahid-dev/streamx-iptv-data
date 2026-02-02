@@ -5008,16 +5008,6 @@
       "category": "Music",
       "languages": [],
       "genre": "Music"
-    },
-    {
-      "id": "RadioyTelevisionBudokan.mx",
-      "name": "Radio y Television Budokan",
-      "logoUrl": "https://budokanveracruzmultimedios.com/wp-content/uploads/2023/06/budokan-icono.png",
-      "streamUrls": [
-        "https://stella.streamerr.co:3065/live/budokantvlive.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
     }
   ]
 }

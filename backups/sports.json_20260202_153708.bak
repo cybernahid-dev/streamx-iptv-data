@@ -1894,16 +1894,6 @@
       "category": "Sports",
       "languages": [],
       "genre": "Sports"
-    },
-    {
-      "id": "MeridianoTV.ve",
-      "name": "Meridiano TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Meridiano_Televisión.png",
-      "streamUrls": [
-        "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
     }
   ]
 }
