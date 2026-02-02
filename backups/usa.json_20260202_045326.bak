@@ -338,6 +338,7 @@
       "name": "A&E",
       "logoUrl": "https://p7.hiclipart.com/preview/226/921/233/a-e-networks-television-channel-logo-germany.jpg",
       "streamUrls": [
+        "https://tvpass.org/live/AEEast/hd",
         "https://tvpass.org/live/AEEast/sd"
       ],
       "category": "USA"
@@ -576,8 +577,8 @@
       "name": "AMC",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png",
       "streamUrls": [
-        "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8",
-        "https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8"
+        "https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8",
+        "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8"
       ],
       "category": "USA"
     },
@@ -1751,6 +1752,7 @@
       "name": "C-SPAN 2",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/c-span2-logo-png-transparent.png",
       "streamUrls": [
+        "https://tvpass.org/live/CSPAN2/hd",
         "https://tvpass.org/live/CSPAN2/sd"
       ],
       "category": "USA"
@@ -3088,7 +3090,9 @@
       "name": "Disney XD",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",
       "streamUrls": [
-        "http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8"
+        "http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8",
+        "https://tvpass.org/live/DisneyXDEast/sd",
+        "https://tvpass.org/live/DisneyXDEast/hd"
       ],
       "category": "USA"
     },
@@ -3428,9 +3432,8 @@
       "name": "FXX",
       "logoUrl": "https://cdn.freelogovectors.net/wp-content/uploads/2018/03/fx-tv-channel-logo.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/FXX/index.m3u8",
-        "https://tvpass.org/live/FXXEast/hd",
-        "https://tvpass.org/live/FXXEast/sd"
+        "https://tvpass.org/live/FXXEast/sd",
+        "https://tvpass.org/live/FXXEast/hd"
       ],
       "category": "USA"
     },
@@ -3927,7 +3930,6 @@
       "name": "Golf Channel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/GOLF/index.m3u8",
         "https://tvpass.org/live/GolfChannel/sd",
         "https://tvpass.org/live/GolfChannel/hd"
       ],
@@ -4126,7 +4128,6 @@
       "name": "Hallmark Movies & Mysteries",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
         "https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd",
         "https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd"
       ],
@@ -4318,7 +4319,8 @@
       "name": "IFC",
       "logoUrl": "https://images.amcnetworks.com/ifc.com/wp-content/uploads/2011/11/ifc_logo_default_share.png",
       "streamUrls": [
-        "https://tvpass.org/live/IFCEast/sd"
+        "https://tvpass.org/live/IFCEast/sd",
+        "https://tvpass.org/live/IFCEast/hd"
       ],
       "category": "USA"
     },
@@ -6395,6 +6397,7 @@
       "name": "NBC Sports Boston",
       "logoUrl": "https://brandslogos.com/wp-content/uploads/images/large/nbc-sports-logo.png",
       "streamUrls": [
+        "https://tvpass.org/live/nbc-sports-boston/sd",
         "https://tvpass.org/live/nbc-sports-boston/hd"
       ],
       "category": "USA"
@@ -10877,9 +10880,9 @@
       "name": "WCBS-DT1",
       "logoUrl": "https://images.seeklogo.com/logo-png/46/3/wcbs-tv-logo-png_seeklogo-469501.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/CBS/index.m3u8",
         "https://fl1.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8?PlaylistM3UCL",
-        "https://tvpass.org/live/WCBSDT1/hd"
+        "https://tvpass.org/live/WCBSDT1/hd",
+        "https://tvpass.org/live/WCBSDT1/sd"
       ],
       "category": "USA"
     },
@@ -11171,7 +11174,8 @@
       "name": "WIS-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WIS-DT2_2024_(cropped).webp/250px-WIS-DT2_2024_(cropped).webp.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd"
+        "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd",
+        "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd"
       ],
       "category": "USA"
     },
@@ -11457,7 +11461,9 @@
       "name": "WNJU-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logo-timeline/images/b/bb/Wnju197087.png/revision/latest/scale-to-width-down/200?cb=20210320202530",
       "streamUrls": [
-        "http://104.238.205.28:9090/278678_.m3u8"
+        "http://104.238.205.28:9090/278678_.m3u8",
+        "https://tvpass.org/live/TelemundoEast/sd",
+        "https://tvpass.org/live/TelemundoEast/hd"
       ],
       "category": "USA"
     },
@@ -11740,8 +11746,8 @@
       "name": "WTXF-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/bf/WTAF1970.svg/revision/latest?cb=20200809162239",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8",
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
+        "https://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8"
       ],
       "category": "USA"
     },
@@ -12266,7 +12272,8 @@
       "name": "FX Movie Channel",
       "logoUrl": "https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/640px-FXM_Logo.svg.png&w=640&q=50",
       "streamUrls": [
-        "https://tvpass.org/live/FXMovieChannel/hd"
+        "https://tvpass.org/live/FXMovieChannel/hd",
+        "https://tvpass.org/live/FXMovieChannel/sd"
       ],
       "category": "USA"
     },
@@ -12284,7 +12291,8 @@
       "name": "KCBS-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/a/a7/KCBS_1988.svg/revision/latest/scale-to-width-down/250?cb=20180207220836&path-prefix=pt-br",
       "streamUrls": [
-        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd"
+        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd",
+        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd"
       ],
       "category": "USA"
     },
@@ -12293,6 +12301,7 @@
       "name": "Logo",
       "logoUrl": "https://p1.hiclipart.com/preview/345/192/897/tv-cartoon-kabel-eins-logo-television-television-channel-cable-television-wikipedia-logo-prosieben-png-clipart.jpg",
       "streamUrls": [
+        "https://tvpass.org/live/LogoEast/hd",
         "https://tvpass.org/live/LogoEast/sd"
       ],
       "category": "USA"
@@ -12302,7 +12311,8 @@
       "name": "KFMB-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd"
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
       ],
       "category": "USA"
     },
@@ -12311,7 +12321,8 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/hd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd",
+        "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
     },
@@ -12578,6 +12589,47 @@
         "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8",
         "https://bein-xtra-xumo.amagi.tv/playlist.m3u8",
         "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "NFLRedZone.us",
+      "name": "NFL RedZone",
+      "logoUrl": "https://pngset.com/images/nfl-redzone-channel-logo-symbol-trademark-emblem-lager-transparent-png-476432.png",
+      "streamUrls": [
+        "https://tvpass.org/live/NFLRedZone/hd",
+        "https://tvpass.org/live/NFLRedZone/sd"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "HMIPROMZNEWS.us",
+      "name": "HMI PROMZ NEWS",
+      "logoUrl": "https://hmipromznews.com/wp-content/uploads/2019/08/logo1.png",
+      "streamUrls": [
+        "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "EntertainmentTonight.us",
+      "name": "Entertainment Tonight",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Entertainment_Tonight_Logo.png",
+      "streamUrls": [
+        "https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "LatinZone.us",
+      "name": "Latin Zone",
+      "logoUrl": "https://back.ww-cdn.com/apiv3/cdn/2795128/apiv3/release/iphone/10/photo/meta_images_logo@2x.png?v=1726101555",
+      "streamUrls": [
+        "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8"
       ],
       "category": "USA",
       "languages": []

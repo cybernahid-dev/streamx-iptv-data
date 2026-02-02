@@ -2098,7 +2098,7 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="USA",Lifetime
 https://fl1.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-logo="https://tl.vhv.rs/dpng/s/42-429636_lifetime-movies-logo-png-transparent-png.png" group-title="USA",Lifetime Movies
-https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+https://tvpass.org/live/LifetimeMoviesEast/hd
 #EXTINF:-1 tvg-id="LifevisionTV.us" tvg-logo="http://channels.roku.com/images/d0c5ecc5952542e196f8d8e6658a2e74-hd.jpg" group-title="USA",LifevisionTV
 https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
 #EXTINF:-1 tvg-id="LittleStarsUniverse.us" tvg-logo="https://i.imgur.com/RasrA0s.png" group-title="USA",Little Stars Universe
@@ -3886,7 +3886,7 @@ https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://static.tildacdn.com/tild3236-3266-4732-b464-616230313861/mma.jpg" group-title="Sports",MMA-TV.com
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100086262472991" group-title="Sports",MNB Sport
-https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
 #EXTINF:-1 tvg-id="MSG.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/MSG_Network_logo.png/260px-MSG_Network_logo.png" group-title="Sports",MSG
 https://fl1.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 tvg-id="MadeinBOTV.it" tvg-logo="https://www.madeinbo.tv/wp-content/uploads/2023/02/Canale88_logo.jpg" group-title="Sports",MadeinBO TV

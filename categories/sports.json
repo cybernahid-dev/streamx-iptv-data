@@ -877,6 +877,7 @@
       "name": "MNB Sport",
       "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100086262472991",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd",
         "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
       ],
       "category": "Sports",

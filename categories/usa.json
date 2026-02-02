@@ -5562,9 +5562,8 @@
       "name": "Lifetime Movies",
       "logoUrl": "https://tl.vhv.rs/dpng/s/42-429636_lifetime-movies-logo-png-transparent-png.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
-        "https://tvpass.org/live/LifetimeMoviesEast/sd",
-        "https://tvpass.org/live/LifetimeMoviesEast/hd"
+        "https://tvpass.org/live/LifetimeMoviesEast/hd",
+        "https://tvpass.org/live/LifetimeMoviesEast/sd"
       ],
       "category": "USA"
     },
