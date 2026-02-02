@@ -4151,15 +4151,6 @@
       ],
       "category": "India",
       "languages": []
-    },
-    {
-      "id": "RDXGoa.in",
-      "name": "RDX Goa",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/2d/RDX_Goa.png/revision/latest?cb=20191229185210",
-      "streamUrls": [
-        "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-      ],
-      "category": "India"
     }
   ]
 }
