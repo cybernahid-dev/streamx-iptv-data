@@ -10879,7 +10879,6 @@
       "name": "WCBS-DT1",
       "logoUrl": "https://images.seeklogo.com/logo-png/46/3/wcbs-tv-logo-png_seeklogo-469501.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8?PlaylistM3UCL",
         "https://tvpass.org/live/WCBSDT1/hd",
         "https://tvpass.org/live/WCBSDT1/sd"
       ],
