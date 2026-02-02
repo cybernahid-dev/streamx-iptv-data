@@ -10026,6 +10026,7 @@
       "name": "The Carol Burnett Show",
       "logoUrl": "https://assets.fontsinuse.com/static/use-media-items/136/135164/upto-700xauto/60498b07/@2x/Carol+Burnett+Show.png",
       "streamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8",
         "https://carolburnett-vizio.amagi.tv/playlist.m3u8"
       ],
       "category": "USA"
