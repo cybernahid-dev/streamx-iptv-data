@@ -13,9 +13,7 @@
       "id": "abp_news_in",
       "name": "ABP News",
       "logoUrl": "https://i.ibb.co/8Y4Wc8g/ABP-News-logo-svg.png",
-      "streamUrls": [
-        null
-      ],
+      "streamUrls": [],
       "category": "India",
       "genre": "News"
     },
@@ -23,18 +21,14 @@
       "id": "ndtv_india_in",
       "name": "NDTV India",
       "logoUrl": "https://i.ibb.co/RzM8h7Q/NDTV-India-logo-svg.png",
-      "streamUrls": [
-        null
-      ],
+      "streamUrls": [],
       "category": "India"
     },
     {
       "id": "zee_news_in",
       "name": "Zee News",
       "logoUrl": "https://i.ibb.co/Qk425n5/Zee-News-logo-svg.png",
-      "streamUrls": [
-        null
-      ],
+      "streamUrls": [],
       "category": "India"
     },
     {
@@ -51,27 +45,21 @@
       "id": "sony_sab_in",
       "name": "Sony SAB",
       "logoUrl": "https://i.ibb.co/tZ5XWzP/Sony-SAB-logo-svg.png",
-      "streamUrls": [
-        null
-      ],
+      "streamUrls": [],
       "category": "India"
     },
     {
       "id": "colors_in",
       "name": "Colors",
       "logoUrl": "https://i.ibb.co/bzzjC1h/Colors-TV-logo-svg.png",
-      "streamUrls": [
-        null
-      ],
+      "streamUrls": [],
       "category": "India"
     },
     {
       "id": "star_plus_in",
       "name": "StarPlus",
       "logoUrl": "https://i.ibb.co/Wc2L4qP/Star-Plus-logo-svg.png",
-      "streamUrls": [
-        null
-      ],
+      "streamUrls": [],
       "category": "India"
     },
     {
@@ -87,9 +75,7 @@
       "id": "9xm_in",
       "name": "9XM",
       "logoUrl": "https://i.ibb.co/M7X1b9V/9xm-logo.png",
-      "streamUrls": [
-        null
-      ],
+      "streamUrls": [],
       "category": "India"
     },
     {

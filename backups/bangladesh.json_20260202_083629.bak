@@ -97,9 +97,7 @@
       "id": "deepto_tv_bd",
       "name": "Deepto TV",
       "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/deepto_tv.png",
-      "streamUrls": [
-        null
-      ],
+      "streamUrls": [],
       "category": "Bangladesh"
     },
     {
