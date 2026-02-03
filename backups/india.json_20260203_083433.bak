@@ -4250,15 +4250,6 @@
         "http://103.78.149.54:8000/play/a022/index.m3u8"
       ],
       "category": "India"
-    },
-    {
-      "id": "KCLTV.in",
-      "name": "KCL TV",
-      "logoUrl": "https://www.kcltv.com/images/logo.jpg",
-      "streamUrls": [
-        "https://kcltv.livebox.co.in/kclhls/live.m3u8"
-      ],
-      "category": "India"
     }
   ]
 }
