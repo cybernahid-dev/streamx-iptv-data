@@ -4160,33 +4160,6 @@
         "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
       ],
       "category": "India"
-    },
-    {
-      "id": "ABPAnanda.in",
-      "name": "ABP Ananda",
-      "logoUrl": "https://cdn.pnggallery.com/wp-content/uploads/abp-ananda-logo-05.png",
-      "streamUrls": [
-        "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8"
-      ],
-      "category": "India"
-    },
-    {
-      "id": "ABPAsmita.in",
-      "name": "ABP Asmita",
-      "logoUrl": "https://i.pinimg.com/736x/47/90/91/4790915f1b4697c12e57f15cde41013d.jpg",
-      "streamUrls": [
-        "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8"
-      ],
-      "category": "India"
-    },
-    {
-      "id": "CNBCTV18.in",
-      "name": "CNBC TV18",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png?20210904011406",
-      "streamUrls": [
-        "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8"
-      ],
-      "category": "India"
     }
   ]
 }
