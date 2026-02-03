@@ -5038,36 +5038,6 @@
       ],
       "category": "Music",
       "genre": "Music"
-    },
-    {
-      "id": "JazzTV.mk",
-      "name": "Jazz TV",
-      "logoUrl": "https://crystalpng.com/wp-content/uploads/2024/11/jazz-logo.png",
-      "streamUrls": [
-        "https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "LoveTV.mk",
-      "name": "Love TV",
-      "logoUrl": "https://assets.turbologo.com/blog/en/2024/07/09064307/tv-logos-958x575.png",
-      "streamUrls": [
-        "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "RockTV.mk",
-      "name": "Rock TV",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/9/93/Rock_TV.svg",
-      "streamUrls": [
-        "https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
     }
   ]
 }
