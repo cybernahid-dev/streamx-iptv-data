@@ -12660,15 +12660,6 @@
         "https://live.field59.com/wlio/wlio1/playlist.m3u8"
       ],
       "category": "USA"
-    },
-    {
-      "id": "WFMZDT1.us",
-      "name": "WFMZ-DT1",
-      "logoUrl": "https://w7.pngwing.com/pngs/956/832/png-transparent-allentown-philadelphia-wfmz-tv-logo-television-crime-fighter-television-text-logo.png",
-      "streamUrls": [
-        "https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8"
-      ],
-      "category": "USA"
     }
   ]
 }

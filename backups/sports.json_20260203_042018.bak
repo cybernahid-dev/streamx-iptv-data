@@ -4,35 +4,45 @@
       "id": "sky_sports_main_event",
       "name": "Sky Sports Main Event",
       "logoUrl": "https://i.ibb.co/VMyB25g/sky-sports-main-event-hd-1-logo.png",
-      "streamUrls": [],
+      "streamUrls": [
+        null
+      ],
       "category": "Sports"
     },
     {
       "id": "sky_sports_football",
       "name": "Sky Sports Football",
       "logoUrl": "https://i.ibb.co/z5pBZCv/sky-sports-football-hd-logo.png",
-      "streamUrls": [],
+      "streamUrls": [
+        null
+      ],
       "category": "Sports"
     },
     {
       "id": "bein_sports_1_hd",
       "name": "beIN Sports 1 HD",
       "logoUrl": "https://i.ibb.co/3B77kSj/bein-sports-1-logo.png",
-      "streamUrls": [],
+      "streamUrls": [
+        null
+      ],
       "category": "Sports"
     },
     {
       "id": "willow_cricket_hd",
       "name": "Willow Cricket HD",
       "logoUrl": "https://i.ibb.co/3S4f8t8/willow-hd-logo.png",
-      "streamUrls": [],
+      "streamUrls": [
+        null
+      ],
       "category": "Sports"
     },
     {
       "id": "ten_sports_pk",
       "name": "Ten Sports Pakistan",
       "logoUrl": "https://i.ibb.co/N2zW4bZ/Ten-Sports-Pakistan-Logo-svg.png",
-      "streamUrls": [],
+      "streamUrls": [
+        null
+      ],
       "category": "Sports"
     },
     {
@@ -48,28 +58,36 @@
       "id": "rtsh_sport",
       "name": "RTSH Sport",
       "logoUrl": "https://i.ibb.co/7jXjH08/rtsh-sport-logo.png",
-      "streamUrls": [],
+      "streamUrls": [
+        null
+      ],
       "category": "Sports"
     },
     {
       "id": "ad_sports_1",
       "name": "AD Sports 1",
       "logoUrl": "https://i.ibb.co/51bTqG5/ad-sports-1-logo.png",
-      "streamUrls": [],
+      "streamUrls": [
+        null
+      ],
       "category": "Sports"
     },
     {
       "id": "ad_sports_2",
       "name": "AD Sports 2",
       "logoUrl": "https://i.ibb.co/1Kk2W98/ad-sports-2-logo.png",
-      "streamUrls": [],
+      "streamUrls": [
+        null
+      ],
       "category": "Sports"
     },
     {
       "id": "dd_sports",
       "name": "DD Sports",
       "logoUrl": "https://i.ibb.co/4Z5vMhP/dd-sports-logo.png",
-      "streamUrls": [],
+      "streamUrls": [
+        null
+      ],
       "category": "Sports"
     },
     {
@@ -678,9 +696,9 @@
       "name": "Golf Channel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/GOLF/index.m3u8",
         "https://tvpass.org/live/GolfChannel/hd",
-        "https://tvpass.org/live/GolfChannel/sd"
+        "https://tvpass.org/live/GolfChannel/sd",
+        "https://fl1.moveonjoy.com/GOLF/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1766,7 +1784,6 @@
       "name": "Varzesh TV",
       "logoUrl": "https://www.parsatv.com/index_files/channels/varzeshtv.png",
       "streamUrls": [
-        "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8",
         "https://ncdn.telewebion.com/varzesh/live/playlist.m3u8"
       ],
       "category": "Sports",
@@ -1876,6 +1893,36 @@
       ],
       "category": "Sports",
       "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "MeridianoTV.ve",
+      "name": "Meridiano TV",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Meridiano_Televisión.png",
+      "streamUrls": [
+        "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "ExtremeSportsChannelPolska.pl",
+      "name": "Extreme Sports Channel Polska",
+      "logoUrl": "https://img1.pnghut.com/23/23/14/dcQYgd8KxJ/sign-logo-bein-channels-network-extreme-sports-channel-media-group.jpg",
+      "streamUrls": [
+        "http://138.2.160.168:8081/proxy.m3u8?embed=https://wizja.cc/embed/extremesports/"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "NFLRedZone.us",
+      "name": "NFL RedZone",
+      "logoUrl": "https://pngset.com/images/nfl-redzone-channel-logo-symbol-trademark-emblem-lager-transparent-png-476432.png",
+      "streamUrls": [
+        "https://tvpass.org/live/NFLRedZone/hd"
+      ],
+      "category": "Sports",
       "genre": "Sports"
     }
   ]

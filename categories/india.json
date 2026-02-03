@@ -4187,6 +4187,69 @@
         "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8"
       ],
       "category": "India"
+    },
+    {
+      "id": "AnmolCinema.in",
+      "name": "Anmol Cinema",
+      "logoUrl": "https://w7.pngwing.com/pngs/330/556/png-transparent-zee-anmol-cinema-zee-entertainment-enterprises-dd-free-dish-television-channel-others-purple-television-text-thumbnail.png",
+      "streamUrls": [
+        "http://103.78.149.54:8000/play/a01f/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "AnmolTV.in",
+      "name": "Anmol TV",
+      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=106210832426292",
+      "streamUrls": [
+        "http://103.78.149.54:8000/play/a00j/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "PragNews.in",
+      "name": "Prag News",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/6e/Prag_news.png/revision/latest/scale-to-width-down/260?cb=20210508191225",
+      "streamUrls": [
+        "http://103.78.149.54:8000/play/a03u/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "Rengoni.in",
+      "name": "Rengoni",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b2/Rengonihiver.png/revision/latest?cb=20210509110214",
+      "streamUrls": [
+        "http://103.78.149.54:8000/play/a03v/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "SunNeo.in",
+      "name": "Sun Neo",
+      "logoUrl": "https://www.medianews4u.com/wp-content/uploads/2024/06/Sun-NEO-Logo.png",
+      "streamUrls": [
+        "http://103.78.149.54:8000/play/a00y/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "UniqueTV.in",
+      "name": "Unique TV",
+      "logoUrl": "https://play-lh.googleusercontent.com/JnyYJu6mZT5Irclu9JdPweOZjoNMiUqH84R0VQ6UqfEfEwUElhfz4NoP5CqkhpVDbue-",
+      "streamUrls": [
+        "http://103.78.149.54:8000/play/a01e/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "ZeeChitramandir.in",
+      "name": "Zee Chitramandir",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/55/Zee_chitramandir.png/revision/latest/scale-to-width-down/320?cb=20210401030547",
+      "streamUrls": [
+        "http://103.78.149.54:8000/play/a022/index.m3u8"
+      ],
+      "category": "India"
     }
   ]
 }

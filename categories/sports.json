@@ -1924,6 +1924,16 @@
       ],
       "category": "Sports",
       "genre": "Sports"
+    },
+    {
+      "id": "USANetwork.us",
+      "name": "USA Network",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_(2016).svg/1280px-USA_Network_logo_(2016).svg.png",
+      "streamUrls": [
+        "https://tvpass.org/live/USANetworkEast/hd"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
     }
   ]
 }

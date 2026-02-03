@@ -2051,16 +2051,6 @@
       "category": "Kids",
       "languages": [],
       "genre": "Kids"
-    },
-    {
-      "id": "UniqueTV.in",
-      "name": "Unique TV",
-      "logoUrl": "https://play-lh.googleusercontent.com/JnyYJu6mZT5Irclu9JdPweOZjoNMiUqH84R0VQ6UqfEfEwUElhfz4NoP5CqkhpVDbue-",
-      "streamUrls": [
-        "http://103.78.149.54:8000/play/a01e/index.m3u8"
-      ],
-      "category": "Kids",
-      "genre": "Kids"
     }
   ]
 }
