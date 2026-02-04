@@ -4304,69 +4304,6 @@
         "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8"
       ],
       "category": "India"
-    },
-    {
-      "id": "IndiaNews.in",
-      "name": "India News",
-      "logoUrl": "https://w7.pngwing.com/pngs/327/169/png-transparent-india-news-television-channel-itv-network-india-television-logo-india.png",
-      "streamUrls": [
-        "https://newsxott.in/hls/indianewsnational.m3u8"
-      ],
-      "category": "India"
-    },
-    {
-      "id": "IndiaNewsGujarati.in",
-      "name": "India News Gujarati",
-      "logoUrl": "https://dreamdth.com/wp-content/uploads/2023/12/Logos-of-Gujarati-News-Channels.jpg.webp",
-      "streamUrls": [
-        "https://newsxott.in/hls/indianewsgujarat.m3u8"
-      ],
-      "category": "India"
-    },
-    {
-      "id": "IndiaNewsHaryana.in",
-      "name": "India News Haryana",
-      "logoUrl": "https://yt3.ggpht.com/a-/AAuE7mB4gU_mUTgQaLD-YQC8yotImVgHuQvQBZ1HSA=s900-mo-c-c0xffffffff-rj-k-no",
-      "streamUrls": [
-        "https://newsxott.in/hls/indianewsharyana.m3u8"
-      ],
-      "category": "India"
-    },
-    {
-      "id": "IndiaNewsPunjabHimachal.in",
-      "name": "India News Punjab/Himachal",
-      "logoUrl": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/india-news-punjab.png",
-      "streamUrls": [
-        "https://newsxott.in/hls/indianewspunjab.m3u8"
-      ],
-      "category": "India"
-    },
-    {
-      "id": "IndiaNewsUttarPradesh.in",
-      "name": "India News Uttar Pradesh",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=102514989083169",
-      "streamUrls": [
-        "https://newsxott.in/hls/indianewsupuk.m3u8"
-      ],
-      "category": "India"
-    },
-    {
-      "id": "NewsX.in",
-      "name": "NewsX",
-      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/a/a3/NewsX_Logo.png/revision/latest/scale-to-width-down/250?cb=20171105184202",
-      "streamUrls": [
-        "https://newsxott.in/hls/newsx.m3u8"
-      ],
-      "category": "India"
-    },
-    {
-      "id": "NewsXWorld.in",
-      "name": "NewsX World",
-      "logoUrl": "https://play-lh.googleusercontent.com/Tde8MTChbXa4jagR6gJ7YnMh8ins5j9GFVH8L3oAXxjP_IUtZtuhG_El-7BOx5Fy3Q",
-      "streamUrls": [
-        "https://newsxott.in/hls/newsxworld.m3u8"
-      ],
-      "category": "India"
     }
   ]
 }
