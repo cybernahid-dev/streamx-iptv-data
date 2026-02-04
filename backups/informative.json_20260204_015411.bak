@@ -2265,26 +2265,6 @@
       ],
       "category": "Informative",
       "genre": "Informative"
-    },
-    {
-      "id": "NationalGeographic.in",
-      "name": "National Geographic",
-      "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png",
-      "streamUrls": [
-        "http://122.165.240.223:1234/stream/zio/nghd/master.m3u8"
-      ],
-      "category": "Informative",
-      "genre": "Informative"
-    },
-    {
-      "id": "NationalGeographicWild.in",
-      "name": "National Geographic Wild",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
-      "streamUrls": [
-        "http://122.165.240.223:1234/stream/zio/ngwild/master.m3u8"
-      ],
-      "category": "Informative",
-      "genre": "Informative"
     }
   ]
 }
