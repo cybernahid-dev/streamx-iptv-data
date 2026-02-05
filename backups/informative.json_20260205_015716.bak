@@ -2285,66 +2285,6 @@
       ],
       "category": "Informative",
       "genre": "Informative"
-    },
-    {
-      "id": "CanThoTV2.vn",
-      "name": "Can Tho TV 2",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/can-tho-tv-vn.png",
-      "streamUrls": [
-        "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8"
-      ],
-      "category": "Informative",
-      "genre": "Informative"
-    },
-    {
-      "id": "DocumentaryPlus.us",
-      "name": "Documentary+",
-      "logoUrl": "https://thestreamable.com/media/pages/video-streaming/documentary-plus/037830bfe1-1706732794/images_docu-black.svg",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8?ads.vf=1tb_53Uj-0K"
-      ],
-      "category": "Informative",
-      "genre": "Informative"
-    },
-    {
-      "id": "EverydayHeroes.us",
-      "name": "Everyday Heroes",
-      "logoUrl": "https://everydayheroes.sps.ed.ac.uk/wp-content/uploads/2018/09/everyday-heroes-logo.png",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/everyday-heroes/master.m3u8?ads.vf=F8TW1wRcjYW"
-      ],
-      "category": "Informative",
-      "genre": "Informative"
-    },
-    {
-      "id": "HTVKey.vn",
-      "name": "HTV Key",
-      "logoUrl": "https://static.wikia.nocookie.net/logos/images/3/3b/HTV_Key_logo_2018.png/revision/latest/scale-to-width-down/220?cb=20230413121503&path-prefix=vi",
-      "streamUrls": [
-        "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8"
-      ],
-      "category": "Informative",
-      "genre": "Informative"
-    },
-    {
-      "id": "MonarchChannel.us",
-      "name": "Monarch Channel",
-      "logoUrl": "https://www.slideserve.com/photo/1121527.png",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/master.m3u8?ads.vf=wGO6y3y1_DC"
-      ],
-      "category": "Informative",
-      "genre": "Informative"
-    },
-    {
-      "id": "SwordandShield.us",
-      "name": "Sword and Shield",
-      "logoUrl": "https://www.pngitem.com/pimgs/m/230-2306548_pokmon-sword-and-shield-logo-pokemon-hd-png.png",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sword-1/master.m3u8?ads.vf=mqsJyklkQl0"
-      ],
-      "category": "Informative",
-      "genre": "Informative"
     }
   ]
 }

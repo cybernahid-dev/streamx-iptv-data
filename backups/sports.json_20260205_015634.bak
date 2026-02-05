@@ -1954,66 +1954,6 @@
       ],
       "category": "Sports",
       "genre": "Sports"
-    },
-    {
-      "id": "HorizonSports.us",
-      "name": "Horizon Sports",
-      "logoUrl": "https://i.pinimg.com/736x/17/52/4c/17524cc7be26ce1a924d2592b9e0fcb1.jpg",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=yqVv-4q1FVG"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "MMAJunkie.us",
-      "name": "MMA Junkie",
-      "logoUrl": "https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-mma-junkie.jpg?itok=wloZwbfs",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8?ads.vf=h5aUSvZnJu4"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "SonySportsTen3Hindi.in",
-      "name": "Sony Sports Ten 3 Hindi",
-      "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
-      "streamUrls": [
-        "http://103.253.18.58:8000/play/a00b"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "SportsConnect.za",
-      "name": "Sports Connect",
-      "logoUrl": "https://stacksports.com/wp-content/uploads/2024/02/Sports-Connect.png",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sports-connect/video.m3u8?ads.vf=K-yU3EWs_wu"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "SportsTVPlus.us",
-      "name": "Sports TV Plus",
-      "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/jr0wlq1681309932.png",
-      "streamUrls": [
-        "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=6S5T4Kl7B10"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "Sportskool.us",
-      "name": "Sportskool",
-      "logoUrl": "https://static.wixstatic.com/media/8511df_773af8e2e9d24eaca10bd8cbf48d0a5d~mv2.png/v1/fill/w_800,h_510,al_c,q_90,enc_avif,quality_auto/sportskool+logo.png",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportskool-tv/master.m3u8?ads.vf=0vV6h8I3vC8"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
     }
   ]
 }

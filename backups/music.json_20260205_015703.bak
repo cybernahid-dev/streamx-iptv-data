@@ -5068,36 +5068,6 @@
       ],
       "category": "Music",
       "genre": "Music"
-    },
-    {
-      "id": "LaBocinaLatina.us",
-      "name": "La Bocina Latina",
-      "logoUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/eec193824876c250bc7800bba0373dad.webp",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8?ads.vf=l7gGrGmJwf4"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "PunjabiHits.in",
-      "name": "Punjabi Hits",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e9/Punjabi_Hits.jpg/revision/latest?cb=20210807162730",
-      "streamUrls": [
-        "https://stream.ottlive.co.in/punjabihits/index.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "TraceLatina.uk",
-      "name": "Trace Latina",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/00/Trace_Latina.svg/revision/latest?cb=20191223072133",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=jn5xeelzYbm"
-      ],
-      "category": "Music",
-      "genre": "Music"
     }
   ]
 }
