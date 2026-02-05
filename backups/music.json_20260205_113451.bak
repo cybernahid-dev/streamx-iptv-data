@@ -5098,16 +5098,6 @@
       ],
       "category": "Music",
       "genre": "Music"
-    },
-    {
-      "id": "TraVinhTV.vn",
-      "name": "Tra Vinh TV",
-      "logoUrl": "https://i.imgur.com/uqMu5Fb.png",
-      "streamUrls": [
-        "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
     }
   ]
 }
