@@ -12867,15 +12867,6 @@
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/us-weekly-tv/master.m3u8?ads.vf=IeWXlf9QgFK"
       ],
       "category": "USA"
-    },
-    {
-      "id": "AccessHumboldt.us",
-      "name": "Access Humboldt",
-      "logoUrl": "https://imagecdn.mightycause.com/bc38ef4f-8605-4786-bea1-4b51231da9eb/",
-      "streamUrls": [
-        "https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/f08fcd45-1d04-9a8c-39ca-f56091820e5c.m3u8"
-      ],
-      "category": "USA"
     }
   ]
 }
