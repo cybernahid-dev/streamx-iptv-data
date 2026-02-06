@@ -5108,16 +5108,6 @@
       ],
       "category": "Music",
       "genre": "Music"
-    },
-    {
-      "id": "LaMegaMundial.us",
-      "name": "La Mega Mundial",
-      "logoUrl": "https://directostv.teleame.com/wp-content/uploads/2018/06/la-mega-mundial.png",
-      "streamUrls": [
-        "https://server40.servistreaming.com:3477/stream/play.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
     }
   ]
 }

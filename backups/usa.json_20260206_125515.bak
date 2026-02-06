@@ -12876,15 +12876,6 @@
         "https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/f08fcd45-1d04-9a8c-39ca-f56091820e5c.m3u8"
       ],
       "category": "USA"
-    },
-    {
-      "id": "LaMegaMundial.us",
-      "name": "La Mega Mundial",
-      "logoUrl": "https://directostv.teleame.com/wp-content/uploads/2018/06/la-mega-mundial.png",
-      "streamUrls": [
-        "https://server40.servistreaming.com:3477/stream/play.m3u8"
-      ],
-      "category": "USA"
     }
   ]
 }
