@@ -5168,16 +5168,6 @@
       ],
       "category": "Music",
       "genre": "Music"
-    },
-    {
-      "id": "LAMIATV.do",
-      "name": "LA MIA TV",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100069573583228",
-      "streamUrls": [
-        "https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
     }
   ]
 }
