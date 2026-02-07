@@ -2024,16 +2024,6 @@
       ],
       "category": "Sports",
       "genre": "Sports"
-    },
-    {
-      "id": "ZoyTVSports1.bo",
-      "name": "Zoy TV Sports 1",
-      "logoUrl": "https://i.ibb.co/KmkFhpw/ZOY-logo.png",
-      "streamUrls": [
-        "https://mio.zoymilton.com/ZoyEventos/index.m3u8"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
     }
   ]
 }
