@@ -2345,26 +2345,6 @@
       ],
       "category": "Informative",
       "genre": "Informative"
-    },
-    {
-      "id": "CNAOriginals.sg",
-      "name": "CNA Originals",
-      "logoUrl": "https://seeklogo.com/images/C/cna-channel-news-asia-logo-4FFB05C856-seeklogo.com.png",
-      "streamUrls": [
-        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8"
-      ],
-      "category": "Informative",
-      "genre": "Informative"
-    },
-    {
-      "id": "WildEarth.za",
-      "name": "WildEarth",
-      "logoUrl": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-06/WildEarth_logo.png?itok=yvO4M3Vn",
-      "streamUrls": [
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8"
-      ],
-      "category": "Informative",
-      "genre": "Informative"
     }
   ]
 }

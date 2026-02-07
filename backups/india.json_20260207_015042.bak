@@ -4637,24 +4637,6 @@
         "http://103.253.18.58:8000/play/a00b"
       ],
       "category": "India"
-    },
-    {
-      "id": "GTCPunjabi.in",
-      "name": "GTC Punjabi",
-      "logoUrl": "https://www.thegtcnetwork.com/logo.png",
-      "streamUrls": [
-        "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8"
-      ],
-      "category": "India"
-    },
-    {
-      "id": "GangaurTV.in",
-      "name": "Gangaur TV",
-      "logoUrl": "https://www.exchange4media.com/news-photo/118775-GangaurLogo1.jpg",
-      "streamUrls": [
-        "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8"
-      ],
-      "category": "India"
     }
   ]
 }

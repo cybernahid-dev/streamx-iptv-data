@@ -5118,56 +5118,6 @@
       ],
       "category": "Music",
       "genre": "Music"
-    },
-    {
-      "id": "FuegoTV.do",
-      "name": "Fuego TV",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/37/Fuego_TV.jpg/revision/latest?cb=20220301141749",
-      "streamUrls": [
-        "https://streamunoapp.com:3553/live/cromtvlive.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "MemoriasTVClassic.co",
-      "name": "Memorias TV Classic",
-      "logoUrl": "https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png",
-      "streamUrls": [
-        "https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "MemoriasTVTropical.co",
-      "name": "Memorias TV Tropical",
-      "logoUrl": "https://memorias.tv/wp-content/uploads/2024/10/logo-memorias-tropical-ok-png-.png",
-      "streamUrls": [
-        "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "MemoriasdelCorazon.co",
-      "name": "Memorias del Corazon",
-      "logoUrl": "https://memorias.tv/wp-content/uploads/2025/04/logo-memorias-corazon.png",
-      "streamUrls": [
-        "https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "VantageDance.ee",
-      "name": "Vantage Dance",
-      "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/vantage-logo-black-and-white.png",
-      "streamUrls": [
-        "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
     }
   ]
 }

@@ -2014,16 +2014,6 @@
       ],
       "category": "Sports",
       "genre": "Sports"
-    },
-    {
-      "id": "NBCSportsNOW.us",
-      "name": "NBC Sports NOW",
-      "logoUrl": "https://nbcsports.brightspotcdn.com/dims4/default/a67d84d/2147483647/strip/true/crop/500x281+0+0/resize/1440x810!/quality/90/?url=https://nbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com/brightspot/59/58/d49cf9c14d06b6a728e677333ba6/nbcsportsnow-color-k-text-logo-425x300-1-2.png",
-      "streamUrls": [
-        "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
     }
   ]
 }
