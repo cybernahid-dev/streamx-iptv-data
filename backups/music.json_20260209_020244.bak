@@ -5188,36 +5188,6 @@
       ],
       "category": "Music",
       "genre": "Music"
-    },
-    {
-      "id": "MPlus.sa",
-      "name": "M+",
-      "logoUrl": "https://www.pngall.com/wp-content/uploads/15/MTV-Logo-No-Background.png",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8?ads.vf=6otIjpqWKPe"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "TelerumbaTV.do",
-      "name": "Telerumba TV",
-      "logoUrl": "https://canalesdominicanos.live/template/images/radios/telerumba.png",
-      "streamUrls": [
-        "https://inliveserver.com:1936/18506/18506/playlist.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "VantageRock.ee",
-      "name": "Vantage Rock",
-      "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/vantage-logo-black-and-white.png",
-      "streamUrls": [
-        "https://hls.vantagetv.ee/vrock_stream/index.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
     }
   ]
 }
