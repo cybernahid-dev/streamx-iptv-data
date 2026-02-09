@@ -2365,16 +2365,6 @@
       ],
       "category": "Informative",
       "genre": "Informative"
-    },
-    {
-      "id": "FacultyTV.gh",
-      "name": "Faculty TV",
-      "logoUrl": "https://play-lh.googleusercontent.com/iRggAsYEu88LNPr-8y3pM1oQwzdoA3NPFoSe0auCQt_VK0RgEjuiYNfxwuFcAvYOf3g",
-      "streamUrls": [
-        "https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8"
-      ],
-      "category": "Informative",
-      "genre": "Informative"
     }
   ]
 }
