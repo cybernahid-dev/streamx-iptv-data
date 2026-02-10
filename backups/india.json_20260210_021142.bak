@@ -4655,15 +4655,6 @@
         "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8"
       ],
       "category": "India"
-    },
-    {
-      "id": "SonyEntertainmentTelevision.in",
-      "name": "Sony Entertainment Television",
-      "logoUrl": "https://logodix.com/logo/508293.png",
-      "streamUrls": [
-        "http://217.20.112.199/sethd/index.m3u8"
-      ],
-      "category": "India"
     }
   ]
 }
