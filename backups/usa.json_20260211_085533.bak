@@ -12876,6 +12876,465 @@
         "https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/f08fcd45-1d04-9a8c-39ca-f56091820e5c.m3u8"
       ],
       "category": "USA"
+    },
+    {
+      "id": "LaMegaMundial.us",
+      "name": "La Mega Mundial",
+      "logoUrl": "https://directostv.teleame.com/wp-content/uploads/2018/06/la-mega-mundial.png",
+      "streamUrls": [
+        "https://server40.servistreaming.com:3477/stream/play.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "NBCSportsNOW.us",
+      "name": "NBC Sports NOW",
+      "logoUrl": "https://nbcsports.brightspotcdn.com/dims4/default/a67d84d/2147483647/strip/true/crop/500x281+0+0/resize/1440x810!/quality/90/?url=https://nbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com/brightspot/59/58/d49cf9c14d06b6a728e677333ba6/nbcsportsnow-color-k-text-logo-425x300-1-2.png",
+      "streamUrls": [
+        "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "5Cops.us",
+      "name": "5 Cops",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_of_Cops_(TV_series).png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "ALLBLKGems.us",
+      "name": "ALLBLK Gems",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Allblk_logo.svg/320px-Allblk_logo.svg.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6793ea255225b515b4ba91a7/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "AcapulcoShore.us",
+      "name": "Acapulco Shore",
+      "logoUrl": "https://img.chilango.com/2015/01/acapulco-shore-logo.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab1f835425100080e1e7b/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "Andromeda.us",
+      "name": "Andromeda",
+      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/c/c8/Andromeda-tv-logo.png/revision/latest?cb=20160708102511",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8db96bccae160007c71eec/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "BETClassicsPlutoTV.us",
+      "name": "BET Classics Pluto TV",
+      "logoUrl": "https://images.pluto.tv/channels/60f85644a9493e0007a1f035/featuredImage_1759339664387.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "BabyFirst.us",
+      "name": "BabyFirst",
+      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest/scale-to-width-down/200?cb=20100602093349",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "BeyondBeliefFactorFiction.us",
+      "name": "Beyond Belief: Fact or Fiction",
+      "logoUrl": "https://images.justwatch.com/poster/302742971/s718/beyond-belief-fact-or-fiction.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611f85396abc84000738417b/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "BlueBloods.us",
+      "name": "Blue Bloods",
+      "logoUrl": "https://vectorseek.com/wp-content/uploads/2023/08/Blue-Bloods-Logo-Vector.svg-.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b3b8c645b45d0007a9bb8d/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "DeadlyWomen.us",
+      "name": "Deadly Women",
+      "logoUrl": "https://static.wikia.nocookie.net/deadlywomen/images/9/90/Deadly_Women_logo.png/revision/latest/scale-to-width-down/268?cb=20201210172552",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca1df0d50be2571e393ad31/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "DogWhisperer.us",
+      "name": "Dog Whisperer",
+      "logoUrl": "https://images.seeklogo.com/logo-png/33/1/dog-whisperer-logo-png_seeklogo-330440.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e453641239a700071f53a1/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "Farscape.us",
+      "name": "Farscape",
+      "logoUrl": "https://p1.hiclipart.com/preview/538/726/473/farscape-series-and-season-folder-icons-farscape-s05-png-icon.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/680bb31c56ff83bcd685d64e/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "FilmesSuspense.us",
+      "name": "Filmes Suspense",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/13/Suspense_2023.svg/revision/latest/scale-to-width-down/200?cb=20231002184016",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "FullCustomGarage.us",
+      "name": "Full Custom Garage",
+      "logoUrl": "https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "GeordieShore.us",
+      "name": "Geordie Shore",
+      "logoUrl": "https://www.tvchannellists.com/wiki/images/4/49/Geordie_Shore.svg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c4960d11ced7000812c433/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "GirlfriendsFilms.us",
+      "name": "Girlfriends Films",
+      "logoUrl": "https://images.seeklogo.com/logo-png/44/2/girlfriends-films-logo-png_seeklogo-443201.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66ba1e4446762a000855cd87/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "HighwaytoHeaven.us",
+      "name": "Highway to Heaven",
+      "logoUrl": "https://images.fanart.tv/fanart/highway-to-heaven-63ed4d20505d0.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6081738748d3200007afb24b/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "HomicideHunter.us",
+      "name": "Homicide Hunter",
+      "logoUrl": "https://www.tvchannellists.com/wiki/images/e/e9/Homicide_Hunter.svg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e452730e76f20007598de8/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "Hunter.us",
+      "name": "Hunter",
+      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=878266574330458",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "InspectorGadget.us",
+      "name": "Inspector Gadget",
+      "logoUrl": "https://stickypng.com/wp-content/uploads/2023/07/5c82294e72f5d9028c17ed79.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "KenanKel.us",
+      "name": "Kenan & Kel",
+      "logoUrl": "https://www.nicepng.com/png/detail/741-7410077_kenan-and-kel-logo.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "MTVComoEx.us",
+      "name": "MTV Com o Ex",
+      "logoUrl": "https://crystalpng.com/wp-content/uploads/2025/02/mtv-logo-01.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61a528267e1b8b0007357920/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "MasterChef.us",
+      "name": "MasterChef",
+      "logoUrl": "https://p7.hiclipart.com/preview/175/312/923/masterchef-logo-television-show-logo-chef.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "MostHaunted.us",
+      "name": "Most Haunted",
+      "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mRv6kxIJoWe1GOOKBsBKmCbRkz-qC5AvuzE-ABE7mXow=s900-c-k-c0x00ffffff-no-rj",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6081648340382e0007f73d45/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "NickClassico.us",
+      "name": "Nick Classico",
+      "logoUrl": "https://www.tvchannellists.com/wiki/images/4/44/Nick_Clássico.svg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "OEncantadordeCaes.us",
+      "name": "O Encantador de Caes",
+      "logoUrl": "https://images.justwatch.com/poster/207545667/s718/temporada-1.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "OReinoInfantil.us",
+      "name": "O Reino Infantil",
+      "logoUrl": "https://reinoinfantil.tv/assets/logo.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "OnTheCase.us",
+      "name": "On The Case",
+      "logoUrl": "https://www.avid.wiki/w/thumb.php?f=Case_Television_(1994)_(From_-_VHS_release_of_Fourways_Farm_Ups_and_Downs_and_Other_Stories).png&width=1200",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615af74dfe3d8e0007524511/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "ParanormalState.us",
+      "name": "Paranormal State",
+      "logoUrl": "http://www.paranormalusa.com/Paranormal_State_Logo.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60804d85858bd00007c5d591/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVAnimation.us",
+      "name": "Pluto TV Animation",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Pluto_TV_logo_2024.svg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/612f761008a9e50007984ba0/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVAnimeAcao.us",
+      "name": "Pluto TV Anime Acao",
+      "logoUrl": "https://img.anime2you.de/2021/06/pluto-tv-anime-logo-1536x864.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b79c558393100078faeef/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVCineClassicos.us",
+      "name": "Pluto TV Cine Classicos",
+      "logoUrl": "https://logospng.org/download/pluto-tv/pluto-tv-4096.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVCineComedia.us",
+      "name": "Pluto TV Cine Comedia",
+      "logoUrl": "https://logospng.org/download/pluto-tv/pluto-tv-4096.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVCineRomance.us",
+      "name": "Pluto TV Cine Romance",
+      "logoUrl": "https://images.pluto.tv/channels/60812fc8539963000707d1e1/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5&w=6380",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVCineSucessos.us",
+      "name": "Pluto TV Cine Sucessos",
+      "logoUrl": "https://images.pluto.tv/channels/5f120e94a5714d00074576a1/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50&dpr=5&q=20",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVConspiracy.us",
+      "name": "Pluto TV Conspiracy",
+      "logoUrl": "https://www.monsterjam.com/wp-content/uploads/2024/04/PlutoTV_Wordmark_Black_1500x500.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVFiccaoCientifica.us",
+      "name": "Pluto TV Ficcao Cientifica",
+      "logoUrl": "https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVFilmesAcao.us",
+      "name": "Pluto TV Filmes Acao",
+      "logoUrl": "https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50&dpr=2&q=50",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVFilmesNacionais.us",
+      "name": "Pluto TV Filmes Nacionais",
+      "logoUrl": "https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVMTV.us",
+      "name": "Pluto TV MTV",
+      "logoUrl": "https://www.tvchannellists.com/wiki/images/5/5f/MTV_Pluto_TV.svg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/624edee2d6394a0007efcac4/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVMinhaObsessaoFavorita.us",
+      "name": "Pluto TV Minha Obsessao Favorita",
+      "logoUrl": "https://images.pluto.tv/channels/6109ab25b84d6a0007504886/featuredImage.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61843f5e491af10007f7eefa/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVPaisagensporStingray.us",
+      "name": "Pluto TV Paisagens por Stingray",
+      "logoUrl": "https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50&dpr=3&q=35",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "SabrinaTeenageWitch.us",
+      "name": "Sabrina Teenage Witch",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Sabrina_the_Teenage_Witch_(1996_TV_series_logo).png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66276091cee0d900085fe053/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "SensingMurder.us",
+      "name": "Sensing Murder",
+      "logoUrl": "https://image.tmdb.org/t/p/original/qz76CzITYS5Fd4XVahdasweuta8.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9ed47c26ebb000074af566/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "Tokusato.us",
+      "name": "Tokusato",
+      "logoUrl": "https://www.tvchannellists.com/wiki/images/1/10/TokuSATO.svg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "WildatHeart.us",
+      "name": "Wild at Heart",
+      "logoUrl": "https://static.wikia.nocookie.net/the-world-inside-my-head/images/4/4b/Wildatheartlogo.jpeg/revision/latest?cb=20240611063316",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60817936fd2d70000763d2b2/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "KGUNDT6.us",
+      "name": "KGUN-DT6",
+      "logoUrl": "https://static.wikia.nocookie.net/tvstations/images/2/20/KGUN_logo.png/revision/latest?cb=20230508034013",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PlutoTVShowsporStingray.us",
+      "name": "Pluto TV Shows por Stingray",
+      "logoUrl": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "AdrenalinaPuraTV.us",
+      "name": "Adrenalina Pura TV",
+      "logoUrl": "https://mediaprd.adrenalinapura.com/wp-content/uploads/2024/06/11142730/thumb_adrenalina.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b790b985706b00072cb797/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "TastemadeBrasil.us",
+      "name": "Tastemade Brasil",
+      "logoUrl": "https://www.tvchannellists.com/wiki/images/0/0a/Tastemade_Brasil.svg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
     }
   ]
 }
