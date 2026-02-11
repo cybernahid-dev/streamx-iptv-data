@@ -13299,6 +13299,15 @@
         "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60817936fd2d70000763d2b2/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
       ],
       "category": "USA"
+    },
+    {
+      "id": "KGUNDT6.us",
+      "name": "KGUN-DT6",
+      "logoUrl": "https://static.wikia.nocookie.net/tvstations/images/2/20/KGUN_logo.png/revision/latest?cb=20230508034013",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
     }
   ]
 }

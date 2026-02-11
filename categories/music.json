@@ -5238,6 +5238,26 @@
       ],
       "category": "Music",
       "genre": "Music"
+    },
+    {
+      "id": "PlutoTVKaraokeporStingray.us",
+      "name": "Pluto TV Karaoke por Stingray",
+      "logoUrl": "https://images.pluto.tv/channels/604b99d633a72b00078e05ad/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PlutoTVShowsporStingray.us",
+      "name": "Pluto TV Shows por Stingray",
+      "logoUrl": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Music",
+      "genre": "Music"
     }
   ]
 }

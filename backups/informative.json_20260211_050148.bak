@@ -2255,6 +2255,186 @@
       ],
       "category": "Informative",
       "genre": "Informative"
+    },
+    {
+      "id": "TeleUV.mx",
+      "name": "Tele UV",
+      "logoUrl": "https://i.imgur.com/8MdUH69.jpeg",
+      "streamUrls": [
+        "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "NationalGeographic.in",
+      "name": "National Geographic",
+      "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png",
+      "streamUrls": [
+        "http://122.165.240.223:1234/stream/zio/nghd/master.m3u8"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "NationalGeographicWild.in",
+      "name": "National Geographic Wild",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
+      "streamUrls": [
+        "http://122.165.240.223:1234/stream/zio/ngwild/master.m3u8"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "CanThoTV2.vn",
+      "name": "Can Tho TV 2",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/can-tho-tv-vn.png",
+      "streamUrls": [
+        "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "DocumentaryPlus.us",
+      "name": "Documentary+",
+      "logoUrl": "https://thestreamable.com/media/pages/video-streaming/documentary-plus/037830bfe1-1706732794/images_docu-black.svg",
+      "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8?ads.vf=1tb_53Uj-0K"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "EverydayHeroes.us",
+      "name": "Everyday Heroes",
+      "logoUrl": "https://everydayheroes.sps.ed.ac.uk/wp-content/uploads/2018/09/everyday-heroes-logo.png",
+      "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/everyday-heroes/master.m3u8?ads.vf=F8TW1wRcjYW"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "HTVKey.vn",
+      "name": "HTV Key",
+      "logoUrl": "https://static.wikia.nocookie.net/logos/images/3/3b/HTV_Key_logo_2018.png/revision/latest/scale-to-width-down/220?cb=20230413121503&path-prefix=vi",
+      "streamUrls": [
+        "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "MonarchChannel.us",
+      "name": "Monarch Channel",
+      "logoUrl": "https://www.slideserve.com/photo/1121527.png",
+      "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/master.m3u8?ads.vf=wGO6y3y1_DC"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "SwordandShield.us",
+      "name": "Sword and Shield",
+      "logoUrl": "https://www.pngitem.com/pimgs/m/230-2306548_pokmon-sword-and-shield-logo-pokemon-hd-png.png",
+      "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sword-1/master.m3u8?ads.vf=mqsJyklkQl0"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "CNAOriginals.sg",
+      "name": "CNA Originals",
+      "logoUrl": "https://seeklogo.com/images/C/cna-channel-news-asia-logo-4FFB05C856-seeklogo.com.png",
+      "streamUrls": [
+        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "WildEarth.za",
+      "name": "WildEarth",
+      "logoUrl": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-06/WildEarth_logo.png?itok=yvO4M3Vn",
+      "streamUrls": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "FacultyTV.gh",
+      "name": "Faculty TV",
+      "logoUrl": "https://play-lh.googleusercontent.com/iRggAsYEu88LNPr-8y3pM1oQwzdoA3NPFoSe0auCQt_VK0RgEjuiYNfxwuFcAvYOf3g",
+      "streamUrls": [
+        "https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "DeadlyWomen.us",
+      "name": "Deadly Women",
+      "logoUrl": "https://static.wikia.nocookie.net/deadlywomen/images/9/90/Deadly_Women_logo.png/revision/latest/scale-to-width-down/268?cb=20201210172552",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca1df0d50be2571e393ad31/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "OEncantadordeCaes.us",
+      "name": "O Encantador de Caes",
+      "logoUrl": "https://images.justwatch.com/poster/207545667/s718/temporada-1.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "OnTheCase.us",
+      "name": "On The Case",
+      "logoUrl": "https://www.avid.wiki/w/thumb.php?f=Case_Television_(1994)_(From_-_VHS_release_of_Fourways_Farm_Ups_and_Downs_and_Other_Stories).png&width=1200",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615af74dfe3d8e0007524511/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "PlutoTVMinhaObsessaoFavorita.us",
+      "name": "Pluto TV Minha Obsessao Favorita",
+      "logoUrl": "https://images.pluto.tv/channels/6109ab25b84d6a0007504886/featuredImage.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61843f5e491af10007f7eefa/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "PlutoTVPaisagensporStingray.us",
+      "name": "Pluto TV Paisagens por Stingray",
+      "logoUrl": "https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50&dpr=3&q=35",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "SensingMurder.us",
+      "name": "Sensing Murder",
+      "logoUrl": "https://image.tmdb.org/t/p/original/qz76CzITYS5Fd4XVahdasweuta8.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9ed47c26ebb000074af566/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
     }
   ]
 }

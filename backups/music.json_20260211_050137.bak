@@ -5108,6 +5108,136 @@
       ],
       "category": "Music",
       "genre": "Music"
+    },
+    {
+      "id": "LaMegaMundial.us",
+      "name": "La Mega Mundial",
+      "logoUrl": "https://directostv.teleame.com/wp-content/uploads/2018/06/la-mega-mundial.png",
+      "streamUrls": [
+        "https://server40.servistreaming.com:3477/stream/play.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "FuegoTV.do",
+      "name": "Fuego TV",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/37/Fuego_TV.jpg/revision/latest?cb=20220301141749",
+      "streamUrls": [
+        "https://streamunoapp.com:3553/live/cromtvlive.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MemoriasTVClassic.co",
+      "name": "Memorias TV Classic",
+      "logoUrl": "https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png",
+      "streamUrls": [
+        "https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MemoriasTVTropical.co",
+      "name": "Memorias TV Tropical",
+      "logoUrl": "https://memorias.tv/wp-content/uploads/2024/10/logo-memorias-tropical-ok-png-.png",
+      "streamUrls": [
+        "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MemoriasdelCorazon.co",
+      "name": "Memorias del Corazon",
+      "logoUrl": "https://memorias.tv/wp-content/uploads/2025/04/logo-memorias-corazon.png",
+      "streamUrls": [
+        "https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VantageDance.ee",
+      "name": "Vantage Dance",
+      "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/vantage-logo-black-and-white.png",
+      "streamUrls": [
+        "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LAMIATV.do",
+      "name": "LA MIA TV",
+      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100069573583228",
+      "streamUrls": [
+        "https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "RadioRAM.pl",
+      "name": "Radio RAM",
+      "logoUrl": "https://myradioonline.pl/public/uploads/radio_img/radio-ram/play_250_250.webp",
+      "streamUrls": [
+        "https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MPlus.sa",
+      "name": "M+",
+      "logoUrl": "https://www.pngall.com/wp-content/uploads/15/MTV-Logo-No-Background.png",
+      "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8?ads.vf=6otIjpqWKPe"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "TelerumbaTV.do",
+      "name": "Telerumba TV",
+      "logoUrl": "https://canalesdominicanos.live/template/images/radios/telerumba.png",
+      "streamUrls": [
+        "https://inliveserver.com:1936/18506/18506/playlist.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "VantageRock.ee",
+      "name": "Vantage Rock",
+      "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/vantage-logo-black-and-white.png",
+      "streamUrls": [
+        "https://hls.vantagetv.ee/vrock_stream/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "GaanBangla.bd",
+      "name": "Gaan Bangla",
+      "logoUrl": "https://freekaj.com/assets/images/stock/image/2024/01/14/65a438c05aadb1705261248.jpg",
+      "streamUrls": [
+        "http://vmi3039524.contaboserver.net:5050/music/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PlutoTVMTV.us",
+      "name": "Pluto TV MTV",
+      "logoUrl": "https://www.tvchannellists.com/wiki/images/5/5f/MTV_Pluto_TV.svg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/624edee2d6394a0007efcac4/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Music",
+      "genre": "Music"
     }
   ]
 }

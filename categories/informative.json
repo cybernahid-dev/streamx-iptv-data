@@ -2435,6 +2435,16 @@
       ],
       "category": "Informative",
       "genre": "Informative"
+    },
+    {
+      "id": "CuriosityChannel.de",
+      "name": "Curiosity Channel",
+      "logoUrl": "https://images.seeklogo.com/logo-png/48/1/curiosity-channel-logo-png_seeklogo-484234.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6576c20fb3801200084786c9/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
     }
   ]
 }
