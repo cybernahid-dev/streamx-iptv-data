@@ -5218,26 +5218,6 @@
       ],
       "category": "Music",
       "genre": "Music"
-    },
-    {
-      "id": "GaanBangla.bd",
-      "name": "Gaan Bangla",
-      "logoUrl": "https://freekaj.com/assets/images/stock/image/2024/01/14/65a438c05aadb1705261248.jpg",
-      "streamUrls": [
-        "http://vmi3039524.contaboserver.net:5050/music/index.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "PlutoTVMTV.us",
-      "name": "Pluto TV MTV",
-      "logoUrl": "https://www.tvchannellists.com/wiki/images/5/5f/MTV_Pluto_TV.svg",
-      "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/624edee2d6394a0007efcac4/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
-      ],
-      "category": "Music",
-      "genre": "Music"
     }
   ]
 }
