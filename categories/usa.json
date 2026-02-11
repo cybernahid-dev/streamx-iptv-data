@@ -13317,6 +13317,24 @@
         "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
       ],
       "category": "USA"
+    },
+    {
+      "id": "AdrenalinaPuraTV.us",
+      "name": "Adrenalina Pura TV",
+      "logoUrl": "https://mediaprd.adrenalinapura.com/wp-content/uploads/2024/06/11142730/thumb_adrenalina.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b790b985706b00072cb797/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "TastemadeBrasil.us",
+      "name": "Tastemade Brasil",
+      "logoUrl": "https://www.tvchannellists.com/wiki/images/0/0a/Tastemade_Brasil.svg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
     }
   ]
 }
