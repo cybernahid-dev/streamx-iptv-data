@@ -5258,36 +5258,6 @@
       ],
       "category": "Music",
       "genre": "Music"
-    },
-    {
-      "id": "15PlusMusic.ru",
-      "name": "15+ Music",
-      "logoUrl": "https://www.pngall.com/wp-content/uploads/15/MTV-Logo-PNG-Images-HD.png",
-      "streamUrls": [
-        "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "Insync.in",
-      "name": "Insync",
-      "logoUrl": "https://3thinkrs.com/wp-content/uploads/2025/03/InSync_Color.png",
-      "streamUrls": [
-        "https://mumt04.tangotv.in/INSYNC/index.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "Zing.in",
-      "name": "Zing!",
-      "logoUrl": "https://logowik.com/content/uploads/images/4104-zing-tv-new.webp",
-      "streamUrls": [
-        "http://161.248.38.40:8000/play/a0ax/index.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
     }
   ]
 }
