@@ -5288,26 +5288,6 @@
       ],
       "category": "Music",
       "genre": "Music"
-    },
-    {
-      "id": "LaCantinaMemorias.co",
-      "name": "La Cantina Memorias",
-      "logoUrl": "https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png",
-      "streamUrls": [
-        "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "MemoriasFMPopLatino.co",
-      "name": "Memorias FM Pop Latino",
-      "logoUrl": "https://memorias.tv/wp-content/uploads/2022/03/logo-MEMORIAS-TV-png.png",
-      "streamUrls": [
-        "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
     }
   ]
 }

@@ -2445,16 +2445,6 @@
       ],
       "category": "Informative",
       "genre": "Informative"
-    },
-    {
-      "id": "EBCGeneralEducation.kh",
-      "name": "EBC General Education",
-      "logoUrl": "https://images.khmer24.co/23-03-02/s-802814-hr-manager-1677727809-43995794-b.jpg",
-      "streamUrls": [
-        "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8"
-      ],
-      "category": "Informative",
-      "genre": "Informative"
     }
   ]
 }
