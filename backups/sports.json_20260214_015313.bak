@@ -2114,26 +2114,6 @@
       ],
       "category": "Sports",
       "genre": "Sports"
-    },
-    {
-      "id": "AlkassSHOOF2.qa",
-      "name": "Alkass SHOOF 2",
-      "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/3e/d9/5e3ed996-be0a-85a1-601b-25b81c7628ac/AppIcon-0-0-1x_U007epad-0-0-85-220.png/1200x630wa.png",
-      "streamUrls": [
-        "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "NudgeSportsChannel.ph",
-      "name": "Nudge Sports Channel",
-      "logoUrl": "https://nudgesports.in/wp-content/uploads/2021/10/Full-Nudge-Sports-Logo-02-01.png",
-      "streamUrls": [
-        "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
     }
   ]
 }
