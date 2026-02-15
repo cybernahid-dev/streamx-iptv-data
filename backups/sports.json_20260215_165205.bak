@@ -136,7 +136,8 @@
       "name": "ACL Cornhole TV",
       "logoUrl": "https://mysqlvm.blob.core.windows.net/acl-website-assets/web-ACL-Pro-Cornhole-Series-badge-1200px.png",
       "streamUrls": [
-        "https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8"
+        "https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8?ads.vf=NbEpkTCqk8a"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -206,6 +207,7 @@
       "name": "Alkass Three",
       "logoUrl": "https://3.bp.blogspot.com/-wq2QzEJoTJE/WvMeeBELi-I/AAAAAAAAO5Q/kvLzcqEg7NgDsY7oPTjXLsnXOJrU_ml1ACLcBGAs/s1600/alkaas3.png",
       "streamUrls": [
+        "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
         "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8"
       ],
       "category": "Sports",
@@ -268,7 +270,7 @@
       "name": "Bellator MMA",
       "logoUrl": "https://www.liblogo.com/img-logo/be1334t5f6-bellator-logo-the-trice-is-right-bellator-mma-signs-3x-all-american-jarod-trice.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d0827f58-0087-49be-82d1-7096fb64fbca"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -278,7 +280,8 @@
       "name": "CBS Sports Golazo Network",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/91/Golazo_Network_logo.png/revision/latest/scale-to-width-down/450?cb=20230502042859",
       "streamUrls": [
-        "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8"
+        "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8",
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ef356d48-bb5f-483f-9686-748d1788e738"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -288,7 +291,7 @@
       "name": "CBS Sports HQ",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=890f9786-922b-4308-bef7-b8a6a62f256b"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -448,6 +451,7 @@
       "name": "DD Sports",
       "logoUrl": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20230906112447.jpg",
       "streamUrls": [
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
         "https://cdn-6.pishow.tv/live/13/master.m3u8"
       ],
       "category": "Sports",
@@ -458,7 +462,7 @@
       "name": "Dong Nai TV 2",
       "logoUrl": "https://i.imgur.com/tNKPSkO.png",
       "streamUrls": [
-        "http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8"
+        "http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -625,6 +629,7 @@
       "name": "Fox Deportes",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png",
       "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=96186bd4-ccda-4af2-a3b9-7d20a3463218",
         "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
       ],
       "category": "Sports",
@@ -789,6 +794,7 @@
       "name": "Kozoom TV",
       "logoUrl": "https://i.imgur.com/M1Ee79b.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=gPEEXzG-WvO",
         "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8"
       ],
       "category": "Sports",
@@ -799,9 +805,9 @@
       "name": "L'Equipe",
       "logoUrl": "https://w7.pngwing.com/pngs/882/165/png-transparent-l-039-equipe-wordmark-hd-logo.png",
       "streamUrls": [
-        "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8",
         "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
-        "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd"
+        "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd",
+        "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -906,9 +912,7 @@
       "name": "MSG",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/MSG_Network_logo.png/260px-MSG_Network_logo.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/MSG/index.m3u8",
-        "https://fl1.moveonjoy.com/MSG/mpegts",
-        "https://tvpass.org/live/msg-madison-square-gardens/hd"
+        "https://fl2.moveonjoy.com/MSG/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1000,7 +1004,7 @@
       "name": "NFL Channel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=1d7bef8c-83bb-4a13-babc-c2895be01526"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1041,7 +1045,6 @@
       "name": "Ovacion TV",
       "logoUrl": "https://i.imgur.com/7Xndgxk.png",
       "streamUrls": [
-        "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8",
         "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8"
       ],
       "category": "Sports",
@@ -1052,7 +1055,7 @@
       "name": "PBR RidePass",
       "logoUrl": "https://i.imgur.com/gUxH97E.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f7275d4e-aa8e-4e8d-9d5e-6a5665bf8190"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=80a33efc-c35d-43a4-8d5b-c1b139fd8c5f"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1246,7 +1249,7 @@
       "name": "Radio Turrialba TV Sports",
       "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiszRuLHkdy6yfB9DhuXWfNsmNnb8GU1qfA60COnjT15XRMXPeBgmaTBfYD2tWV-tvX1KrGgAa0IbmRRCiDNmH9umwevLAKfjun28RBfqoYFR5qStsXNtdaHYo5WK5zVDqaajGio3jIRJEdtu7fRy_rQwpfkRO2PtE4GV8s0dPQ4brRsY-NqRDM5WB_Qw/s320/RT+DEPORTES+LOGO+3.png",
       "streamUrls": [
-        "https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
+        "https://server5.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1321,7 +1324,6 @@
       "name": "Sharjah Sports",
       "logoUrl": "https://www.parsatv.com/index_files/channels/sharjah.jpg",
       "streamUrls": [
-        "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
         "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8"
       ],
       "category": "Sports",
@@ -1354,7 +1356,7 @@
       "name": "SportsNet New York",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Sportsnet_New_York.svg/revision/latest/scale-to-width-down/300?cb=20171107013619",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/SNY/index.m3u8"
+        "https://fl2.moveonjoy.com/SNY/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1653,7 +1655,8 @@
       "name": "Willow Sports",
       "logoUrl": "https://provider-static.plex.tv/epg/cms/production/00b0773f-34b3-408f-9ae5-696f145ec715/Willow_Sports_Horizontal_Dark_Background_1920_1080.jpg",
       "streamUrls": [
-        "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6972546cc62833833a187f50/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=32de4823-7501-4845-ba26-8699462954dd&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8bdd346b-769f-4962-b3d6-7579caca3658"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1784,7 +1787,7 @@
       "name": "Varzesh TV",
       "logoUrl": "https://www.parsatv.com/index_files/channels/varzeshtv.png",
       "streamUrls": [
-        "https://ncdn.telewebion.com/varzesh/live/playlist.m3u8"
+        "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1920,6 +1923,7 @@
       "name": "NFL RedZone",
       "logoUrl": "https://pngset.com/images/nfl-redzone-channel-logo-symbol-trademark-emblem-lager-transparent-png-476432.png",
       "streamUrls": [
+        "https://tvpass.org/live/NFLRedZone/sd",
         "https://tvpass.org/live/NFLRedZone/hd"
       ],
       "category": "Sports",
@@ -1930,7 +1934,7 @@
       "name": "USA Network",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_(2016).svg/1280px-USA_Network_logo_(2016).svg.png",
       "streamUrls": [
-        "https://tvpass.org/live/USANetworkEast/hd"
+        "https://tvpass.org/live/USANetworkEast/sd"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2020,7 +2024,8 @@
       "name": "NBC Sports NOW",
       "logoUrl": "https://nbcsports.brightspotcdn.com/dims4/default/a67d84d/2147483647/strip/true/crop/500x281+0+0/resize/1440x810!/quality/90/?url=https://nbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com/brightspot/59/58/d49cf9c14d06b6a728e677333ba6/nbcsportsnow-color-k-text-logo-425x300-1-2.png",
       "streamUrls": [
-        "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008"
+        "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008",
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a3e1f82a-8c9e-4bbb-8e14-b79c0671c6ed"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2040,6 +2045,7 @@
       "name": "Star Sports 1 Hindi",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
+        "http://161.248.38.40:8000/play/a071/index.m3u8",
         "http://161.248.38.40:8000/play/a06n/index.m3u8"
       ],
       "category": "Sports",
@@ -2111,6 +2117,26 @@
       "logoUrl": "https://www.logotypes101.com/logos/427/DCA37E7883AD43D493B18A411999FFE2/alkasssportchannelenglishlandscapelogo.png",
       "streamUrls": [
         "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "AlkassSHOOF2.qa",
+      "name": "Alkass SHOOF 2",
+      "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/3e/d9/5e3ed996-be0a-85a1-601b-25b81c7628ac/AppIcon-0-0-1x_U007epad-0-0-85-220.png/1200x630wa.png",
+      "streamUrls": [
+        "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "NudgeSportsChannel.ph",
+      "name": "Nudge Sports Channel",
+      "logoUrl": "https://nudgesports.in/wp-content/uploads/2021/10/Full-Nudge-Sports-Logo-02-01.png",
+      "streamUrls": [
+        "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
