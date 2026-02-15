@@ -5308,16 +5308,6 @@
       ],
       "category": "Music",
       "genre": "Music"
-    },
-    {
-      "id": "MaimonTVCanal3.do",
-      "name": "Maimon TV Canal 3",
-      "logoUrl": "https://directostv.teleame.com/wp-content/uploads/2017/10/Maimontv.png",
-      "streamUrls": [
-        "https://tele-stream.telecasa.net:8080/play/maimontv/index.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
     }
   ]
 }
