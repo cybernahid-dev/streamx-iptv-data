@@ -132,6 +132,15 @@
       "category": "Bangladesh"
     },
     {
+      "id": "masranga_tv_bd",
+      "name": "Massranga",
+      "logoUrl": "",
+      "streamUrls": [
+        "https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8"
+      ],
+      "category": "Bangladesh"
+    },
+    {
       "id": "DurontoTV.bd",
       "name": "Duronto TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
