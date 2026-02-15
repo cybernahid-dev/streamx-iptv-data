@@ -125,7 +125,7 @@
     {
       "id": "atn-news",
       "name": "ATN News",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/atn-news.png",
       "streamUrls": [
         "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
       ],
