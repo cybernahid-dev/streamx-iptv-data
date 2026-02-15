@@ -24,8 +24,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        # লগ-এর পরামর্শ অনুযায়ী 'ddgs' ব্যবহার করা হচ্ছে
-        python -m pip install requests ddgs typing_extensions lxml
+        # 'ddgs' এর বদলে অফিশিয়াল 'duckduckgo-search' ব্যবহার করুন
+        python -m pip install requests duckduckgo-search typing_extensions lxml
 
     - name: Run Update Script
       run: python update_channels.py
@@ -40,4 +40,3 @@ jobs:
         
         # যদি ফাইলে কোনো পরিবর্তন আসে (নতুন চ্যানেল বা লোগো ফিক্স), তবেই পুশ করবে
         git diff --quiet && git diff --staged --quiet || (git commit -m "🚀 Auto-updated channels & fixed logos" && git push)
-
