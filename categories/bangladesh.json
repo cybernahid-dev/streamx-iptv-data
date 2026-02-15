@@ -123,6 +123,15 @@
       "category": "Bangladesh"
     },
     {
+      "id": "atn-news",
+      "name": "ATN News",
+      "logoUrl": "",
+      "streamUrls": [
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
+      ],
+      "category": "Bangladesh"
+    },
+    {
       "id": "DurontoTV.bd",
       "name": "Duronto TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
