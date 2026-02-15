@@ -12,9 +12,9 @@ from datetime import datetime
 # --- 📚 LIBRARY IMPORT & SAFETY ---
 DDGS = None
 try:
-    from duckduckgo_search import DDGS
+    from ddgs import DDGS
 except ImportError:
-    print(f"⚠️ Warning: Search library missing. Logo updates will be skipped.")
+    print(f"⚠️ Warning: 'ddgs' library missing. Logo updates will be skipped.")
 
 # --- ⚙️ CONFIGURATION (Ultimate) ---
 BASE_DIR = os.getcwd()
@@ -23,7 +23,7 @@ BACKUP_DIR = os.path.join(BASE_DIR, "backups")
 REPORT_DIR = os.path.join(BASE_DIR, "reports")
 PLAYLIST_DIR = os.path.join(BASE_DIR, "playlists")
 
-MAX_BACKUPS_TO_KEEP = 5 
+MAX_BACKUPS_TO_KEEP = 3
 MAX_STREAMS_PER_CHANNEL = 3
 
 # API Endpoints
@@ -48,10 +48,9 @@ CATEGORY_RULES = {
 
 # --- 🛡️ ANTI-BLOCKING: USER AGENTS ---
 USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0",
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 ]
 
 # --- 📊 REPORTING STATS ---
@@ -84,17 +83,18 @@ def find_real_logo_online(channel_name):
 
     query = f"{channel_name} tv channel logo transparent wikipedia"
     try:
-        # DDGS এর নতুন ভার্সন অনুযায়ী কোড আপডেট করা হয়েছে
+        # DDGS লাইব্রেরির সঠিক ব্যবহার
         with DDGS() as ddgs:
+            # max_results=1 ব্যবহার করা হয়েছে দ্রুত রেজাল্টের জন্য
             results = list(ddgs.images(query, max_results=1))
             if results:
                 SEARCH_FAIL_COUNT = 0
                 return results[0]['image']
     except Exception as e:
         SEARCH_FAIL_COUNT += 1
-        logger.warning(f"   ⚠️ Logo search failed for '{channel_name}'")
+        logger.warning(f"   ⚠️ Logo search failed for '{channel_name}': {str(e)}")
         if SEARCH_FAIL_COUNT >= MAX_CONSECUTIVE_FAILS:
-            logger.error("   🚫 Too many search failures. Disabling logo search temporarily.")
+            logger.error("   🚫 Too many search failures. Disabling logo search.")
             SEARCH_DISABLED = True
         time.sleep(2) # API রেট লিমিট এড়াতে ডিলে
     return DEFAULT_LOGO
@@ -240,7 +240,7 @@ def get_headers():
 def check_link_status(url):
     if not url: return False
     try:
-        with requests.get(url, headers=get_headers(), stream=True, timeout=(3, 5)) as r:
+        with requests.get(url, headers=get_headers(), stream=True, timeout=(4, 7)) as r:
             return r.status_code == 200
     except: return False
 
@@ -249,6 +249,7 @@ def get_multiple_working_streams(channel_id, streams_by_id):
     if not candidates: return []
 
     working_urls = []
+    # সর্বোচ্চ ৫টি লিঙ্ক চেক করবে টাইম বাঁচাতে
     check_limit = candidates[:5] 
     
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
@@ -259,6 +260,7 @@ def get_multiple_working_streams(channel_id, streams_by_id):
             try:
                 if future.result():
                     working_urls.append(url)
+                    # ৩টি সচল লিঙ্ক পেলেই থামবে
                     if len(working_urls) >= MAX_STREAMS_PER_CHANNEL:
                         break
             except: pass
@@ -268,13 +270,13 @@ def get_multiple_working_streams(channel_id, streams_by_id):
 # --- 🚀 MAIN LOGIC ---
 
 def update_channels_ultimate():
-    logger.info("🚀 Starting Advanced Channel Updater (JSON + M3U)...")
+    logger.info("🚀 Starting Ultimate Channel Updater (JSON + M3U)...")
     cleanup_old_backups()
 
     try:
         logger.info("📡 Fetching IPTV Database...")
-        api_streams = requests.get(STREAMS_API, timeout=10).json()
-        api_channels = requests.get(CHANNELS_API, timeout=10).json()
+        api_streams = requests.get(STREAMS_API, timeout=15).json()
+        api_channels = requests.get(CHANNELS_API, timeout=15).json()
         
         channel_info_map = {c['id']: c for c in api_channels}
         
@@ -304,7 +306,7 @@ def update_channels_ultimate():
         
         data_modified = False
 
-        # --- PART 1: MAINTENANCE ---
+        # --- PART 1: MAINTENANCE (Fix Links & Logos) ---
         for ch in existing_channels:
             STATS["checked"] += 1
             ch_id = ch.get('id')
@@ -313,6 +315,7 @@ def update_channels_ultimate():
                 STATS["manual_skipped"] += 1
                 continue 
 
+            # Fix Broken Links
             current_urls = ch.get('streamUrls', [])
             main_url_dead = False
             
@@ -328,6 +331,7 @@ def update_channels_ultimate():
                         STATS["repaired"] += 1
                         logger.info(f"     🩹 Streams Updated: {ch.get('name')}")
 
+            # Fix Missing Logos
             if not SEARCH_DISABLED:
                 current_logo = ch.get('logoUrl', "")
                 if not current_logo or current_logo == DEFAULT_LOGO:
@@ -337,7 +341,7 @@ def update_channels_ultimate():
                         data_modified = True
                         STATS["logo_fixed"] += 1
                         logger.info(f"     ✅ Logo Updated: {ch.get('name')}")
-                        time.sleep(2) # Politeness delay
+                        time.sleep(2) # Politeness delay for search
 
         # --- PART 2: ADD NEW CHANNELS ---
         streams_to_check = []
@@ -392,7 +396,7 @@ def update_channels_ultimate():
                         if rules['type'] == 'genre': new_channel["genre"] = rules['category_name']
                         new_channels_list.append(new_channel)
                         STATS["added"] += 1
-                        print(f"     ✅ [NEW] {details.get('name')}")
+                        logger.info(f"     ✅ [NEW] {details.get('name')}")
 
             if new_channels_list:
                 new_channels_list.sort(key=lambda x: x['name'])
