@@ -3239,6 +3239,7 @@
       "name": "Shalom",
       "logoUrl": "https://shalomchannel.tv/wp-content/uploads/2021/08/logo.png",
       "streamUrls": [
+        "https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8",
         "https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8"
       ],
       "category": "India"

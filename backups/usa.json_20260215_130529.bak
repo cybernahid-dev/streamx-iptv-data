@@ -6612,8 +6612,7 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/NationalGeographicWildEast/hd",
-        "https://tvpass.org/live/NationalGeographicWildEast/sd"
+        "https://tvpass.org/live/NationalGeographicWildEast/hd"
       ],
       "category": "USA"
     },
@@ -12338,7 +12337,8 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/hd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd",
+        "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
     },
