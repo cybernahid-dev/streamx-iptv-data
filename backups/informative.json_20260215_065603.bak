@@ -2365,6 +2365,96 @@
       ],
       "category": "Informative",
       "genre": "Informative"
+    },
+    {
+      "id": "FacultyTV.gh",
+      "name": "Faculty TV",
+      "logoUrl": "https://play-lh.googleusercontent.com/iRggAsYEu88LNPr-8y3pM1oQwzdoA3NPFoSe0auCQt_VK0RgEjuiYNfxwuFcAvYOf3g",
+      "streamUrls": [
+        "https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "DeadlyWomen.us",
+      "name": "Deadly Women",
+      "logoUrl": "https://static.wikia.nocookie.net/deadlywomen/images/9/90/Deadly_Women_logo.png/revision/latest/scale-to-width-down/268?cb=20201210172552",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca1df0d50be2571e393ad31/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "OEncantadordeCaes.us",
+      "name": "O Encantador de Caes",
+      "logoUrl": "https://images.justwatch.com/poster/207545667/s718/temporada-1.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "OnTheCase.us",
+      "name": "On The Case",
+      "logoUrl": "https://www.avid.wiki/w/thumb.php?f=Case_Television_(1994)_(From_-_VHS_release_of_Fourways_Farm_Ups_and_Downs_and_Other_Stories).png&width=1200",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615af74dfe3d8e0007524511/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "PlutoTVMinhaObsessaoFavorita.us",
+      "name": "Pluto TV Minha Obsessao Favorita",
+      "logoUrl": "https://images.pluto.tv/channels/6109ab25b84d6a0007504886/featuredImage.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61843f5e491af10007f7eefa/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "PlutoTVPaisagensporStingray.us",
+      "name": "Pluto TV Paisagens por Stingray",
+      "logoUrl": "https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50&dpr=3&q=35",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "SensingMurder.us",
+      "name": "Sensing Murder",
+      "logoUrl": "https://image.tmdb.org/t/p/original/qz76CzITYS5Fd4XVahdasweuta8.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9ed47c26ebb000074af566/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "CuriosityChannel.de",
+      "name": "Curiosity Channel",
+      "logoUrl": "https://images.seeklogo.com/logo-png/48/1/curiosity-channel-logo-png_seeklogo-484234.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6576c20fb3801200084786c9/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
+    },
+    {
+      "id": "EBCGeneralEducation.kh",
+      "name": "EBC General Education",
+      "logoUrl": "https://images.khmer24.co/23-03-02/s-802814-hr-manager-1677727809-43995794-b.jpg",
+      "streamUrls": [
+        "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8"
+      ],
+      "category": "Informative",
+      "genre": "Informative"
     }
   ]
 }

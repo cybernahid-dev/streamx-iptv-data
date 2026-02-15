@@ -13335,6 +13335,123 @@
         "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
       ],
       "category": "USA"
+    },
+    {
+      "id": "PlutoTVKaraokeporStingray.us",
+      "name": "Pluto TV Karaoke por Stingray",
+      "logoUrl": "https://images.pluto.tv/channels/604b99d633a72b00078e05ad/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "KBSIDT1.us",
+      "name": "KBSI-DT1",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/de/KBSI_Logo_2_1984.png/revision/latest?cb=20210810211405",
+      "streamUrls": [
+        "https://live.field59.com/kbsi/kbsi1/playlist.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "FilAmTVNetwork.us",
+      "name": "FilAmTV Network",
+      "logoUrl": "https://filamtv.us/wp-content/uploads/2021/10/logo.png",
+      "streamUrls": [
+        "https://streams.comclark.com/pknsd/filamtv/playlist.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "VegasLifeTV.us",
+      "name": "Vegas Life TV",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/440px-Logo_Lifetime_2020.svg.png",
+      "streamUrls": [
+        "https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "AsianCultureTV.us",
+      "name": "Asian Culture TV",
+      "logoUrl": "https://images.seeklogo.com/logo-png/53/1/asian-tv-logo-png_seeklogo-534370.png",
+      "streamUrls": [
+        "https://cdn.vegasplus.us/vegas/actv/playlist.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "LatinoChannelTV.us",
+      "name": "Latino Channel TV",
+      "logoUrl": "https://brandlogo.org/wp-content/uploads/2024/11/Latina-Television-Logo-2024.png",
+      "streamUrls": [
+        "https://cdn.vegasplus.us/vegas/latch/playlist.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "MRVTVChannel44.us",
+      "name": "MRVTV Channel 44",
+      "logoUrl": "https://images.seeklogo.com/logo-png/55/1/channel-44-tv-uganda-logo-png_seeklogo-550254.png?v=1958517932733639096",
+      "streamUrls": [
+        "https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "MRVTVChannel45.us",
+      "name": "MRVTV Channel 45",
+      "logoUrl": "https://www.valleyreporter.com/images/issues/4825/MRVTV-Sign-WEB.jpg",
+      "streamUrls": [
+        "https://livestream.telvue.com/madrivervalleytv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "PacificIslandNetwork.us",
+      "name": "Pacific Island Network",
+      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=61556788529808",
+      "streamUrls": [
+        "https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "RVTVCivic.us",
+      "name": "RVTV Civic",
+      "logoUrl": "https://static.wixstatic.com/media/7a18e7_947fe8d2db6d415698ad3e2cb8e0f7a4~mv2.png/v1/fit/w_2500,h_1330,al_c/7a18e7_947fe8d2db6d415698ad3e2cb8e0f7a4~mv2.png",
+      "streamUrls": [
+        "https://livestream.telvue.com/roguevalleycmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "RVTVGrantsPass.us",
+      "name": "RVTV Grants Pass",
+      "logoUrl": "https://static.wixstatic.com/media/7a18e7_947fe8d2db6d415698ad3e2cb8e0f7a4~mv2.png/v1/fit/w_2500,h_1330,al_c/7a18e7_947fe8d2db6d415698ad3e2cb8e0f7a4~mv2.png",
+      "streamUrls": [
+        "https://livestream.telvue.com/roguevalleycmttv4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "RVTVPrime.us",
+      "name": "RVTV Prime",
+      "logoUrl": "https://static.wixstatic.com/media/7a18e7_947fe8d2db6d415698ad3e2cb8e0f7a4~mv2.png/v1/fit/w_2500,h_1330,al_c/7a18e7_947fe8d2db6d415698ad3e2cb8e0f7a4~mv2.png",
+      "streamUrls": [
+        "https://livestream.telvue.com/roguevalleycmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ],
+      "category": "USA"
+    },
+    {
+      "id": "RVTVVoices.us",
+      "name": "RVTV Voices",
+      "logoUrl": "https://static.wixstatic.com/media/7a18e7_947fe8d2db6d415698ad3e2cb8e0f7a4~mv2.png/v1/fit/w_2500,h_1330,al_c/7a18e7_947fe8d2db6d415698ad3e2cb8e0f7a4~mv2.png",
+      "streamUrls": [
+        "https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ],
+      "category": "USA"
     }
   ]
 }

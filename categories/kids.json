@@ -261,7 +261,8 @@
       "name": "Anime All Day",
       "logoUrl": "https://static.wikia.nocookie.net/russel/images/d/dd/Anime_All_Day_Logo_2017.png/revision/latest?cb=20240426041556",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62a2e8d8a1c8650007e95bac/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=5986314d-1e42-49ea-a9fe-01332b159247",
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=599c5c17-de48-49de-ae20-81e4f79fa272"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -521,7 +522,8 @@
       "name": "Cartoon Classics",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Cartoon_Classics_Print.svg/revision/latest?cb=20230929014759",
       "streamUrls": [
-        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
+        "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=7TNIxrkadpW"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -603,8 +605,8 @@
       "name": "Disney Channel",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png",
       "streamUrls": [
-        "https://fl31.moveonjoy.com/DISNEY/index.m3u8",
-        "https://fl1.moveonjoy.com/DISNEY/index.m3u8"
+        "https://tvpass.org/live/DisneyChannelEast/sd",
+        "https://tvpass.org/live/DisneyChannelEast/hd"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -644,9 +646,9 @@
       "name": "Disney Junior",
       "logoUrl": "https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8",
-        "https://tvpass.org/live/DisneyJuniorEast/hd",
-        "https://tvpass.org/live/DisneyJuniorEast/sd"
+        "https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8",
+        "https://tvpass.org/live/DisneyJuniorEast/sd",
+        "https://tvpass.org/live/DisneyJuniorEast/hd"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -656,9 +658,8 @@
       "name": "Disney XD",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",
       "streamUrls": [
-        "http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8",
-        "https://tvpass.org/live/DisneyXDEast/sd",
-        "https://tvpass.org/live/DisneyXDEast/hd"
+        "https://tvpass.org/live/DisneyXDEast/hd",
+        "https://tvpass.org/live/DisneyXDEast/sd"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -729,7 +730,7 @@
       "name": "Forever Kids",
       "logoUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04fbf8b3-296c-42a1-b3ff-ef48d7e3444c/dgm9m2r-8a34baf7-7bae-4b5e-a574-aa816777d892.jpg/v1/fill/w_1191,h_671,q_70,strp/forever_kids_pluto_tv_usa_logo__2021_present__by_west_harris_dgm9m2r-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIxIiwicGF0aCI6IlwvZlwvMDRmYmY4YjMtMjk2Yy00MmExLWIzZmYtZWY0OGQ3ZTM0NDRjXC9kZ205bTJyLThhMzRiYWY3LTdiYWUtNGI1ZS1hNTc0LWFhODE2Nzc3ZDg5Mi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Pmz4tzYhDEriD5loKH6NxzkYkCIvfDiAlYXCX4z99Pc",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f171-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1acb41ce-ae24-4bbc-bf7d-831de72589e8"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ae9322c4-0d1c-46a3-8bdd-7d4381dcd032"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -750,7 +751,7 @@
       "name": "Garfield and Friends",
       "logoUrl": "https://static.wikia.nocookie.net/entertainment1/images/8/8d/Garfield_and_Friends_-_logo_(English).png/revision/latest/scale-to-width-down/350?cb=20190406042305",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f176-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68c3c9ce-0e68-43fa-ade2-43491d9d88e2"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=5fc632a2-d6b3-4d94-bb22-559dfe954a7f"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -801,7 +802,7 @@
       "name": "IRIB Omid",
       "logoUrl": "https://w7.pngwing.com/pngs/134/1008/png-transparent-omid-hd-logo-thumbnail.png",
       "streamUrls": [
-        "https://ncdn.telewebion.com/omid/live/playlist.m3u8"
+        "https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -946,7 +947,7 @@
       "name": "LEGO Kids TV",
       "logoUrl": "https://www.tvchannellists.com/wiki/images/4/49/LEGO_Kids_TV.svg",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c45d659e-c2e5-4651-b57b-9e285779521e"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -976,7 +977,7 @@
       "name": "Little Stars Universe",
       "logoUrl": "https://i.imgur.com/RasrA0s.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33174d1f-99cb-4190-85d6-69259af9a54b"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6f4c138c-de39-4e58-a9f2-0fa37a823a2a"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1076,7 +1077,7 @@
       "name": "Movies for Gamers",
       "logoUrl": "https://m.media-amazon.com/images/M/MV5BYjY3YzgyMWEtYTBjNy00YWFlLTk0ZmYtNDNhYjUwYzRmMjAxXkEyXkFqcGc@._V1_.jpg",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=df2515d1-b943-492a-9b0f-e1d6db00001d"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1213,7 +1214,7 @@
       "name": "Nick en Espanol",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4f542da4-e11c-4e1a-b2c5-72bb020bd334"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1285,8 +1286,7 @@
       "name": "Nicktoons",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",
       "streamUrls": [
-        "http://143.244.60.30/NICKTOONS/index.m3u8",
-        "https://fl1.moveonjoy.com/NICKTOONS/index.m3u8"
+        "https://fl2.moveonjoy.com/NICKTOONS/index.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1407,7 +1407,7 @@
       "name": "Pluto TV Junior",
       "logoUrl": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/featuredImage.jpg",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc43-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39cb1f02-1907-4cc7-8224-1bd6adfb09bc"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=470e8242-a7c2-44ac-a072-04b6b74131a0"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1459,7 +1459,8 @@
       "name": "Pluto TV Pokemon",
       "logoUrl": "https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6683cd71a1d7ad000866ec6a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=2a6728f0-506c-4312-89e6-4acbd4f6efa7",
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=967b4746-0d5d-4f3d-96e9-a65c6af258e8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1469,7 +1470,7 @@
       "name": "Pluto TV Retro Toons",
       "logoUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04fbf8b3-296c-42a1-b3ff-ef48d7e3444c/dgm7yg4-20c941d9-8ab9-4f54-9251-41d978028e45.jpg/v1/fill/w_1191,h_671,q_70,strp/classic_toons_pluto_tv__logo_2015_2023__by_west_harris_dgm7yg4-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIxIiwicGF0aCI6IlwvZlwvMDRmYmY4YjMtMjk2Yy00MmExLWIzZmYtZWY0OGQ3ZTM0NDRjXC9kZ203eWc0LTIwYzk0MWQ5LThhYjktNGY1NC05MjUxLTQxZDk3ODAyOGU0NS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SqCTdZNcosMU5n4YaS3hV43VI-dD3rj1SZZCWM0jOhM",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c8-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3784c13-5aeb-4c18-bd31-9334376945c6"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=237d888a-0b4a-4e67-a971-26362c4eff35"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1674,7 +1675,7 @@
       "name": "South Park",
       "logoUrl": "http://www.returndates.com/backgrounds/southpark.logo.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0253-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67f014c4-f66e-4860-a7d5-9e9de1cab501"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64edf6eaa7ec0d000812f58c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=061ae646-64e1-42ef-a88e-f6b1a0e57291"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1850,7 +1851,7 @@
       "name": "Turma da Monica",
       "logoUrl": "https://www.logotypes101.com/logos/788/7F2BF779E2DC100DBC7772922940A2A9/turma_da_monica.png",
       "streamUrls": [
-        "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e79e465c-ce68-4801-a0e2-cead4952a6fd"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2012,7 +2013,8 @@
       "name": "Tamyr",
       "logoUrl": "https://www.pngitem.com/pimgs/m/764-7649207_zee-tamil-tv-logo-png-transparent-png.png",
       "streamUrls": [
-        "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+        "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
+        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -2057,7 +2059,7 @@
       "name": "Unique TV",
       "logoUrl": "https://play-lh.googleusercontent.com/JnyYJu6mZT5Irclu9JdPweOZjoNMiUqH84R0VQ6UqfEfEwUElhfz4NoP5CqkhpVDbue-",
       "streamUrls": [
-        "http://103.78.149.54:8000/play/a01e/index.m3u8"
+        "https://mumt05.tangotv.in/UNIQUETV/index.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2077,7 +2079,7 @@
       "name": "BabyFirst",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest/scale-to-width-down/200?cb=20100602093349",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=57af660e-52d2-4a0d-8f16-4a6ebcd413ce"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2087,7 +2089,8 @@
       "name": "Nick Classico",
       "logoUrl": "https://www.tvchannellists.com/wiki/images/4/44/Nick_Clássico.svg",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c29a5cff-2a62-4128-b070-457ccb68daee",
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6824ce10c5d53e1351ceb8d1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8377f162-5aea-4444-b98b-338925d94d93"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2097,7 +2100,7 @@
       "name": "O Reino Infantil",
       "logoUrl": "https://reinoinfantil.tv/assets/logo.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8de5ef24-e476-4c8b-a9ba-1cca9e8b8ba9"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2107,7 +2110,7 @@
       "name": "Pluto TV Anime Acao",
       "logoUrl": "https://img.anime2you.de/2021/06/pluto-tv-anime-logo-1536x864.jpg",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b79c558393100078faeef/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b79c558393100078faeef/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=569f08f8-30d5-426d-a2f8-f9617ffeb8a4"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2117,7 +2120,7 @@
       "name": "Sabrina Teenage Witch",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Sabrina_the_Teenage_Witch_(1996_TV_series_logo).png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66276091cee0d900085fe053/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66276091cee0d900085fe053/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=65bfa780-59a2-45c7-92fa-004d00d50d59"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2127,7 +2130,7 @@
       "name": "Teletubbies",
       "logoUrl": "https://www.nicepng.com/png/detail/132-1320237_a-teletubbies-logo-teletubbies-logo-png.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a10eeb46762a0008201e85/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a10eeb46762a0008201e85/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=58555189-e4ef-4233-8389-40c64cae6693"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2137,7 +2140,7 @@
       "name": "Tokusato",
       "logoUrl": "https://www.tvchannellists.com/wiki/images/1/10/TokuSATO.svg",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=2258f037-cf38-4b4a-bd39-4eb518162138"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2147,7 +2150,7 @@
       "name": "Nickelodeon Teen",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/e/e6/Nickelodeon-teen.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4685dc00-4dac-4e55-8d62-ba7cb9384538"
       ],
       "category": "Kids",
       "genre": "Kids"

@@ -2051,6 +2051,136 @@
       "category": "Kids",
       "languages": [],
       "genre": "Kids"
+    },
+    {
+      "id": "UniqueTV.in",
+      "name": "Unique TV",
+      "logoUrl": "https://play-lh.googleusercontent.com/JnyYJu6mZT5Irclu9JdPweOZjoNMiUqH84R0VQ6UqfEfEwUElhfz4NoP5CqkhpVDbue-",
+      "streamUrls": [
+        "http://103.78.149.54:8000/play/a01e/index.m3u8"
+      ],
+      "category": "Kids",
+      "genre": "Kids"
+    },
+    {
+      "id": "MemoriasTVToons.co",
+      "name": "Memorias TV Toons",
+      "logoUrl": "https://memorias.tv/wp-content/uploads/2022/03/logo-MEMORIAS-TV-png.png",
+      "streamUrls": [
+        "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8"
+      ],
+      "category": "Kids",
+      "genre": "Kids"
+    },
+    {
+      "id": "BabyFirst.us",
+      "name": "BabyFirst",
+      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest/scale-to-width-down/200?cb=20100602093349",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Kids",
+      "genre": "Kids"
+    },
+    {
+      "id": "NickClassico.us",
+      "name": "Nick Classico",
+      "logoUrl": "https://www.tvchannellists.com/wiki/images/4/44/Nick_Clássico.svg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Kids",
+      "genre": "Kids"
+    },
+    {
+      "id": "OReinoInfantil.us",
+      "name": "O Reino Infantil",
+      "logoUrl": "https://reinoinfantil.tv/assets/logo.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Kids",
+      "genre": "Kids"
+    },
+    {
+      "id": "PlutoTVAnimeAcao.us",
+      "name": "Pluto TV Anime Acao",
+      "logoUrl": "https://img.anime2you.de/2021/06/pluto-tv-anime-logo-1536x864.jpg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b79c558393100078faeef/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Kids",
+      "genre": "Kids"
+    },
+    {
+      "id": "SabrinaTeenageWitch.us",
+      "name": "Sabrina Teenage Witch",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Sabrina_the_Teenage_Witch_(1996_TV_series_logo).png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66276091cee0d900085fe053/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Kids",
+      "genre": "Kids"
+    },
+    {
+      "id": "Teletubbies.uk",
+      "name": "Teletubbies",
+      "logoUrl": "https://www.nicepng.com/png/detail/132-1320237_a-teletubbies-logo-teletubbies-logo-png.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a10eeb46762a0008201e85/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Kids",
+      "genre": "Kids"
+    },
+    {
+      "id": "Tokusato.us",
+      "name": "Tokusato",
+      "logoUrl": "https://www.tvchannellists.com/wiki/images/1/10/TokuSATO.svg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Kids",
+      "genre": "Kids"
+    },
+    {
+      "id": "NickelodeonTeen.fr",
+      "name": "Nickelodeon Teen",
+      "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/e/e6/Nickelodeon-teen.png",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Kids",
+      "genre": "Kids"
+    },
+    {
+      "id": "DisneyChannel.in",
+      "name": "Disney Channel",
+      "logoUrl": "https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a06q/index.m3u8"
+      ],
+      "category": "Kids",
+      "genre": "Kids"
+    },
+    {
+      "id": "DisneyJunior.in",
+      "name": "Disney Junior",
+      "logoUrl": "https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a068/index.m3u8"
+      ],
+      "category": "Kids",
+      "genre": "Kids"
+    },
+    {
+      "id": "NickJr.in",
+      "name": "Nick Jr.",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a074/index.m3u8"
+      ],
+      "category": "Kids",
+      "genre": "Kids"
     }
   ]
 }

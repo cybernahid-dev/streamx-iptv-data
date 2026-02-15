@@ -2024,6 +2024,116 @@
       ],
       "category": "Sports",
       "genre": "Sports"
+    },
+    {
+      "id": "ZoyTVSports1.bo",
+      "name": "Zoy TV Sports 1",
+      "logoUrl": "https://i.ibb.co/KmkFhpw/ZOY-logo.png",
+      "streamUrls": [
+        "https://mio.zoymilton.com/ZoyEventos/index.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "StarSports1Hindi.in",
+      "name": "Star Sports 1 Hindi",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a06n/index.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "AlkassFive.qa",
+      "name": "Alkass Five",
+      "logoUrl": "https://tvtvtv.ru/icons/al_kass_five.png",
+      "streamUrls": [
+        "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "AlkassFour.qa",
+      "name": "Alkass Four",
+      "logoUrl": "https://tvtvtv.ru/icons/al_kass_four.png",
+      "streamUrls": [
+        "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "AlkassOne.qa",
+      "name": "Alkass One",
+      "logoUrl": "https://tvtvtv.ru/icons/al_kass_one.png",
+      "streamUrls": [
+        "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "AlkassSHOOF.qa",
+      "name": "Alkass SHOOF",
+      "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/3e/d9/5e3ed996-be0a-85a1-601b-25b81c7628ac/AppIcon-0-0-1x_U007epad-0-0-85-220.png/1200x630wa.png",
+      "streamUrls": [
+        "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "AlkassSeven.qa",
+      "name": "Alkass Seven",
+      "logoUrl": "https://www.logotypes101.com/logos/427/DCA37E7883AD43D493B18A411999FFE2/alkasssportchannelenglishlandscapelogo.png",
+      "streamUrls": [
+        "https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "AlkassSix.qa",
+      "name": "Alkass Six",
+      "logoUrl": "https://www.logotypes101.com/logos/427/DCA37E7883AD43D493B18A411999FFE2/alkasssportchannelenglishlandscapelogo.png",
+      "streamUrls": [
+        "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "AlkassTwo.qa",
+      "name": "Alkass Two",
+      "logoUrl": "https://www.logotypes101.com/logos/427/DCA37E7883AD43D493B18A411999FFE2/alkasssportchannelenglishlandscapelogo.png",
+      "streamUrls": [
+        "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "AlkassSHOOF2.qa",
+      "name": "Alkass SHOOF 2",
+      "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/3e/d9/5e3ed996-be0a-85a1-601b-25b81c7628ac/AppIcon-0-0-1x_U007epad-0-0-85-220.png/1200x630wa.png",
+      "streamUrls": [
+        "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "NudgeSportsChannel.ph",
+      "name": "Nudge Sports Channel",
+      "logoUrl": "https://nudgesports.in/wp-content/uploads/2021/10/Full-Nudge-Sports-Logo-02-01.png",
+      "streamUrls": [
+        "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "genre": "Sports"
     }
   ]
 }

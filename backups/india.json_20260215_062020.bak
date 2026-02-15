@@ -4628,6 +4628,483 @@
         "https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8"
       ],
       "category": "India"
+    },
+    {
+      "id": "SonySportsTen3Hindi.in",
+      "name": "Sony Sports Ten 3 Hindi",
+      "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
+      "streamUrls": [
+        "http://103.253.18.58:8000/play/a00b"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "GTCPunjabi.in",
+      "name": "GTC Punjabi",
+      "logoUrl": "https://www.thegtcnetwork.com/logo.png",
+      "streamUrls": [
+        "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "GangaurTV.in",
+      "name": "Gangaur TV",
+      "logoUrl": "https://www.exchange4media.com/news-photo/118775-GangaurLogo1.jpg",
+      "streamUrls": [
+        "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "SonyEntertainmentTelevision.in",
+      "name": "Sony Entertainment Television",
+      "logoUrl": "https://logodix.com/logo/508293.png",
+      "streamUrls": [
+        "http://217.20.112.199/sethd/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "APN.in",
+      "name": "APN",
+      "logoUrl": "https://s.pngkit.com/png/small/432-4328611_apna-channel-logo-apna-channel.png",
+      "streamUrls": [
+        "https://mumt01.tangotv.in/APN/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "AryanTVNational.in",
+      "name": "Aryan TV National",
+      "logoUrl": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3648305830496104427",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/ARYANTVNATIONAL/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "AssamTalks.in",
+      "name": "Assam Talks",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/7/71/Assam_Talks.jpeg/revision/latest/scale-to-width-down/250?cb=20191220111041",
+      "streamUrls": [
+        "https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "BhaktiSagar.in",
+      "name": "Bhakti Sagar",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f5/Bhakti_Sagar.jpeg/revision/latest/scale-to-width-down/250?cb=20191231180754",
+      "streamUrls": [
+        "https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "CalvaryTV.in",
+      "name": "Calvary TV",
+      "logoUrl": "https://nissiministries.in/sup_files/calvarytvlogo.png",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/CALVARYTV/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "Dabangg.in",
+      "name": "Dabangg",
+      "logoUrl": "http://www.buzzincontent.com/uploads/large/Dabangg-The-Animated-Series.jpg",
+      "streamUrls": [
+        "https://mumt01.tangotv.in/DABANGG/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "Darshan24.in",
+      "name": "Darshan 24",
+      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100085712672944",
+      "streamUrls": [
+        "https://mumt05.tangotv.in/DARSHAN24/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "DharmSandesh.in",
+      "name": "Dharm Sandesh",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/dd/dharm-sandesh-in.png",
+      "streamUrls": [
+        "https://mumt05.tangotv.in/DHARMSANDESH/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "DishaTV.in",
+      "name": "Disha TV",
+      "logoUrl": "https://www.pinpng.com/pngs/m/327-3278834_disha-channel-logo-disha-tv-logo-hd-png.png",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/DISHATV/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "DisneyChannel.in",
+      "name": "Disney Channel",
+      "logoUrl": "https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a06q/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "DisneyJunior.in",
+      "name": "Disney Junior",
+      "logoUrl": "https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a068/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "E24.in",
+      "name": "E 24",
+      "logoUrl": "https://assets.airtel.in/static-assets/cms/dth/images/channellogo/E-24.png",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/E24/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "FoodFood.in",
+      "name": "Food Food",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
+      "streamUrls": [
+        "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "GSTV.in",
+      "name": "GS TV",
+      "logoUrl": "https://assets.airtel.in/static-assets/cms/dth/images/channellogo/GS_1+(0-00-00-00)_015345-min.png",
+      "streamUrls": [
+        "https://mumt05.tangotv.in/GSTV/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "GraceTV.in",
+      "name": "Grace TV",
+      "logoUrl": "https://gracechannel.tv/assets/images/grace-channel-logo.png",
+      "streamUrls": [
+        "https://mumt03.tangotv.in/GRACETV/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "HarKhabar.in",
+      "name": "Har Khabar",
+      "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nHu7K1594t8qhNvKelaAhV2k4kyp04TQe6V0_vr4TvNCA=s900-c-k-c0x00ffffff-no-rj",
+      "streamUrls": [
+        "https://mumt01.tangotv.in/HARKHABAR/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "HopeChannelIndia.in",
+      "name": "Hope Channel India",
+      "logoUrl": "https://images.hopeplatform.org/resize/L3dfMTIwMF9faF82MzAvaG9wZS1pbWFnZXMvNjI1NDBlZjQ1ZjQ2MDc5ZTk2NDhmYmQ0L1lVbTE2NTc4MDIyOTYxMDMucG5n/w_1200__h_630/hope-images/62540ef45f46079e9648fbd4/YUm1657802296103.png",
+      "streamUrls": [
+        "https://mumt01.tangotv.in/HOPECHANNELINDIA/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "Ind24.in",
+      "name": "Ind 24",
+      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100083323743210",
+      "streamUrls": [
+        "https://mumt02.tangotv.in/IND24/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "IndiaAhead.in",
+      "name": "India Ahead",
+      "logoUrl": "https://www.medianews4u.com/wp-content/uploads/2020/06/India-Ahead-English-News-Channel.jpg",
+      "streamUrls": [
+        "https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "IndiaVoice.in",
+      "name": "India Voice",
+      "logoUrl": "https://cdn.indiavoice.com/assets/logo/india-voice-banner.jpeg",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/INDIAVOICE/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "Insync.in",
+      "name": "Insync",
+      "logoUrl": "https://3thinkrs.com/wp-content/uploads/2025/03/InSync_Color.png",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/INSYNC/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "JMovie.in",
+      "name": "J Movie",
+      "logoUrl": "https://img.freepik.com/premium-vector/j-letter-mark-channel-television-tv-logo-vector-icon-illustration_7688-5079.jpg",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a09p/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "KhabarFast.in",
+      "name": "Khabar Fast",
+      "logoUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ae01f910415537.560e499dbb13a.png",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/KHABARFAST/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "KhabrainAbhiTak.in",
+      "name": "Khabrain Abhi Tak",
+      "logoUrl": "https://i.ytimg.com/vi/1k5VFf_Ljck/maxresdefault_live.jpg",
+      "streamUrls": [
+        "https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "MBCTV.in",
+      "name": "MBC TV",
+      "logoUrl": "https://www.liblogo.com/img-logo/mb8344m620-mbc-logo-mbc1-middle-eastern-and-north-african-tv-channel-liblogo.png",
+      "streamUrls": [
+        "https://mumt03.tangotv.in/MBCTV/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "MNX.in",
+      "name": "MNX",
+      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png/revision/latest/scale-to-width-down/250?cb=20200114193517",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a07f/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "NENews.in",
+      "name": "NE News",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1200px-OneNewsPH_logo.svg.png",
+      "streamUrls": [
+        "https://mumt05.tangotv.in/NENEWS/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "Network10.in",
+      "name": "Network 10",
+      "logoUrl": "https://logos-world.net/wp-content/uploads/2025/03/Network-10-Logo.jpg",
+      "streamUrls": [
+        "https://network10.livebox.co.in/network10hls/live.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "News11.in",
+      "name": "News 11",
+      "logoUrl": "https://www.newscaststudio.com/wp-content/uploads/2016/12/channel-11-logo-design-1.png",
+      "streamUrls": [
+        "https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "NickJr.in",
+      "name": "Nick Jr.",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a074/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "ParasGold.in",
+      "name": "Paras Gold",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/pp/paras-gold-in.png",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/PARASGOLD/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "RajNewsKannada.in",
+      "name": "Raj News Kannada",
+      "logoUrl": "http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Kannada_Raj_News.png",
+      "streamUrls": [
+        "https://mumt03.tangotv.in/RAJNEWSKANDA/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "RajNewsMalayalam.in",
+      "name": "Raj News Malayalam",
+      "logoUrl": "http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Malayalam_raj_news.png",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "RajNewsTelugu.in",
+      "name": "Raj News Telugu",
+      "logoUrl": "https://dreamdth.com/community/proxy.php?image=https://i.imgur.com/cxFJNvR.png&hash=3aa2c368ac41f3e1994af8422fd15d6c",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/RAJNEWSTELUGU/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "Ramdhenu.in",
+      "name": "Ramdhenu",
+      "logoUrl": "https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Logo_of_Ramdhenu.png",
+      "streamUrls": [
+        "https://mumt01.tangotv.in/RAMDHENU/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "Rang.in",
+      "name": "Rang",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/7/75/Rang_tv_in.png/revision/latest/scale-to-width-down/200?cb=20191218094415",
+      "streamUrls": [
+        "https://mumt01.tangotv.in/RANG/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "RomedyNow.in",
+      "name": "Romedy Now",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a07r/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "SahanaNews.in",
+      "name": "Sahana News",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/d6/Sahana.jpeg/revision/latest/scale-to-width-down/160?cb=20191225173933",
+      "streamUrls": [
+        "https://mumt03.tangotv.in/SAHANANEWS/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "StarGold2.in",
+      "name": "Star Gold 2",
+      "logoUrl": "https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a06z/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "StarGoldThrills.in",
+      "name": "Star Gold Thrills",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a06v/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "StarSports1Hindi.in",
+      "name": "Star Sports 1 Hindi",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a06n/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "UdayaComedy.in",
+      "name": "Udaya Comedy",
+      "logoUrl": "https://indiantvinfo.com/media/2018/04/Udaya-Comedy-logo.jpg",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a0b3/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "VelichamTV.in",
+      "name": "Velicham TV",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/3e/Velicham.png/revision/latest?cb=20191225182426",
+      "streamUrls": [
+        "https://cdn-3.pishow.tv/live/461/master.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "VissaTV.in",
+      "name": "Vissa TV",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Vissa_TV.jpeg/revision/latest?cb=20191226110329",
+      "streamUrls": [
+        "https://mumt02.tangotv.in/VISSATV/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "ZeeBollywood.in",
+      "name": "Zee Bollywood",
+      "logoUrl": "https://latestlogo.com/wp-content/uploads/2025/06/zee-bollywood-logo-scaled.png",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a075/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "ZeeClassic.in",
+      "name": "Zee Classic",
+      "logoUrl": "https://logos-world.net/wp-content/uploads/2023/04/Zee-TV-Logo-2005.png",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a06a/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "ZeePunjabi.in",
+      "name": "Zee Punjabi",
+      "logoUrl": "https://www.pngkit.com/png/detail/382-3827275_zee-punjabi-2011-zee-punjabi-channel-logo.png",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a0at/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "ZeeTV.in",
+      "name": "Zee TV",
+      "logoUrl": "https://pngset.com/images/zee-tv-zee-tv-logo-channel-text-metropolis-city-urban-transparent-png-1124165.png",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a08v/index.m3u8"
+      ],
+      "category": "India"
+    },
+    {
+      "id": "Zing.in",
+      "name": "Zing!",
+      "logoUrl": "https://logowik.com/content/uploads/images/4104-zing-tv-new.webp",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a0ax/index.m3u8"
+      ],
+      "category": "India"
     }
   ]
 }

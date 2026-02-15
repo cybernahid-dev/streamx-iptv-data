@@ -5218,6 +5218,106 @@
       ],
       "category": "Music",
       "genre": "Music"
+    },
+    {
+      "id": "GaanBangla.bd",
+      "name": "Gaan Bangla",
+      "logoUrl": "https://freekaj.com/assets/images/stock/image/2024/01/14/65a438c05aadb1705261248.jpg",
+      "streamUrls": [
+        "http://vmi3039524.contaboserver.net:5050/music/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PlutoTVMTV.us",
+      "name": "Pluto TV MTV",
+      "logoUrl": "https://www.tvchannellists.com/wiki/images/5/5f/MTV_Pluto_TV.svg",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/624edee2d6394a0007efcac4/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PlutoTVKaraokeporStingray.us",
+      "name": "Pluto TV Karaoke por Stingray",
+      "logoUrl": "https://images.pluto.tv/channels/604b99d633a72b00078e05ad/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "PlutoTVShowsporStingray.us",
+      "name": "Pluto TV Shows por Stingray",
+      "logoUrl": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50",
+      "streamUrls": [
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "15PlusMusic.ru",
+      "name": "15+ Music",
+      "logoUrl": "https://www.pngall.com/wp-content/uploads/15/MTV-Logo-PNG-Images-HD.png",
+      "streamUrls": [
+        "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Insync.in",
+      "name": "Insync",
+      "logoUrl": "https://3thinkrs.com/wp-content/uploads/2025/03/InSync_Color.png",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/INSYNC/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "Zing.in",
+      "name": "Zing!",
+      "logoUrl": "https://logowik.com/content/uploads/images/4104-zing-tv-new.webp",
+      "streamUrls": [
+        "http://161.248.38.40:8000/play/a0ax/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "LaCantinaMemorias.co",
+      "name": "La Cantina Memorias",
+      "logoUrl": "https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png",
+      "streamUrls": [
+        "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MemoriasFMPopLatino.co",
+      "name": "Memorias FM Pop Latino",
+      "logoUrl": "https://memorias.tv/wp-content/uploads/2022/03/logo-MEMORIAS-TV-png.png",
+      "streamUrls": [
+        "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
+    },
+    {
+      "id": "MaimonTVCanal3.do",
+      "name": "Maimon TV Canal 3",
+      "logoUrl": "https://directostv.teleame.com/wp-content/uploads/2017/10/Maimontv.png",
+      "streamUrls": [
+        "https://tele-stream.telecasa.net:8080/play/maimontv/index.m3u8"
+      ],
+      "category": "Music",
+      "genre": "Music"
     }
   ]
 }
