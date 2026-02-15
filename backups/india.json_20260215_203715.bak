@@ -555,8 +555,7 @@
       "name": "B4U Music",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",
       "streamUrls": [
-        "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
-        "https://mumt04.tangotv.in/B4UMUSIC/index.m3u8"
+        "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8"
       ],
       "category": "India"
     },
@@ -657,8 +656,8 @@
       "name": "Bharat24",
       "logoUrl": "https://www.indianbroadcastingworld.com/wp-content/uploads/2022/08/Bharat-24.jpg",
       "streamUrls": [
-        "https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8?ads.vf=xHwQLhm-fA0"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8?ads.vf=xHwQLhm-fA0",
+        "https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8"
       ],
       "category": "India"
     },
@@ -3239,8 +3238,8 @@
       "name": "Shalom",
       "logoUrl": "https://shalomchannel.tv/wp-content/uploads/2021/08/logo.png",
       "streamUrls": [
-        "https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8",
-        "https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8"
+        "https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8",
+        "https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8"
       ],
       "category": "India"
     },
