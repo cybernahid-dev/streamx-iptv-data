@@ -181,6 +181,7 @@
       "name": "ABN Andhra Jyoti",
       "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abn-andhra-jyothy/index.m3u8?ads.vf=-FR2KTpV7aG",
         "https://cdn-1.pishow.tv/live/407/master.m3u8"
       ],
       "category": "India"
@@ -190,7 +191,8 @@
       "name": "ABP Ganga",
       "logoUrl": "https://latestlogo.com/wp-content/uploads/2024/06/abp-ganga-logo.svg",
       "streamUrls": [
-        "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8?ads.vf=Qt4pY2nrQ0y",
+        "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8"
       ],
       "category": "India"
     },
@@ -199,7 +201,8 @@
       "name": "ABP Majha",
       "logoUrl": "https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/640px-ABP_Majha_logo.svg.png&w=640&q=50",
       "streamUrls": [
-        "https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-majha/master.m3u8?ads.vf=8OltvU-xnsS",
+        "https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8"
       ],
       "category": "India"
     },
@@ -218,7 +221,8 @@
       "name": "AKD Calcutta News",
       "logoUrl": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/d5/CN_AKD_Calcuta_News_logo_(2016).png/revision/latest?cb=20210424123505",
       "streamUrls": [
-        "https://cdn-2.pishow.tv/live/237/master.m3u8"
+        "https://cdn-2.pishow.tv/live/237/master.m3u8",
+        "https://live.legitpro.co.in/cnnnews/index.m3u8"
       ],
       "category": "India"
     },
@@ -227,7 +231,8 @@
       "name": "ANB News",
       "logoUrl": "https://static.wikia.nocookie.net/india-tv-channel/images/4/4c/ANB_News.jpeg/revision/latest?cb=20211211131312",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=anb-news&e=.m3u8"
+        "https://keralive.com/yupp/tv.php?c=anb-news&e=.m3u8",
+        "https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8"
       ],
       "category": "India"
     },
@@ -246,7 +251,8 @@
       "name": "Aadinath TV",
       "logoUrl": "https://aadinathtv.com/uploads/logo/9879415WhatsApp+Image+2021-10-07+at+5.40.23+PM+(1)+(1).jpeg",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8"
+        "https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8",
+        "https://mumt01.tangotv.in/AADINATHTV/index.m3u8"
       ],
       "category": "India"
     },
@@ -423,6 +429,7 @@
       "name": "Anjan TV",
       "logoUrl": "http://4.bp.blogspot.com/-eRJvwdr107o/Umu4KCOXaaI/AAAAAAAAAXk/OZEGeUGMqAg/s1600/Anjan+TV+bhojpuri+Channel+logo.jpg",
       "streamUrls": [
+        "https://anjantv.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,.smil/playlist.m3u8",
         "https://cdn-1.pishow.tv/live/993/master.m3u8"
       ],
       "category": "India"
@@ -432,7 +439,7 @@
       "name": "Anmol Cinema 2",
       "logoUrl": "https://i.imgur.com/5PAGaT0.png",
       "streamUrls": [
-        "http://110.39.27.47:8001/play/a03w/index.m3u8"
+        "http://161.248.38.40:8000/play/a07q/index.m3u8"
       ],
       "category": "India"
     },
@@ -450,7 +457,8 @@
       "name": "Argus News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/df/Argus_News.jpeg/revision/latest/scale-to-width-down/250?cb=20200804122252",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=argus-news&e=.m3u8"
+        "https://keralive.com/yupp/tv.php?c=argus-news&e=.m3u8",
+        "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8"
       ],
       "category": "India"
     },
@@ -478,7 +486,7 @@
       "name": "Asianet Suvarna News",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Asianet_Suvarna_News_logo.png?Asianet_Suvarna_News1178391227",
       "streamUrls": [
-        "https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e2e5f74b-d075-45e4-aa07-e604a45fc1b1/playlist.m3u8"
+        "https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -487,7 +495,7 @@
       "name": "Awaaz India TV",
       "logoUrl": "https://awaazindiatvc.in/wp-content/uploads/2023/11/cropped-logo_awaazindia.png",
       "streamUrls": [
-        "https://awaazindia.livebox.co.in/AwaazIndaTVdash/Live.mpd"
+        "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8"
       ],
       "category": "India"
     },
@@ -496,7 +504,8 @@
       "name": "Awakening TV",
       "logoUrl": "https://image.roku.com/developer_channels/prod/5b397cff0f612aa674260a5fedb3ae43880bcb02df1d0e7ad7b2fa35911177ce.png",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=awakening-tv&e=.m3u8"
+        "https://keralive.com/yupp/tv.php?c=awakening-tv&e=.m3u8",
+        "https://mumt03.tangotv.in/AWAKENINGTV/index.m3u8"
       ],
       "category": "India"
     },
@@ -556,6 +565,7 @@
       "name": "BIG TV",
       "logoUrl": "https://w7.pngwing.com/pngs/616/114/png-transparent-big-tv-television-channel-logo-pt-indonesia-media-televisi-bigtv-others-miscellaneous-television-text.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/big-tv/index.m3u8?ads.vf=lIf8R_GSaTe",
         "https://cdn-1.pishow.tv/live/1059/master.m3u8"
       ],
       "category": "India"
@@ -592,7 +602,8 @@
       "name": "Balle Balle",
       "logoUrl": "https://www.gulfbuzz.com/wp-content/uploads/2021/03/Untitled-design-4-min-696x478.png",
       "streamUrls": [
-        "https://mcncdndigital.com/balleballetv/index.m3u8"
+        "https://mcncdndigital.com/balleballetv/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8?ads.vf=jbHwG4WE_Zi"
       ],
       "category": "India"
     },
@@ -646,7 +657,8 @@
       "name": "Bharat24",
       "logoUrl": "https://www.indianbroadcastingworld.com/wp-content/uploads/2022/08/Bharat-24.jpg",
       "streamUrls": [
-        "https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8"
+        "https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8?ads.vf=xHwQLhm-fA0"
       ],
       "category": "India"
     },
@@ -844,7 +856,8 @@
       "name": "DD Assam",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/a/ac/DD_Assam_logo.jpg/revision/latest/scale-to-width-down/240?cb=20200804045541",
       "streamUrls": [
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8",
+        "https://mumt05.tangotv.in/DDASSAM/index.m3u8"
       ],
       "category": "India"
     },
@@ -853,7 +866,8 @@
       "name": "DD Bangla",
       "logoUrl": "https://img1.pnghut.com/4/17/21/4UAM55tAeg/doordarshan-brand-kolkata-tv-channel-10-purple.jpg",
       "streamUrls": [
-        "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8",
+        "https://mumt05.tangotv.in/DDBANGLA/index.m3u8"
       ],
       "category": "India"
     },
@@ -862,7 +876,9 @@
       "name": "DD Bharati",
       "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png",
       "streamUrls": [
-        "https://cdn-1.pishow.tv/live/10/master.m3u8"
+        "https://cdn-1.pishow.tv/live/10/master.m3u8",
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8",
+        "https://mumt01.tangotv.in/DDBHARATI/index.m3u8"
       ],
       "category": "India"
     },
@@ -871,7 +887,9 @@
       "name": "DD Bihar",
       "logoUrl": "https://w7.pngwing.com/pngs/174/32/png-transparent-dd-bihar-dd-national-television-channel-dd-free-dish-hinduism-miscellaneous-purple-television-thumbnail.png",
       "streamUrls": [
-        "https://cdn-4.pishow.tv/live/35/master.m3u8"
+        "https://cdn-4.pishow.tv/live/35/master.m3u8",
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8",
+        "https://mumt03.tangotv.in/DDBIHAR/index.m3u8"
       ],
       "category": "India"
     },
@@ -880,7 +898,7 @@
       "name": "DD Chandana",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/bd/DD_Chandana_Old.jpg/revision/latest/scale-to-width-down/200?cb=20190725124357",
       "streamUrls": [
-        "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3829f99b-4951-4a9d-98c1-dbc3acfe5193/2.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8"
       ],
       "category": "India"
     },
@@ -889,6 +907,7 @@
       "name": "DD Chhattisgarh",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/1e/Dd-chhattisgarh-in.png/revision/latest?cb=20200112091917",
       "streamUrls": [
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8",
         "https://cdn-1.pishow.tv/live/15/master.m3u8"
       ],
       "category": "India"
@@ -898,7 +917,8 @@
       "name": "DD Girnar",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/24/DD_Girnar.png/revision/latest?cb=20190711125535",
       "streamUrls": [
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8",
+        "https://mumt01.tangotv.in/DDGIRNAR/index.m3u8"
       ],
       "category": "India"
     },
@@ -934,7 +954,9 @@
       "name": "DD India",
       "logoUrl": "https://toppng.com/uploads/preview/dd-india-11563428205l9exysl2jd.png",
       "streamUrls": [
-        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8",
+        "https://cdn-1.pishow.tv/live/23/master.m3u8",
+        "https://mumt05.tangotv.in/DDINDIA/index.m3u8"
       ],
       "category": "India"
     },
@@ -943,7 +965,7 @@
       "name": "DD Jharkhand",
       "logoUrl": "https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-25-2025-09_40_09-AM-1.png",
       "streamUrls": [
-        "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8"
       ],
       "category": "India"
     },
@@ -952,7 +974,8 @@
       "name": "DD Kashir",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/d0/DD-Kashir.jpg/revision/latest/scale-to-width-down/280?cb=20190210105641",
       "streamUrls": [
-        "https://cdn-6.pishow.tv/live/16/master.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8",
+        "https://mumt05.tangotv.in/DDKASHIR/index.m3u8"
       ],
       "category": "India"
     },
@@ -961,7 +984,9 @@
       "name": "DD Kisan",
       "logoUrl": "https://w7.pngwing.com/pngs/36/497/png-transparent-dd-kisan-india-television-channel-farmer-narendra-modi-television-text-label.png",
       "streamUrls": [
-        "https://cdn-6.pishow.tv/live/9/master.m3u8"
+        "https://cdn-6.pishow.tv/live/9/master.m3u8",
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8",
+        "https://mumt04.tangotv.in/DDKISAN/index.m3u8"
       ],
       "category": "India"
     },
@@ -970,7 +995,9 @@
       "name": "DD Madhya Pradesh",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9b/Dd-madhya-pradesh_1-in.png/revision/latest/scale-to-width-down/350?cb=20210923110004",
       "streamUrls": [
-        "https://cdn-1.pishow.tv/live/31/master.m3u8"
+        "https://cdn-1.pishow.tv/live/31/master.m3u8",
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8",
+        "https://mumt04.tangotv.in/DDMADHYAPRADESH/index.m3u8"
       ],
       "category": "India"
     },
@@ -979,7 +1006,8 @@
       "name": "DD Malayalam",
       "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063651803103",
       "streamUrls": [
-        "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8",
+        "https://mumt02.tangotv.in/DDMALAYALAM/index.m3u8"
       ],
       "category": "India"
     },
@@ -1006,7 +1034,7 @@
       "name": "DD Mizoram",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/7/7b/Dd_mizoram.jpg/revision/latest?cb=20200223110958",
       "streamUrls": [
-        "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/22ee1f87-4ac9-4d6b-9ec4-d5287739b4b4/2.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8"
       ],
       "category": "India"
     },
@@ -1015,7 +1043,8 @@
       "name": "DD Nagaland",
       "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2KK1jssqxvaLzqAAWmyEZjeOnTO7SYK6EePpmu0yD1x3zTNlLI3OPq0pRV7fLEq2U8QXPXoRxh55KnT8XQysBUkGxqCF7ieGovtQk6pC742uOuWp2tcpCOfykaGt1BsLGJ_OORFuUg0DrZ5m8Rh0tYgy4W5Z4KzQSDTqfl8r35zYML3ZT2ZQTB3P7koM/s225/DD-Nagaland.jpg",
       "streamUrls": [
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8",
+        "https://mumt01.tangotv.in/DDNAGALAND/index.m3u8"
       ],
       "category": "India"
     },
@@ -1024,7 +1053,9 @@
       "name": "DD National",
       "logoUrl": "https://1.bp.blogspot.com/--38Cf9MEpo8/YE9UJ5TOxSI/AAAAAAAAFQs/U6DIRxDjrKUgU1y7sC23IzSQzMYb8qPdgCLcBGAsYHQ/s800/ddnational.jpg",
       "streamUrls": [
-        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
+        "https://cdn-1.pishow.tv/live/11/master.m3u8",
+        "https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8"
       ],
       "category": "India"
     },
@@ -1033,7 +1064,8 @@
       "name": "DD News",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/9/95/DD_News_2015.png/revision/latest?cb=20230626090228&path-prefix=vi",
       "streamUrls": [
-        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8",
+        "https://mumt04.tangotv.in/DDNEWS/index.m3u8"
       ],
       "category": "India"
     },
@@ -1042,7 +1074,8 @@
       "name": "DD Odia",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8f/DD_Odia.png/revision/latest?cb=20190725133034",
       "streamUrls": [
-        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8",
+        "https://mumt05.tangotv.in/DDODIA/index.m3u8"
       ],
       "category": "India"
     },
@@ -1051,7 +1084,7 @@
       "name": "DD Punjabi",
       "logoUrl": "https://i.ytimg.com/vi/flVsoIUJusM/hqdefault.jpg",
       "streamUrls": [
-        "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8"
       ],
       "category": "India"
     },
@@ -1060,7 +1093,9 @@
       "name": "DD Rajasthan",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/61/DD_Rajasthan.jpeg/revision/latest?cb=20191222114844",
       "streamUrls": [
-        "https://cdn-1.pishow.tv/live/34/master.m3u8"
+        "https://cdn-1.pishow.tv/live/34/master.m3u8",
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8",
+        "https://mumt05.tangotv.in/DDRAJASTHAN/index.m3u8"
       ],
       "category": "India"
     },
@@ -1069,7 +1104,8 @@
       "name": "DD Sahyadri",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/05/DD_Sahyadri.jpg/revision/latest?cb=20240319202304",
       "streamUrls": [
-        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8",
+        "https://mumt01.tangotv.in/DDSAHYADRI/index.m3u8"
       ],
       "category": "India"
     },
@@ -1078,7 +1114,9 @@
       "name": "DD Saptagiri",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b5/DD_Saptagiri_Logo.jpg/revision/latest?cb=20240320072749",
       "streamUrls": [
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8",
+        "https://cdn-1.pishow.tv/live/22/master.m3u8",
+        "https://mumt02.tangotv.in/DDSAPTAGIRI/index.m3u8"
       ],
       "category": "India"
     },
@@ -1087,7 +1125,8 @@
       "name": "DD Sports",
       "logoUrl": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20230906112447.jpg",
       "streamUrls": [
-        "https://cdn-6.pishow.tv/live/13/master.m3u8"
+        "https://cdn-6.pishow.tv/live/13/master.m3u8",
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
       ],
       "category": "India"
     },
@@ -1096,7 +1135,8 @@
       "name": "DD Tamil",
       "logoUrl": "https://dreamdth.com/wp-content/uploads/2024/01/DD-Tamil-featured-image-.jpg",
       "streamUrls": [
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8",
+        "https://mumt04.tangotv.in/DDTAMIL/index.m3u8"
       ],
       "category": "India"
     },
@@ -1105,7 +1145,8 @@
       "name": "DD Tripura",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/7/70/Dd_tripura.png/revision/latest?cb=20200112092657",
       "streamUrls": [
-        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index_3.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8",
+        "https://mumt01.tangotv.in/DDTRIPURA/index.m3u8"
       ],
       "category": "India"
     },
@@ -1114,6 +1155,7 @@
       "name": "DD Urdu",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/2f/DD_Urdu_new.jpeg/revision/latest?cb=20191229180017",
       "streamUrls": [
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8",
         "https://cdn-4.pishow.tv/live/8/master.m3u8"
       ],
       "category": "India"
@@ -1123,7 +1165,9 @@
       "name": "DD Uttar Pradesh",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/6f/DD_UP.jpeg/revision/latest?cb=20191222114542",
       "streamUrls": [
-        "https://cdn-1.pishow.tv/live/36/master.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8",
+        "https://cdn-1.pishow.tv/live/36/master.m3u8",
+        "https://mumt01.tangotv.in/DDUTTARPRADESH/index.m3u8"
       ],
       "category": "India"
     },
@@ -1132,6 +1176,7 @@
       "name": "DD Uttarakhand",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/fd/Dd-uttarakhand-in.png/revision/latest?cb=20200112092424",
       "streamUrls": [
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8",
         "https://cdn-1.pishow.tv/live/17/master.m3u8"
       ],
       "category": "India"
@@ -1141,7 +1186,9 @@
       "name": "DD Yadagiri",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/6d/DD_Yadagiri.png/revision/latest?cb=20190711135123",
       "streamUrls": [
-        "https://cdn-1.pishow.tv/live/21/master.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8",
+        "https://cdn-1.pishow.tv/live/21/master.m3u8",
+        "https://mumt05.tangotv.in/DDYADAGIRI/index.m3u8"
       ],
       "category": "India"
     },
@@ -1186,7 +1233,8 @@
       "name": "Dhamaal",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Dhamaal_Gujarat_Sabgroup.png/revision/latest?cb=20210227202142",
       "streamUrls": [
-        "https://cdn-1.pishow.tv/live/1291/master.m3u8"
+        "https://cdn-1.pishow.tv/live/1291/master.m3u8",
+        "https://mumt03.tangotv.in/DHAMAAL/index.m3u8"
       ],
       "category": "India"
     },
@@ -1276,7 +1324,7 @@
       "name": "ETV Comedy",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CTV_Comedy_Channel_2019.svg/1280px-CTV_Comedy_Channel_2019.svg.png",
       "streamUrls": [
-        "https://cc-wie8j8y69d2uy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8"
+        "https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -1285,7 +1333,7 @@
       "name": "ETV Josh",
       "logoUrl": "https://dreamdth.com/wp-content/uploads/2021/10/ETV_Logo-450x255.png",
       "streamUrls": [
-        "https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8"
+        "https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -1303,7 +1351,7 @@
       "name": "ETV Music",
       "logoUrl": "https://yt3.ggpht.com/a/AATXAJxCqNkFE1BBlovnW8ktfErc7tjXMKm3UEFi=s900-c-k-c0xffffffff-no-rj-mo",
       "streamUrls": [
-        "https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8"
+        "https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -1312,7 +1360,7 @@
       "name": "ETV News",
       "logoUrl": "https://logodix.com/logo/2167608.jpg",
       "streamUrls": [
-        "https://cc-3448kp65yhc5w.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3448kp65yhc5w/WWBI/Amagi/ETV_News_IN/playlist.m3u8"
+        "https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -1348,7 +1396,8 @@
       "name": "Enterr 10 Bangla",
       "logoUrl": "https://www.lyngsat.com/logo/tv/ee/enterr-10-bangla-in.png",
       "streamUrls": [
-        "https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
+        "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
+        "https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8"
       ],
       "category": "India"
     },
@@ -1366,7 +1415,8 @@
       "name": "Fakt Marathi",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/67/Fakt_Marathi.png/revision/latest/scale-to-width-down/142?cb=20190523142543",
       "streamUrls": [
-        "https://cdn-6.pishow.tv/live/10002/master.m3u8"
+        "https://cdn-6.pishow.tv/live/10002/master.m3u8",
+        "https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8"
       ],
       "category": "India"
     },
@@ -1375,6 +1425,7 @@
       "name": "Fateh TV",
       "logoUrl": "https://www.sikhiwiki.org/images/thumb/e/e9/Fateh-tv.png/250px-Fateh-tv.png",
       "streamUrls": [
+        "https://mumt05.tangotv.in/FATEHTV/index.m3u8",
         "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
       ],
       "category": "India"
@@ -1393,7 +1444,8 @@
       "name": "First India News",
       "logoUrl": "https://w7.pngwing.com/pngs/327/169/png-transparent-india-news-television-channel-itv-network-india-television-logo-india.png",
       "streamUrls": [
-        "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8"
+        "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
+        "https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8"
       ],
       "category": "India"
     },
@@ -1420,7 +1472,8 @@
       "name": "Goldmines",
       "logoUrl": "https://static.wikia.nocookie.net/jhmovie/images/5/59/Goldmines_logo_old.jpg/revision/latest/scale-to-width-down/180?cb=20240404142110",
       "streamUrls": [
-        "https://cdn-2.pishow.tv/live/1459/master.m3u8"
+        "https://cdn-2.pishow.tv/live/1459/master.m3u8",
+        "https://mumt04.tangotv.in/GOLDMINES/index.m3u8"
       ],
       "category": "India"
     },
@@ -1484,7 +1537,8 @@
       "name": "HMTV",
       "logoUrl": "https://www.medianews4u.com/wp-content/uploads/2015/12/hmtv-Live-2-2.png",
       "streamUrls": [
-        "https://cdn-1.pishow.tv/live/280/master.m3u8"
+        "https://cdn-1.pishow.tv/live/280/master.m3u8",
+        "https://mumt04.tangotv.in/HMTV/index.m3u8"
       ],
       "category": "India"
     },
@@ -1493,7 +1547,8 @@
       "name": "HNN 24x7",
       "logoUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ee84e049201181.58adc36b3af9a.jpg",
       "streamUrls": [
-        "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8"
+        "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8",
+        "https://mumt02.tangotv.in/HNN24X7/index.m3u8"
       ],
       "category": "India"
     },
@@ -1538,7 +1593,8 @@
       "name": "Hi Dost!",
       "logoUrl": "https://vectorseek.com/wp-content/uploads/2024/02/Dost-TV-Logo-Vector.svg-.png",
       "streamUrls": [
-        "https://cdn-1.pishow.tv/live/224/master.m3u8"
+        "https://cdn-1.pishow.tv/live/224/master.m3u8",
+        "https://mumt03.tangotv.in/HIDOST/index.m3u8"
       ],
       "category": "India"
     },
@@ -1556,7 +1612,8 @@
       "name": "Hindi Khabar",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/d9/Hindi-khabar.png/revision/latest/scale-to-width-down/250?cb=20230126172930",
       "streamUrls": [
-        "https://cdn-2.pishow.tv/live/1041/master.m3u8"
+        "https://cdn-2.pishow.tv/live/1041/master.m3u8",
+        "https://mumt04.tangotv.in/HINDIKHABAR/index.m3u8"
       ],
       "category": "India"
     },
@@ -1565,7 +1622,8 @@
       "name": "Hindu Dharmam",
       "logoUrl": "https://nettv4u.com/uploads/26-08-2020/hindu-dharmam.jpg",
       "streamUrls": [
-        "https://cdn-1.pishow.tv/live/959/master.m3u8"
+        "https://cdn-1.pishow.tv/live/959/master.m3u8",
+        "https://mumt01.tangotv.in/HINDUDHARMAM/index.m3u8"
       ],
       "category": "India"
     },
@@ -1593,7 +1651,8 @@
       "name": "IBC 24",
       "logoUrl": "https://www.digitalstudioindia.com/cloud/2024/10/03/GV-IBC-logo.jpg",
       "streamUrls": [
-        "https://cdn-3.pishow.tv/live/220/master.m3u8"
+        "https://cdn-3.pishow.tv/live/220/master.m3u8",
+        "https://mumt05.tangotv.in/IBC24/index.m3u8"
       ],
       "category": "India"
     },
@@ -1602,7 +1661,8 @@
       "name": "INH 24x7",
       "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/e6/92/1ce69257-5040-d19a-0a7e-1bbf9f2c2fa1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-P3-85-220.png/1200x630wa.png",
       "streamUrls": [
-        "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8"
+        "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
+        "https://mumt01.tangotv.in/INH24X7/index.m3u8"
       ],
       "category": "India"
     },
@@ -1620,7 +1680,8 @@
       "name": "India TV",
       "logoUrl": "https://www.nicepng.com/png/detail/367-3670818_india-tv-logo-png.png",
       "streamUrls": [
-        "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8"
+        "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
+        "https://mumt01.tangotv.in/INDIATV/index.m3u8"
       ],
       "category": "India"
     },
@@ -1686,7 +1747,8 @@
       "name": "Ishwar Bhakti TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9e/Ishwar.png/revision/latest?cb=20210510132201",
       "streamUrls": [
-        "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8"
+        "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8",
+        "https://mumt05.tangotv.in/ISHWARBHAKTI/index.m3u8"
       ],
       "category": "India"
     },
@@ -1704,7 +1766,8 @@
       "name": "Jai Maharashtra",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Jai_Maharashtra.jpeg/250px-Jai_Maharashtra.jpeg",
       "streamUrls": [
-        "https://cdn-3.pishow.tv/live/1465/master.m3u8"
+        "https://cdn-3.pishow.tv/live/1465/master.m3u8",
+        "https://mumt03.tangotv.in/JAIMAHARASHTRA/index.m3u8"
       ],
       "category": "India"
     },
@@ -1713,7 +1776,8 @@
       "name": "Jaihind TV",
       "logoUrl": "https://www.keralatv.in/media/2008/07/Jaihind-channel-logo.jpg",
       "streamUrls": [
-        "https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+        "https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+        "https://mumt03.tangotv.in/JAIHIND/index.m3u8"
       ],
       "category": "India"
     },
@@ -1722,7 +1786,8 @@
       "name": "Jan TV",
       "logoUrl": "https://i.imgur.com/RfJBuf5.png",
       "streamUrls": [
-        "https://cdn-6.pishow.tv/live/10004/master.m3u8"
+        "https://cdn-6.pishow.tv/live/10004/master.m3u8",
+        "https://mumt03.tangotv.in/JANTV/index.m3u8"
       ],
       "category": "India"
     },
@@ -1731,7 +1796,8 @@
       "name": "Janam TV",
       "logoUrl": "https://cdn.pnggallery.com/wp-content/uploads/janam-tv-logo-05.png",
       "streamUrls": [
-        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8"
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8",
+        "https://mumt03.tangotv.in/JANAMTV/index.m3u8"
       ],
       "category": "India"
     },
@@ -1749,7 +1815,8 @@
       "name": "Jeevan TV",
       "logoUrl": "https://www.newsmedialists.com/logo/tvs/5191/60-60/fit/jeevan-tv.png",
       "streamUrls": [
-        "https://cdn-3.pishow.tv/live/1467/master.m3u8"
+        "https://cdn-3.pishow.tv/live/1467/master.m3u8",
+        "https://mumt04.tangotv.in/JEEVANTV/index.m3u8"
       ],
       "category": "India"
     },
@@ -1758,7 +1825,8 @@
       "name": "Jinvani Channel",
       "logoUrl": "https://alchetron.com/cdn/jinvani-channel-9efcfd59-0196-4aac-98fe-e81e7108a22-resize-750.jpeg",
       "streamUrls": [
-        "https://cdn-2.pishow.tv/live/989/master.m3u8"
+        "https://cdn-2.pishow.tv/live/989/master.m3u8",
+        "https://mumt03.tangotv.in/JINVANI/index.m3u8"
       ],
       "category": "India"
     },
@@ -1767,7 +1835,7 @@
       "name": "K News India",
       "logoUrl": "https://play-lh.googleusercontent.com/Rlp_Pbj04vKm99iMVZkuQjtrNksknfj6tqBerc2q6BjqfdFhitWcZSvzWiqLMh9cax4",
       "streamUrls": [
-        "https://knews.livebox.co.in/youtubehls/live.m3u8"
+        "https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8"
       ],
       "category": "India"
     },
@@ -1776,7 +1844,8 @@
       "name": "Kairali News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/300?cb=20191221124115",
       "streamUrls": [
-        "https://cdn-3.pishow.tv/live/1469/master.m3u8"
+        "https://cdn-3.pishow.tv/live/1469/master.m3u8",
+        "https://mumt01.tangotv.in/KAIRALINEWS/index.m3u8"
       ],
       "category": "India"
     },
@@ -1785,7 +1854,8 @@
       "name": "Kairali We",
       "logoUrl": "https://i.pinimg.com/736x/00/b1/6a/00b16a70ec8eb6a4869a1a6e4451b66d.jpg",
       "streamUrls": [
-        "https://cdn-3.pishow.tv/live/1530/master.m3u8"
+        "https://cdn-3.pishow.tv/live/1530/master.m3u8",
+        "https://mumt01.tangotv.in/WETV/index.m3u8"
       ],
       "category": "India"
     },
@@ -1822,7 +1892,8 @@
       "name": "Kalinga TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Kalinga_TV_logo.jpeg/revision/latest/scale-to-width-down/250?cb=20191220162533",
       "streamUrls": [
-        "https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8"
+        "https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8",
+        "https://mumt01.tangotv.in/KALINGATV/index.m3u8"
       ],
       "category": "India"
     },
@@ -1849,7 +1920,8 @@
       "name": "Kashish News",
       "logoUrl": "https://yt3.ggpht.com/a/AATXAJxdgilUtoBgSwI-g_uZgoQ-9eYokQEpdwcqkA=s900-c-k-c0xffffffff-no-rj-mo",
       "streamUrls": [
-        "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8"
+        "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8",
+        "https://mumt03.tangotv.in/KASHISHNEWS/index.m3u8"
       ],
       "category": "India"
     },
@@ -1858,7 +1930,8 @@
       "name": "Kaumudy TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Kaumudy_TV_Logo.jpg/250px-Kaumudy_TV_Logo.jpg",
       "streamUrls": [
-        "https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8"
+        "https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8",
+        "https://mumt04.tangotv.in/KAUMUDYTV/index.m3u8"
       ],
       "category": "India"
     },
@@ -1876,7 +1949,8 @@
       "name": "Khushboo Bangla",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b5/Khushboo_TV.jpeg/revision/latest?cb=20191223164128",
       "streamUrls": [
-        "https://cdn-4.pishow.tv/live/1473/master.m3u8"
+        "https://cdn-4.pishow.tv/live/1473/master.m3u8",
+        "https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8"
       ],
       "category": "India"
     },
@@ -1939,7 +2013,8 @@
       "name": "Maha Movie",
       "logoUrl": "https://www.animationxpress.com/wp-content/uploads/2016/10/Maha-movie.png",
       "streamUrls": [
-        "https://cdn-6.pishow.tv/live/10007/master.m3u8"
+        "https://cdn-6.pishow.tv/live/10007/master.m3u8",
+        "https://mumt02.tangotv.in/MAHAMOVIE/index.m3u8"
       ],
       "category": "India"
     },
@@ -2057,7 +2132,8 @@
       "name": "Mathrubhumi News",
       "logoUrl": "https://1.bp.blogspot.com/-qunUmnX0n94/W35Ya8XuL3I/AAAAAAAAEpg/znBQf88E7asqNFQN8R_kPJntn72ZpLwBQCLcBGAs/w1200-h630-p-k-no-nu/mathrubhumi_news.png",
       "streamUrls": [
-        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8"
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8",
+        "https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8"
       ],
       "category": "India"
     },
@@ -2112,7 +2188,8 @@
       "name": "Mh 1 News",
       "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyHl24fBbH8N8ItJuKAd9MaxO78ljNLUGT6SN_9rYWc5wkwZDf6MmzPrax5DXdweokogaEFwkhcBFX4lkG13eO_oOOhbaobYH2TpewShwIAjlzVPMVfDa7uxLBObix6zCOVx3iipxG44TIUehn3r5VCnh9r9CcTm1s5YTo9bHsh7Jcy1wVKxlybUrf/s16000-rw/mh-one-dil-se-tv-channel-on-dd-freedish-dth-channel-number-satellite-frequency.jpg",
       "streamUrls": [
-        "https://livestream.jswk.online/mhonenews/live/index.m3u8"
+        "https://livestream.jswk.online/mhonenews/live/index.m3u8",
+        "https://mumt04.tangotv.in/MHONENEWS/index.m3u8"
       ],
       "category": "India"
     },
@@ -2140,6 +2217,7 @@
       "name": "Munsif TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Munsif_TV.jpeg/revision/latest/scale-to-width-down/280?cb=20191228140847",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/index.m3u8?ads.vf=T3QTHdxCi7q",
         "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/e5ae862b-c65c-4b17-b9a8-038853525c64/0.m3u8"
       ],
       "category": "India"
@@ -2321,7 +2399,8 @@
       "name": "News Nation",
       "logoUrl": "https://www.pngkey.com/png/full/788-7889177_news-nation.png",
       "streamUrls": [
-        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/index.m3u8?ads.vf=dJdk_A0gECa"
       ],
       "category": "India"
     },
@@ -2465,6 +2544,7 @@
       "name": "News9Live",
       "logoUrl": "https://logosandtypes.com/wp-content/uploads/2022/04/News9.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news9live/main.m3u8?ads.vf=brz9jHaNBRC",
         "https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8"
       ],
       "category": "India"
@@ -2591,6 +2671,7 @@
       "name": "Pitaara",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/25/Pitaara_2.jpeg/revision/latest/scale-to-width-down/200?cb=20191219155318",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8?ads.vf=V4Xjmw6miLy",
         "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8"
       ],
       "category": "India"
@@ -2637,7 +2718,8 @@
       "name": "Pratham Khabar 24x7",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/03/Pratham-khabar-logo-big.png/revision/latest/scale-to-width-down/180?cb=20220416151532",
       "streamUrls": [
-        "https://livelegitpro.in/hls2/newstime/index.m3u8"
+        "https://livelegitpro.in/hls2/newstime/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pratham-khabar-24x7/index.m3u8?ads.vf=QgFuUnK8bZ4"
       ],
       "category": "India"
     },
@@ -2872,6 +2954,7 @@
       "name": "Rongeen TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest/scale-to-width-down/250?cb=20191215110016",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8?ads.vf=g9SHTs_gUKa",
         "https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8"
       ],
       "category": "India"
@@ -2953,7 +3036,8 @@
       "name": "Sadhna Plus News",
       "logoUrl": "https://www.sadhna.com/Channel/SADHNA-PLUS-NEWS.png",
       "streamUrls": [
-        "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8"
+        "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8",
+        "https://mumt03.tangotv.in/SADHNAPLUSNEWS/index.m3u8"
       ],
       "category": "India"
     },
@@ -2971,6 +3055,7 @@
       "name": "Sakshi TV",
       "logoUrl": "https://wachannelsfinder.com/wp-content/uploads/2023/11/sakshi-tv.jpg",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sakshi-tv/index.m3u8?ads.vf=R0kT9MD3lAa",
         "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8"
       ],
       "category": "India"
@@ -3007,6 +3092,7 @@
       "name": "Sana TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/be/2010-2019.jpg/revision/latest/scale-to-width-down/250?cb=20250605004623",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sana-tv/index.m3u8?ads.vf=-nqSBaSbTTO",
         "https://galaxyott.live/hls/sanatv.m3u8"
       ],
       "category": "India"
@@ -3153,7 +3239,6 @@
       "name": "Shalom",
       "logoUrl": "https://shalomchannel.tv/wp-content/uploads/2021/08/logo.png",
       "streamUrls": [
-        "https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8",
         "https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8"
       ],
       "category": "India"
@@ -3316,6 +3401,7 @@
       "name": "Sudarshan News",
       "logoUrl": "https://w7.pngwing.com/pngs/585/165/png-transparent-sudarshan-news-television-show-television-channel-editor-in-chief-others-television-text-logo.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sudarshan-news/index.m3u8?ads.vf=bdU1AqxUJM4",
         "https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8"
       ],
       "category": "India"
@@ -3343,7 +3429,7 @@
       "name": "Suriyan TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9a/Suriyan.png/revision/latest?cb=20200306022644",
       "streamUrls": [
-        "https://stream.galaxyott.live/live/suriyantv/index.m3u8"
+        "https://stream.sscloud7.com/live/suriyantv/index.m3u8"
       ],
       "category": "India"
     },
@@ -3433,6 +3519,7 @@
       "name": "TV9 Bangla",
       "logoUrl": "https://cdn.kibrispdr.org/data/77/tv9-logo-png-1.jpg",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8?ads.vf=GmntuAhGRce",
         "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8"
       ],
       "category": "India"
@@ -3442,6 +3529,7 @@
       "name": "TV9 Bharatvarsh",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/a/ad/TV9_Bharatvarsh.jpeg/revision/latest?cb=20200114073641",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bharatvarsh/main.m3u8?ads.vf=Kcn5ohS6UeK",
         "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8"
       ],
       "category": "India"
@@ -3451,6 +3539,7 @@
       "name": "TV9 Gujarati",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/ea/Tv9-gujarati-logo.svg/revision/latest/scale-to-width-down/250?cb=20221027161250",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-gujarati/main.m3u8?ads.vf=qBUeQCz1eAW",
         "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8"
       ],
       "category": "India"
@@ -3460,6 +3549,7 @@
       "name": "TV9 Kannada",
       "logoUrl": "https://e7.pngegg.com/pngimages/29/369/png-clipart-tv9-kannada-television-channel-news-broadcasting-others-miscellaneous-television.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-kannada/main.m3u8?ads.vf=05PGJXH7UWS",
         "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8"
       ],
       "category": "India"
@@ -3469,6 +3559,7 @@
       "name": "TV9 Marathi",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/4/43/TV9_Marathi.jpg/revision/latest/scale-to-width-down/250?cb=20190303125629",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8?ads.vf=DWL0yMp640W",
         "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8"
       ],
       "category": "India"
@@ -3478,6 +3569,7 @@
       "name": "TV9 Telugu",
       "logoUrl": "https://w7.pngwing.com/pngs/609/989/png-transparent-tv9-television-channel-news-broadcasting-television-show-business-television-blue-text.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-telugu/main.m3u8?ads.vf=9T7faNl3hra",
         "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8"
       ],
       "category": "India"
@@ -3487,7 +3579,7 @@
       "name": "Tabbar Hits",
       "logoUrl": "https://play-lh.googleusercontent.com/7tuoGbv6gIUt_nrQY49awHtnauihlKk43k-OzU9shrG_V6tsZ-nYc36pc_xhBnk79Gvx",
       "streamUrls": [
-        "https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8?ads.vf=cr_1zfCL21S"
       ],
       "category": "India"
     },
@@ -3586,6 +3678,7 @@
       "name": "Times Now Navbharat",
       "logoUrl": "https://images.seeklogo.com/logo-png/60/2/times-now-navbharat-logo-png_seeklogo-606216.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/times-now-navbharat/master.m3u8?ads.vf=z6W_vKUzqm4",
         "https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8"
       ],
       "category": "India"
@@ -3651,7 +3744,8 @@
       "name": "V6 News",
       "logoUrl": "https://www.m9.news/wp-content/uploads/2023/10/V6-Channel.jpg",
       "streamUrls": [
-        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8"
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8",
+        "https://cdn-1.pishow.tv/live/389/master.m3u8"
       ],
       "category": "India"
     },
@@ -3789,6 +3883,8 @@
       "name": "YRF Music",
       "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8?ads.vf=L7NUQD-PFQK",
+        "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
       ],
       "category": "India"
@@ -4037,6 +4133,8 @@
       "name": "9X Jalwa",
       "logoUrl": "https://e7.pngegg.com/pngimages/849/297/png-clipart-9x-jalwa-television-channel-9x-media-streaming-media-others-miscellaneous-television.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8?ads.vf=yJV4ZespwY4",
+        "https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8",
         "https://mumt03.tangotv.in/9XJALWA/index.m3u8"
       ],
       "category": "India",
@@ -4117,6 +4215,7 @@
       "name": "Zoom",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png/revision/latest?cb=20111013233308",
       "streamUrls": [
+        "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8",
         "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
       ],
       "category": "India",
@@ -4137,7 +4236,7 @@
       "name": "Colors Tamil",
       "logoUrl": "https://w7.pngwing.com/pngs/398/488/png-transparent-viacom-18-colors-bangla-television-show-colors-tamil-colors-odia-others-purple-television-violet.png",
       "streamUrls": [
-        "http://15.235.144.106:14052/"
+        "http://15.235.144.106:14052"
       ],
       "category": "India",
       "languages": []
@@ -4147,7 +4246,7 @@
       "name": "Sun TV",
       "logoUrl": "https://clipground.com/images/sun-tv-logo-png-9.png",
       "streamUrls": [
-        "http://15.235.144.106:14054/"
+        "http://15.235.144.106:14054"
       ],
       "category": "India",
       "languages": []
@@ -4166,7 +4265,8 @@
       "name": "ABP Ananda",
       "logoUrl": "https://cdn.pnggallery.com/wp-content/uploads/abp-ananda-logo-05.png",
       "streamUrls": [
-        "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8"
+        "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8?ads.vf=r1SusRh3tMq"
       ],
       "category": "India"
     },
@@ -4175,7 +4275,8 @@
       "name": "ABP Asmita",
       "logoUrl": "https://i.pinimg.com/736x/47/90/91/4790915f1b4697c12e57f15cde41013d.jpg",
       "streamUrls": [
-        "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8"
+        "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-asmita/master.m3u8?ads.vf=-83TbcVr_WK"
       ],
       "category": "India"
     },
@@ -4220,7 +4321,7 @@
       "name": "Rengoni",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b2/Rengonihiver.png/revision/latest?cb=20210509110214",
       "streamUrls": [
-        "http://103.78.149.54:8000/play/a03v/index.m3u8"
+        "https://mumt05.tangotv.in/RENGONI/index.m3u8"
       ],
       "category": "India"
     },
@@ -4238,7 +4339,7 @@
       "name": "Unique TV",
       "logoUrl": "https://play-lh.googleusercontent.com/JnyYJu6mZT5Irclu9JdPweOZjoNMiUqH84R0VQ6UqfEfEwUElhfz4NoP5CqkhpVDbue-",
       "streamUrls": [
-        "http://103.78.149.54:8000/play/a01e/index.m3u8"
+        "https://mumt05.tangotv.in/UNIQUETV/index.m3u8"
       ],
       "category": "India"
     },
@@ -4382,7 +4483,8 @@
       "name": "AmarUjala",
       "logoUrl": "https://www.pngkey.com/png/full/610-6106470_amar-ujala-amar-ujala-logo.png",
       "streamUrls": [
-        "https://amarujala.ottlive.co.in/amarujala/index.m3u8"
+        "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amar-ujala/index.m3u8?ads.vf=xcmTmi3_hE0"
       ],
       "category": "India"
     },
@@ -4391,7 +4493,8 @@
       "name": "Anand TV",
       "logoUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/cf/0f/1e/cf0f1ebc-2dd1-e9e2-3eb9-e0ca8073678e/source/512x512bb.jpg",
       "streamUrls": [
-        "https://live.legitpro.co.in/anandtv/index.m3u8"
+        "https://live.legitpro.co.in/anandtv/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/index.m3u8?ads.vf=5YloyxxLZB8"
       ],
       "category": "India"
     },
@@ -4409,7 +4512,8 @@
       "name": "CTVN AKD Plus",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/a/ad/Ctvn_akd_plus.png/revision/latest/scale-to-width-down/250?cb=20210509123044",
       "streamUrls": [
-        "https://live.legitpro.co.in/ctvnakdplus/index.m3u8"
+        "https://live.legitpro.co.in/ctvnakdplus/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ctvn-akd-plus/index.m3u8?ads.vf=ykyZaqucOZ4"
       ],
       "category": "India"
     },
@@ -4436,7 +4540,9 @@
       "name": "Gujarat First",
       "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/6d/90/c66d905c-26e6-d14a-c8d9-9ba8028a8a97/GujratFirst-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
       "streamUrls": [
-        "https://live.legitpro.co.in/gujaratfirst/index.m3u8"
+        "https://live.legitpro.co.in/gujaratfirst/index.m3u8",
+        "https://mumt01.tangotv.in/GUJARATFIRST/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gujarat-first/index.m3u8?ads.vf=rEpvFM1rsO0"
       ],
       "category": "India"
     },
@@ -4445,7 +4551,8 @@
       "name": "Hare Krsna TV",
       "logoUrl": "http://gaudiyahistory.iskcondesiretree.com/wp-content/uploads/2019/09/Hare-Krsna-TV-logo.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hare-krsna/master.m3u8?ads.vf=g5yzzYIk7ha"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hare-krsna/master.m3u8?ads.vf=g5yzzYIk7ha",
+        "https://mumt05.tangotv.in/HAREKRSNA/index.m3u8"
       ],
       "category": "India"
     },
@@ -4454,7 +4561,8 @@
       "name": "India Daily Live",
       "logoUrl": "https://images.theindiadaily.com/uploadimage/library/free_files/png/newlogo-1747728349.png",
       "streamUrls": [
-        "https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8"
+        "https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8",
+        "https://mumt02.tangotv.in/INDIADAILY24X7/index.m3u8"
       ],
       "category": "India"
     },
@@ -4472,7 +4580,8 @@
       "name": "KTV Bangla",
       "logoUrl": "https://seeklogo.com/images/K/ktv-logo-703754480A-seeklogo.com.png",
       "streamUrls": [
-        "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8"
+        "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tribe-tv/index.m3u8?ads.vf=2QxSOfqFvKi"
       ],
       "category": "India"
     },
@@ -4481,7 +4590,9 @@
       "name": "Kolkata TV",
       "logoUrl": "https://images.seeklogo.com/logo-png/60/1/kolkata-tv-logo-png_seeklogo-606238.png",
       "streamUrls": [
-        "https://cdn.ottlive.co.in/kolkatatv/index.m3u8"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8?ads.vf=Zq8D8lMcA30",
+        "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
+        "https://mumt01.tangotv.in/KOLKATATV/index.m3u8"
       ],
       "category": "India"
     },
@@ -4490,6 +4601,8 @@
       "name": "Living India News",
       "logoUrl": "http://images.provenexpert.com/0e/46/561ae0dce9f85754c24a20b101bb/living-india-news_full_1662367301.jpg",
       "streamUrls": [
+        "https://mumt01.tangotv.in/LIVINGINDIANEWS/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8?ads.vf=eejrbGB4ZTy",
         "https://stream.ottlive.co.in/livingindia/index.m3u8"
       ],
       "category": "India"
@@ -4499,7 +4612,8 @@
       "name": "Mahaa Max",
       "logoUrl": "https://i.imgur.com/yPEUVcV.jpeg",
       "streamUrls": [
-        "https://d8wpu6ewxtzy0.cloudfront.net/mahaamaxx/index.m3u8"
+        "https://d8wpu6ewxtzy0.cloudfront.net/mahaamaxx/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahaa-max/index.m3u8?ads.vf=sRUYrTeLqOm"
       ],
       "category": "India"
     },
@@ -4508,7 +4622,8 @@
       "name": "Mahaa News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/52/Mahaa_News.jpeg/revision/latest?cb=20191226172752",
       "streamUrls": [
-        "https://d8wpu6ewxtzy0.cloudfront.net/mahaanews/index.m3u8"
+        "https://d8wpu6ewxtzy0.cloudfront.net/mahaanews/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahaa-news/index.m3u8?ads.vf=e5CEko8mFpu"
       ],
       "category": "India"
     },
@@ -4517,7 +4632,8 @@
       "name": "News India 24x7",
       "logoUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8ba2ec30811293.56a4e578da351.jpg",
       "streamUrls": [
-        "https://live.legitpro.co.in/newsindia/index.m3u8"
+        "https://live.legitpro.co.in/newsindia/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-india-24x7/index.m3u8?ads.vf=I4WYqcsECDG"
       ],
       "category": "India"
     },
@@ -4526,6 +4642,7 @@
       "name": "News Malayalam 24x7",
       "logoUrl": "https://images.assettype.com/newsmalayalam/2025-05-19/i4ujhv8n/main-logo.webp",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8?ads.vf=YExLYcWwrk4",
         "https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8"
       ],
       "category": "India"
@@ -4535,6 +4652,7 @@
       "name": "News Tamil 24x7",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9b/News_Tamil_24x7.jpg/revision/latest/scale-to-width-down/280?cb=20220122125225",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8?ads.vf=ZaxRNE7stNG",
         "https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8"
       ],
       "category": "India"
@@ -4544,7 +4662,8 @@
       "name": "Punjabi Hits",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e9/Punjabi_Hits.jpg/revision/latest?cb=20210807162730",
       "streamUrls": [
-        "https://stream.ottlive.co.in/punjabihits/index.m3u8"
+        "https://stream.ottlive.co.in/punjabihits/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8?ads.vf=nlcgIN1EKyi"
       ],
       "category": "India"
     },
@@ -4553,7 +4672,8 @@
       "name": "Sandesh News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/c/c6/Sandesh_News.jpeg/revision/latest/scale-to-width-down/200?cb=20191225051450",
       "streamUrls": [
-        "https://dkshlpp7ugzua.cloudfront.net/sandeshnews/index.m3u8"
+        "https://dkshlpp7ugzua.cloudfront.net/sandeshnews/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sandesh-news/index.m3u8?ads.vf=C6-aCuMZRma"
       ],
       "category": "India"
     },
@@ -4643,6 +4763,7 @@
       "name": "GTC Punjabi",
       "logoUrl": "https://www.thegtcnetwork.com/logo.png",
       "streamUrls": [
+        "https://mumt01.tangotv.in/GTC/index.m3u8",
         "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8"
       ],
       "category": "India"
@@ -5030,6 +5151,7 @@
       "name": "Star Sports 1 Hindi",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
+        "http://161.248.38.40:8000/play/a071/index.m3u8",
         "http://161.248.38.40:8000/play/a06n/index.m3u8"
       ],
       "category": "India"
@@ -5091,7 +5213,7 @@
     {
       "id": "ZeeTV.in",
       "name": "Zee TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://pngset.com/images/zee-tv-zee-tv-logo-channel-text-metropolis-city-urban-transparent-png-1124165.png",
       "streamUrls": [
         "http://161.248.38.40:8000/play/a08v/index.m3u8"
       ],
@@ -5105,6 +5227,36 @@
         "http://161.248.38.40:8000/play/a0ax/index.m3u8"
       ],
       "category": "India"
+    },
+    {
+      "id": "DY365.in",
+      "name": "DY 365",
+      "logoUrl": "https://w7.pngwing.com/pngs/699/205/png-transparent-dy-365-android-northeast-india-android-television-text-logo.png",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/DY365/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "MadhaTV.in",
+      "name": "Madha TV",
+      "logoUrl": "https://yt3.ggpht.com/a/AGF-l7_wH06hw7_aMkJnFI9E65V8l5NHABOwWdSuxA=s900-c-k-c0xffffffff-no-rj-mo",
+      "streamUrls": [
+        "https://mumt02.tangotv.in/MADHATV/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "PrameyaNews7.in",
+      "name": "Prameya News7",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/c/c3/Prameya_News7.png/revision/latest?cb=20191220183457",
+      "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prameya-news7/index.m3u8?ads.vf=H7UPS9mn2e0"
+      ],
+      "category": "India",
+      "languages": []
     }
   ]
 }
