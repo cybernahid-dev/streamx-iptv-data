@@ -118,7 +118,7 @@
     {
       "id": "atn-bangla",
       "name": "ATN Bangla",
-      "logoUrl": "",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/cybernahid-dev/streamx-iptv-data@main/logos/atn-bangla.png",
       "streamUrls": [
         "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8"
       ],
