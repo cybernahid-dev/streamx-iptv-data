@@ -116,11 +116,11 @@
       "category": "Bangladesh"
     },
     {
-      "id": "atn-news",
-      "name": "ATN News",
+      "id": "atn-bangla",
+      "name": "ATN Bangla",
       "logoUrl": "",
       "streamUrls": [
-        "https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8"
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8"
       ],
       "category": "Bangladesh"
     },
