@@ -11581,7 +11581,6 @@
       "name": "WPXI-DT1",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/8/86/WPXI_11_logo.png/250px-WPXI_11_logo.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/PA_Pittsburgh_NBC/index.m3u8",
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8"
       ],
       "category": "USA"
