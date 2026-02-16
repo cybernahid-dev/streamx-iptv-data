@@ -472,7 +472,7 @@
       "name": "ESPNU",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/ESPN_U/index.m3u8"
+        "http://fl41.moveonjoy.com/ESPN_U/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -598,7 +598,7 @@
       "name": "FanDuel Sports Network",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/FanDuel_Sports_Network_Detroit_logo.svg/1200px-FanDuel_Sports_Network_Detroit_logo.svg.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/PAC_12/index.m3u8"
+        "http://fl41.moveonjoy.com/PAC_12/mpegts"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1357,7 +1357,7 @@
       "name": "SportsNet New York",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Sportsnet_New_York.svg/revision/latest/scale-to-width-down/300?cb=20171107013619",
       "streamUrls": [
-        "https://fl2.moveonjoy.com/SNY/index.m3u8"
+        "http://212.102.60.231/SNY/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1367,7 +1367,7 @@
       "name": "Sportsman Channel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sportsman_Channel_logo.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8"
+        "http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1946,7 +1946,7 @@
       "name": "Star Sports 1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://122.165.240.223:1234/stream/tp/sp1/master.m3u8"
+        "http://103.229.254.25:7001/play/a0a0/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1986,7 +1986,7 @@
       "name": "Sony Sports Ten 3 Hindi",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://103.253.18.58:8000/play/a00b"
+        "http://103.229.254.25:7001/play/a09q/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2141,6 +2141,39 @@
         "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
       ],
       "category": "Sports",
+      "genre": "Sports"
+    },
+    {
+      "id": "SonySportsTen2.in",
+      "name": "Sony Sports Ten 2",
+      "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a02t/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "SonySportsTen5.in",
+      "name": "Sony Sports Ten 5",
+      "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a0dw/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "StarSports2Tamil.in",
+      "name": "Star Sports 2 Tamil",
+      "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a0dc/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
       "genre": "Sports"
     }
   ]

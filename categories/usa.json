@@ -9384,7 +9384,6 @@
       "name": "TD Ameritrade Network",
       "logoUrl": "https://companieslogo.com/img/orig/AMTD.defunct-5f9b320b.png?t=1720244490",
       "streamUrls": [
-        "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8",
         "https://tdameritrade-distro.amagi.tv/playlist.m3u8"
       ],
       "category": "USA"
