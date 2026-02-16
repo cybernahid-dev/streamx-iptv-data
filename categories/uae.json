@@ -406,7 +406,8 @@
       "name": "MBC Persia",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/a/ad/MBC_Persia_2020.png/revision/latest/scale-to-width-down/250?cb=20200423073328",
       "streamUrls": [
-        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8"
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
+        "https://hls.mbcpersia.live/hls/stream.m3u8"
       ],
       "category": "UAE"
     },

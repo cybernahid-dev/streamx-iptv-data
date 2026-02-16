@@ -2132,6 +2132,7 @@
       "name": "Mathrubhumi News",
       "logoUrl": "https://1.bp.blogspot.com/-qunUmnX0n94/W35Ya8XuL3I/AAAAAAAAEpg/znBQf88E7asqNFQN8R_kPJntn72ZpLwBQCLcBGAs/w1200-h630-p-k-no-nu/mathrubhumi_news.png",
       "streamUrls": [
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8",
         "https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8"
       ],
       "category": "India"
@@ -2953,7 +2954,6 @@
       "name": "Rongeen TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest/scale-to-width-down/250?cb=20191215110016",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8?ads.vf=g9SHTs_gUKa",
         "https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8"
       ],
       "category": "India"
@@ -3338,7 +3338,8 @@
       "name": "StarPlus",
       "logoUrl": "https://www.pngitem.com/pimgs/m/3-33009_star-plus-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://103.52.34.182:8001/play/a01l/index.m3u8"
+        "http://103.229.254.25:7001/play/a09z/index.m3u8",
+        "http://103.229.254.25:7001/play/a09p/index.m3u8"
       ],
       "category": "India"
     },
@@ -3420,6 +3421,7 @@
       "name": "Sun Music",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20180318045647",
       "streamUrls": [
+        "http://198.27.83.207:2550/SUN_MUSIC_SD/index.m3u8",
         "http://15.235.144.106:14055"
       ],
       "category": "India"
@@ -3781,7 +3783,8 @@
       "name": "Vaanavil TV",
       "logoUrl": "https://www.kindpng.com/picc/m/282-2828008_vaanavil-tv-channel-logo-hd-png-download.png",
       "streamUrls": [
-        "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8"
+        "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
+        "http://198.27.83.207:2550/VAANAVIL_SD/index.m3u8"
       ],
       "category": "India"
     },
@@ -4103,7 +4106,7 @@
       "name": "Surya TV",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/0/03/Surya_TV.jpg/revision/latest?cb=20180318054226",
       "streamUrls": [
-        "https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8"
+        "http://103.229.254.25:7001/play/a0dq/index.m3u8"
       ],
       "category": "India"
     },
@@ -4145,7 +4148,7 @@
       "name": "Colors Bangla",
       "logoUrl": "https://i.pinimg.com/originals/8c/cb/16/8ccb1643a2752be053328459476d54d2.png",
       "streamUrls": [
-        "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8"
+        "http://103.229.254.25:7001/play/a0ds/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -4236,6 +4239,7 @@
       "name": "Colors Tamil",
       "logoUrl": "https://w7.pngwing.com/pngs/398/488/png-transparent-viacom-18-colors-bangla-television-show-colors-tamil-colors-odia-others-purple-television-violet.png",
       "streamUrls": [
+        "http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8",
         "http://15.235.144.106:14052"
       ],
       "category": "India",
@@ -4246,7 +4250,9 @@
       "name": "Sun TV",
       "logoUrl": "https://clipground.com/images/sun-tv-logo-png-9.png",
       "streamUrls": [
-        "http://15.235.144.106:14054"
+        "http://198.27.83.207:2550/SUN_TV_SD/index.m3u8",
+        "http://15.235.144.106:14054",
+        "http://103.229.254.25:7001/play/a06x/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -4375,7 +4381,7 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
       "streamUrls": [
-        "http://122.165.240.223:1234/stream/zio/ngwild/master.m3u8"
+        "http://103.229.254.25:7001/play/a06r/index.m3u8"
       ],
       "category": "India"
     },
@@ -4384,7 +4390,7 @@
       "name": "Star Sports 1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://122.165.240.223:1234/stream/tp/sp1/master.m3u8"
+        "http://103.229.254.25:7001/play/a0a0/index.m3u8"
       ],
       "category": "India"
     },
@@ -4754,7 +4760,7 @@
       "name": "Sony Sports Ten 3 Hindi",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://103.253.18.58:8000/play/a00b"
+        "http://103.229.254.25:7001/play/a09q/index.m3u8"
       ],
       "category": "India"
     },
@@ -5133,7 +5139,7 @@
       "name": "Star Gold 2",
       "logoUrl": "https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg",
       "streamUrls": [
-        "http://161.248.38.40:8000/play/a06z/index.m3u8"
+        "http://103.229.254.25:7001/play/a0d0/index.m3u8"
       ],
       "category": "India"
     },
@@ -5215,7 +5221,7 @@
       "name": "Zee TV",
       "logoUrl": "https://pngset.com/images/zee-tv-zee-tv-logo-channel-text-metropolis-city-urban-transparent-png-1124165.png",
       "streamUrls": [
-        "http://161.248.38.40:8000/play/a08v/index.m3u8"
+        "http://103.229.254.25:7001/play/a0cs/index.m3u8"
       ],
       "category": "India"
     },
@@ -5254,6 +5260,251 @@
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/c/c3/Prameya_News7.png/revision/latest?cb=20191220183457",
       "streamUrls": [
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prameya-news7/index.m3u8?ads.vf=H7UPS9mn2e0"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "Andpictures.in",
+      "name": "&pictures",
+      "logoUrl": "https://www.vhv.rs/dpng/d/560-5605996_tv-network-logos-png-png-transparent-tv-channel.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a033/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "AndpriveHD.in",
+      "name": "&prive HD",
+      "logoUrl": "https://latestlogo.com/wp-content/uploads/2025/06/prive-hd-logo-scaled.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a03f/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "Colors.in",
+      "name": "Colors",
+      "logoUrl": "https://i.pinimg.com/originals/8c/cb/16/8ccb1643a2752be053328459476d54d2.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a077/index.m3u8",
+        "http://103.229.254.25:7001/play/a0a1/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "ColorsInfinity.in",
+      "name": "Colors Infinity",
+      "logoUrl": "https://assets.airtel.in/static-assets/cms/dth/images/channellogo/COLORS-INFINITY-hd.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a0du/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "JalshaMovies.in",
+      "name": "Jalsha Movies",
+      "logoUrl": "https://p7.hiclipart.com/preview/556/803/762/jalsha-movies-star-jalsha-star-india-high-definition-television-maa-thumbnail.jpg",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a0dt/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "JayaTV.in",
+      "name": "Jaya TV",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/id/3/34/Logo_Jaya_TV.png?20240724133814",
+      "streamUrls": [
+        "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "KTV.in",
+      "name": "KTV",
+      "logoUrl": "https://seeklogo.com/images/K/ktv-logo-703754480A-seeklogo.com.png",
+      "streamUrls": [
+        "http://198.27.83.207:2550/KTV_SD/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "Nickelodeon.in",
+      "name": "Nickelodeon",
+      "logoUrl": "https://assets.stickpng.com/images/612916aa319275000479abfd.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a0cq/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "Sonic.in",
+      "name": "Sonic",
+      "logoUrl": "https://www.pngall.com/wp-content/uploads/13/Sonic-Logo-No-Background.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a0dl/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SonyAath.in",
+      "name": "Sony Aath",
+      "logoUrl": "https://vectorseek.com/wp-content/uploads/2022/03/Sony-Aath-Logo-Vector.jpg",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a07a/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SonyPix.in",
+      "name": "Sony Pix",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a0ed/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SonySAB.in",
+      "name": "Sony SAB",
+      "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a09s/index.m3u8",
+        "http://103.229.254.25:7001/play/a0db/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SonySportsTen2.in",
+      "name": "Sony Sports Ten 2",
+      "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a02t/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SonySportsTen5.in",
+      "name": "Sony Sports Ten 5",
+      "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a0dw/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SonyYay.in",
+      "name": "Sony Yay!",
+      "logoUrl": "https://www.vhv.rs/dpng/d/461-4612823_sony-yay-logo-png-transparent-png.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a0cl/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "StarGold.in",
+      "name": "Star Gold",
+      "logoUrl": "https://www.vhv.rs/dpng/d/24-245112_star-gold-channel-logo-hd-png-download.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a0dd/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "StarGoldSelect.in",
+      "name": "Star Gold Select",
+      "logoUrl": "https://static.wikia.nocookie.net/logosfake/images/6/68/Star_Gold_Select.svg/revision/latest?cb=20250103225202",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a032/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "StarSports2Tamil.in",
+      "name": "Star Sports 2 Tamil",
+      "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a0dc/index.m3u8",
+        "http://103.229.254.25:7001/play/a0d1/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "StarVijay.in",
+      "name": "Star Vijay",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png",
+      "streamUrls": [
+        "http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8",
+        "http://198.27.83.207:8888/STAR_VIJAY_SD/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "ZeeBanglaSonar.in",
+      "name": "Zee Bangla Sonar",
+      "logoUrl": "https://www.pngitem.com/pimgs/m/682-6822598_tv-channels-offer-transparent-zee-bangla-logo-hd.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a070/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "ZeeCafe.in",
+      "name": "Zee Cafe",
+      "logoUrl": "https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a0cx/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "ZeeTamil.in",
+      "name": "Zee Tamil",
+      "logoUrl": "https://www.pngitem.com/pimgs/m/764-7649207_zee-tamil-tv-logo-png-transparent-png.png",
+      "streamUrls": [
+        "http://198.27.83.207:2550/ZEE_TAMIL_SD/index.m3u8",
+        "http://198.27.83.207:8888/ZEE_TAMIL_SD/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "ZeeZest.in",
+      "name": "Zee Zest",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Zee_Zest_HD.jpg/revision/latest/scale-to-width-down/185?cb=20201122180357",
+      "streamUrls": [
+        "http://103.229.254.25:7001/play/a0dp/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "Zee24Ghanta.in",
+      "name": "Zee 24 Ghanta",
+      "logoUrl": "https://w7.pngwing.com/pngs/656/469/png-transparent-24-ghanta-zee-news-television-channel-television-show-others-television-text-logo.png",
+      "streamUrls": [
+        "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8"
       ],
       "category": "India",
       "languages": []

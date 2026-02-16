@@ -4742,8 +4742,7 @@
       "name": "KIRO-DT1",
       "logoUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b69717d4-b12c-4f07-9520-05f39e7bb78f/dg7wl36-c9a0d1ac-c623-45ca-b4a6-96d71dc04eec.png/v1/fill/w_1280,h_960,q_80,strp/kiro_logo_by_rgbmetro_dg7wl36-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvYjY5NzE3ZDQtYjEyYy00ZjA3LTk1MjAtMDVmMzllN2JiNzhmXC9kZzd3bDM2LWM5YTBkMWFjLWM2MjMtNDVjYS1iNGE2LTk2ZDcxZGMwNGVlYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.q2MZ4PMgq5n8t8BRk5JsZ78McOW7VLcZzyJoakgTN-8",
       "streamUrls": [
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8",
-        "http://fl41.moveonjoy.com/WA_SEATTLE_CBS/index.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -11487,6 +11486,7 @@
       "name": "WNJU-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logo-timeline/images/b/bb/Wnju197087.png/revision/latest/scale-to-width-down/200?cb=20210320202530",
       "streamUrls": [
+        "http://104.238.205.28:9090/278678_.m3u8",
         "https://tvpass.org/live/TelemundoEast/sd",
         "https://tvpass.org/live/TelemundoEast/hd"
       ],
