@@ -1735,7 +1735,7 @@
       "name": "Reelz",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png",
       "streamUrls": [
-        "http://212.102.60.231/REELZ/index.m3u8"
+        "https://fl1.moveonjoy.com/REELZ/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2285,7 +2285,7 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a06r/index.m3u8"
+        "http://122.165.240.223:1234/stream/zio/ngwild/master.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2461,17 +2461,6 @@
         "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8"
       ],
       "category": "Informative",
-      "genre": "Informative"
-    },
-    {
-      "id": "NatickEducationChannel.us",
-      "name": "Natick Education Channel",
-      "logoUrl": "https://www.natickpegasus.org/uploads/5/0/2/1/50218995/1430105267.png",
-      "streamUrls": [
-        "https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
       "genre": "Informative"
     }
   ]

@@ -555,8 +555,7 @@
       "name": "B4U Music",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",
       "streamUrls": [
-        "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
-        "https://mumt04.tangotv.in/B4UMUSIC/index.m3u8"
+        "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8"
       ],
       "category": "India"
     },
@@ -612,7 +611,8 @@
       "name": "Bansal News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/37/Bansal-News.png/revision/latest/scale-to-width-down/300?cb=20210922122133",
       "streamUrls": [
-        "https://cdn-2.pishow.tv/live/1051/master.m3u8"
+        "https://cdn-2.pishow.tv/live/1051/master.m3u8",
+        "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -657,8 +657,8 @@
       "name": "Bharat24",
       "logoUrl": "https://www.indianbroadcastingworld.com/wp-content/uploads/2022/08/Bharat-24.jpg",
       "streamUrls": [
-        "https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8?ads.vf=xHwQLhm-fA0"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8?ads.vf=xHwQLhm-fA0",
+        "https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8"
       ],
       "category": "India"
     },
@@ -2132,7 +2132,6 @@
       "name": "Mathrubhumi News",
       "logoUrl": "https://1.bp.blogspot.com/-qunUmnX0n94/W35Ya8XuL3I/AAAAAAAAEpg/znBQf88E7asqNFQN8R_kPJntn72ZpLwBQCLcBGAs/w1200-h630-p-k-no-nu/mathrubhumi_news.png",
       "streamUrls": [
-        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8",
         "https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8"
       ],
       "category": "India"

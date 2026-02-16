@@ -684,7 +684,7 @@
       "name": "AXS TV",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/250px-AXS_TV_logo.svg.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/Axs_TV/index.m3u8"
+        "https://fl1.moveonjoy.com/Axs_TV/index.m3u8"
       ],
       "category": "USA"
     },
@@ -1055,7 +1055,7 @@
       "name": "Antenna TV",
       "logoUrl": "https://seeklogo.com/images/A/antenna-tv-logo-33AC6127E8-seeklogo.com.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/Antenna_TV/index.m3u8"
+        "https://fl1.moveonjoy.com/Antenna_TV/index.m3u8"
       ],
       "category": "USA"
     },
@@ -1116,7 +1116,7 @@
       "name": "Aspire",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Aspire_tv.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/Aspire/index.m3u8"
+        "https://fl1.moveonjoy.com/Aspire/index.m3u8"
       ],
       "category": "USA"
     },
@@ -1238,7 +1238,7 @@
       "name": "BET Her",
       "logoUrl": "https://cdn.imgbin.com/16/15/16/imgbin-bet-her-logo-tv-television-channel-others-2VX45u0P2WWb6qnjT9PJMCbam.jpg",
       "streamUrls": [
-        "http://fl12.moveonjoy.com/BET_HER/index.m3u8"
+        "https://fl1.moveonjoy.com/BET_HER/index.m3u8"
       ],
       "category": "USA"
     },
@@ -1690,7 +1690,7 @@
       "name": "Bounce",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/bounce-tv-logo-01.png",
       "streamUrls": [
-        "http://212.102.60.231/BOUNCE_TV/index.m3u8"
+        "https://fl2.moveonjoy.com/BOUNCE_TV/index.m3u8"
       ],
       "category": "USA"
     },
@@ -1720,7 +1720,7 @@
       "name": "Bravo",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/1200px-Bravo_TV.svg.png",
       "streamUrls": [
-        "http://fl12.moveonjoy.com/BRAVO/mpegts"
+        "https://fl1.moveonjoy.com/BRAVO/index.m3u8"
       ],
       "category": "USA"
     },
@@ -2656,7 +2656,7 @@
       "name": "Cleo TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/CLEO_TV.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/Cleo_TV/index.m3u8"
+        "https://fl1.moveonjoy.com/Cleo_TV/index.m3u8"
       ],
       "category": "USA"
     },
@@ -2757,7 +2757,7 @@
       "name": "Comedy TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CTV_Comedy_Channel_2019.svg/800px-CTV_Comedy_Channel_2019.svg.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/Comedy_TV/index.m3u8"
+        "https://fl1.moveonjoy.com/Comedy_TV/index.m3u8"
       ],
       "category": "USA"
     },
@@ -2861,7 +2861,7 @@
       "name": "Cozi TV",
       "logoUrl": "https://www.pngitem.com/pimgs/m/85-853510_cozi-tv-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://173.225.32.123/Cozi-2358/index.m3u8"
+        "https://fl1.moveonjoy.com/COZI_TV/index.m3u8"
       ],
       "category": "USA"
     },
@@ -3094,7 +3094,7 @@
       "name": "Disney Junior",
       "logoUrl": "https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738",
       "streamUrls": [
-        "https://tvpass.org/live/DisneyJuniorEast/sd",
+        "https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8",
         "https://tvpass.org/live/DisneyJuniorEast/hd"
       ],
       "category": "USA"
@@ -3243,7 +3243,7 @@
       "name": "ESPNU",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/ESPN_U/index.m3u8"
+        "https://fl1.moveonjoy.com/ESPN_U/index.m3u8"
       ],
       "category": "USA"
     },
@@ -3492,7 +3492,7 @@
       "name": "FanDuel Sports Network",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/FanDuel_Sports_Network_Detroit_logo.svg/1200px-FanDuel_Sports_Network_Detroit_logo.svg.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/PAC_12/mpegts"
+        "https://fl1.moveonjoy.com/PAC_12/index.m3u8"
       ],
       "category": "USA"
     },
@@ -4119,8 +4119,9 @@
       "name": "Hallmark Drama",
       "logoUrl": "https://www.clipartmax.com/png/middle/335-3358990_hallmark-channel-logo-transparent.png",
       "streamUrls": [
-        "https://tvpass.org/live/HallmarkDrama/hd",
-        "https://tvpass.org/live/HallmarkDrama/sd"
+        "https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8",
+        "https://tvpass.org/live/HallmarkDrama/sd",
+        "https://tvpass.org/live/HallmarkDrama/hd"
       ],
       "category": "USA"
     },
@@ -4339,7 +4340,7 @@
       "name": "INSP",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/34/INSP_logo_2022.png",
       "streamUrls": [
-        "http://fl12.moveonjoy.com/INSP/index.m3u8"
+        "https://fl1.moveonjoy.com/INSP/index.m3u8"
       ],
       "category": "USA"
     },
@@ -4622,8 +4623,7 @@
       "name": "KCPQ-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8b/KCPQ_1996.svg/revision/latest/scale-to-width-down/128?cb=20210930061032",
       "streamUrls": [
-        "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8",
-        "http://fl41.moveonjoy.com/WA_SEATTLE_FOX/index.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8"
       ],
       "category": "USA"
     },
@@ -4659,8 +4659,7 @@
       "name": "KDFW-DT1",
       "logoUrl": "https://vignette.wikia.nocookie.net/tvstations/images/4/45/KDFW_Logo_2007.png/revision/latest?cb=20190311201120",
       "streamUrls": [
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8",
-        "http://fl41.moveonjoy.com/TX_Dallas_FOX/index.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -4742,7 +4741,6 @@
       "name": "KIRO-DT1",
       "logoUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b69717d4-b12c-4f07-9520-05f39e7bb78f/dg7wl36-c9a0d1ac-c623-45ca-b4a6-96d71dc04eec.png/v1/fill/w_1280,h_960,q_80,strp/kiro_logo_by_rgbmetro_dg7wl36-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvYjY5NzE3ZDQtYjEyYy00ZjA3LTk1MjAtMDVmMzllN2JiNzhmXC9kZzd3bDM2LWM5YTBkMWFjLWM2MjMtNDVjYS1iNGE2LTk2ZDcxZGMwNGVlYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.q2MZ4PMgq5n8t8BRk5JsZ78McOW7VLcZzyJoakgTN-8",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/WA_SEATTLE_CBS/index.m3u8",
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8"
       ],
       "category": "USA"
@@ -4964,8 +4962,7 @@
       "name": "KRIV-DT1",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/6/63/KRIV_1986_ID.jpg/revision/latest/scale-to-width-down/185?cb=20190430161259",
       "streamUrls": [
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8",
-        "http://fl41.moveonjoy.com/TX_Houston_FOX/index.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -4993,8 +4990,7 @@
       "name": "KSBW-DT1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a5/KSBW_2011_Logo.png",
       "streamUrls": [
-        "https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8",
-        "http://fl41.moveonjoy.com/CA_MONTEREY_CBS/index.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -5058,8 +5054,7 @@
       "name": "KTBC-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/d6/KTBC_1994.jpg/revision/latest/scale-to-width-down/185?cb=20111024184216",
       "streamUrls": [
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8",
-        "http://fl41.moveonjoy.com/TX_AUSTIN_FOX/index.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -5214,7 +5209,7 @@
       "name": "KYW-DT1",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/1/13/Kywtv1963.jpg/revision/latest/scale-to-width-down/200?cb=20120317112324",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8"
+        "https://fl1.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8"
       ],
       "category": "USA"
     },
@@ -5569,7 +5564,7 @@
       "name": "Lifetime",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/LIFETIME/index.m3u8"
+        "https://fl1.moveonjoy.com/LIFETIME/index.m3u8"
       ],
       "category": "USA"
     },
@@ -5931,7 +5926,7 @@
       "name": "MTV",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/15/MTV-Logo-PNG-File.png",
       "streamUrls": [
-        "http://fl12.moveonjoy.com/MTV/index.m3u8"
+        "https://fl1.moveonjoy.com/MTV/index.m3u8"
       ],
       "category": "USA"
     },
@@ -6745,7 +6740,7 @@
       "name": "NewsNation",
       "logoUrl": "https://w7.pngwing.com/pngs/374/479/png-transparent-news-nation-logo-24-hour-news-cycle-media-others-television-text-logo.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/NEWS_NATION/index.m3u8"
+        "https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8"
       ],
       "category": "USA"
     },
@@ -6804,7 +6799,7 @@
       "name": "Nick Jr.",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/NICK_JR/index.m3u8"
+        "https://fl1.moveonjoy.com/NICK_JR/index.m3u8"
       ],
       "category": "USA"
     },
@@ -6862,7 +6857,7 @@
       "name": "Nicktoons",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",
       "streamUrls": [
-        "http://212.102.60.231/NICKTOONS/index.m3u8"
+        "https://fl2.moveonjoy.com/NICKTOONS/index.m3u8"
       ],
       "category": "USA"
     },
@@ -7054,7 +7049,7 @@
       "name": "Ovation",
       "logoUrl": "https://www.ovationtv.com/app/uploads/2018/01/cropped-ovation_logo_black-1.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/Ovation/index.m3u8"
+        "https://fl1.moveonjoy.com/Ovation/index.m3u8"
       ],
       "category": "USA"
     },
@@ -8353,7 +8348,7 @@
       "name": "Pop TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/it/9/9c/POP_TV_LOGO_2017.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/Pop_TV/mpegts"
+        "https://fl1.moveonjoy.com/Pop_TV/index.m3u8"
       ],
       "category": "USA"
     },
@@ -8589,7 +8584,7 @@
       "name": "Reelz",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png",
       "streamUrls": [
-        "http://212.102.60.231/REELZ/index.m3u8"
+        "https://fl1.moveonjoy.com/REELZ/index.m3u8"
       ],
       "category": "USA"
     },
@@ -9012,7 +9007,7 @@
       "name": "Showtime 2",
       "logoUrl": "http://direct-vs-dish.com/media/channel_logos/showtime2_us.png.300x300_q85.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/SHOWTIME_2/index.m3u8"
+        "https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8"
       ],
       "category": "USA"
     },
@@ -9170,7 +9165,7 @@
       "name": "SportsNet New York",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Sportsnet_New_York.svg/revision/latest/scale-to-width-down/300?cb=20171107013619",
       "streamUrls": [
-        "http://212.102.60.231/SNY/index.m3u8"
+        "https://fl2.moveonjoy.com/SNY/index.m3u8"
       ],
       "category": "USA"
     },
@@ -9179,7 +9174,7 @@
       "name": "Sportsman Channel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sportsman_Channel_logo.png",
       "streamUrls": [
-        "http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8"
+        "https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8"
       ],
       "category": "USA"
     },
@@ -9218,7 +9213,7 @@
       "name": "Starz Encore Classic",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/1280px-Starz_Encore_Classic.svg.png",
       "streamUrls": [
-        "http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8"
+        "https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8"
       ],
       "category": "USA"
     },
@@ -9485,7 +9480,7 @@
       "name": "TV Land",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png",
       "streamUrls": [
-        "http://fl12.moveonjoy.com/TV_LAND/index.m3u8"
+        "https://fl1.moveonjoy.com/TV_LAND/index.m3u8"
       ],
       "category": "USA"
     },
@@ -10794,7 +10789,7 @@
       "name": "WALA-DT1",
       "logoUrl": "https://seeklogo.com/images/W/wala-tv-logo-97A092F836-seeklogo.com.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/AL_MOBILE_FOX/index.m3u8"
+        "http://143.244.60.30/AL_MOBILE_FOX/index.m3u8"
       ],
       "category": "USA"
     },
@@ -10839,7 +10834,7 @@
       "name": "WBBM-DT1",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wbbm.png/200px-Wbbm.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/IL_Chicago_CBS/index.m3u8"
+        "https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8"
       ],
       "category": "USA"
     },
@@ -10848,7 +10843,7 @@
       "name": "WBMA-LD1",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/51/WBMA_(2007).svg/revision/latest/scale-to-width-down/200?cb=20200930024103",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/AL_BIRMINGHAM_ABC/index.m3u8"
+        "http://143.244.60.30/AL_BIRMINGHAM_ABC/index.m3u8"
       ],
       "category": "USA"
     },
@@ -10875,8 +10870,7 @@
       "name": "WBTV-DT1",
       "logoUrl": "https://images.seeklogo.com/logo-png/48/1/wbtv-logo-png_seeklogo-489969.png",
       "streamUrls": [
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8",
-        "http://fl41.moveonjoy.com/NC_CHARLOTTE_CBS/index.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -10885,7 +10879,7 @@
       "name": "WCAU-DT1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/1200px-WCAUlogo2.svg.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8"
+        "https://fl1.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8"
       ],
       "category": "USA"
     },
@@ -10940,8 +10934,7 @@
       "name": "WCVB-DT1",
       "logoUrl": "https://vignette3.wikia.nocookie.net/logopedia/images/4/4c/Wcvb-Logo.jpg/revision/latest/scale-to-width-down/200?cb=20160929021002",
       "streamUrls": [
-        "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8",
-        "http://fl41.moveonjoy.com/MA_BOSTON_ABC/index.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -10959,7 +10952,7 @@
       "name": "WDFX-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/fictionaltvstations/images/b/b1/WDFX.svg/revision/latest?cb=20211124025611",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/AL_DOTHAN_FOX/index.m3u8"
+        "http://143.244.60.30/AL_DOTHAN_FOX/index.m3u8"
       ],
       "category": "USA"
     },
@@ -10995,7 +10988,7 @@
       "name": "WFLA-DT1",
       "logoUrl": "https://logodix.com/logo/1882137.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_Tampa_NBC/index.m3u8"
+        "https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8"
       ],
       "category": "USA"
     },
@@ -11014,7 +11007,7 @@
       "name": "WFLX-DT1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f4/Wflx_3d.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8"
+        "https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8"
       ],
       "category": "USA"
     },
@@ -11041,8 +11034,7 @@
       "name": "WFTV-DT1",
       "logoUrl": "http://www.newscaststudio.com/wp-content/uploads/2016/10/wftv-logo-1024x443.jpg",
       "streamUrls": [
-        "https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8",
-        "http://fl41.moveonjoy.com/FL_ORLANDO_ABC/index.m3u8"
+        "https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -11069,7 +11061,6 @@
       "name": "WFXT-DT1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/WFXT_Boston_25_logo_(2018).png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/MA_BOSTON_FOX/index.m3u8",
         "https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8"
       ],
       "category": "USA"
@@ -11144,8 +11135,7 @@
       "name": "WHBQ-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8c/RKO_Television_(WHBQ-TV,_1985).png/revision/latest/scale-to-width-down/200?cb=20221114230054",
       "streamUrls": [
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8",
-        "http://fl41.moveonjoy.com/TN_Memphis_FOX/index.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -11154,7 +11144,6 @@
       "name": "WHIO-DT1",
       "logoUrl": "https://images.seeklogo.com/logo-png/15/1/whio-tv-logo-png_seeklogo-152588.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/OH_DAYTON_CBS/index.m3u8",
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8"
       ],
       "category": "USA"
@@ -11238,8 +11227,7 @@
       "name": "WJAX-DT1",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/3/3d/WJAX-TV_logo.png/revision/latest/scale-to-width-down/200?cb=20200520224652",
       "streamUrls": [
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8",
-        "http://fl41.moveonjoy.com/FL_JACKSONVILLE_CBS/index.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -11285,7 +11273,7 @@
       "name": "WKMG-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/tvstations/images/6/6f/News6WKMG.png/revision/latest?cb=20190129222515",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_ORLANDO_CBS/mpegts"
+        "https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8"
       ],
       "category": "USA"
     },
@@ -11330,7 +11318,7 @@
       "name": "WKRG-DT1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WKRG-TV_logo.png/300px-WKRG-TV_logo.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/AL_MOBILE_CBS/index.m3u8"
+        "http://143.244.60.30/AL_MOBILE_CBS/index.m3u8"
       ],
       "category": "USA"
     },
@@ -11339,7 +11327,7 @@
       "name": "WKRN-DT1",
       "logoUrl": "https://www.nexstar.tv/wp-content/uploads/2016/09/wkrn-09282016.jpg",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/TN_NASHVILLE_ABC/index.m3u8"
+        "https://fl1.moveonjoy.com/TN_NASHVILLE_ABC/index.m3u8"
       ],
       "category": "USA"
     },
@@ -11518,7 +11506,7 @@
       "name": "WPEC-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/58/NEW-2008-CBS-12-WPEC-logo.jpg/revision/latest/scale-to-width-down/200?cb=20160531195837",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_West_Palm_Beach_CBS/mpegts"
+        "https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8"
       ],
       "category": "USA"
     },
@@ -11563,7 +11551,7 @@
       "name": "WPVI-DT1",
       "logoUrl": "https://abcotvpress.com/wp-content/uploads/sites/30/2022/02/WPVI-TV_Philadelphia_NavLogo@2x.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/PA_PHILADELPHIA_ABC/index.m3u8"
+        "https://fl1.moveonjoy.com/PA_PHILADELPHIA_ABC/index.m3u8"
       ],
       "category": "USA"
     },
@@ -11581,7 +11569,6 @@
       "name": "WPXI-DT1",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/8/86/WPXI_11_logo.png/250px-WPXI_11_logo.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/PA_Pittsburgh_NBC/index.m3u8",
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8"
       ],
       "category": "USA"
@@ -11654,7 +11641,7 @@
       "name": "WSMV-DT1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png?20190203204727",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/TN_Nashville_NBC/index.m3u8"
+        "https://fl1.moveonjoy.com/TN_Nashville_NBC/index.m3u8"
       ],
       "category": "USA"
     },
@@ -11700,7 +11687,7 @@
       "name": "WTOG-DT1",
       "logoUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b1ceee5-9458-4434-80bc-fc5d83a2ea88/ddneymv-fdac692b-958a-43df-9efd-a508d60f99ee.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRiMWNlZWU1LTk0NTgtNDQzNC04MGJjLWZjNWQ4M2EyZWE4OFwvZGRuZXltdi1mZGFjNjkyYi05NThhLTQzZGYtOWVmZC1hNTA4ZDYwZjk5ZWUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7NasIru8g9-0Qzr0n1jnJFSpNkn7efz13vj0Y_ZCKTM",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_Tampa_CW44/index.m3u8"
+        "https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8"
       ],
       "category": "USA"
     },
@@ -11728,7 +11715,7 @@
       "name": "WTVJ-DT1",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/WTVJ_(2012_-_Flat).svg/180px-WTVJ_(2012_-_Flat).svg.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_Miami_NBC/index.m3u8"
+        "https://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8"
       ],
       "category": "USA"
     },
@@ -11764,7 +11751,7 @@
       "name": "WTVY-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/news-stations/images/3/35/WTVY_logo.jpg/revision/latest?cb=20140127062503",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/AL_DOTHAN_CBS/index.m3u8"
+        "http://143.244.60.30/AL_DOTHAN_CBS/index.m3u8"
       ],
       "category": "USA"
     },
@@ -11931,7 +11918,8 @@
       "name": "We TV",
       "logoUrl": "https://www.tvchannellists.com/wiki/images/5/59/We_TV.svg",
       "streamUrls": [
-        "http://fl12.moveonjoy.com/WE_TV/index.m3u8"
+        "https://fl1.moveonjoy.com/WE_TV/index.m3u8",
+        "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8"
       ],
       "category": "USA"
     },
@@ -12605,7 +12593,7 @@
       "name": "World Fishing Network",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/WFN_2014_logo.svg/1200px-WFN_2014_logo.svg.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8"
+        "https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8"
       ],
       "category": "USA",
       "languages": []
@@ -13480,626 +13468,6 @@
         "https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
       ],
       "category": "USA"
-    },
-    {
-      "id": "AFTV.us",
-      "name": "AFTV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d7/AFTV_logo_2018.jpg",
-      "streamUrls": [
-        "https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "ATXN1.us",
-      "name": "ATXN1",
-      "logoUrl": "https://www.vhv.rs/dpng/d/560-5605996_tv-network-logos-png-png-transparent-tv-channel.png",
-      "streamUrls": [
-        "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "ATXN2.us",
-      "name": "ATXN2",
-      "logoUrl": "https://www.vhv.rs/dpng/d/477-4772733_tv-network-logos-png-tv-channels-logo-transparent.png",
-      "streamUrls": [
-        "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "ATXN3.us",
-      "name": "ATXN3",
-      "logoUrl": "https://www.vhv.rs/dpng/d/477-4772733_tv-network-logos-png-tv-channels-logo-transparent.png",
-      "streamUrls": [
-        "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "BIGCivicChannel.us",
-      "name": "BIG Civic Channel",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/3c/ID_The_Big_Channel_1993_Laberinto.jpg/revision/latest?cb=20230111124840&path-prefix=es",
-      "streamUrls": [
-        "https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "BIGCommunityChannel.us",
-      "name": "BIG Community Channel",
-      "logoUrl": "https://vectorseek.com/wp-content/uploads/2023/12/Community-Channel-Logo-Vector.svg-.png",
-      "streamUrls": [
-        "https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "BerksCommunityTV.us",
-      "name": "Berks Community TV",
-      "logoUrl": "https://linktr.ee/og/image/berkscommunitytelevision.jpg",
-      "streamUrls": [
-        "https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "CANTV19.us",
-      "name": "CAN TV19",
-      "logoUrl": "https://cantv.org/wp-content/themes/CANTV/img/logo.svg",
-      "streamUrls": [
-        "https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "CANTV21.us",
-      "name": "CAN TV21",
-      "logoUrl": "https://cantv.org/wp-content/themes/CANTV/img/logo.svg",
-      "streamUrls": [
-        "https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "CANTV27.us",
-      "name": "CAN TV27",
-      "logoUrl": "https://cantv.org/wp-content/themes/CANTV/img/logo.svg",
-      "streamUrls": [
-        "https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "CANTV36.us",
-      "name": "CAN TV36",
-      "logoUrl": "https://logowik.com/content/uploads/images/tv-362156.logowik.com.webp",
-      "streamUrls": [
-        "https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "CVTVChannel192.us",
-      "name": "CVTV Channel 192",
-      "logoUrl": "https://images.seeklogo.com/logo-png/21/1/cvtv-logo-png_seeklogo-219502.png?v=1955412342356837768",
-      "streamUrls": [
-        "https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "CVTVChannel194.us",
-      "name": "CVTV Channel 194",
-      "logoUrl": "https://images.seeklogo.com/logo-png/21/1/cvtv-logo-png_seeklogo-219502.png",
-      "streamUrls": [
-        "https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "KBIMDT1.us",
-      "name": "KBIM-DT1",
-      "logoUrl": "https://static.wikitide.net/avidwiki/thumb/c/c9/KBIM-TV_(2000s).png/600px-KBIM-TV_(2000s).png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/NM_Albuquerque_FOX/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "KMBCDT1.us",
-      "name": "KMBC-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/KMBC_9_ABC.svg/400px-KMBC_9_ABC.svg.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/MO_KANSAS_CITY_ABC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "KOMODT1.us",
-      "name": "KOMO-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/KOMO_logo_2021.png/375px-KOMO_logo_2021.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/WA_SEATTLE_ABC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "KPIXDT1.us",
-      "name": "KPIX-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/KPIX-TV_Logo.svg/175px-KPIX-TV_Logo.svg.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/CA_SAN_FRANCISCO_CBS/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "KPRCDT1.us",
-      "name": "KPRC-DT1",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e3/KPRC-TV_(1983)_2.svg/revision/latest/scale-to-width-down/200?cb=20211021090646",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/TX_Houston_NBC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "KRQEDT1.us",
-      "name": "KRQE-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/KRQE_Primary_Logo_2018.png/175px-KRQE_Primary_Logo_2018.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/NM_Albuquerque_CBS/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "KSATDT1.us",
-      "name": "KSAT-DT1",
-      "logoUrl": "https://spacewatch.global/wp-content/uploads/2020/09/KSAT.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/TX_SAN_ANTONIO_ABC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "KSEEDT1.us",
-      "name": "KSEE-DT1",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/3e/KSEE_TV-24_NBC_1985.png/revision/latest/scale-to-width-down/185?cb=20241012190934",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/CA_FRESNO_NBC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "KSNVDT1.us",
-      "name": "KSNV-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/KSNV_logo.svg/1200px-KSNV_logo.svg.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/NV_LAS_VEGAS_NBC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "KTRKDT1.us",
-      "name": "KTRK-DT1",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/a/a4/KTRK_(1971).svg/revision/latest?cb=20220303041834",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/TX_HOUSTON_ABC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "KVVUDT1.us",
-      "name": "KVVU-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/KVVU-TV_Fox_5_Henderson_-_Las_Vegas.svg/360px-KVVU-TV_Fox_5_Henderson_-_Las_Vegas.svg.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/NV_LAS_VEGAS_FOX/mpegts"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "NatickEducationChannel.us",
-      "name": "Natick Education Channel",
-      "logoUrl": "https://www.natickpegasus.org/uploads/5/0/2/1/50218995/1430105267.png",
-      "streamUrls": [
-        "https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "NatickGovernmentChannel.us",
-      "name": "Natick Government Channel",
-      "logoUrl": "https://www.natickma.gov/ImageRepository/Document?documentID=17073",
-      "streamUrls": [
-        "https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "NatickPublicAccessChannel.us",
-      "name": "Natick Public Access Channel",
-      "logoUrl": "https://www.natickma.gov/ImageRepository/Document?documentID=17073",
-      "streamUrls": [
-        "https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WAFBDT1.us",
-      "name": "WAFB-DT1",
-      "logoUrl": "https://media.licdn.com/dms/image/D560BAQHi6BzAu1CA8A/company-logo_200_200/0/1712063498453/wafb_tv_logo?e=2147483647&v=beta&t=sz1E8Vdzh_g6EK6Qadh78Hf42XtWb2xO3zGdRdJgNEI",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/LA_BATON_ROUGE_CBS/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WAPTDT1.us",
-      "name": "WAPT-DT1",
-      "logoUrl": "https://www.nicepng.com/png/detail/223-2230482_wapt-tv-logo.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/MS_JACKSON_ABC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WBZDT1.us",
-      "name": "WBZ-DT1",
-      "logoUrl": "https://w1.pngwing.com/pngs/597/894/png-transparent-circle-design-logo-number-line-wbztv-blue-text-area-thumbnail.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/MA_BOSTON_CBS/mpegts"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WCJBDT1.us",
-      "name": "WCJB-DT1",
-      "logoUrl": "https://images.seeklogo.com/logo-png/52/1/wcjb-tv20-logo-png_seeklogo-521413.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_GAINESVILLE_ABC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WDAFDT1.us",
-      "name": "WDAF-DT1",
-      "logoUrl": "https://fox4kc.com/wp-content/uploads/sites/16/2024/10/75th-Logo-For-QR.png?strip=1",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/MO_KANSAS_CITY_FOX/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WDBDDT1.us",
-      "name": "WDBD-DT1",
-      "logoUrl": "https://static.wikia.nocookie.net/dreamlogosandstations/images/d/d2/HPECOH-1.png/revision/latest?cb=20210925191939",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/MS_JACKSON_FOX/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WDRBDT1.us",
-      "name": "WDRB-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/WDRB_2011_Logo.svg/1200px-WDRB_2011_Logo.svg.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/KY_Louisville_FOX/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WEWSDT1.us",
-      "name": "WEWS-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WEWS-TV_logo_(2021).svg/330px-WEWS-TV_logo_(2021).svg.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/OH_CLEVELAND_ABC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WFORDT1.us",
-      "name": "WFOR-DT1",
-      "logoUrl": "https://iconape.com/wp-content/png_logo_vector/wfor-tv-logo.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_Miami_CBS/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WFOXDT1.us",
-      "name": "WFOX-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.svg.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_Jacksonville_FOX/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WFXGDT1.us",
-      "name": "WFXG-DT1",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/ee/WFXG_2009.png/revision/latest?cb=20110719004139",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/GA_AUGUSTA_FOX/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WGCLDT1.us",
-      "name": "WGCL-DT1",
-      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/4/46/WGCL_96.1_FM_1370_AM.jpg/revision/latest?cb=20191127004013",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/GA_ATLANTA_CBS/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WJTVDT1.us",
-      "name": "WJTV-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/WJTV_12_NEWS_2018.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/MS_JACKSON_CBS/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WLBTDT1.us",
-      "name": "WLBT-DT1",
-      "logoUrl": "https://images.seeklogo.com/logo-png/55/3/wlbt-logo-png_seeklogo-557143.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/MS_JACKSON_NBC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WLKYDT1.us",
-      "name": "WLKY-DT1",
-      "logoUrl": "https://w7.pngwing.com/pngs/577/11/png-transparent-louisville-wlky-kentuckiana-television-broadcasting-city-shadow-television-emblem-text.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/KY_LOUISVILLE_CBS/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WMCDT1.us",
-      "name": "WMC-DT1",
-      "logoUrl": "https://images.shoutwiki.com/youtubelogos/thumb/b/bb/WMC_2021_1.png/350px-WMC_2021_1.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/TN_Memphis_NBC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WOFLDT1.us",
-      "name": "WOFL-DT1",
-      "logoUrl": "https://w1.pngwing.com/pngs/585/870/png-transparent-phoenix-logo-orlando-wrbw-mynetworktv-television-television-channel-wofl-station-identification-thumbnail.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_ORLANDO_FOX/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WPGHDT1.us",
-      "name": "WPGH-DT1",
-      "logoUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/8/85/WPGHFOX53.png/200px-WPGHFOX53.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/PA_Pittsburgh_FOX/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WPMIDT1.us",
-      "name": "WPMI-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/WPMI-TV_NBC_15_Mobile,_Alabama_Logo.svg/250px-WPMI-TV_NBC_15_Mobile,_Alabama_Logo.svg.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/AL_MOBILE_ABC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WRCDT1.us",
-      "name": "WRC-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/DC_WASHINGTON_NBC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WRDWDT1.us",
-      "name": "WRDW-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/WRDW_2023_logo.svg/1200px-WRDW_2023_logo.svg.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/GA_AUGUSTA_CBS/mpegts"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WSHMLD1.us",
-      "name": "WSHM-LD1",
-      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/89/Wshm_2010.png/revision/latest?cb=20110909013629",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/MA_SPRINGFIELD_CBS/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WSVNDT1.us",
-      "name": "WSVN-DT1",
-      "logoUrl": "https://static.wikia.nocookie.net/tvstations/images/0/0c/WSVN_7_logo.png/revision/latest?cb=20190228020920",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_Miami_FOX/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WSVNDT2.us",
-      "name": "WSVN-DT2",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/02/WSVN-WDFL_ABC_Miami_(2025,_with_bigger_channel_numbers).svg/revision/latest/scale-to-width-down/200?cb=20250801045942",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_MIAMI_ABC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WTENDT1.us",
-      "name": "WTEN-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/WTEN_Albany_2019.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/NY_ALBANY_ABC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WTLVDT1.us",
-      "name": "WTLV-DT1",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8c/WTLV_2007_logo.svg/revision/latest/scale-to-width-down/200?cb=20211116011727",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_Jacksonville_NBC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WTNZDT1.us",
-      "name": "WTNZ-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/Wtnz_2014.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/TN_Knoxville_FOX/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WTOCDT1.us",
-      "name": "WTOC-DT1",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e4/Wtoc.jpg/revision/latest/scale-to-width-down/185?cb=20210221013943",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/GA_SAVANNAH_CBS/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WTVYDT4.us",
-      "name": "WTVY-DT4",
-      "logoUrl": "https://static.wikia.nocookie.net/tv-stations/images/6/68/135px-Wtvy_2011.png/revision/latest?cb=20130412194734",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/AL_DOTHAN_NBC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WTWCDT1.us",
-      "name": "WTWC-DT1",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b3/LOGO_WTWC_NBC40_solid_calls_vert_blk.png/revision/latest/scale-to-width-down/200?cb=20230509113240",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_Tallahassee_NBC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WVLADT1.us",
-      "name": "WVLA-DT1",
-      "logoUrl": "https://static.wikia.nocookie.net/fictionaltvstations/images/5/56/WVLA9.svg/revision/latest?cb=20210924020747",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/LA_BATON_ROUGE_NBC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WVUEDT1.us",
-      "name": "WVUE-DT1",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wvue-logo.svg/500px-Wvue-logo.svg.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/LA_BATON_ROUGE_FOX/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WWLPDT1.us",
-      "name": "WWLP-DT1",
-      "logoUrl": "https://static.wikia.nocookie.net/tvstations/images/4/44/WWLP_Logo.png/revision/latest?cb=20190511135759",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/MA_SPRINGFIELD_NBC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WXINDT1.us",
-      "name": "WXIN-DT1",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/d3/WXIN-FOX59-VT.png/revision/latest/scale-to-width-down/156?cb=20240513132647",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/IN_Indianapolis_FOX/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WXYZDT1.us",
-      "name": "WXYZ-DT1",
-      "logoUrl": "http://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/WXYZ_abc7.png/200px-WXYZ_abc7.png",
-      "streamUrls": [
-        "http://fl41.moveonjoy.com/MI_DETROIT_ABC/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
     }
   ]
 }

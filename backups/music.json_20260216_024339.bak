@@ -314,7 +314,7 @@
       "name": "AXS TV",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/250px-AXS_TV_logo.svg.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/Axs_TV/index.m3u8"
+        "https://fl1.moveonjoy.com/Axs_TV/index.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3922,7 +3922,6 @@
       "name": "Sun Music",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20180318045647",
       "streamUrls": [
-        "http://198.27.83.207:2550/SUN_MUSIC_SD/index.m3u8",
         "http://15.235.144.106:14055"
       ],
       "category": "Music",
@@ -4401,8 +4400,7 @@
       "name": "Vaanavil TV",
       "logoUrl": "https://www.kindpng.com/picc/m/282-2828008_vaanavil-tv-channel-logo-hd-png-download.png",
       "streamUrls": [
-        "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
-        "http://198.27.83.207:2550/VAANAVIL_SD/index.m3u8"
+        "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
