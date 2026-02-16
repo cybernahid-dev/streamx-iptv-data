@@ -2954,7 +2954,8 @@
       "name": "Rongeen TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest/scale-to-width-down/250?cb=20191215110016",
       "streamUrls": [
-        "https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8"
+        "https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8?ads.vf=g9SHTs_gUKa"
       ],
       "category": "India"
     },
@@ -4905,6 +4906,7 @@
       "name": "Food Food",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
       "streamUrls": [
+        "http://45.148.145.57/IN_FOODFOOD/index.m3u8",
         "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       ],
       "category": "India"
@@ -5380,8 +5382,7 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a09s/index.m3u8",
-        "http://103.229.254.25:7001/play/a0db/index.m3u8"
+        "http://103.229.254.25:7001/play/a09s/index.m3u8"
       ],
       "category": "India",
       "languages": []

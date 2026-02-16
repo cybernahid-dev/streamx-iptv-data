@@ -2170,6 +2170,7 @@
       "name": "Star Sports 2 Tamil",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a0d1/index.m3u8",
         "http://103.229.254.25:7001/play/a0dc/index.m3u8"
       ],
       "category": "Sports",
