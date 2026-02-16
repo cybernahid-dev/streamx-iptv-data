@@ -2954,7 +2954,8 @@
       "name": "Rongeen TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest/scale-to-width-down/250?cb=20191215110016",
       "streamUrls": [
-        "https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8"
+        "https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8?ads.vf=g9SHTs_gUKa"
       ],
       "category": "India"
     },
@@ -4106,6 +4107,7 @@
       "name": "Surya TV",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/0/03/Surya_TV.jpg/revision/latest?cb=20180318054226",
       "streamUrls": [
+        "https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8",
         "http://103.229.254.25:7001/play/a0dq/index.m3u8"
       ],
       "category": "India"
@@ -5139,6 +5141,7 @@
       "name": "Star Gold 2",
       "logoUrl": "https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg",
       "streamUrls": [
+        "http://161.248.38.40:8000/play/a06z/index.m3u8",
         "http://103.229.254.25:7001/play/a0d0/index.m3u8"
       ],
       "category": "India"
@@ -5221,6 +5224,7 @@
       "name": "Zee TV",
       "logoUrl": "https://pngset.com/images/zee-tv-zee-tv-logo-channel-text-metropolis-city-urban-transparent-png-1124165.png",
       "streamUrls": [
+        "http://161.248.38.40:8000/play/a08v/index.m3u8",
         "http://103.229.254.25:7001/play/a0cs/index.m3u8"
       ],
       "category": "India"
