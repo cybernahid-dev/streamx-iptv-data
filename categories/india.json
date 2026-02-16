@@ -4906,7 +4906,6 @@
       "name": "Food Food",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
       "streamUrls": [
-        "http://45.148.145.57/IN_FOODFOOD/index.m3u8",
         "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       ],
       "category": "India"
@@ -5497,6 +5496,16 @@
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Zee_Zest_HD.jpg/revision/latest/scale-to-width-down/185?cb=20201122180357",
       "streamUrls": [
         "http://103.229.254.25:7001/play/a0dp/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "Zee24Ghanta.in",
+      "name": "Zee 24 Ghanta",
+      "logoUrl": "https://w7.pngwing.com/pngs/656/469/png-transparent-24-ghanta-zee-news-television-channel-television-show-others-television-text-logo.png",
+      "streamUrls": [
+        "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8"
       ],
       "category": "India",
       "languages": []
