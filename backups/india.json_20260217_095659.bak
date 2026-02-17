@@ -2782,7 +2782,8 @@
       "name": "Public TV",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2022/02/PBS-Logo.png",
       "streamUrls": [
-        "https://cdn-3.pishow.tv/live/439/master.m3u8"
+        "https://cdn-3.pishow.tv/live/439/master.m3u8",
+        "https://livestreampublictv.sunnxt.com/publictv/index.m3u8"
       ],
       "category": "India"
     },

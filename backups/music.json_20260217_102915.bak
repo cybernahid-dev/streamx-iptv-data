@@ -4458,9 +4458,9 @@
       "name": "Vevo 2K",
       "logoUrl": "https://www.liblogo.com/img-logo/ve4911vc9f-vevo-logo-vevo-logo-black-transparent-png-stickpng.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343",
         "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8",
-        "https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8"
+        "https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8",
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=1864b2f5-deb3-4536-a78b-de71666db080"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5340,7 +5340,7 @@
       "name": "Fon Music",
       "logoUrl": "https://img.freepik.com/premium-vector/television-icon-with-beamed-eighth-notes-vector-illustration-music-tv-channel-logo-concept-isolated-white-background-pink-blue-color-theme_228967-1888.jpg",
       "streamUrls": [
-        "https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1"
+        "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8"
       ],
       "category": "Music",
       "languages": [],
