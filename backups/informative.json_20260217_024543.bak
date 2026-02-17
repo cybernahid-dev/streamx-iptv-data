@@ -1681,7 +1681,7 @@
       "name": "Polsat Viasat Nature",
       "logoUrl": "https://www.liblogo.com/img-logo/vi4010p307-viasat-nature-logo-polsat-viasat-nature-mihsign-vision-.png",
       "streamUrls": [
-        "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.m3u8"
+        "https://liveovh010.cda.pl/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.mpd"
       ],
       "category": "Informative",
       "genre": "Informative"

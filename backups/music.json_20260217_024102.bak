@@ -5340,7 +5340,7 @@
       "name": "Fon Music",
       "logoUrl": "https://img.freepik.com/premium-vector/television-icon-with-beamed-eighth-notes-vector-illustration-music-tv-channel-logo-concept-isolated-white-background-pink-blue-color-theme_228967-1888.jpg",
       "streamUrls": [
-        "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8"
+        "https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1"
       ],
       "category": "Music",
       "languages": [],
