@@ -1680,6 +1680,7 @@
       "name": "India TV",
       "logoUrl": "https://www.nicepng.com/png/detail/367-3670818_india-tv-logo-png.png",
       "streamUrls": [
+        "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
         "https://mumt01.tangotv.in/INDIATV/index.m3u8"
       ],
       "category": "India"
