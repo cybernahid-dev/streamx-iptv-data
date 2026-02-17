@@ -11155,7 +11155,6 @@
       "name": "WHIO-DT1",
       "logoUrl": "https://images.seeklogo.com/logo-png/15/1/whio-tv-logo-png_seeklogo-152588.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/OH_DAYTON_CBS/index.m3u8",
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8"
       ],
       "category": "USA"
@@ -12349,7 +12348,6 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/sd",
         "https://tvpass.org/live/nbc-sports-bay-area/hd"
       ],
       "category": "USA"
