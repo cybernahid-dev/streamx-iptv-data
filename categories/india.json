@@ -3404,7 +3404,6 @@
       "name": "Sudarshan News",
       "logoUrl": "https://w7.pngwing.com/pngs/585/165/png-transparent-sudarshan-news-television-show-television-channel-editor-in-chief-others-television-text-logo.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sudarshan-news/index.m3u8?ads.vf=bdU1AqxUJM4",
         "https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8"
       ],
       "category": "India"
@@ -4108,7 +4107,8 @@
       "name": "Surya TV",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/0/03/Surya_TV.jpg/revision/latest?cb=20180318054226",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dq/index.m3u8"
+        "http://103.229.254.25:7001/play/a0dq/index.m3u8",
+        "https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8"
       ],
       "category": "India"
     },
@@ -4907,7 +4907,6 @@
       "name": "Food Food",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
       "streamUrls": [
-        "http://45.148.145.57/IN_FOODFOOD/index.m3u8",
         "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       ],
       "category": "India"
