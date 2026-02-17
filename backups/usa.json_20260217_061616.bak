@@ -11155,7 +11155,6 @@
       "name": "WHIO-DT1",
       "logoUrl": "https://images.seeklogo.com/logo-png/15/1/whio-tv-logo-png_seeklogo-152588.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/OH_DAYTON_CBS/index.m3u8",
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8"
       ],
       "category": "USA"
@@ -12339,6 +12338,7 @@
       "name": "KFMB-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png",
       "streamUrls": [
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
         "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
       ],
       "category": "USA"
@@ -12348,8 +12348,7 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/sd",
-        "https://tvpass.org/live/nbc-sports-bay-area/hd"
+        "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
     },
