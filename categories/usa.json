@@ -12516,7 +12516,8 @@
       "name": "Popstar! TV",
       "logoUrl": "https://www.popstaronline.com/wp-content/uploads/2019/07/popstar-tv-logo.png",
       "streamUrls": [
-        "https://linear-10.frequency.stream/dist/stirr/10/hls/master/playlist.m3u8"
+        "https://linear-10.frequency.stream/dist/stirr/10/hls/master/playlist.m3u8",
+        "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8"
       ],
       "category": "USA",
       "languages": []
