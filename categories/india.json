@@ -4908,6 +4908,7 @@
       "name": "Food Food",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
       "streamUrls": [
+        "http://45.148.145.57/IN_FOODFOOD/index.m3u8",
         "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       ],
       "category": "India"
@@ -5510,6 +5511,16 @@
       "logoUrl": "https://w7.pngwing.com/pngs/656/469/png-transparent-24-ghanta-zee-news-television-channel-television-show-others-television-text-logo.png",
       "streamUrls": [
         "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SamayKolkata.in",
+      "name": "Samay Kolkata",
+      "logoUrl": "https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg",
+      "streamUrls": [
+        "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8"
       ],
       "category": "India",
       "languages": []
