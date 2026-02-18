@@ -3404,6 +3404,7 @@
       "name": "Sudarshan News",
       "logoUrl": "https://w7.pngwing.com/pngs/585/165/png-transparent-sudarshan-news-television-show-television-channel-editor-in-chief-others-television-text-logo.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sudarshan-news/index.m3u8?ads.vf=bdU1AqxUJM4",
         "https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8"
       ],
       "category": "India"
@@ -4569,8 +4570,8 @@
       "name": "India Daily Live",
       "logoUrl": "https://images.theindiadaily.com/uploadimage/library/free_files/png/newlogo-1747728349.png",
       "streamUrls": [
-        "https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8",
-        "https://mumt02.tangotv.in/INDIADAILY24X7/index.m3u8"
+        "https://mumt02.tangotv.in/INDIADAILY24X7/index.m3u8",
+        "https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8"
       ],
       "category": "India"
     },
@@ -4598,8 +4599,6 @@
       "name": "Kolkata TV",
       "logoUrl": "https://images.seeklogo.com/logo-png/60/1/kolkata-tv-logo-png_seeklogo-606238.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8?ads.vf=Zq8D8lMcA30",
-        "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
         "https://mumt01.tangotv.in/KOLKATATV/index.m3u8"
       ],
       "category": "India"
@@ -5509,6 +5508,16 @@
       "logoUrl": "https://w7.pngwing.com/pngs/656/469/png-transparent-24-ghanta-zee-news-television-channel-television-show-others-television-text-logo.png",
       "streamUrls": [
         "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SamayKolkata.in",
+      "name": "Samay Kolkata",
+      "logoUrl": "https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg",
+      "streamUrls": [
+        "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8"
       ],
       "category": "India",
       "languages": []

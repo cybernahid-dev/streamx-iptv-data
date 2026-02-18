@@ -4599,7 +4599,9 @@
       "name": "Kolkata TV",
       "logoUrl": "https://images.seeklogo.com/logo-png/60/1/kolkata-tv-logo-png_seeklogo-606238.png",
       "streamUrls": [
-        "https://mumt01.tangotv.in/KOLKATATV/index.m3u8"
+        "https://mumt01.tangotv.in/KOLKATATV/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8?ads.vf=Zq8D8lMcA30",
+        "https://cdn.ottlive.co.in/kolkatatv/index.m3u8"
       ],
       "category": "India"
     },
@@ -4906,7 +4908,8 @@
       "name": "Food Food",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
       "streamUrls": [
-        "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
+        "https://mumt03.tangotv.in/FOODFOOD/index.m3u8",
+        "http://45.148.145.57/IN_FOODFOOD/index.m3u8"
       ],
       "category": "India"
     },
