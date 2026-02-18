@@ -1755,8 +1755,7 @@
       "name": "IRIB 3",
       "logoUrl": "https://tvfarsi.com/wp-content/uploads/2024/05/IRIB-Shabake-3-Live-Irans-Youthful-Hub-for-Sports-Entertainment-and-Beyond.webp",
       "streamUrls": [
-        "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8",
-        "https://ncdn.telewebion.com/tv3/live/playlist.m3u8"
+        "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1766,7 +1765,6 @@
       "name": "NBC Sports Philadelphia",
       "logoUrl": "https://png.pngitem.com/pimgs/s/216-2164879_nbc-sports-philadelphia-nbc-sports-philadelphia-logo-png.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-philadelphia/sd",
         "https://tvpass.org/live/nbc-sports-philadelphia/hd"
       ],
       "category": "Sports",
@@ -2170,7 +2168,8 @@
       "name": "Star Sports 2 Tamil",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dc/index.m3u8"
+        "http://103.229.254.25:7001/play/a0dc/index.m3u8",
+        "http://103.229.254.25:7001/play/a0d1/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
