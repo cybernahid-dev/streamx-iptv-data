@@ -4108,7 +4108,8 @@
       "name": "Surya TV",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/0/03/Surya_TV.jpg/revision/latest?cb=20180318054226",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dq/index.m3u8"
+        "http://103.229.254.25:7001/play/a0dq/index.m3u8",
+        "https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8"
       ],
       "category": "India"
     },
@@ -5510,6 +5511,16 @@
       "logoUrl": "https://w7.pngwing.com/pngs/656/469/png-transparent-24-ghanta-zee-news-television-channel-television-show-others-television-text-logo.png",
       "streamUrls": [
         "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SamayKolkata.in",
+      "name": "Samay Kolkata",
+      "logoUrl": "https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg",
+      "streamUrls": [
+        "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8"
       ],
       "category": "India",
       "languages": []
