@@ -3139,8 +3139,7 @@
       "name": "Sansad TV 1",
       "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sansad-tv-1-in.png",
       "streamUrls": [
-        "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
-        "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
       ],
       "category": "India"
     },
@@ -3149,8 +3148,7 @@
       "name": "Sansad TV 2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png",
       "streamUrls": [
-        "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8",
-        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8"
       ],
       "category": "India"
     },
@@ -5447,6 +5445,7 @@
       "name": "Star Sports 2 Tamil",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a0dc/index.m3u8",
         "http://103.229.254.25:7001/play/a0d1/index.m3u8"
       ],
       "category": "India",
