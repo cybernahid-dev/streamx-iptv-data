@@ -5143,8 +5143,8 @@
       "name": "Star Gold 2",
       "logoUrl": "https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg",
       "streamUrls": [
-        "http://161.248.38.40:8000/play/a06z/index.m3u8",
-        "http://103.229.254.25:7001/play/a0d0/index.m3u8"
+        "http://103.229.254.25:7001/play/a0d0/index.m3u8",
+        "http://161.248.38.40:8000/play/a06z/index.m3u8"
       ],
       "category": "India"
     },
@@ -5226,8 +5226,8 @@
       "name": "Zee TV",
       "logoUrl": "https://pngset.com/images/zee-tv-zee-tv-logo-channel-text-metropolis-city-urban-transparent-png-1124165.png",
       "streamUrls": [
-        "http://161.248.38.40:8000/play/a08v/index.m3u8",
-        "http://103.229.254.25:7001/play/a0cs/index.m3u8"
+        "http://103.229.254.25:7001/play/a0cs/index.m3u8",
+        "http://161.248.38.40:8000/play/a08v/index.m3u8"
       ],
       "category": "India"
     },
@@ -5447,7 +5447,6 @@
       "name": "Star Sports 2 Tamil",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dc/index.m3u8",
         "http://103.229.254.25:7001/play/a0d1/index.m3u8"
       ],
       "category": "India",
@@ -5521,6 +5520,16 @@
       "logoUrl": "https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg",
       "streamUrls": [
         "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "BharatSamachar.in",
+      "name": "Bharat Samachar",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/2d/Bharat_Samachar.jpeg/revision/latest?cb=20191228085236",
+      "streamUrls": [
+        "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8"
       ],
       "category": "India",
       "languages": []
