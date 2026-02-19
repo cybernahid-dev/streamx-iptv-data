@@ -12347,7 +12347,7 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/hd"
+        "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
     },
@@ -14094,6 +14094,16 @@
       "logoUrl": "http://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/WXYZ_abc7.png/200px-WXYZ_abc7.png",
       "streamUrls": [
         "http://fl41.moveonjoy.com/MI_DETROIT_ABC/index.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "UnivisionTlnovelas.us",
+      "name": "Univision Tlnovelas",
+      "logoUrl": "https://www.freepnglogos.com/uploads/univision-png-logo/univision-emblem-png-logo-7.png",
+      "streamUrls": [
+        "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8"
       ],
       "category": "USA",
       "languages": []
