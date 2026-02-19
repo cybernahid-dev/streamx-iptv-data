@@ -601,7 +601,6 @@
       "name": "Balle Balle",
       "logoUrl": "https://www.gulfbuzz.com/wp-content/uploads/2021/03/Untitled-design-4-min-696x478.png",
       "streamUrls": [
-        "https://mcncdndigital.com/balleballetv/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8?ads.vf=jbHwG4WE_Zi"
       ],
       "category": "India"
@@ -5521,6 +5520,16 @@
       "logoUrl": "https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg",
       "streamUrls": [
         "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "BharatSamachar.in",
+      "name": "Bharat Samachar",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/2d/Bharat_Samachar.jpeg/revision/latest?cb=20191228085236",
+      "streamUrls": [
+        "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8"
       ],
       "category": "India",
       "languages": []
