@@ -3158,8 +3158,8 @@
       "name": "Radio Hit",
       "logoUrl": "https://w7.pngwing.com/pngs/947/947/png-transparent-radio-hit-hd-logo.png",
       "streamUrls": [
-        "http://lova.me/hls/hit.m3u8",
-        "http://lova.me/hls/hithd.m3u8"
+        "http://lova.me/hls/hithd.m3u8",
+        "http://lova.me/hls/hit.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4906,7 +4906,6 @@
       "name": "Muz-TV",
       "logoUrl": "https://images.seeklogo.com/logo-png/47/1/muz-tv-logo-png_seeklogo-470403.png",
       "streamUrls": [
-        "https://streaming.televizor-24-tochka.ru/live/618.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8"
       ],
       "category": "Music",
@@ -5341,6 +5340,39 @@
       "logoUrl": "https://img.freepik.com/premium-vector/television-icon-with-beamed-eighth-notes-vector-illustration-music-tv-channel-logo-concept-isolated-white-background-pink-blue-color-theme_228967-1888.jpg",
       "streamUrls": [
         "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "KayoPops.jp",
+      "name": "Kayo Pops",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png",
+      "streamUrls": [
+        "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "MusicJapanTV.jp",
+      "name": "Music Japan TV",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/a/a0/Screenshot_20250811-182832~2.png/revision/latest?cb=20250811095226",
+      "streamUrls": [
+        "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "SpaceShowerTV.jp",
+      "name": "Space Shower TV",
+      "logoUrl": "https://alchetron.com/cdn/space-shower-tv-60928950-e09f-44dc-b430-0a00d89751f-resize-750.jpeg",
+      "streamUrls": [
+        "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26"
       ],
       "category": "Music",
       "languages": [],
