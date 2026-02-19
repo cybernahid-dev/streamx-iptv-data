@@ -5099,8 +5099,8 @@
       "name": "Punjabi Hits",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e9/Punjabi_Hits.jpg/revision/latest?cb=20210807162730",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8?ads.vf=nlcgIN1EKyi",
-        "https://stream.ottlive.co.in/punjabihits/index.m3u8"
+        "https://stream.ottlive.co.in/punjabihits/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8?ads.vf=nlcgIN1EKyi"
       ],
       "category": "Music",
       "genre": "Music"
