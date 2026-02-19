@@ -1662,8 +1662,8 @@
       "name": "Solnce",
       "logoUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c82d529e-7d95-43f2-8bd3-676ef2938275/dfk7yqh-070246ad-e593-47ed-987e-5c9601c9cab1.png/v1/fill/w_370,h_320/solntse_logo__2022___now__by_ultralucas_dfk7yqh-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzIwIiwicGF0aCI6IlwvZlwvYzgyZDUyOWUtN2Q5NS00M2YyLThiZDMtNjc2ZWYyOTM4Mjc1XC9kZms3eXFoLTA3MDI0NmFkLWU1OTMtNDdlZC05ODdlLTVjOTYwMWM5Y2FiMS5wbmciLCJ3aWR0aCI6Ijw9MzcwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.DE7lw8oazejh-pKfpSMDlq9KQL1MdOJ3AkZmmrNdgxo",
       "streamUrls": [
-        "http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8",
-        "http://tv.mediacdn.ru/live/solntse/playlist.m3u8"
+        "http://tv.mediacdn.ru/live/solntse/playlist.m3u8",
+        "http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
