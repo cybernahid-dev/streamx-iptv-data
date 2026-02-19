@@ -10322,7 +10322,8 @@
       "name": "Tin TV",
       "logoUrl": "https://i.imgur.com/hMqGs94.png",
       "streamUrls": [
-        "https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8"
+        "https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8",
+        "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8"
       ],
       "category": "USA"
     },

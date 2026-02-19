@@ -10322,7 +10322,6 @@
       "name": "Tin TV",
       "logoUrl": "https://i.imgur.com/hMqGs94.png",
       "streamUrls": [
-        "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8",
         "https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8"
       ],
       "category": "USA"
@@ -12347,6 +12346,7 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
+        "https://tvpass.org/live/nbc-sports-bay-area/hd",
         "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
