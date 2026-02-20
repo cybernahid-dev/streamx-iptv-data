@@ -3139,6 +3139,7 @@
       "name": "Sansad TV 1",
       "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sansad-tv-1-in.png",
       "streamUrls": [
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
         "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
         "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
       ],
@@ -3149,8 +3150,9 @@
       "name": "Sansad TV 2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png",
       "streamUrls": [
-        "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8",
-        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
+        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
+        "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8"
       ],
       "category": "India"
     },
@@ -3340,7 +3342,6 @@
       "name": "StarPlus",
       "logoUrl": "https://www.pngitem.com/pimgs/m/3-33009_star-plus-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a09z/index.m3u8",
         "http://103.229.254.25:7001/play/a09p/index.m3u8"
       ],
       "category": "India"
@@ -4108,8 +4109,7 @@
       "name": "Surya TV",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/0/03/Surya_TV.jpg/revision/latest?cb=20180318054226",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dq/index.m3u8",
-        "https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8"
+        "http://103.229.254.25:7001/play/a0dq/index.m3u8"
       ],
       "category": "India"
     },
@@ -5531,6 +5531,16 @@
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/2d/Bharat_Samachar.jpeg/revision/latest?cb=20191228085236",
       "streamUrls": [
         "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "LifeTV.in",
+      "name": "Life TV",
+      "logoUrl": "https://lifetv.ci/wp-content/uploads/2023/07/logo.png",
+      "streamUrls": [
+        "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8"
       ],
       "category": "India",
       "languages": []
