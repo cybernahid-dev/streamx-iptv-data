@@ -4110,8 +4110,8 @@
       "name": "Surya TV",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/0/03/Surya_TV.jpg/revision/latest?cb=20180318054226",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dq/index.m3u8",
-        "https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8"
+        "https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8",
+        "http://103.229.254.25:7001/play/a0dq/index.m3u8"
       ],
       "category": "India"
     },
@@ -5533,6 +5533,16 @@
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/2d/Bharat_Samachar.jpeg/revision/latest?cb=20191228085236",
       "streamUrls": [
         "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "LifeTV.in",
+      "name": "Life TV",
+      "logoUrl": "https://lifetv.ci/wp-content/uploads/2023/07/logo.png",
+      "streamUrls": [
+        "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8"
       ],
       "category": "India",
       "languages": []
