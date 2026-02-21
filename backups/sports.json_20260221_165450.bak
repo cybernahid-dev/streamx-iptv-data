@@ -912,7 +912,8 @@
       "name": "MSG",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/MSG_Network_logo.png/260px-MSG_Network_logo.png",
       "streamUrls": [
-        "https://fl2.moveonjoy.com/MSG/index.m3u8"
+        "https://tvpass.org/live/msg-madison-square-gardens/hd",
+        "https://tvpass.org/live/msg-madison-square-gardens/sd"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2169,8 +2170,117 @@
       "name": "Star Sports 2 Tamil",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dc/index.m3u8",
-        "http://103.229.254.25:7001/play/a0d1/index.m3u8"
+        "http://103.229.254.25:7001/play/a0dc/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "GAORASPORTS.jp",
+      "name": "GAORA SPORTS",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/180px-GAORA_SPORTS_logo.svg.png",
+      "streamUrls": [
+        "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "GolfNetwork.jp",
+      "name": "Golf Network",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png",
+      "streamUrls": [
+        "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "JSPORTS1.jp",
+      "name": "J SPORTS 1",
+      "logoUrl": "https://play-lh.googleusercontent.com/5lsuoT--AGvPzP99PXWGeHWl1mfysrEEDoUNDz8XMKPKelT1wBn_MEdLDEpzCSU8I9Y",
+      "streamUrls": [
+        "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "JSPORTS2.jp",
+      "name": "J SPORTS 2",
+      "logoUrl": "https://www.tvbox123.com/tv_img/j-sport-2.jpg",
+      "streamUrls": [
+        "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "JSPORTS3.jp",
+      "name": "J SPORTS 3",
+      "logoUrl": "https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",
+      "streamUrls": [
+        "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "JSPORTS4.jp",
+      "name": "J SPORTS 4",
+      "logoUrl": "https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_jsports4.png",
+      "streamUrls": [
+        "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "NitteleGPlus.jp",
+      "name": "Nittele G+",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nittele_G+_logo.svg/500px-Nittele_G+_logo.svg.png",
+      "streamUrls": [
+        "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "TourSpotTV.do",
+      "name": "Tour Spot TV",
+      "logoUrl": "https://p7.hiclipart.com/preview/760/878/331/television-channel-television-network-streaming-media-computer-network-tv-channel.jpg",
+      "streamUrls": [
+        "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "StarSports2Hindi.in",
+      "name": "Star Sports 2 Hindi",
+      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
+      "streamUrls": [
+        "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "SuspilneSport.ua",
+      "name": "Suspilne. Sport",
+      "logoUrl": "https://seeklogo.com/images/S/suspilne-ukraine-logo-A2E9D6BD38-seeklogo.com.png",
+      "streamUrls": [
+        "https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8"
       ],
       "category": "Sports",
       "languages": [],
