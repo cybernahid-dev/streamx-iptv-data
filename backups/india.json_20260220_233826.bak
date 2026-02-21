@@ -2188,7 +2188,6 @@
       "name": "Mh 1 News",
       "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyHl24fBbH8N8ItJuKAd9MaxO78ljNLUGT6SN_9rYWc5wkwZDf6MmzPrax5DXdweokogaEFwkhcBFX4lkG13eO_oOOhbaobYH2TpewShwIAjlzVPMVfDa7uxLBObix6zCOVx3iipxG44TIUehn3r5VCnh9r9CcTm1s5YTo9bHsh7Jcy1wVKxlybUrf/s16000-rw/mh-one-dil-se-tv-channel-on-dd-freedish-dth-channel-number-satellite-frequency.jpg",
       "streamUrls": [
-        "https://livestream.jswk.online/mhonenews/live/index.m3u8",
         "https://mumt04.tangotv.in/MHONENEWS/index.m3u8"
       ],
       "category": "India"
@@ -4601,9 +4600,8 @@
       "name": "Kolkata TV",
       "logoUrl": "https://images.seeklogo.com/logo-png/60/1/kolkata-tv-logo-png_seeklogo-606238.png",
       "streamUrls": [
-        "https://mumt01.tangotv.in/KOLKATATV/index.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8?ads.vf=Zq8D8lMcA30",
-        "https://cdn.ottlive.co.in/kolkatatv/index.m3u8"
+        "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8?ads.vf=Zq8D8lMcA30"
       ],
       "category": "India"
     },
