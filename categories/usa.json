@@ -5883,7 +5883,8 @@
       "name": "MSG",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/MSG_Network_logo.png/260px-MSG_Network_logo.png",
       "streamUrls": [
-        "https://fl2.moveonjoy.com/MSG/index.m3u8"
+        "https://tvpass.org/live/msg-madison-square-gardens/hd",
+        "https://tvpass.org/live/msg-madison-square-gardens/sd"
       ],
       "category": "USA"
     },
