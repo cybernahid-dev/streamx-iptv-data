@@ -2358,8 +2358,7 @@
       "name": "CNA Originals",
       "logoUrl": "https://seeklogo.com/images/C/cna-channel-news-asia-logo-4FFB05C856-seeklogo.com.png",
       "streamUrls": [
-        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2494,17 +2493,6 @@
       "logoUrl": "https://www.seekpng.com/png/full/83-830426_national-geographic-logo-png.png",
       "streamUrls": [
         "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "AlternaTV.ar",
-      "name": "AlternaTV",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063713564085",
-      "streamUrls": [
-        "https://tv.alterna.ar/stream/hls/live.m3u8"
       ],
       "category": "Informative",
       "languages": [],

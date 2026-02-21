@@ -5378,6 +5378,39 @@
       "category": "Music",
       "languages": [],
       "genre": "Music"
+    },
+    {
+      "id": "AlternaTV.ar",
+      "name": "AlternaTV",
+      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063713564085",
+      "streamUrls": [
+        "https://tv.alterna.ar/stream/hls/live.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "SongdewTV.in",
+      "name": "Songdew TV",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/86/Songdew_TV.jpeg/revision/latest/scale-to-width-down/280?cb=20200108174248",
+      "streamUrls": [
+        "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "Tunes6.in",
+      "name": "Tunes 6",
+      "logoUrl": "https://p7.hiclipart.com/preview/806/799/595/5bbbb11fcdce6.jpg",
+      "streamUrls": [
+        "https://stream.d6-pro.com/tunes6music/live/video.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
     }
   ]
 }

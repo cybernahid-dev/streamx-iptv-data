@@ -4313,7 +4313,7 @@
       "name": "Anmol TV",
       "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=106210832426292",
       "streamUrls": [
-        "http://103.78.149.54:8000/play/a00j/index.m3u8"
+        "http://163.61.227.29:8000/play/a04a/index.m3u8"
       ],
       "category": "India"
     },
@@ -4340,7 +4340,7 @@
       "name": "Sun Neo",
       "logoUrl": "https://www.medianews4u.com/wp-content/uploads/2024/06/Sun-NEO-Logo.png",
       "streamUrls": [
-        "http://103.78.149.54:8000/play/a00y/index.m3u8"
+        "http://163.61.227.29:8000/play/a04t/index.m3u8"
       ],
       "category": "India"
     },
@@ -5427,7 +5427,8 @@
       "name": "Star Gold",
       "logoUrl": "https://www.vhv.rs/dpng/d/24-245112_star-gold-channel-logo-hd-png-download.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dd/index.m3u8"
+        "http://103.229.254.25:7001/play/a0dd/index.m3u8",
+        "http://103.99.249.139/stargold/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5541,6 +5542,66 @@
       "logoUrl": "https://lifetv.ci/wp-content/uploads/2023/07/logo.png",
       "streamUrls": [
         "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "Nepal1.in",
+      "name": "Nepal 1",
+      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063572714359",
+      "streamUrls": [
+        "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "PMCTelugu.in",
+      "name": "PMC Telugu",
+      "logoUrl": "https://www.pmconlinetv.com/wp-content/uploads/2023/03/PMC-Telugu-Logo.png",
+      "streamUrls": [
+        "https://mumbai-edge.smartplaytv.in/PMC/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SongdewTV.in",
+      "name": "Songdew TV",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/86/Songdew_TV.jpeg/revision/latest/scale-to-width-down/280?cb=20200108174248",
+      "streamUrls": [
+        "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "StarSports2Hindi.in",
+      "name": "Star Sports 2 Hindi",
+      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
+      "streamUrls": [
+        "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "Tunes6.in",
+      "name": "Tunes 6",
+      "logoUrl": "https://p7.hiclipart.com/preview/806/799/595/5bbbb11fcdce6.jpg",
+      "streamUrls": [
+        "https://stream.d6-pro.com/tunes6music/live/video.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "ZeeCinema.in",
+      "name": "Zee Cinema",
+      "logoUrl": "https://www.pngkey.com/png/detail/825-8251348_zee-cinema-channel-logo.png",
+      "streamUrls": [
+        "http://103.99.249.139/zeecinema/index.m3u8"
       ],
       "category": "India",
       "languages": []

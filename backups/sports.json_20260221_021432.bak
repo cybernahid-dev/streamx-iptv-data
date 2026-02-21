@@ -2263,28 +2263,6 @@
       "category": "Sports",
       "languages": [],
       "genre": "Sports"
-    },
-    {
-      "id": "StarSports2Hindi.in",
-      "name": "Star Sports 2 Hindi",
-      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
-      "streamUrls": [
-        "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "SuspilneSport.ua",
-      "name": "Suspilne. Sport",
-      "logoUrl": "https://seeklogo.com/images/S/suspilne-ukraine-logo-A2E9D6BD38-seeklogo.com.png",
-      "streamUrls": [
-        "https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
     }
   ]
 }
