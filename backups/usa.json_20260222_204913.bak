@@ -3084,7 +3084,8 @@
       "name": "Disney Channel",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png",
       "streamUrls": [
-        "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95XgI8UhySeZgp7szKj3V/m3u8"
+        "https://tvpass.org/live/DisneyChannelEast/hd",
+        "https://tvpass.org/live/DisneyChannelEast/sd"
       ],
       "category": "USA"
     },
@@ -4518,7 +4519,6 @@
       "name": "Johnny Carson TV",
       "logoUrl": "https://m.media-amazon.com/images/S/pv-target-images/40d9d014d2b2b14b2d578f79d56fdbe5a0798c2104e626eecdb8f76930bab023.jpg",
       "streamUrls": [
-        "https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8",
         "https://johnnycarson-vizio.amagi.tv/playlist.m3u8"
       ],
       "category": "USA"
@@ -11486,7 +11486,8 @@
       "name": "WNJU-DT1",
       "logoUrl": "https://static.wikia.nocookie.net/logo-timeline/images/b/bb/Wnju197087.png/revision/latest/scale-to-width-down/200?cb=20210320202530",
       "streamUrls": [
-        "http://104.238.205.28:9090/278678_.m3u8"
+        "https://tvpass.org/live/TelemundoEast/hd",
+        "https://tvpass.org/live/TelemundoEast/sd"
       ],
       "category": "USA"
     },
@@ -12346,7 +12347,8 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/hd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd",
+        "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
     },

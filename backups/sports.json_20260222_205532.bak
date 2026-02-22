@@ -1691,6 +1691,7 @@
       "name": "beIN SPORTS XTRA en Espanol",
       "logoUrl": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
       "streamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8",
         "https://bein-esp-klowdtv.amagi.tv/playlist.m3u8",
         "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
       ],
@@ -1879,6 +1880,7 @@
       "name": "beIN SPORTS XTRA",
       "logoUrl": "https://beinxtraespanol.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",
       "streamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8",
         "https://bein-xtra-xumo.amagi.tv/playlist.m3u8",
         "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8"
       ],
