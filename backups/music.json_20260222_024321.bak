@@ -5018,7 +5018,6 @@
       "name": "Vantage Music",
       "logoUrl": "https://matterhorncommunications.com/wp-content/uploads/2023/03/vantage-full-logo-RGB.png",
       "streamUrls": [
-        "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8",
         "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8"
       ],
       "category": "Music",
