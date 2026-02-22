@@ -5227,7 +5227,8 @@
       "name": "Zee TV",
       "logoUrl": "https://pngset.com/images/zee-tv-zee-tv-logo-channel-text-metropolis-city-urban-transparent-png-1124165.png",
       "streamUrls": [
-        "http://161.248.38.40:8000/play/a08v/index.m3u8"
+        "http://161.248.38.40:8000/play/a08v/index.m3u8",
+        "http://103.229.254.25:7001/play/a0cs/index.m3u8"
       ],
       "category": "India"
     },
@@ -5386,8 +5387,8 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0db/index.m3u8",
-        "http://103.229.254.25:7001/play/a09s/index.m3u8"
+        "http://103.229.254.25:7001/play/a09s/index.m3u8",
+        "http://103.229.254.25:7001/play/a0db/index.m3u8"
       ],
       "category": "India",
       "languages": []
