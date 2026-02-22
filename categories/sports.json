@@ -2047,7 +2047,8 @@
       "name": "Star Sports 1 Hindi",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://161.248.38.40:8000/play/a06n/index.m3u8"
+        "http://161.248.38.40:8000/play/a06n/index.m3u8",
+        "http://161.248.38.40:8000/play/a071/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
