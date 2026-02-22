@@ -4519,7 +4519,6 @@
       "name": "Johnny Carson TV",
       "logoUrl": "https://m.media-amazon.com/images/S/pv-target-images/40d9d014d2b2b14b2d578f79d56fdbe5a0798c2104e626eecdb8f76930bab023.jpg",
       "streamUrls": [
-        "https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8",
         "https://johnnycarson-vizio.amagi.tv/playlist.m3u8"
       ],
       "category": "USA"
