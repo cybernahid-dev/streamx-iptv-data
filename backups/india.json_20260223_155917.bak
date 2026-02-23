@@ -523,7 +523,8 @@
       "name": "B4U Bhojpuri",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/03/B4u_bhojpuri.png/revision/latest/scale-to-width-down/300?cb=20210509203032",
       "streamUrls": [
-        "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8"
+        "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
+        "https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8"
       ],
       "category": "India"
     },
@@ -1929,7 +1930,6 @@
       "name": "Kaumudy TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Kaumudy_TV_Logo.jpg/250px-Kaumudy_TV_Logo.jpg",
       "streamUrls": [
-        "https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8",
         "https://mumt04.tangotv.in/KAUMUDYTV/index.m3u8"
       ],
       "category": "India"
