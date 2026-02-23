@@ -523,7 +523,6 @@
       "name": "B4U Bhojpuri",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/03/B4u_bhojpuri.png/revision/latest/scale-to-width-down/300?cb=20210509203032",
       "streamUrls": [
-        "https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8",
         "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8"
       ],
       "category": "India"
@@ -5227,8 +5226,8 @@
       "name": "Zee TV",
       "logoUrl": "https://pngset.com/images/zee-tv-zee-tv-logo-channel-text-metropolis-city-urban-transparent-png-1124165.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0cs/index.m3u8",
-        "http://161.248.38.40:8000/play/a08v/index.m3u8"
+        "http://161.248.38.40:8000/play/a08v/index.m3u8",
+        "http://103.229.254.25:7001/play/a0cs/index.m3u8"
       ],
       "category": "India"
     },
@@ -5387,8 +5386,8 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0db/index.m3u8",
-        "http://103.229.254.25:7001/play/a09s/index.m3u8"
+        "http://103.229.254.25:7001/play/a09s/index.m3u8",
+        "http://103.229.254.25:7001/play/a0db/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5603,6 +5602,16 @@
       "logoUrl": "https://www.pngkey.com/png/detail/825-8251348_zee-cinema-channel-logo.png",
       "streamUrls": [
         "http://103.99.249.139/zeecinema/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "JayaPlus.in",
+      "name": "Jaya Plus",
+      "logoUrl": "https://assets.airtel.in/static-assets/cms/dth/images/channellogo/JAYA-PLUS_LCN-790_264x144.png",
+      "streamUrls": [
+        "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8"
       ],
       "category": "India",
       "languages": []
