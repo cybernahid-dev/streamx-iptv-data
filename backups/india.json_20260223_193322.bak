@@ -231,7 +231,6 @@
       "name": "ANB News",
       "logoUrl": "https://static.wikia.nocookie.net/india-tv-channel/images/4/4c/ANB_News.jpeg/revision/latest?cb=20211211131312",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=anb-news&e=.m3u8",
         "https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8"
       ],
       "category": "India"
@@ -5428,6 +5427,7 @@
       "name": "Star Gold",
       "logoUrl": "https://www.vhv.rs/dpng/d/24-245112_star-gold-channel-logo-hd-png-download.png",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a0dd/index.m3u8",
         "http://103.99.249.139/stargold/index.m3u8"
       ],
       "category": "India",
