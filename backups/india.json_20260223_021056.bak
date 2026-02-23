@@ -5606,16 +5606,6 @@
       ],
       "category": "India",
       "languages": []
-    },
-    {
-      "id": "JayaPlus.in",
-      "name": "Jaya Plus",
-      "logoUrl": "https://assets.airtel.in/static-assets/cms/dth/images/channellogo/JAYA-PLUS_LCN-790_264x144.png",
-      "streamUrls": [
-        "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
     }
   ]
 }

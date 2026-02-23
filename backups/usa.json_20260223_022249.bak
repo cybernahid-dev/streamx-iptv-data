@@ -14119,16 +14119,6 @@
       ],
       "category": "USA",
       "languages": []
-    },
-    {
-      "id": "KUVNDT1.us",
-      "name": "KUVN-DT1",
-      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/7/79/KUVN_(2008).svg/revision/latest/scale-to-width-down/200?cb=20200730235453",
-      "streamUrls": [
-        "https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
     }
   ]
 }
