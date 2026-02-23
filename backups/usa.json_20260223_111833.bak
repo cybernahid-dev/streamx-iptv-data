@@ -3453,8 +3453,7 @@
       "name": "FYI",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI,_logo.svg/1200px-FYI,_logo.svg.png",
       "streamUrls": [
-        "https://tvpass.org/live/FYIEast/hd",
-        "https://tvpass.org/live/FYIEast/sd"
+        "https://tvpass.org/live/FYIEast/hd"
       ],
       "category": "USA"
     },
@@ -12338,8 +12337,7 @@
       "name": "KFMB-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd"
       ],
       "category": "USA"
     },
