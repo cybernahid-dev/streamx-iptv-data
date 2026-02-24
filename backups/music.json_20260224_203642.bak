@@ -243,8 +243,8 @@
       "name": "9X Tashan",
       "logoUrl": "https://png.pngitem.com/pimgs/s/613-6130656_9x-tashan-logo-png-transparent-png.png",
       "streamUrls": [
-        "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
-        "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8"
+        "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8",
+        "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
