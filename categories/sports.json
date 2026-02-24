@@ -2328,6 +2328,28 @@
       "category": "Sports",
       "languages": [],
       "genre": "Sports"
+    },
+    {
+      "id": "DraftKingsNetwork.us",
+      "name": "DraftKings Network",
+      "logoUrl": "https://companieslogo.com/img/orig/DKNG-e9ded183.png?t=1660587881",
+      "streamUrls": [
+        "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "GolfChannelLatinAmerica.us",
+      "name": "Golf Channel Latin America",
+      "logoUrl": "https://images.seeklogo.com/logo-png/32/1/golf-channel-latin-america-logo-png_seeklogo-327303.png",
+      "streamUrls": [
+        "http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
     }
   ]
 }

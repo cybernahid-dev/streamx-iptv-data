@@ -1250,7 +1250,7 @@
       "name": "Radio Turrialba TV Sports",
       "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiszRuLHkdy6yfB9DhuXWfNsmNnb8GU1qfA60COnjT15XRMXPeBgmaTBfYD2tWV-tvX1KrGgAa0IbmRRCiDNmH9umwevLAKfjun28RBfqoYFR5qStsXNtdaHYo5WK5zVDqaajGio3jIRJEdtu7fRy_rQwpfkRO2PtE4GV8s0dPQ4brRsY-NqRDM5WB_Qw/s320/RT+DEPORTES+LOGO+3.png",
       "streamUrls": [
-        "https://server5.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
+        "https://live20.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1691,7 +1691,6 @@
       "name": "beIN SPORTS XTRA en Espanol",
       "logoUrl": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
       "streamUrls": [
-        "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8",
         "https://bein-esp-klowdtv.amagi.tv/playlist.m3u8",
         "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
       ],
@@ -1880,7 +1879,6 @@
       "name": "beIN SPORTS XTRA",
       "logoUrl": "https://beinxtraespanol.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",
       "streamUrls": [
-        "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8",
         "https://bein-xtra-xumo.amagi.tv/playlist.m3u8",
         "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8"
       ],
@@ -2047,7 +2045,8 @@
       "name": "Star Sports 1 Hindi",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://161.248.38.40:8000/play/a06n/index.m3u8"
+        "http://161.248.38.40:8000/play/a06n/index.m3u8",
+        "http://161.248.38.40:8000/play/a071/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2281,6 +2280,50 @@
       "logoUrl": "https://seeklogo.com/images/S/suspilne-ukraine-logo-A2E9D6BD38-seeklogo.com.png",
       "streamUrls": [
         "https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "SportdigitalFUSSBALL.de",
+      "name": "Sportdigital FUSSBALL",
+      "logoUrl": "https://seeklogo.com/images/S/sportdigital-logo-54099B0CD9-seeklogo.com.png",
+      "streamUrls": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "TVPSport.pl",
+      "name": "TVP Sport",
+      "logoUrl": "https://www.freepnglogos.com/uploads/sport-png/tvp-sport-wikipedia-12.png",
+      "streamUrls": [
+        "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "ESPN8TheOcho.us",
+      "name": "ESPN8: The Ocho",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN8_The_Ocho_ESPN_Organization_Logo.svg/1200px-ESPN8_The_Ocho_ESPN_Organization_Logo.svg.png",
+      "streamUrls": [
+        "https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "MatchPlaneta.ru",
+      "name": "Match! Planeta",
+      "logoUrl": "https://ewsat.com/img/MATCH_PLANETA.png",
+      "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8"
       ],
       "category": "Sports",
       "languages": [],

@@ -2757,7 +2757,7 @@
       "name": "Comedy TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CTV_Comedy_Channel_2019.svg/800px-CTV_Comedy_Channel_2019.svg.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/Comedy_TV/index.m3u8"
+        "https://dvrfl04.tulix.tv/teleup-comedytv/mpegts"
       ],
       "category": "USA"
     },
@@ -14136,6 +14136,86 @@
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN8_The_Ocho_ESPN_Organization_Logo.svg/1200px-ESPN8_The_Ocho_ESPN_Organization_Logo.svg.png",
       "streamUrls": [
         "https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "CarsTV.us",
+      "name": "Cars.TV",
+      "logoUrl": "https://static.wikia.nocookie.net/dcba/images/6/69/Cars_title.png/revision/latest/scale-to-width-down/1200?cb=20230317014941",
+      "streamUrls": [
+        "https://dvrfl04.tulix.tv/teleup-carstv/mpegts"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "DraftKingsNetwork.us",
+      "name": "DraftKings Network",
+      "logoUrl": "https://companieslogo.com/img/orig/DKNG-e9ded183.png?t=1660587881",
+      "streamUrls": [
+        "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "GolfChannelLatinAmerica.us",
+      "name": "Golf Channel Latin America",
+      "logoUrl": "https://images.seeklogo.com/logo-png/32/1/golf-channel-latin-america-logo-png_seeklogo-327303.png",
+      "streamUrls": [
+        "http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "JusticeCentralTV.us",
+      "name": "Justice Central TV",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/4/4c/Justice_Central.TV.webp/revision/latest?cb=20220930102620",
+      "streamUrls": [
+        "https://dvrfl04.tulix.tv/teleup-justice/mpegts"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "Pasiones.us",
+      "name": "Pasiones",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png",
+      "streamUrls": [
+        "https://dvrfl04.tulix.tv/teleup-pasiones/mpegts"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "TelemundoInternacional.us",
+      "name": "Telemundo Internacional",
+      "logoUrl": "https://www.vhv.rs/dpng/d/178-1789268_telemundo-channel-logo-png-transparent-png.png",
+      "streamUrls": [
+        "http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "WSCVDT1.us",
+      "name": "WSCV-DT1",
+      "logoUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b69717d4-b12c-4f07-9520-05f39e7bb78f/dg5e8sm-81e1310f-b860-48e2-919b-85279694d6f0.png/v1/fit/w_375,h_281,q_70,strp/wscv_logo_by_rgbmetro_dg5e8sm-375w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvYjY5NzE3ZDQtYjEyYy00ZjA3LTk1MjAtMDVmMzllN2JiNzhmXC9kZzVlOHNtLTgxZTEzMTBmLWI4NjAtNDhlMi05MTliLTg1Mjc5Njk0ZDZmMC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OVfAr0XR8g846J4d15O4Vh7njZ9MWP2QqXTe4bS5Pes",
+      "streamUrls": [
+        "http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "WXXADT3.us",
+      "name": "WXXA-DT3",
+      "logoUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b1ceee5-9458-4434-80bc-fc5d83a2ea88/ddsmovg-5d4b40b2-07f4-46b0-bd91-d863e194b8c2.png/v1/fill/w_745,h_1072,q_70,strp/wxxa_tv_logo__owned_and_operated_style_by_unitedworldmedia_ddsmovg-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4OSIsInBhdGgiOiJcL2ZcLzRiMWNlZWU1LTk0NTgtNDQzNC04MGJjLWZjNWQ4M2EyZWE4OFwvZGRzbW92Zy01ZDRiNDBiMi0wN2Y0LTQ2YjAtYmQ5MS1kODYzZTE5NGI4YzIucG5nIiwid2lkdGgiOiI8PTc1NyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.N-zYJL6E81Z7QrA3bSYWnp04K0jPer_u71XlInV5DMo",
+      "streamUrls": [
+        "https://dvrfl04.tulix.tv/teleup-laff/mpegts"
       ],
       "category": "USA",
       "languages": []
