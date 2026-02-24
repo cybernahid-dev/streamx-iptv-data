@@ -14129,16 +14129,6 @@
       ],
       "category": "USA",
       "languages": []
-    },
-    {
-      "id": "ESPN8TheOcho.us",
-      "name": "ESPN8: The Ocho",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN8_The_Ocho_ESPN_Organization_Logo.svg/1200px-ESPN8_The_Ocho_ESPN_Organization_Logo.svg.png",
-      "streamUrls": [
-        "https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
     }
   ]
 }
