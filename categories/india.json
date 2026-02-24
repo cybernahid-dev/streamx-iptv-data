@@ -2718,6 +2718,7 @@
       "name": "Pratham Khabar 24x7",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/03/Pratham-khabar-logo-big.png/revision/latest/scale-to-width-down/180?cb=20220416151532",
       "streamUrls": [
+        "https://livelegitpro.in/hls2/newstime/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pratham-khabar-24x7/index.m3u8?ads.vf=QgFuUnK8bZ4"
       ],
       "category": "India"
@@ -3341,7 +3342,6 @@
       "name": "StarPlus",
       "logoUrl": "https://www.pngitem.com/pimgs/m/3-33009_star-plus-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a09z/index.m3u8",
         "http://103.229.254.25:7001/play/a09p/index.m3u8"
       ],
       "category": "India"
@@ -5294,7 +5294,6 @@
       "name": "Colors",
       "logoUrl": "https://i.pinimg.com/originals/8c/cb/16/8ccb1643a2752be053328459476d54d2.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a077/index.m3u8",
         "http://103.229.254.25:7001/play/a0a1/index.m3u8"
       ],
       "category": "India",
