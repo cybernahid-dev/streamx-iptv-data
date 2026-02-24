@@ -12338,7 +12338,8 @@
       "name": "KFMB-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd"
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
       ],
       "category": "USA"
     },
