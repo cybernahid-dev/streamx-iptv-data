@@ -231,6 +231,7 @@
       "name": "ANB News",
       "logoUrl": "https://static.wikia.nocookie.net/india-tv-channel/images/4/4c/ANB_News.jpeg/revision/latest?cb=20211211131312",
       "streamUrls": [
+        "https://keralive.com/yupp/tv.php?c=anb-news&e=.m3u8",
         "https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8"
       ],
       "category": "India"
@@ -3740,7 +3741,7 @@
       "name": "Ultimate TV",
       "logoUrl": "https://w7.pngwing.com/pngs/336/298/png-transparent-ultimatetv-hd-logo-thumbnail.png",
       "streamUrls": [
-        "https://stream.galaxyott.live/live/utv/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/utv/index.m3u8"
       ],
       "category": "India"
     },
@@ -3841,7 +3842,6 @@
       "name": "Vyas Channel",
       "logoUrl": "https://imgv2-1-f.scribdassets.com/img/document/789184059/original/d08c8e8f1d/1?v=1",
       "streamUrls": [
-        "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
         "https://hls.media.nic.in/hls/live/vyas/vyas.m3u8"
       ],
       "category": "India"
