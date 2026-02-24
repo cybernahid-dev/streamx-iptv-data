@@ -1661,6 +1661,7 @@
       "name": "INH 24x7",
       "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/e6/92/1ce69257-5040-d19a-0a7e-1bbf9f2c2fa1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-P3-85-220.png/1200x630wa.png",
       "streamUrls": [
+        "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
         "https://mumt01.tangotv.in/INH24X7/index.m3u8"
       ],
       "category": "India"
@@ -2187,6 +2188,7 @@
       "name": "Mh 1 News",
       "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyHl24fBbH8N8ItJuKAd9MaxO78ljNLUGT6SN_9rYWc5wkwZDf6MmzPrax5DXdweokogaEFwkhcBFX4lkG13eO_oOOhbaobYH2TpewShwIAjlzVPMVfDa7uxLBObix6zCOVx3iipxG44TIUehn3r5VCnh9r9CcTm1s5YTo9bHsh7Jcy1wVKxlybUrf/s16000-rw/mh-one-dil-se-tv-channel-on-dd-freedish-dth-channel-number-satellite-frequency.jpg",
       "streamUrls": [
+        "https://livestream.jswk.online/mhonenews/live/index.m3u8",
         "https://mumt04.tangotv.in/MHONENEWS/index.m3u8"
       ],
       "category": "India"
@@ -3840,7 +3842,6 @@
       "name": "Vyas Channel",
       "logoUrl": "https://imgv2-1-f.scribdassets.com/img/document/789184059/original/d08c8e8f1d/1?v=1",
       "streamUrls": [
-        "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
         "https://hls.media.nic.in/hls/live/vyas/vyas.m3u8"
       ],
       "category": "India"
