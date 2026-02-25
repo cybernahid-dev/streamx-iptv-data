@@ -2350,17 +2350,6 @@
       "category": "Sports",
       "languages": [],
       "genre": "Sports"
-    },
-    {
-      "id": "ORFSportPlus.at",
-      "name": "ORF Sport+",
-      "logoUrl": "https://oesterreichprogramm.at/wp-content/uploads/2023/01/senderlogo-oesterreichprogramm-orfsport.png",
-      "streamUrls": [
-        "http://87.106.2.165:8443/orfsporthd/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
     }
   ]
 }

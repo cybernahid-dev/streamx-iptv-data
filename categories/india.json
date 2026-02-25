@@ -191,7 +191,8 @@
       "name": "ABP Ganga",
       "logoUrl": "https://latestlogo.com/wp-content/uploads/2024/06/abp-ganga-logo.svg",
       "streamUrls": [
-        "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8"
+        "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8?ads.vf=Qt4pY2nrQ0y"
       ],
       "category": "India"
     },

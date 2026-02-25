@@ -5412,17 +5412,6 @@
       "category": "Music",
       "languages": [],
       "genre": "Music"
-    },
-    {
-      "id": "DTRMusic1.ru",
-      "name": "DTR Music 1",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=61565337098378",
-      "streamUrls": [
-        "https://kino-stream.online/hls/DTRMUSIC1.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
     }
   ]
 }

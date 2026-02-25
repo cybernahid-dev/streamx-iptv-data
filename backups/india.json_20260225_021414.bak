@@ -191,7 +191,6 @@
       "name": "ABP Ganga",
       "logoUrl": "https://latestlogo.com/wp-content/uploads/2024/06/abp-ganga-logo.svg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8?ads.vf=Qt4pY2nrQ0y",
         "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8"
       ],
       "category": "India"
@@ -2718,6 +2717,7 @@
       "name": "Pratham Khabar 24x7",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/03/Pratham-khabar-logo-big.png/revision/latest/scale-to-width-down/180?cb=20220416151532",
       "streamUrls": [
+        "https://livelegitpro.in/hls2/newstime/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pratham-khabar-24x7/index.m3u8?ads.vf=QgFuUnK8bZ4"
       ],
       "category": "India"
@@ -3341,8 +3341,8 @@
       "name": "StarPlus",
       "logoUrl": "https://www.pngitem.com/pimgs/m/3-33009_star-plus-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a09z/index.m3u8",
-        "http://103.229.254.25:7001/play/a09p/index.m3u8"
+        "http://103.229.254.25:7001/play/a09p/index.m3u8",
+        "http://103.229.254.25:7001/play/a09z/index.m3u8"
       ],
       "category": "India"
     },
@@ -3841,7 +3841,8 @@
       "name": "Vyas Channel",
       "logoUrl": "https://imgv2-1-f.scribdassets.com/img/document/789184059/original/d08c8e8f1d/1?v=1",
       "streamUrls": [
-        "https://hls.media.nic.in/hls/live/vyas/vyas.m3u8"
+        "https://hls.media.nic.in/hls/live/vyas/vyas.m3u8",
+        "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
       ],
       "category": "India"
     },
