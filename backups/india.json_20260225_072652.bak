@@ -191,8 +191,8 @@
       "name": "ABP Ganga",
       "logoUrl": "https://latestlogo.com/wp-content/uploads/2024/06/abp-ganga-logo.svg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8?ads.vf=Qt4pY2nrQ0y",
-        "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8"
+        "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8?ads.vf=Qt4pY2nrQ0y"
       ],
       "category": "India"
     },
@@ -457,6 +457,7 @@
       "name": "Argus News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/df/Argus_News.jpeg/revision/latest/scale-to-width-down/250?cb=20200804122252",
       "streamUrls": [
+        "https://keralive.com/yupp/tv.php?c=argus-news&e=.m3u8",
         "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8"
       ],
       "category": "India"
@@ -4385,7 +4386,8 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a06r/index.m3u8"
+        "http://103.229.254.25:7001/play/a06r/index.m3u8",
+        "http://103.113.103.202:8001/play/a02s/index.m3u8"
       ],
       "category": "India"
     },

@@ -2268,8 +2268,7 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
-        "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
-        "http://103.113.103.202:8001/play/a028/index.m3u8"
+        "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2358,28 +2357,6 @@
       "logoUrl": "https://oesterreichprogramm.at/wp-content/uploads/2023/01/senderlogo-oesterreichprogramm-orfsport.png",
       "streamUrls": [
         "http://87.106.2.165:8443/orfsporthd/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "StarSportsSelect1.in",
-      "name": "Star Sports Select 1",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436",
-      "streamUrls": [
-        "http://103.113.103.202:8001/play/a02e/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "StarSportsSelect2.in",
-      "name": "Star Sports Select 2",
-      "logoUrl": "https://static.wikia.nocookie.net/logos/images/4/48/Star_Sports_Select_2.png/revision/latest?cb=20250209084250&path-prefix=vi",
-      "streamUrls": [
-        "http://103.113.103.202:8001/play/a02q/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
