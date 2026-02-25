@@ -2030,8 +2030,8 @@
       "name": "Vyas Channel",
       "logoUrl": "https://pbs.twimg.com/profile_images/1305910625390919680/xFY4vZK4_400x400.jpg",
       "streamUrls": [
-        "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
-        "https://hls.media.nic.in/hls/live/vyas/vyas.m3u8"
+        "https://hls.media.nic.in/hls/live/vyas/vyas.m3u8",
+        "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2277,7 +2277,7 @@
       "name": "National Geographic",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png",
       "streamUrls": [
-        "http://122.165.240.223:1234/stream/zio/nghd/master.m3u8"
+        "http://103.113.103.202:8001/play/a007/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2287,7 +2287,7 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a06r/index.m3u8"
+        "http://103.113.103.202:8001/play/a02s/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
