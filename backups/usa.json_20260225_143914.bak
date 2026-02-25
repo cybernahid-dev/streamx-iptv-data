@@ -4379,7 +4379,6 @@
       "name": "Impact Network",
       "logoUrl": "https://cdn.mos.cms.futurecdn.net/aptefFQ6yRHRVEv2e5M5uc.png",
       "streamUrls": [
-        "https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8",
         "http://51.75.94.167/impact/index.m3u8"
       ],
       "category": "USA"
