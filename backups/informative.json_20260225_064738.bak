@@ -2277,7 +2277,7 @@
       "name": "National Geographic",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png",
       "streamUrls": [
-        "http://103.113.103.202:8001/play/a007/index.m3u8"
+        "http://122.165.240.223:1234/stream/zio/nghd/master.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2287,8 +2287,7 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a06r/index.m3u8",
-        "http://103.113.103.202:8001/play/a02s/index.m3u8"
+        "http://103.229.254.25:7001/play/a06r/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"

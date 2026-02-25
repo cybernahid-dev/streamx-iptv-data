@@ -12338,8 +12338,7 @@
       "name": "KFMB-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd"
       ],
       "category": "USA"
     },
@@ -14216,6 +14215,16 @@
       "logoUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b1ceee5-9458-4434-80bc-fc5d83a2ea88/ddsmovg-5d4b40b2-07f4-46b0-bd91-d863e194b8c2.png/v1/fill/w_745,h_1072,q_70,strp/wxxa_tv_logo__owned_and_operated_style_by_unitedworldmedia_ddsmovg-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4OSIsInBhdGgiOiJcL2ZcLzRiMWNlZWU1LTk0NTgtNDQzNC04MGJjLWZjNWQ4M2EyZWE4OFwvZGRzbW92Zy01ZDRiNDBiMi0wN2Y0LTQ2YjAtYmQ5MS1kODYzZTE5NGI4YzIucG5nIiwid2lkdGgiOiI8PTc1NyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.N-zYJL6E81Z7QrA3bSYWnp04K0jPer_u71XlInV5DMo",
       "streamUrls": [
         "https://dvrfl04.tulix.tv/teleup-laff/mpegts"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "LittleGuyanaTV.us",
+      "name": "Little Guyana TV",
+      "logoUrl": "https://opengraph.githubassets.com/6447e426b0ee6e489ee8f66c92ff111a8055879bd9a82b9cf034f5cdbae568cb/iptv-org/iptv/issues/15270",
+      "streamUrls": [
+        "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8"
       ],
       "category": "USA",
       "languages": []
