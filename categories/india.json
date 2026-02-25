@@ -5584,6 +5584,7 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
+        "http://103.113.103.202:8001/play/a028/index.m3u8",
         "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
       ],
       "category": "India",
@@ -5604,6 +5605,7 @@
       "name": "Zee Cinema",
       "logoUrl": "https://www.pngkey.com/png/detail/825-8251348_zee-cinema-channel-logo.png",
       "streamUrls": [
+        "http://103.113.103.202:8001/play/a005/index.m3u8",
         "http://103.99.249.139/zeecinema/index.m3u8"
       ],
       "category": "India",
