@@ -191,8 +191,8 @@
       "name": "ABP Ganga",
       "logoUrl": "https://latestlogo.com/wp-content/uploads/2024/06/abp-ganga-logo.svg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8?ads.vf=Qt4pY2nrQ0y",
-        "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8"
+        "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8?ads.vf=Qt4pY2nrQ0y"
       ],
       "category": "India"
     },
@@ -4305,7 +4305,7 @@
       "name": "Anmol Cinema",
       "logoUrl": "https://w7.pngwing.com/pngs/330/556/png-transparent-zee-anmol-cinema-zee-entertainment-enterprises-dd-free-dish-television-channel-others-purple-television-text-thumbnail.png",
       "streamUrls": [
-        "http://103.78.149.54:8000/play/a01f/index.m3u8"
+        "http://103.113.103.202:8001/play/a017/index.m3u8"
       ],
       "category": "India"
     },
@@ -4377,7 +4377,7 @@
       "name": "National Geographic",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png",
       "streamUrls": [
-        "http://122.165.240.223:1234/stream/zio/nghd/master.m3u8"
+        "http://103.113.103.202:8001/play/a007/index.m3u8"
       ],
       "category": "India"
     },
@@ -4386,7 +4386,8 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a06r/index.m3u8"
+        "http://103.229.254.25:7001/play/a06r/index.m3u8",
+        "http://103.113.103.202:8001/play/a02s/index.m3u8"
       ],
       "category": "India"
     },
@@ -4792,7 +4793,8 @@
       "name": "Sony Entertainment Television",
       "logoUrl": "https://logodix.com/logo/508293.png",
       "streamUrls": [
-        "http://217.20.112.199/sethd/index.m3u8"
+        "http://217.20.112.199/sethd/index.m3u8",
+        "http://103.113.103.202:8001/play/a02z/index.m3u8"
       ],
       "category": "India"
     },
@@ -5582,6 +5584,7 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
+        "http://103.113.103.202:8001/play/a028/index.m3u8",
         "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
       ],
       "category": "India",
@@ -5602,6 +5605,7 @@
       "name": "Zee Cinema",
       "logoUrl": "https://www.pngkey.com/png/detail/825-8251348_zee-cinema-channel-logo.png",
       "streamUrls": [
+        "http://103.113.103.202:8001/play/a005/index.m3u8",
         "http://103.99.249.139/zeecinema/index.m3u8"
       ],
       "category": "India",
@@ -5613,6 +5617,96 @@
       "logoUrl": "https://assets.airtel.in/static-assets/cms/dth/images/channellogo/JAYA-PLUS_LCN-790_264x144.png",
       "streamUrls": [
         "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "Andflix.in",
+      "name": "&flix",
+      "logoUrl": "https://content.presspage.com/clients/o_2327.png",
+      "streamUrls": [
+        "http://103.113.103.202:8001/play/a02k/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SonyMax.in",
+      "name": "Sony Max",
+      "logoUrl": "https://seeklogo.com/images/S/sony-max-logo-70C4C2A5DA-seeklogo.com.png",
+      "streamUrls": [
+        "http://103.113.103.202:8001/play/a025/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SonyMax2.in",
+      "name": "Sony Max 2",
+      "logoUrl": "https://i.ytimg.com/vi/nG3rmKha0cU/hqdefault.jpg",
+      "streamUrls": [
+        "http://103.113.103.202:8001/play/a002/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "StarBharat.in",
+      "name": "Star Bharat",
+      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Star_Bharat_logo.jpg/revision/latest?cb=20180530150536",
+      "streamUrls": [
+        "http://103.113.103.202:8001/play/a01z/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "StarGoldRomance.in",
+      "name": "Star Gold Romance",
+      "logoUrl": "https://indiantvinfo.com/media/2023/03/Star-Gold-Romance-Logo-768x838.png",
+      "streamUrls": [
+        "http://103.113.103.202:8001/play/a029/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "StarMovies.in",
+      "name": "Star Movies",
+      "logoUrl": "https://images.seeklogo.com/logo-png/52/1/star-movies-logo-png_seeklogo-523979.png",
+      "streamUrls": [
+        "http://103.113.103.202:8001/play/a02j/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "StarMoviesSelect.in",
+      "name": "Star Movies Select",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest/scale-to-width-down/300?cb=20240313194438",
+      "streamUrls": [
+        "http://103.113.103.202:8001/play/a02i/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "StarSportsSelect1.in",
+      "name": "Star Sports Select 1",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436",
+      "streamUrls": [
+        "http://103.113.103.202:8001/play/a02e/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "StarSportsSelect2.in",
+      "name": "Star Sports Select 2",
+      "logoUrl": "https://static.wikia.nocookie.net/logos/images/4/48/Star_Sports_Select_2.png/revision/latest?cb=20250209084250&path-prefix=vi",
+      "streamUrls": [
+        "http://103.113.103.202:8001/play/a02q/index.m3u8"
       ],
       "category": "India",
       "languages": []
