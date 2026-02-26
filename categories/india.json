@@ -3425,7 +3425,6 @@
       "name": "Sun Music",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20180318045647",
       "streamUrls": [
-        "http://198.27.83.207:2550/SUN_MUSIC_SD/index.m3u8",
         "http://15.235.144.106:14055"
       ],
       "category": "India"
@@ -4255,7 +4254,6 @@
       "name": "Sun TV",
       "logoUrl": "https://clipground.com/images/sun-tv-logo-png-9.png",
       "streamUrls": [
-        "http://198.27.83.207:2550/SUN_TV_SD/index.m3u8",
         "http://15.235.144.106:14054",
         "http://103.229.254.25:7001/play/a06x/index.m3u8"
       ],
@@ -4386,7 +4384,8 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a06r/index.m3u8"
+        "http://103.229.254.25:7001/play/a06r/index.m3u8",
+        "http://103.113.103.202:8001/play/a02s/index.m3u8"
       ],
       "category": "India"
     },
@@ -5583,7 +5582,8 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
-        "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
+        "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
+        "http://103.113.103.202:8001/play/a028/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5603,7 +5603,8 @@
       "name": "Zee Cinema",
       "logoUrl": "https://www.pngkey.com/png/detail/825-8251348_zee-cinema-channel-logo.png",
       "streamUrls": [
-        "http://103.99.249.139/zeecinema/index.m3u8"
+        "http://103.99.249.139/zeecinema/index.m3u8",
+        "http://103.113.103.202:8001/play/a005/index.m3u8"
       ],
       "category": "India",
       "languages": []
