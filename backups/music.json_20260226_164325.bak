@@ -3525,9 +3525,7 @@
       "name": "Shanson TV",
       "logoUrl": "https://seeklogo.com/images/S/shanson-tv-logo-3FDB29680C-seeklogo.com.png",
       "streamUrls": [
-        "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
-        "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
-        "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
+        "https://uiptv.do.am/1ufc/602079679/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
