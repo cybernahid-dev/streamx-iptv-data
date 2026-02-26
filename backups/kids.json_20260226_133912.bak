@@ -2237,17 +2237,6 @@
       "category": "Kids",
       "languages": [],
       "genre": "Kids"
-    },
-    {
-      "id": "KidZoneMax.ee",
-      "name": "KidZone Max",
-      "logoUrl": "https://brandlogo.org/wp-content/uploads/2024/05/KidZone-Max-Logo.png",
-      "streamUrls": [
-        "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
     }
   ]
 }
