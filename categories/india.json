@@ -1547,7 +1547,8 @@
       "name": "HNN 24x7",
       "logoUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ee84e049201181.58adc36b3af9a.jpg",
       "streamUrls": [
-        "https://mumt02.tangotv.in/HNN24X7/index.m3u8"
+        "https://mumt02.tangotv.in/HNN24X7/index.m3u8",
+        "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8"
       ],
       "category": "India"
     },
@@ -5388,6 +5389,7 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a09s/index.m3u8",
         "http://103.229.254.25:7001/play/a0db/index.m3u8"
       ],
       "category": "India",
@@ -5582,6 +5584,7 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
+        "http://103.113.103.202:8001/play/a028/index.m3u8",
         "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
       ],
       "category": "India",
