@@ -5298,6 +5298,7 @@
       "name": "Colors",
       "logoUrl": "https://i.pinimg.com/originals/8c/cb/16/8ccb1643a2752be053328459476d54d2.png",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a077/index.m3u8",
         "http://103.229.254.25:7001/play/a0a1/index.m3u8"
       ],
       "category": "India",
