@@ -12441,8 +12441,8 @@
       "name": "Fox Business Network",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/1280px-Fox_Business.svg.png",
       "streamUrls": [
-        "https://tvpass.org/live/FoxBusiness/sd",
-        "https://tvpass.org/live/FoxBusiness/hd"
+        "https://tvpass.org/live/FoxBusiness/hd",
+        "https://tvpass.org/live/FoxBusiness/sd"
       ],
       "category": "USA",
       "languages": []
