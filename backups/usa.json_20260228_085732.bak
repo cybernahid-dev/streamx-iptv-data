@@ -1564,7 +1564,6 @@
       "name": "Biz TV",
       "logoUrl": "https://w7.pngwing.com/pngs/404/78/png-transparent-biz-tv-hd-logo.png",
       "streamUrls": [
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
         "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
       ],
       "category": "USA"
@@ -10469,7 +10468,8 @@
       "name": "USA TODAY",
       "logoUrl": "https://freelogopng.com/images/all_img/1684128062usa-today-logo-transparent.png",
       "streamUrls": [
-        "https://usatodaynews-xumo.amagi.tv/playlist.m3u8"
+        "https://usatodaynews-xumo.amagi.tv/playlist.m3u8",
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -11726,7 +11726,7 @@
       "name": "WTVJ-DT1",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/WTVJ_(2012_-_Flat).svg/180px-WTVJ_(2012_-_Flat).svg.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/FL_Miami_NBC/index.m3u8"
+        "https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8"
       ],
       "category": "USA"
     },
