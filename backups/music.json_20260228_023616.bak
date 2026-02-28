@@ -5444,17 +5444,6 @@
       "category": "Music",
       "languages": [],
       "genre": "Music"
-    },
-    {
-      "id": "B4UHitz.in",
-      "name": "B4U Hitz",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/b4u-hitz-in.png",
-      "streamUrls": [
-        "http://115.42.65.142:9981/stream/channelid/1099703605"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
     }
   ]
 }
