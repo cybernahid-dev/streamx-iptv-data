@@ -2383,17 +2383,6 @@
       "category": "Sports",
       "languages": [],
       "genre": "Sports"
-    },
-    {
-      "id": "JiangsuSportsLeisureChannel.cn",
-      "name": "Jiangsu Sports & Leisure Channel",
-      "logoUrl": "https://www.pngkey.com/png/detail/616-6167035_jiangsu-tv-logo.png",
-      "streamUrls": [
-        "http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
     }
   ]
 }
