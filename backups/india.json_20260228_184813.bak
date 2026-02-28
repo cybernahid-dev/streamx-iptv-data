@@ -151,9 +151,8 @@
       "name": "9X Jhakaas",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/81/9X_Jhakaas_2011.jpg/revision/latest/scale-to-width-down/220?cb=20180603140119",
       "streamUrls": [
-        "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
-        "https://cdn-3.pishow.tv/live/6/master.m3u8",
-        "https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8"
+        "https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8",
+        "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8"
       ],
       "category": "India"
     },
