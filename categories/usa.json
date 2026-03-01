@@ -7044,9 +7044,9 @@
       "name": "Outside TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/640px-Outdoor_Channel_logo_2017.svg.png",
       "streamUrls": [
-        "https://aegis-cloudfront-1.tubi.video/14e92b99-6a44-4e9d-9959-dd9ac76884b3/playlist.m3u8",
         "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
-        "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8"
+        "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8?ads.vf=BVLn-mj0VD4"
       ],
       "category": "USA"
     },
