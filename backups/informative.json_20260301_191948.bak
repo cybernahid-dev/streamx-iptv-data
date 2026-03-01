@@ -1351,7 +1351,6 @@
       "name": "Nauka",
       "logoUrl": "https://e7.pngegg.com/pngimages/901/934/png-clipart-nauka-2-Наука-2-discovery-world-science-product-design-discovery-id-tv-channel-text-trademark.png",
       "streamUrls": [
-        "http://31.148.48.15/Nauka_2.0/index.m3u8",
         "https://vod.tuva.ru/nauka2/index.m3u8"
       ],
       "category": "Informative",
@@ -1818,8 +1817,6 @@
       "name": "TERRA",
       "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFGMvPOZtk3xg/company-logo_200_200/company-logo_200_200/0/1630555655333/terratvltd_logo?e=2147483647&v=beta&t=p3-neUX_37PjBI9TduwFtjS1dxfEF2Y4osqNVua19Kg",
       "streamUrls": [
-        "http://31.148.48.15/Terra/index.m3u8",
-        "http://31.148.48.15/Terra_HD/index.m3u8",
         "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8"
       ],
       "category": "Informative",
@@ -2530,61 +2527,6 @@
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/TRT_EBA_TV_İlkokul_logo.svg/300px-TRT_EBA_TV_İlkokul_logo.svg.png?20220225175941",
       "streamUrls": [
         "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "scifi.ru",
-      "name": ".sci-fi",
-      "logoUrl": "https://www.nicepng.com/png/detail/290-2900763_sci-fi-channel-sci-fi-tv-logo.png",
-      "streamUrls": [
-        "http://31.148.48.15/SONY_SCI_FI/index.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "365daysTV.ru",
-      "name": "365 days TV",
-      "logoUrl": "https://e7.pngegg.com/pngimages/302/314/png-clipart-365-days-tv-television-channel-digital-television-television-show-logo-office-365-television-text.png",
-      "streamUrls": [
-        "http://31.148.48.15/365_dney/index.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "Doctor.ru",
-      "name": "Doctor",
-      "logoUrl": "https://drtvchannel.com/wp-content/uploads/2024/08/DrTV-logo.png",
-      "streamUrls": [
-        "http://31.148.48.15/Doktor/index.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "EnglishClass.ru",
-      "name": "English Class",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066957054978",
-      "streamUrls": [
-        "http://31.148.48.15/English_club_TV_HD/index.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "Ktoestkto.ru",
-      "name": "Kto est kto",
-      "logoUrl": "https://kto-production.eu-west-3.ancdn.tv/configuration/trajbyigDurjqGradpyichibKendyimq/data/images/815faedfb30d220e28dc930c0607e628a4ec698ea9e302f01f88e99ec210e585.png",
-      "streamUrls": [
-        "http://31.148.48.15/Kto_est_kto/index.m3u8"
       ],
       "category": "Informative",
       "languages": [],

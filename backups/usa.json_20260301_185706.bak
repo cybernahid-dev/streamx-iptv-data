@@ -12349,6 +12349,7 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
+        "https://tvpass.org/live/nbc-sports-bay-area/hd",
         "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
@@ -14308,16 +14309,6 @@
       "logoUrl": "https://www.rbr.com/wp-content/uploads/True-Crime-Network-Logo.png",
       "streamUrls": [
         "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "MMATV.us",
-      "name": "MMA TV",
-      "logoUrl": "https://w7.pngwing.com/pngs/80/867/png-transparent-fight-channel-television-channel-high-definition-television-broadcasting-mma-event-television-angle-logo.png",
-      "streamUrls": [
-        "http://31.148.48.15/M1_Global/index.m3u8"
       ],
       "category": "USA",
       "languages": []

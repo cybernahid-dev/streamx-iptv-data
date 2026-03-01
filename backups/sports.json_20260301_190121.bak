@@ -943,8 +943,7 @@
       "name": "Match! Strana",
       "logoUrl": "https://iconape.com/wp-content/png_logo_vector/match-strana-logo.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Strana/index.m3u8",
-        "http://31.148.48.15/Match_Nash_Sport/index.m3u8"
+        "http://31.148.48.15/Match_Strana/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1954,7 +1953,7 @@
       "name": "Star Sports 2",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",
       "streamUrls": [
-        "http://103.121.6.5:8000/play/a05u/index.m3u8"
+        "http://122.165.240.223:1234/stream/tp/sp2/master.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1984,7 +1983,6 @@
       "name": "Sony Sports Ten 3 Hindi",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://116.90.120.128:8000/play/a0jr/index.m3u88",
         "http://103.229.254.25:7001/play/a09q/index.m3u8"
       ],
       "category": "Sports",
@@ -2415,118 +2413,6 @@
       "streamUrls": [
         "https://tvpass.org/live/FoxSports2/sd",
         "https://tvpass.org/live/FoxSports2/hd"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "BoksTV.ru",
-      "name": "Boks TV",
-      "logoUrl": "https://www.vhv.rs/dpng/d/560-5605996_tv-network-logos-png-png-transparent-tv-channel.png",
-      "streamUrls": [
-        "http://31.148.48.15/Boks_TV/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "KHL.ru",
-      "name": "KHL",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/KHL_2025-26_logo.svg/330px-KHL_2025-26_logo.svg.png",
-      "streamUrls": [
-        "http://31.148.48.15/KHL_TV/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "KHLPrime.ru",
-      "name": "KHL Prime",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/3c/KHL_Prime.svg/revision/latest/scale-to-width-down/200?cb=20210904092250",
-      "streamUrls": [
-        "http://31.148.48.15/KHL_TV_HD/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "MMATV.us",
-      "name": "MMA TV",
-      "logoUrl": "https://w7.pngwing.com/pngs/80/867/png-transparent-fight-channel-television-channel-high-definition-television-broadcasting-mma-event-television-angle-logo.png",
-      "streamUrls": [
-        "http://31.148.48.15/M1_Global/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "MatchArena.ru",
-      "name": "Match! Arena",
-      "logoUrl": "https://imb-plus.tv/wp-content/uploads/2024/04/match-arena.png",
-      "streamUrls": [
-        "http://31.148.48.15/Match_Arena_HD/index.m3u8",
-        "http://31.148.48.15/Match_Arena/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "MatchBoets.ru",
-      "name": "Match! Boets",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/59/Боец.svg/revision/latest/scale-to-width-down/149?cb=20220924123255",
-      "streamUrls": [
-        "http://31.148.48.15/Match_Boec/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "MatchIgra.ru",
-      "name": "Match! Igra",
-      "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/2gg6sl1642095135.png",
-      "streamUrls": [
-        "http://31.148.48.15/Match_Igra_HD/index.m3u8",
-        "http://31.148.48.15/Match_Igra/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "RussianExtreme.ru",
-      "name": "Russian Extreme",
-      "logoUrl": "https://www.nicepng.com/png/detail/284-2844478_russian-extreme-tv-channel-replaces-extreme-russian-extreme.png",
-      "streamUrls": [
-        "http://31.148.48.15/Russkiy_Ekstrim/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "SonySportsTen1.in",
-      "name": "Sony Sports Ten 1",
-      "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
-      "streamUrls": [
-        "http://103.121.6.5:8000/play/a05w/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "StarSports3.in",
-      "name": "Star Sports 3",
-      "logoUrl": "https://w7.pngwing.com/pngs/734/315/png-transparent-cricket-world-cup-star-sports-3-streaming-media-ptv-sports-live-stream-television-text-sport.png",
-      "streamUrls": [
-        "http://103.121.6.5:8000/play/a05y/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],

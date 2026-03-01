@@ -151,8 +151,9 @@
       "name": "9X Jhakaas",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/81/9X_Jhakaas_2011.jpg/revision/latest/scale-to-width-down/220?cb=20180603140119",
       "streamUrls": [
-        "https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8",
-        "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8"
+        "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
+        "https://cdn-3.pishow.tv/live/6/master.m3u8",
+        "https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8"
       ],
       "category": "India"
     },
@@ -1501,7 +1502,8 @@
       "name": "GoodNews TV",
       "logoUrl": "https://i.imgur.com/ZrvoGqS.png",
       "streamUrls": [
-        "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"
+        "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8",
+        "https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8"
       ],
       "category": "India"
     },
@@ -2671,8 +2673,8 @@
       "name": "Pitaara",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/25/Pitaara_2.jpeg/revision/latest/scale-to-width-down/200?cb=20191219155318",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8?ads.vf=V4Xjmw6miLy",
-        "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8"
+        "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8?ads.vf=V4Xjmw6miLy"
       ],
       "category": "India"
     },
@@ -3084,7 +3086,8 @@
       "name": "Sana Plus",
       "logoUrl": "https://play-lh.googleusercontent.com/dlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ",
       "streamUrls": [
-        "https://galaxyott.live/hls/sanaplus.m3u8"
+        "https://galaxyott.live/hls/sanaplus.m3u8",
+        "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8"
       ],
       "category": "India"
     },
@@ -3749,7 +3752,6 @@
       "name": "V6 News",
       "logoUrl": "https://www.m9.news/wp-content/uploads/2023/10/V6-Channel.jpg",
       "streamUrls": [
-        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8",
         "https://cdn-1.pishow.tv/live/389/master.m3u8"
       ],
       "category": "India"
@@ -5712,6 +5714,36 @@
       "logoUrl": "https://www.lyngsat.com/logo/tv/bb/b4u-hitz-in.png",
       "streamUrls": [
         "http://115.42.65.142:9981/stream/channelid/1099703605"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "MHOneMovies.in",
+      "name": "MH One Movies",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f9/Mh-one.png/revision/latest/scale-to-width-down/250?cb=20230126181929",
+      "streamUrls": [
+        "https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "MoviePlex.in",
+      "name": "MoviePlex",
+      "logoUrl": "https://images.seeklogo.com/logo-png/32/2/movieplex-logo-png_seeklogo-323624.png?v=1957739776799512152",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "PeaceofMindTV.in",
+      "name": "Peace of Mind TV",
+      "logoUrl": "https://peaceofmind.tv/wp-content/uploads/2022/04/pmtv-Logo.png",
+      "streamUrls": [
+        "https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8"
       ],
       "category": "India",
       "languages": []

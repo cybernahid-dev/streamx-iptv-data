@@ -3752,6 +3752,7 @@
       "name": "V6 News",
       "logoUrl": "https://www.m9.news/wp-content/uploads/2023/10/V6-Channel.jpg",
       "streamUrls": [
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8",
         "https://cdn-1.pishow.tv/live/389/master.m3u8"
       ],
       "category": "India"
@@ -4048,7 +4049,7 @@
       "name": "Zee Talkies",
       "logoUrl": "https://www.pngitem.com/pimgs/m/530-5308931_zee-talkies-hd-channel-logo-hd-png-download.png",
       "streamUrls": [
-        "http://103.52.34.182:8001/play/a04r/index.m3u8"
+        "http://116.90.120.128:8000/play/a0io/index.m3u88"
       ],
       "category": "India"
     },
@@ -4404,7 +4405,7 @@
       "name": "Star Sports 2",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",
       "streamUrls": [
-        "http://122.165.240.223:1234/stream/tp/sp2/master.m3u8"
+        "http://103.121.6.5:8000/play/a05u/index.m3u8"
       ],
       "category": "India"
     },
@@ -4746,7 +4747,7 @@
       "name": "Zee Biskope",
       "logoUrl": "https://latestlogo.com/wp-content/uploads/2025/06/zee-biskope-logo-scaled.png",
       "streamUrls": [
-        "http://103.78.149.54:8000/play/a00x/index.m3u8"
+        "http://116.90.120.128:8000/play/a0kf/index.m3u88"
       ],
       "category": "India"
     },
@@ -4764,6 +4765,7 @@
       "name": "Sony Sports Ten 3 Hindi",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
       "streamUrls": [
+        "http://116.90.120.128:8000/play/a0jr/index.m3u88",
         "http://103.229.254.25:7001/play/a09q/index.m3u8"
       ],
       "category": "India"
@@ -5028,7 +5030,7 @@
       "name": "MNX",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png/revision/latest/scale-to-width-down/250?cb=20200114193517",
       "streamUrls": [
-        "http://161.248.38.40:8000/play/a07f/index.m3u8"
+        "http://116.90.120.128:8000/play/a0i6/index.m3u88"
       ],
       "category": "India"
     },
@@ -5336,7 +5338,7 @@
       "name": "KTV",
       "logoUrl": "https://seeklogo.com/images/K/ktv-logo-703754480A-seeklogo.com.png",
       "streamUrls": [
-        "http://198.27.83.207:2550/KTV_SD/index.m3u8"
+        "http://103.121.6.5:8000/play/a05i/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5653,7 +5655,7 @@
       "name": "Star Bharat",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Star_Bharat_logo.jpg/revision/latest?cb=20180530150536",
       "streamUrls": [
-        "http://103.113.103.202:8001/play/a01z/index.m3u8"
+        "http://103.121.6.5:8000/play/a05z/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5744,6 +5746,56 @@
       "logoUrl": "https://peaceofmind.tv/wp-content/uploads/2022/04/pmtv-Logo.png",
       "streamUrls": [
         "https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "MoviesNowPlus.in",
+      "name": "Movies Now +",
+      "logoUrl": "https://w7.pngwing.com/pngs/922/754/png-transparent-movies-now-television-channel-high-definition-television-mn-movies-miscellaneous-television-text.png",
+      "streamUrls": [
+        "http://116.90.120.128:8000/play/a0i4/index.m3u88"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "NickHDPlus.in",
+      "name": "Nick HD+",
+      "logoUrl": "https://www.nicepng.com/png/full/639-6391070_nickelodeon-hdtv-nick-jr-nickelodeon-logo.png",
+      "streamUrls": [
+        "http://116.90.120.128:8000/play/a0i3/index.m3u88"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SonySportsTen1.in",
+      "name": "Sony Sports Ten 1",
+      "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
+      "streamUrls": [
+        "http://103.121.6.5:8000/play/a05w/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "StarMaaGold.in",
+      "name": "Star Maa Gold",
+      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Star_Maa_Gold_2019_logo.jpg/revision/latest?cb=20190817091022",
+      "streamUrls": [
+        "http://103.121.6.5:8000/play/a063/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "StarSports3.in",
+      "name": "Star Sports 3",
+      "logoUrl": "https://w7.pngwing.com/pngs/734/315/png-transparent-cricket-world-cup-star-sports-3-streaming-media-ptv-sports-live-stream-television-text-sport.png",
+      "streamUrls": [
+        "http://103.121.6.5:8000/play/a05y/index.m3u8"
       ],
       "category": "India",
       "languages": []

@@ -1046,7 +1046,7 @@
       "name": "Mama",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/c/c5/Mat'_i_ditya_5.png/revision/latest/scale-to-width-down/1200?cb=20160604052331",
       "streamUrls": [
-        "http://31.148.48.15/Mama/index.m3u8"
+        "http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1096,8 +1096,7 @@
       "name": "Mult",
       "logoUrl": "https://c8.alamy.com/comp/P2DRPY/multichannel-vector-icon-isolated-on-transparent-background-multichannel-logo-concept-P2DRPY.jpg",
       "streamUrls": [
-        "http://31.148.48.15/Mult/index.m3u8",
-        "http://31.148.48.15/Mult_HD/index.m3u8"
+        "http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1107,7 +1106,7 @@
       "name": "Mult i muzyka",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/d4/Multimusika.svg/revision/latest?cb=20241230130058",
       "streamUrls": [
-        "http://31.148.48.15/Multimuzika/index.m3u8"
+        "http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2278,39 +2277,6 @@
       "logoUrl": "http://vignette1.wikia.nocookie.net/logopedia/images/0/06/Mr._Bean_(animated_TV_series)_logo.svg.png/revision/latest?cb=20150902183956",
       "streamUrls": [
         "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "FAN.ru",
-      "name": "FAN",
-      "logoUrl": "https://img.freepik.com/premium-vector/tv-channel-button-logo-design-vector-template_567288-1201.jpg?w=2000",
-      "streamUrls": [
-        "http://31.148.48.15/Fan/index.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "Multilandia.ru",
-      "name": "Multilandia",
-      "logoUrl": "https://aakr.ru/wp-content/uploads/2018/01/eng-ml.png",
-      "streamUrls": [
-        "http://31.148.48.15/Multilandiya/index.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "NickHDPlus.in",
-      "name": "Nick HD+",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png",
-      "streamUrls": [
-        "http://116.90.120.128:8000/play/a0i3/index.m3u88"
       ],
       "category": "Kids",
       "languages": [],

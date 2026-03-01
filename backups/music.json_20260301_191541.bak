@@ -3079,7 +3079,7 @@
       "name": "RU.TV",
       "logoUrl": "https://i.pinimg.com/originals/9e/4e/c8/9e4ec8f20fd182234d050011fdd38fea.jpg",
       "streamUrls": [
-        "http://31.148.48.15/RU_TV/index.m3u8"
+        "https://hls-03-video.webcaramba.com/rutv/live.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3526,7 +3526,8 @@
       "name": "Shanson TV",
       "logoUrl": "https://seeklogo.com/images/S/shanson-tv-logo-3FDB29680C-seeklogo.com.png",
       "streamUrls": [
-        "https://uiptv.do.am/1ufc/602079679/playlist.m3u8"
+        "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
+        "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5462,28 +5463,6 @@
       "logoUrl": "https://e7.pngegg.com/pngimages/179/804/png-clipart-melody-hits-television-channel-music-kamineni-srinivas-television-logo.png",
       "streamUrls": [
         "https://mumt03.tangotv.in/MELODYHITS/index.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "MuzykaLive.ru",
-      "name": "Muzyka Live",
-      "logoUrl": "https://www.cableman.ru/sites/default/files/MUZYKA-LIVE.png",
-      "streamUrls": [
-        "http://31.148.48.15/La-Minor_TV/index.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "Zhara.ru",
-      "name": "Zhara",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/db/Zhara_TV.svg/revision/latest/scale-to-width-down/250?cb=20210507135317",
-      "streamUrls": [
-        "http://31.148.48.15/Zhara/index.m3u8"
       ],
       "category": "Music",
       "languages": [],
