@@ -2248,39 +2248,6 @@
       "category": "Kids",
       "languages": [],
       "genre": "Kids"
-    },
-    {
-      "id": "EnerGeekFAN.cl",
-      "name": "EnerGeek FAN",
-      "logoUrl": "https://energeek.cl/wp-content/uploads/2024/10/energeekbg-1.webp",
-      "streamUrls": [
-        "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "KidsPangTV.us",
-      "name": "Kids Pang TV",
-      "logoUrl": "https://yt3.ggpht.com/a-/AAuE7mD0PedXUji7dc8twYEx2zA9tWnT_jeU4ONF9w=s900-mo-c-c0xffffffff-rj-k-no",
-      "streamUrls": [
-        "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "MrBeanAnimated.uk",
-      "name": "Mr Bean Animated",
-      "logoUrl": "http://vignette1.wikia.nocookie.net/logopedia/images/0/06/Mr._Bean_(animated_TV_series)_logo.svg.png/revision/latest?cb=20150902183956",
-      "streamUrls": [
-        "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
     }
   ]
 }

@@ -1502,8 +1502,7 @@
       "name": "GoodNews TV",
       "logoUrl": "https://i.imgur.com/ZrvoGqS.png",
       "streamUrls": [
-        "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8",
-        "https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8"
+        "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -3086,8 +3085,7 @@
       "name": "Sana Plus",
       "logoUrl": "https://play-lh.googleusercontent.com/dlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ",
       "streamUrls": [
-        "https://galaxyott.live/hls/sanaplus.m3u8",
-        "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8"
+        "https://galaxyott.live/hls/sanaplus.m3u8"
       ],
       "category": "India"
     },
@@ -5715,36 +5713,6 @@
       "logoUrl": "https://www.lyngsat.com/logo/tv/bb/b4u-hitz-in.png",
       "streamUrls": [
         "http://115.42.65.142:9981/stream/channelid/1099703605"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "MHOneMovies.in",
-      "name": "MH One Movies",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f9/Mh-one.png/revision/latest/scale-to-width-down/250?cb=20230126181929",
-      "streamUrls": [
-        "https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "MoviePlex.in",
-      "name": "MoviePlex",
-      "logoUrl": "https://images.seeklogo.com/logo-png/32/2/movieplex-logo-png_seeklogo-323624.png?v=1957739776799512152",
-      "streamUrls": [
-        "https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "PeaceofMindTV.in",
-      "name": "Peace of Mind TV",
-      "logoUrl": "https://peaceofmind.tv/wp-content/uploads/2022/04/pmtv-Logo.png",
-      "streamUrls": [
-        "https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8"
       ],
       "category": "India",
       "languages": []

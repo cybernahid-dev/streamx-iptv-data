@@ -2394,29 +2394,6 @@
       "category": "Sports",
       "languages": [],
       "genre": "Sports"
-    },
-    {
-      "id": "CricketGold.au",
-      "name": "Cricket Gold",
-      "logoUrl": "https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-original-vyv6vtro.png",
-      "streamUrls": [
-        "https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "FoxSports2.us",
-      "name": "Fox Sports 2",
-      "logoUrl": "https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953",
-      "streamUrls": [
-        "https://tvpass.org/live/FoxSports2/sd",
-        "https://tvpass.org/live/FoxSports2/hd"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
     }
   ]
 }

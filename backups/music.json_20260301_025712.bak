@@ -355,7 +355,7 @@
       "name": "Aghani Aghani TV",
       "logoUrl": "http://www.lyngsat-logo.com/logo/tv/aa/aghani_aghani_tv_lb.png",
       "streamUrls": [
-        "http://77.42.253.43:9090/stream5/AGHANITV.m3u8"
+        "https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3485,8 +3485,7 @@
       "name": "Sana Plus",
       "logoUrl": "https://play-lh.googleusercontent.com/dlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ",
       "streamUrls": [
-        "https://galaxyott.live/hls/sanaplus.m3u8",
-        "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8"
+        "https://galaxyott.live/hls/sanaplus.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5453,17 +5452,6 @@
       "logoUrl": "https://www.lyngsat.com/logo/tv/bb/b4u-hitz-in.png",
       "streamUrls": [
         "http://115.42.65.142:9981/stream/channelid/1099703605"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "MelodyHits.ca",
-      "name": "Melody Hits",
-      "logoUrl": "https://e7.pngegg.com/pngimages/179/804/png-clipart-melody-hits-television-channel-music-kamineni-srinivas-television-logo.png",
-      "streamUrls": [
-        "https://mumt03.tangotv.in/MELODYHITS/index.m3u8"
       ],
       "category": "Music",
       "languages": [],
