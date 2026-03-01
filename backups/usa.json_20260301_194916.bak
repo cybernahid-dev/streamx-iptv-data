@@ -7044,9 +7044,9 @@
       "name": "Outside TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/640px-Outdoor_Channel_logo_2017.svg.png",
       "streamUrls": [
-        "https://aegis-cloudfront-1.tubi.video/14e92b99-6a44-4e9d-9959-dd9ac76884b3/playlist.m3u8",
         "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
-        "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8"
+        "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8?ads.vf=BVLn-mj0VD4"
       ],
       "category": "USA"
     },
@@ -12349,8 +12349,7 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/sd",
-        "https://tvpass.org/live/nbc-sports-bay-area/hd"
+        "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
     },
@@ -14116,9 +14115,8 @@
       "name": "MS NOW",
       "logoUrl": "https://www.chicagotribune.com/wp-content/uploads/2025/08/CTC-L-MSNBC-MSNOW-01.jpg?w=1020",
       "streamUrls": [
-        "http://41.205.93.154/MSNBC/index.m3u8",
-        "https://tvpass.org/live/MSNBC/sd",
-        "https://tvpass.org/live/MSNBC/hd"
+        "https://tvpass.org/live/MSNBC/hd",
+        "https://tvpass.org/live/MSNBC/sd"
       ],
       "category": "USA",
       "languages": []
@@ -14310,6 +14308,16 @@
       "logoUrl": "https://www.rbr.com/wp-content/uploads/True-Crime-Network-Logo.png",
       "streamUrls": [
         "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "MMATV.us",
+      "name": "MMA TV",
+      "logoUrl": "https://w7.pngwing.com/pngs/80/867/png-transparent-fight-channel-television-channel-high-definition-television-broadcasting-mma-event-television-angle-logo.png",
+      "streamUrls": [
+        "http://31.148.48.15/M1_Global/index.m3u8"
       ],
       "category": "USA",
       "languages": []
