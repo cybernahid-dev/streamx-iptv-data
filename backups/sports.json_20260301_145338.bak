@@ -1025,7 +1025,6 @@
       "name": "Nautical Channel",
       "logoUrl": "https://w7.pngwing.com/pngs/395/538/png-transparent-nautical-channel-television-channel-logo-television-show-others-television-text-sport.png",
       "streamUrls": [
-        "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8",
         "https://streams2.sofast.tv/vglive-sk-231198/index.m3u8"
       ],
       "category": "Sports",
@@ -2168,7 +2167,6 @@
       "name": "Star Sports 2 Tamil",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0d1/index.m3u8",
         "http://103.229.254.25:7001/play/a0dc/index.m3u8"
       ],
       "category": "Sports",
@@ -2380,6 +2378,40 @@
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/4/48/Star_Sports_Select_2.png/revision/latest?cb=20250209084250&path-prefix=vi",
       "streamUrls": [
         "http://103.113.103.202:8001/play/a02q/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "JiangsuSportsLeisureChannel.cn",
+      "name": "Jiangsu Sports & Leisure Channel",
+      "logoUrl": "https://www.pngkey.com/png/detail/616-6167035_jiangsu-tv-logo.png",
+      "streamUrls": [
+        "http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "CricketGold.au",
+      "name": "Cricket Gold",
+      "logoUrl": "https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-original-vyv6vtro.png",
+      "streamUrls": [
+        "https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "FoxSports2.us",
+      "name": "Fox Sports 2",
+      "logoUrl": "https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953",
+      "streamUrls": [
+        "https://tvpass.org/live/FoxSports2/sd",
+        "https://tvpass.org/live/FoxSports2/hd"
       ],
       "category": "Sports",
       "languages": [],
