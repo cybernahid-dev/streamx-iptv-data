@@ -2413,7 +2413,8 @@
       "name": "Fox Sports 2",
       "logoUrl": "https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953",
       "streamUrls": [
-        "https://tvpass.org/live/FoxSports2/sd"
+        "https://tvpass.org/live/FoxSports2/sd",
+        "https://tvpass.org/live/FoxSports2/hd"
       ],
       "category": "Sports",
       "languages": [],

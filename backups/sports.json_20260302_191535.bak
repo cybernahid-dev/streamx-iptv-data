@@ -2413,8 +2413,7 @@
       "name": "Fox Sports 2",
       "logoUrl": "https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953",
       "streamUrls": [
-        "https://tvpass.org/live/FoxSports2/sd",
-        "https://tvpass.org/live/FoxSports2/hd"
+        "https://tvpass.org/live/FoxSports2/sd"
       ],
       "category": "Sports",
       "languages": [],
@@ -2527,6 +2526,28 @@
       "logoUrl": "https://w7.pngwing.com/pngs/734/315/png-transparent-cricket-world-cup-star-sports-3-streaming-media-ptv-sports-live-stream-television-text-sport.png",
       "streamUrls": [
         "http://103.121.6.5:8000/play/a05y/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "StarSports1Tamil.in",
+      "name": "Star Sports 1 Tamil",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
+      "streamUrls": [
+        "http://111.88.78.21:8000/play/a0to/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "StarSports1Telugu.in",
+      "name": "Star Sports 1 Telugu",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png/revision/latest?cb=20181211054504",
+      "streamUrls": [
+        "http://111.88.78.21:8000/play/a0vc/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
