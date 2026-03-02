@@ -12339,7 +12339,7 @@
       "name": "KFMB-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd"
       ],
       "category": "USA"
     },
@@ -12348,6 +12348,7 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
+        "https://tvpass.org/live/nbc-sports-bay-area/sd",
         "https://tvpass.org/live/nbc-sports-bay-area/hd"
       ],
       "category": "USA"
