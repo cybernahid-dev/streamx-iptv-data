@@ -3569,6 +3569,7 @@
       "name": "TV9 Marathi",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/4/43/TV9_Marathi.jpg/revision/latest/scale-to-width-down/250?cb=20190303125629",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8?ads.vf=DWL0yMp640W",
         "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8"
       ],
       "category": "India"
