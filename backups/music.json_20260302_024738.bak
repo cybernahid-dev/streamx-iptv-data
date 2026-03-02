@@ -1497,8 +1497,7 @@
       "name": "Isai Aruvi",
       "logoUrl": "https://www.brandsnbehind.com/wp-content/uploads/2020/05/isaiaruvi-logo.jpg",
       "streamUrls": [
-        "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
-        "http://111.88.78.21:8000/play/a0wn/index.m3u8"
+        "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5485,28 +5484,6 @@
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/db/Zhara_TV.svg/revision/latest/scale-to-width-down/250?cb=20210507135317",
       "streamUrls": [
         "http://31.148.48.15/Zhara/index.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "SunLife.in",
-      "name": "Sun Life",
-      "logoUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4525a16126755.562a5bb068cba.png",
-      "streamUrls": [
-        "http://111.88.78.21:8000/play/a0z3/index.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "VijayTakkar.in",
-      "name": "Vijay Takkar",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/39/Vijay_Takkar_2.jpg/revision/latest/scale-to-width-down/250?cb=20250610135306",
-      "streamUrls": [
-        "http://111.88.78.21:8000/play/a0xx/index.m3u8"
       ],
       "category": "Music",
       "languages": [],

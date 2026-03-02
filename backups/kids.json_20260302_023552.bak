@@ -2315,61 +2315,6 @@
       "category": "Kids",
       "languages": [],
       "genre": "Kids"
-    },
-    {
-      "id": "ChuttiTV.in",
-      "name": "Chutti TV",
-      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/9/9a/Chutti_TV_English_logo.jpg/revision/latest?cb=20180318045954",
-      "streamUrls": [
-        "http://111.88.78.21:8000/play/a0z5/index.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "DisneyInternationalHD.in",
-      "name": "Disney International HD",
-      "logoUrl": "https://brandslogos.com/wp-content/uploads/images/large/disney-channel-logo.png",
-      "streamUrls": [
-        "http://111.88.78.21:8000/play/a0qo/index.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "HungamaTV.in",
-      "name": "Hungama TV",
-      "logoUrl": "https://w7.pngwing.com/pngs/907/829/png-transparent-hungama-tv-television-channel-television-show-hungama-digital-media-entertainment-watching-tv-television-text-logo.png",
-      "streamUrls": [
-        "http://111.88.78.21:8000/play/a0z1/index.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "KochuTV.in",
-      "name": "Kochu TV",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f3/Kochu_TV.jpg/revision/latest?cb=20240314135027",
-      "streamUrls": [
-        "http://111.88.78.21:8000/play/a0xk/index.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "KushiTV.in",
-      "name": "Kushi TV",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/93/Khushi_TV.jpg/revision/latest?cb=20240314124325",
-      "streamUrls": [
-        "http://111.88.78.21:8000/play/a0zn/index.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
     }
   ]
 }

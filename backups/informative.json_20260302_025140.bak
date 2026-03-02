@@ -2589,17 +2589,6 @@
       "category": "Informative",
       "languages": [],
       "genre": "Informative"
-    },
-    {
-      "id": "SonyBBCEarth.in",
-      "name": "Sony BBC Earth",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png",
-      "streamUrls": [
-        "http://111.88.78.21:8000/play/a0uh/index.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
     }
   ]
 }
