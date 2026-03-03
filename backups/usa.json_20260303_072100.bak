@@ -4743,8 +4743,7 @@
       "name": "KIRO-DT1",
       "logoUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b69717d4-b12c-4f07-9520-05f39e7bb78f/dg7wl36-c9a0d1ac-c623-45ca-b4a6-96d71dc04eec.png/v1/fill/w_1280,h_960,q_80,strp/kiro_logo_by_rgbmetro_dg7wl36-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvYjY5NzE3ZDQtYjEyYy00ZjA3LTk1MjAtMDVmMzllN2JiNzhmXC9kZzd3bDM2LWM5YTBkMWFjLWM2MjMtNDVjYS1iNGE2LTk2ZDcxZGMwNGVlYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.q2MZ4PMgq5n8t8BRk5JsZ78McOW7VLcZzyJoakgTN-8",
       "streamUrls": [
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8",
-        "http://fl41.moveonjoy.com/WA_SEATTLE_CBS/index.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -12340,7 +12339,8 @@
       "name": "KFMB-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd"
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
       ],
       "category": "USA"
     },
@@ -12349,7 +12349,8 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/hd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd",
+        "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
     },
@@ -14318,6 +14319,16 @@
       "logoUrl": "https://w7.pngwing.com/pngs/80/867/png-transparent-fight-channel-television-channel-high-definition-television-broadcasting-mma-event-television-angle-logo.png",
       "streamUrls": [
         "http://31.148.48.15/M1_Global/index.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "WSOCNow.us",
+      "name": "WSOC Now",
+      "logoUrl": "https://www.pngkit.com/png/detail/335-3359951_channel-logo-wsoc-tv.png",
+      "streamUrls": [
+        "https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8"
       ],
       "category": "USA",
       "languages": []

@@ -2613,17 +2613,6 @@
       "category": "Informative",
       "languages": [],
       "genre": "Informative"
-    },
-    {
-      "id": "ViasatExplore.tr",
-      "name": "Viasat Explore",
-      "logoUrl": "https://images.seeklogo.com/logo-png/33/1/viasat-explore-logo-png_seeklogo-330558.png",
-      "streamUrls": [
-        "https://tv.arectv29.sbs/live/viasathistory.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
     }
   ]
 }

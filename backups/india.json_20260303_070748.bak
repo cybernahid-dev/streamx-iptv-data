@@ -3569,6 +3569,7 @@
       "name": "TV9 Marathi",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/4/43/TV9_Marathi.jpg/revision/latest/scale-to-width-down/250?cb=20190303125629",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8?ads.vf=DWL0yMp640W",
         "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8"
       ],
       "category": "India"
@@ -4766,6 +4767,7 @@
       "name": "Sony Sports Ten 3 Hindi",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
       "streamUrls": [
+        "http://116.90.120.128:8000/play/a0jr/index.m3u88",
         "http://103.229.254.25:7001/play/a09q/index.m3u8"
       ],
       "category": "India"
@@ -4912,8 +4914,8 @@
       "name": "Food Food",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
       "streamUrls": [
-        "https://mumt03.tangotv.in/FOODFOOD/index.m3u8",
-        "http://45.148.145.57/IN_FOODFOOD/index.m3u8"
+        "http://45.148.145.57/IN_FOODFOOD/index.m3u8",
+        "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       ],
       "category": "India"
     },
@@ -5297,7 +5299,6 @@
       "name": "Colors",
       "logoUrl": "https://i.pinimg.com/originals/8c/cb/16/8ccb1643a2752be053328459476d54d2.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0a1/index.m3u8",
         "http://103.229.254.25:7001/play/a077/index.m3u8"
       ],
       "category": "India",
@@ -6127,6 +6128,46 @@
       "logoUrl": "https://img.favpng.com/11/5/6/india-zee-yuva-zee-entertainment-enterprises-television-channel-marathi-language-png-favpng-QmM0B2yq3crsPZKVHYLuDCRNQ.jpg",
       "streamUrls": [
         "http://111.88.78.21:8000/play/a0yt/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "KairaliArabia.in",
+      "name": "Kairali Arabia",
+      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063778424739",
+      "streamUrls": [
+        "https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "MaxMovies.in",
+      "name": "Max Movies",
+      "logoUrl": "https://max.com.gh/wp-content/uploads/2024/08/Max-Logo-final-01-1-e1723476606621.png",
+      "streamUrls": [
+        "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "MaxMusic.in",
+      "name": "Max Music",
+      "logoUrl": "https://image.roku.com/blog/wp-content/uploads/2023/04/MaxLogo.jpg",
+      "streamUrls": [
+        "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "OliTV.in",
+      "name": "Oli TV",
+      "logoUrl": "https://avatars.githubusercontent.com/u/121364441?v=4?s=400",
+      "streamUrls": [
+        "https://live.olidigital.in/olitv/olitv/index.m3u8"
       ],
       "category": "India",
       "languages": []
