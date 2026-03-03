@@ -9889,7 +9889,8 @@
       "name": "Tele Pam",
       "logoUrl": "https://i.imgur.com/zfnFVqQ.png",
       "streamUrls": [
-        "https://watch.haitilive.net/gethb/telepam/index.fmp4.m3u8"
+        "https://watch.haitilive.net/gethb/telepam/index.fmp4.m3u8",
+        "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8"
       ],
       "category": "USA"
     },
@@ -14328,6 +14329,16 @@
       "logoUrl": "https://www.pngkit.com/png/detail/335-3359951_channel-logo-wsoc-tv.png",
       "streamUrls": [
         "https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "PlutoTVMTVClassic.us",
+      "name": "Pluto TV MTV Classic",
+      "logoUrl": "https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916",
+      "streamUrls": [
+        "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8"
       ],
       "category": "USA",
       "languages": []
