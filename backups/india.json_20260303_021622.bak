@@ -6132,46 +6132,6 @@
       ],
       "category": "India",
       "languages": []
-    },
-    {
-      "id": "KairaliArabia.in",
-      "name": "Kairali Arabia",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063778424739",
-      "streamUrls": [
-        "https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "MaxMovies.in",
-      "name": "Max Movies",
-      "logoUrl": "https://max.com.gh/wp-content/uploads/2024/08/Max-Logo-final-01-1-e1723476606621.png",
-      "streamUrls": [
-        "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "MaxMusic.in",
-      "name": "Max Music",
-      "logoUrl": "https://image.roku.com/blog/wp-content/uploads/2023/04/MaxLogo.jpg",
-      "streamUrls": [
-        "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "OliTV.in",
-      "name": "Oli TV",
-      "logoUrl": "https://avatars.githubusercontent.com/u/121364441?v=4?s=400",
-      "streamUrls": [
-        "https://live.olidigital.in/olitv/olitv/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
     }
   ]
 }

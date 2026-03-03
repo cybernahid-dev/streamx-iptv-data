@@ -14323,16 +14323,6 @@
       ],
       "category": "USA",
       "languages": []
-    },
-    {
-      "id": "WSOCNow.us",
-      "name": "WSOC Now",
-      "logoUrl": "https://www.pngkit.com/png/detail/335-3359951_channel-logo-wsoc-tv.png",
-      "streamUrls": [
-        "https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
     }
   ]
 }
