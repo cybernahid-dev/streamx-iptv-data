@@ -1094,6 +1094,7 @@
       "name": "DD Rajasthan",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/61/DD_Rajasthan.jpeg/revision/latest?cb=20191222114844",
       "streamUrls": [
+        "https://cdn-1.pishow.tv/live/34/master.m3u8",
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8",
         "https://mumt05.tangotv.in/DDRAJASTHAN/index.m3u8"
       ],
