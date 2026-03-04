@@ -468,6 +468,7 @@
       "name": "Asianet",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/3/33/Asianet(TVchannel)Logo.jpg/150px-Asianet(TVchannel)Logo.jpg",
       "streamUrls": [
+        "http://217.20.112.199/asianet/index.m3u8",
         "http://111.88.78.21:8000/play/a0pf/index.m3u8"
       ],
       "category": "India"
@@ -5389,7 +5390,7 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a09s/index.m3u8",
+        "http://217.20.112.199/sabtvhd/index.m3u8",
         "http://103.229.254.25:7001/play/a0db/index.m3u8"
       ],
       "category": "India",
