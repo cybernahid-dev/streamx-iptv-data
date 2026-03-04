@@ -468,6 +468,7 @@
       "name": "Asianet",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/3/33/Asianet(TVchannel)Logo.jpg/150px-Asianet(TVchannel)Logo.jpg",
       "streamUrls": [
+        "http://217.20.112.199/asianet/index.m3u8",
         "http://111.88.78.21:8000/play/a0pf/index.m3u8"
       ],
       "category": "India"
