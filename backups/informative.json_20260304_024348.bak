@@ -265,8 +265,7 @@
       "name": "Backstage",
       "logoUrl": "https://images.seeklogo.com/logo-png/38/2/backstage-logo-png_seeklogo-387152.png",
       "streamUrls": [
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8",
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -787,7 +786,7 @@
       "name": "Educa TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/29/Educatv.jpg/revision/latest?cb=20230815122508",
       "streamUrls": [
-        "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
+        "https://vid2.ecuamedia.net/educatv/live/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1738,7 +1737,7 @@
       "name": "Reelz",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png",
       "streamUrls": [
-        "https://d3serb1fmh623s.cloudfront.net/playlist.m3u8"
+        "http://212.102.60.231/REELZ/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2621,39 +2620,6 @@
       "logoUrl": "https://images.seeklogo.com/logo-png/33/1/viasat-explore-logo-png_seeklogo-330558.png",
       "streamUrls": [
         "https://tv.arectv29.sbs/live/viasathistory.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "DangerTV.us",
-      "name": "Danger TV",
-      "logoUrl": "https://aimmgrowthfronts.com/wp-content/uploads/2023/02/DangerTV-default_v3.png",
-      "streamUrls": [
-        "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "LuckyDog.us",
-      "name": "Lucky Dog",
-      "logoUrl": "https://images.fanart.tv/fanart/lucky-dog-626d4c3f5c447.png",
-      "streamUrls": [
-        "https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "Unidentified.us",
-      "name": "Unidentified",
-      "logoUrl": "https://yt3.ggpht.com/a/AATXAJwhojPQBLGVxizDJkj7Kb1tClyQ2Z7rj74uzwLh=s900-c-k-c0xffffffff-no-rj-mo",
-      "streamUrls": [
-        "https://d3ify425qsio2d.cloudfront.net/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],

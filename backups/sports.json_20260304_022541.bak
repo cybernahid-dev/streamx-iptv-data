@@ -640,8 +640,7 @@
       "name": "Fubo Sports Network",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/17/Fubo-Streaming-Service-Logo-PNG-thumb.png",
       "streamUrls": [
-        "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8",
-        "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1007,7 +1006,7 @@
       "name": "NFL Channel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png",
       "streamUrls": [
-        "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8"
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=1d7bef8c-83bb-4a13-babc-c2895be01526"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1017,8 +1016,7 @@
       "name": "NHRA TV",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/nhra-4-logo-png-transparent.png",
       "streamUrls": [
-        "https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8",
-        "https://d265y4sk8257lt.cloudfront.net/nh.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1380,8 +1378,7 @@
       "name": "Stadium",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_(sports_network)_logo.svg/512px-Stadium_(sports_network)_logo.svg.png",
       "streamUrls": [
-        "https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8",
-        "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1639,7 +1636,6 @@
       "name": "Unbeaten",
       "logoUrl": "https://inverleigh.com/wp-content/uploads/2020/07/unbeatenchannel_01-1024x222.jpg",
       "streamUrls": [
-        "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
         "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
       ],
       "category": "Sports",
@@ -1811,8 +1807,7 @@
       "name": "Billiard TV",
       "logoUrl": "https://www.parsatv.com/index_files/channels/billiardtv.png",
       "streamUrls": [
-        "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8",
-        "https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8"
+        "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2319,7 +2314,7 @@
       "name": "ESPN8: The Ocho",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN8_The_Ocho_ESPN_Organization_Logo.svg/1200px-ESPN8_The_Ocho_ESPN_Organization_Logo.svg.png",
       "streamUrls": [
-        "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8"
+        "https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2341,8 +2336,7 @@
       "name": "DraftKings Network",
       "logoUrl": "https://companieslogo.com/img/orig/DKNG-e9ded183.png?t=1660587881",
       "streamUrls": [
-        "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8",
-        "https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8"
+        "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2555,28 +2549,6 @@
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png/revision/latest?cb=20181211054504",
       "streamUrls": [
         "http://111.88.78.21:8000/play/a0vc/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "Overtime.us",
-      "name": "Overtime",
-      "logoUrl": "https://overtime.tv/public/Overtime@1024.24268483.png",
-      "streamUrls": [
-        "https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "RacerSelect.us",
-      "name": "Racer Select",
-      "logoUrl": "https://motorsportsnewswire.com/wp-content/uploads/2023/11/RacerTV.png",
-      "streamUrls": [
-        "https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8"
       ],
       "category": "Sports",
       "languages": [],

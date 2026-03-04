@@ -3421,7 +3421,7 @@
       "name": "Sun Bangla",
       "logoUrl": "https://i.imgur.com/fH62JFs.png",
       "streamUrls": [
-        "http://103.161.153.165:8000/play/a03k/index.m3u8"
+        "http://103.182.170.32:8888/play/a01v"
       ],
       "category": "India"
     },
@@ -6169,36 +6169,6 @@
       "logoUrl": "https://avatars.githubusercontent.com/u/121364441?v=4?s=400",
       "streamUrls": [
         "https://live.olidigital.in/olitv/olitv/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "StarJalsha.in",
-      "name": "Star Jalsha",
-      "logoUrl": "https://p7.hiclipart.com/preview/101/964/1009/star-jalsha-jalsha-movies-star-india-television-channel-television-show-jalsha-movies.jpg",
-      "streamUrls": [
-        "http://103.161.153.165:8000/play/a00w/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "SuperHungama.in",
-      "name": "Super Hungama",
-      "logoUrl": "https://static.wikia.nocookie.net/iepfanon/images/6/6d/Super_Hungama.png/revision/latest?cb=20220731182518",
-      "streamUrls": [
-        "http://103.161.153.165:8000/play/a05a/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "ZeeBangla.in",
-      "name": "Zee Bangla",
-      "logoUrl": "https://www.pngitem.com/pimgs/m/682-6822598_tv-channels-offer-transparent-zee-bangla-logo-hd.png",
-      "streamUrls": [
-        "http://103.161.153.165:8000/play/zeebnhd/index.m3u8"
       ],
       "category": "India",
       "languages": []

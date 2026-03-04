@@ -254,7 +254,7 @@
       "name": "9XM",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f1/9xm_blue.svg/revision/latest/scale-to-width-down/250?cb=20210508163726",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8",
+        "https://b.jsrdn.com/strm/channels/9xm/master.m3u8",
         "https://9xjio.wiseplayout.com/9XM/master.m3u8"
       ],
       "category": "Music",
@@ -3527,7 +3527,9 @@
       "name": "Shanson TV",
       "logoUrl": "https://seeklogo.com/images/S/shanson-tv-logo-3FDB29680C-seeklogo.com.png",
       "streamUrls": [
-        "https://uiptv.do.am/1ufc/602079679/playlist.m3u8"
+        "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
+        "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
+        "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5507,6 +5509,28 @@
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/39/Vijay_Takkar_2.jpg/revision/latest/scale-to-width-down/250?cb=20250610135306",
       "streamUrls": [
         "http://111.88.78.21:8000/play/a0xx/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "MaxMusic.in",
+      "name": "Max Music",
+      "logoUrl": "https://image.roku.com/blog/wp-content/uploads/2023/04/MaxLogo.jpg",
+      "streamUrls": [
+        "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "PlutoTVMTVClassic.us",
+      "name": "Pluto TV MTV Classic",
+      "logoUrl": "https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916",
+      "streamUrls": [
+        "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8"
       ],
       "category": "Music",
       "languages": [],

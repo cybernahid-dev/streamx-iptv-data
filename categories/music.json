@@ -4484,7 +4484,8 @@
       "name": "Vevo Latino",
       "logoUrl": "https://i.imgur.com/D7SwmuB.png",
       "streamUrls": [
-        "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8",
+        "https://d1vgg34wqvwdqj.cloudfront.net/Vevo_Latino.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4506,7 +4507,7 @@
       "name": "Vevo R&B",
       "logoUrl": "https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=14fdd29d-18c0-47bc-8c04-3bb67dd6e25c"
+        "https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4639,7 +4640,8 @@
       "name": "XITE Rock x Metal",
       "logoUrl": "https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5&w=6380",
       "streamUrls": [
-        "https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8",
+        "https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5531,6 +5533,61 @@
       "logoUrl": "https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916",
       "streamUrls": [
         "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "VevoHipHop.us",
+      "name": "Vevo Hip Hop",
+      "logoUrl": "https://seekvectorlogo.com/wp-content/uploads/2018/01/vevo-vector-logo.png",
+      "streamUrls": [
+        "https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "XITEClassicCountry.nl",
+      "name": "XITE Classic Country",
+      "logoUrl": "https://www.tvchannellists.com/wiki/images/0/0f/XITE_Classic_Country.svg",
+      "streamUrls": [
+        "https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "XITEHits.nl",
+      "name": "XITE Hits",
+      "logoUrl": "https://www.nicepng.com/png/detail/837-8374457_xite-tv-logo.png",
+      "streamUrls": [
+        "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "XITEJustChill.nl",
+      "name": "XITE Just Chill",
+      "logoUrl": "https://www.tvchannellists.com/wiki/images/a/a9/XITE_Just_Chill_(SamsungTV+).png",
+      "streamUrls": [
+        "https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "XITEReggaeVibes.nl",
+      "name": "XITE Reggae Vibes",
+      "logoUrl": "https://provider-static.plex.tv/epg/cms/production/592b2343-2f86-4448-8021-e0b084e3605f/xitereggaevibes_artwork_horizontal_-_Arlette_Firan.jpg",
+      "streamUrls": [
+        "https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8"
       ],
       "category": "Music",
       "languages": [],
