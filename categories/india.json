@@ -2284,7 +2284,6 @@
       "name": "NDTV Profit",
       "logoUrl": "https://img1.pnghut.com/5/10/21/hxrUMQyud2/television-logo-business-channels-show-news.jpg",
       "streamUrls": [
-        "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
         "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
       ],
       "category": "India"
