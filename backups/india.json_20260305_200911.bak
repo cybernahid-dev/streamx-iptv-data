@@ -2191,7 +2191,6 @@
       "name": "Mh 1 News",
       "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyHl24fBbH8N8ItJuKAd9MaxO78ljNLUGT6SN_9rYWc5wkwZDf6MmzPrax5DXdweokogaEFwkhcBFX4lkG13eO_oOOhbaobYH2TpewShwIAjlzVPMVfDa7uxLBObix6zCOVx3iipxG44TIUehn3r5VCnh9r9CcTm1s5YTo9bHsh7Jcy1wVKxlybUrf/s16000-rw/mh-one-dil-se-tv-channel-on-dd-freedish-dth-channel-number-satellite-frequency.jpg",
       "streamUrls": [
-        "https://livestream.jswk.online/mhonenews/live/index.m3u8",
         "https://mumt04.tangotv.in/MHONENEWS/index.m3u8"
       ],
       "category": "India"
@@ -5431,8 +5430,8 @@
       "name": "Star Gold",
       "logoUrl": "https://www.vhv.rs/dpng/d/24-245112_star-gold-channel-logo-hd-png-download.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dd/index.m3u8",
-        "http://103.99.249.139/stargold/index.m3u8"
+        "http://103.99.249.139/stargold/index.m3u8",
+        "http://103.229.254.25:7001/play/a0dd/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5474,8 +5473,8 @@
       "name": "Zee Bangla Sonar",
       "logoUrl": "https://www.pngitem.com/pimgs/m/682-6822598_tv-channels-offer-transparent-zee-bangla-logo-hd.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a070/index.m3u8",
-        "http://111.88.78.21:8000/play/a0y1/index.m3u8"
+        "http://111.88.78.21:8000/play/a0y1/index.m3u8",
+        "http://103.229.254.25:7001/play/a070/index.m3u8"
       ],
       "category": "India",
       "languages": []
