@@ -822,7 +822,6 @@
       "name": "Al Horreya TV",
       "logoUrl": "https://www.pngkey.com/png/detail/335-3357582_3783623-logo-al-horreya-tbn-arabic-al-horreya.png",
       "streamUrls": [
-        "http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8",
         "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8"
       ],
       "category": "USA"
@@ -12372,7 +12371,7 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/sd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd"
       ],
       "category": "USA"
     },

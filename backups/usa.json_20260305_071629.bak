@@ -12362,8 +12362,8 @@
       "name": "KFMB-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd",
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd"
       ],
       "category": "USA"
     },
@@ -12372,7 +12372,6 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/hd",
         "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
@@ -14688,6 +14687,16 @@
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/a/a5/Pw_logo_1000_rotate.png/revision/latest?cb=20190921231716",
       "streamUrls": [
         "https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "TVSFilmNoirNetwork.us",
+      "name": "TVS Film Noir Network",
+      "logoUrl": "https://www.vhv.rs/dpng/d/477-4772733_tv-network-logos-png-tv-channels-logo-transparent.png",
+      "streamUrls": [
+        "https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8"
       ],
       "category": "USA",
       "languages": []
