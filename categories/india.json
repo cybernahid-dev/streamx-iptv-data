@@ -4257,6 +4257,7 @@
       "name": "Sun TV",
       "logoUrl": "https://clipground.com/images/sun-tv-logo-png-9.png",
       "streamUrls": [
+        "http://15.235.144.106:14054",
         "http://111.88.78.21:8000/play/a0tp/index.m3u8"
       ],
       "category": "India",
@@ -5473,7 +5474,8 @@
       "name": "Zee Bangla Sonar",
       "logoUrl": "https://www.pngitem.com/pimgs/m/682-6822598_tv-channels-offer-transparent-zee-bangla-logo-hd.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a070/index.m3u8"
+        "http://103.229.254.25:7001/play/a070/index.m3u8",
+        "http://111.88.78.21:8000/play/a0y1/index.m3u8"
       ],
       "category": "India",
       "languages": []
