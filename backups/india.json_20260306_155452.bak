@@ -468,7 +468,6 @@
       "name": "Asianet",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/3/33/Asianet(TVchannel)Logo.jpg/150px-Asianet(TVchannel)Logo.jpg",
       "streamUrls": [
-        "http://217.20.112.199/asianet/index.m3u8",
         "http://111.88.78.21:8000/play/a0pf/index.m3u8"
       ],
       "category": "India"
@@ -3790,7 +3789,6 @@
       "name": "Vaanavil TV",
       "logoUrl": "https://www.kindpng.com/picc/m/282-2828008_vaanavil-tv-channel-logo-hd-png-download.png",
       "streamUrls": [
-        "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
         "http://198.27.83.207:2550/VAANAVIL_SD/index.m3u8"
       ],
       "category": "India"
@@ -4258,7 +4256,7 @@
       "logoUrl": "https://clipground.com/images/sun-tv-logo-png-9.png",
       "streamUrls": [
         "http://15.235.144.106:14054",
-        "http://103.229.254.25:7001/play/a06x/index.m3u8"
+        "http://111.88.78.21:8000/play/a0tp/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -4776,7 +4774,6 @@
       "name": "GTC Punjabi",
       "logoUrl": "https://www.thegtcnetwork.com/logo.png",
       "streamUrls": [
-        "https://mumt01.tangotv.in/GTC/index.m3u8",
         "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8"
       ],
       "category": "India"
@@ -5474,8 +5471,8 @@
       "name": "Zee Bangla Sonar",
       "logoUrl": "https://www.pngitem.com/pimgs/m/682-6822598_tv-channels-offer-transparent-zee-bangla-logo-hd.png",
       "streamUrls": [
-        "http://111.88.78.21:8000/play/a0y1/index.m3u8",
-        "http://103.229.254.25:7001/play/a070/index.m3u8"
+        "http://103.229.254.25:7001/play/a070/index.m3u8",
+        "http://111.88.78.21:8000/play/a0y1/index.m3u8"
       ],
       "category": "India",
       "languages": []
