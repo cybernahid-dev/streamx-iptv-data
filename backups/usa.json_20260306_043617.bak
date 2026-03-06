@@ -10909,7 +10909,7 @@
       "name": "WCAU-DT1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/1200px-WCAUlogo2.svg.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8"
+        "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI"
       ],
       "category": "USA"
     },
@@ -13974,7 +13974,7 @@
       "name": "WRC-DT1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png",
       "streamUrls": [
-        "http://fl41.moveonjoy.com/DC_WASHINGTON_NBC/index.m3u8"
+        "https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS"
       ],
       "category": "USA",
       "languages": []
@@ -14698,6 +14698,36 @@
       "logoUrl": "https://www.vhv.rs/dpng/d/477-4772733_tv-network-logos-png-tv-channels-logo-transparent.png",
       "streamUrls": [
         "https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "KXASDT1.us",
+      "name": "KXAS-DT1",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/KXAS-TV_logo.png",
+      "streamUrls": [
+        "https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "WBTSCD1.us",
+      "name": "WBTS-CD1",
+      "logoUrl": "https://static.wikia.nocookie.net/dreamlogosandstations/images/c/cd/WDMO_1993.PNG/revision/latest?cb=20200819174433",
+      "streamUrls": [
+        "https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "WVITDT1.us",
+      "name": "WVIT-DT1",
+      "logoUrl": "https://static.wikia.nocookie.net/tvstation/images/f/fe/220px-WVIT_Logo.png/revision/latest?cb=20180304171007",
+      "streamUrls": [
+        "https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT"
       ],
       "category": "USA",
       "languages": []
