@@ -6201,16 +6201,6 @@
       ],
       "category": "India",
       "languages": []
-    },
-    {
-      "id": "Goldmines2.in",
-      "name": "Goldmines 2",
-      "logoUrl": "https://www.goldmines.co.in/assets/img/sites/s4.jpg",
-      "streamUrls": [
-        "https://cdn-2.pishow.tv/live/1460/master.m3u8"
-      ],
-      "category": "India",
-      "languages": []
     }
   ]
 }
