@@ -3661,8 +3661,7 @@
       "name": "Stingray Classic Rock",
       "logoUrl": "https://logowik.com/content/uploads/images/stingray-classica8017.logowik.com.webp",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-classic-rock/master.m3u8?ads.vf=VvT2jJevYaK"
+        "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3672,8 +3671,7 @@
       "name": "Stingray Classica",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/e/e3/Stingray_Classica_RGB-02.svg/revision/latest/scale-to-width-down/250?cb=20191120223259",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8?ads.vf=GGD_2svUCi4"
+        "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3683,8 +3681,7 @@
       "name": "Stingray DJAZZ",
       "logoUrl": "https://w7.pngwing.com/pngs/799/978/png-transparent-stingray-djazz-musician-television-channel-route-messengers-of-pa-stingray-television-text-logo-thumbnail.png",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8?ads.vf=W8pF-VwP190"
+        "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3714,8 +3711,7 @@
       "name": "Stingray Flashback 70's",
       "logoUrl": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20231024T231806SQUARE.png_20231024231807.png",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-flashback-70s/master.m3u8?ads.vf=2HRE0twQFKq"
+        "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3725,8 +3721,7 @@
       "name": "Stingray Greatest Hits",
       "logoUrl": "https://image.xumo.com/v1/channels/channel/99991120/600x337.webp?type=channelTile",
       "streamUrls": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0"
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3767,8 +3762,7 @@
       "name": "Stingray Hot Country",
       "logoUrl": "https://secureservercdn.net/198.71.233.64/9vu.5ab.myftpupload.com/wp-content/uploads/2020/02/Stingray-Country.jpg?time=1607021877",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hot-country/master.m3u8?ads.vf=DTIq7zJ8g9i"
+        "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3778,8 +3772,7 @@
       "name": "Stingray Karaoke",
       "logoUrl": "https://images.sr.roku.com/idType/roku/context/trc/id/stingray/providers/provider_1_23_1539019879233_stingray-karaoke-partner-tile-092818.jpg",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/karaoke-kar000-montreal/distrotv/master.m3u8?ads.vf=RTfUlT1fC1i"
+        "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3810,8 +3803,7 @@
       "name": "Stingray Pop Adult",
       "logoUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c9274ced11768aab7ef96be3a7875727.webp",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-pop-adult/master.m3u8?ads.vf=empRbzeG6BW"
+        "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3832,8 +3824,7 @@
       "name": "Stingray Rock Alternative",
       "logoUrl": "https://proxy.zeno.fm/content/stations/010f2752-45ec-4e46-914a-0db0e422464e/image/?u=1701700071000",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-rock-alternative/master.m3u8?ads.vf=aOA9FlpE9HG"
+        "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4054,7 +4045,7 @@
       "name": "Tabbar Hits",
       "logoUrl": "https://play-lh.googleusercontent.com/7tuoGbv6gIUt_nrQY49awHtnauihlKk43k-OzU9shrG_V6tsZ-nYc36pc_xhBnk79Gvx",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8?ads.vf=n1xb6TPm9sa"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8?ads.vf=cr_1zfCL21S"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5124,7 +5115,7 @@
       "name": "Trace Latina",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/00/Trace_Latina.svg/revision/latest?cb=20191223072133",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=8rE20DsHHI0"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=jn5xeelzYbm"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5224,7 +5215,7 @@
       "name": "M+",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/15/MTV-Logo-No-Background.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8?ads.vf=99_BajuDhjC"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8?ads.vf=6otIjpqWKPe"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5597,28 +5588,6 @@
       "logoUrl": "https://provider-static.plex.tv/epg/cms/production/592b2343-2f86-4448-8021-e0b084e3605f/xitereggaevibes_artwork_horizontal_-_Arlette_Firan.jpg",
       "streamUrls": [
         "https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "GeminiMusic.in",
-      "name": "Gemini Music",
-      "logoUrl": "https://indiantvinfo.com/media/2017/03/Logo-Of-Gemini-Music-HD-Channel.jpg",
-      "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0589/master.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "StingrayExitosdelMomento.ca",
-      "name": "Stingray Exitos del Momento",
-      "logoUrl": "https://music.stingray.com/cover/channels/190ADS?date=1723555799",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-xitos-del-momento/master.m3u8?ads.vf=--_m-LmFeCi"
       ],
       "category": "Music",
       "languages": [],

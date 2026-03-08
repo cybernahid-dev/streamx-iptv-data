@@ -2281,8 +2281,7 @@
       "name": "National Geographic",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0426/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0447/master.m3u8"
+        "http://103.113.103.202:8001/play/a007/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2292,9 +2291,7 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0448/master.m3u8",
-        "http://103.229.254.25:7001/play/a06r/index.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0428/master.m3u8"
+        "http://103.229.254.25:7001/play/a06r/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2599,8 +2596,6 @@
       "name": "Sony BBC Earth",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0371/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0384/master.m3u8",
         "http://111.88.78.21:8000/play/a0uh/index.m3u8"
       ],
       "category": "Informative",
@@ -2659,28 +2654,6 @@
       "logoUrl": "https://yt3.ggpht.com/a/AATXAJwhojPQBLGVxizDJkj7Kb1tClyQ2Z7rj74uzwLh=s900-c-k-c0xffffffff-no-rj-mo",
       "streamUrls": [
         "https://d3ify425qsio2d.cloudfront.net/playlist.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "ChinaTravel.cn",
-      "name": "China Travel",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png",
-      "streamUrls": [
-        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "DiscoveringChina.cn",
-      "name": "Discovering China",
-      "logoUrl": "https://stuarte.co/wp-content/uploads/2014/08/Chinese-Channels-in-NYC.jpg",
-      "streamUrls": [
-        "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],

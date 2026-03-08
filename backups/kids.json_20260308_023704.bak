@@ -2162,7 +2162,7 @@
       "name": "Disney Channel",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8"
+        "http://161.248.38.40:8000/play/a06q/index.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2182,7 +2182,7 @@
       "name": "Nick Jr.",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0409/master.m3u8"
+        "http://161.248.38.40:8000/play/a074/index.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2192,7 +2192,6 @@
       "name": "Nickelodeon",
       "logoUrl": "https://assets.stickpng.com/images/612916aa319275000479abfd.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0405/master.m3u8",
         "http://103.229.254.25:7001/play/a0cq/index.m3u8"
       ],
       "category": "Kids",
@@ -2204,8 +2203,6 @@
       "name": "Sonic",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/13/Sonic-Logo-No-Background.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0368/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0407/master.m3u8",
         "http://103.229.254.25:7001/play/a0dl/index.m3u8"
       ],
       "category": "Kids",
@@ -2317,7 +2314,6 @@
       "name": "Nick HD+",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0450/master.m3u8",
         "http://116.90.120.128:8000/play/a0i3/index.m3u88"
       ],
       "category": "Kids",
@@ -2329,7 +2325,6 @@
       "name": "Chutti TV",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/9/9a/Chutti_TV_English_logo.jpg/revision/latest?cb=20180318045954",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0572/master.m3u8",
         "http://111.88.78.21:8000/play/a0z5/index.m3u8"
       ],
       "category": "Kids",
@@ -2352,7 +2347,6 @@
       "name": "Hungama TV",
       "logoUrl": "https://w7.pngwing.com/pngs/907/829/png-transparent-hungama-tv-television-channel-television-show-hungama-digital-media-entertainment-watching-tv-television-text-logo.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0408/master.m3u8",
         "http://111.88.78.21:8000/play/a0z1/index.m3u8"
       ],
       "category": "Kids",
@@ -2364,7 +2358,6 @@
       "name": "Kochu TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f3/Kochu_TV.jpg/revision/latest?cb=20240314135027",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0564/master.m3u8",
         "http://111.88.78.21:8000/play/a0xk/index.m3u8"
       ],
       "category": "Kids",
@@ -2376,7 +2369,6 @@
       "name": "Kushi TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/93/Khushi_TV.jpg/revision/latest?cb=20240314124325",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0583/master.m3u8",
         "http://111.88.78.21:8000/play/a0zn/index.m3u8"
       ],
       "category": "Kids",
@@ -2477,28 +2469,6 @@
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/a/a5/Pw_logo_1000_rotate.png/revision/latest?cb=20190921231716",
       "streamUrls": [
         "https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "ChintuTV.in",
-      "name": "Chintu TV",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100090972375823",
-      "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0587/master.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "ETVBalBharat.in",
-      "name": "ETV Bal Bharat",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/91/Etv_Bal_Bharat_SD.jpg/revision/latest/scale-to-width-down/1200?cb=20200311104426",
-      "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8"
       ],
       "category": "Kids",
       "languages": [],

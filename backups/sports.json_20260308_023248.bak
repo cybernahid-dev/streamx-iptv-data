@@ -1970,7 +1970,7 @@
       "name": "Horizon Sports",
       "logoUrl": "https://i.pinimg.com/736x/17/52/4c/17524cc7be26ce1a924d2592b9e0fcb1.jpg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=A5pc7nNS254"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=yqVv-4q1FVG"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2001,7 +2001,7 @@
       "name": "Sports Connect",
       "logoUrl": "https://stacksports.com/wp-content/uploads/2024/02/Sports-Connect.png",
       "streamUrls": [
-        "https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sports-connect/video.m3u8?ads.vf=K-yU3EWs_wu"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2011,7 +2011,7 @@
       "name": "Sports TV Plus",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/jr0wlq1681309932.png",
       "streamUrls": [
-        "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC"
+        "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=6S5T4Kl7B10"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2578,28 +2578,6 @@
       "logoUrl": "https://motorsportsnewswire.com/wp-content/uploads/2023/11/RacerTV.png",
       "streamUrls": [
         "https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "FTFSports.us",
-      "name": "FTF Sports",
-      "logoUrl": "https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ftf/FTF_SCTE_B.m3u8?ads.vf=U3lqpPugV2W"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "FightNetwork.ca",
-      "name": "Fight Network",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/200px-Fight_network_logo.svg.png",
-      "streamUrls": [
-        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
       ],
       "category": "Sports",
       "languages": [],
