@@ -265,7 +265,8 @@
       "name": "Backstage",
       "logoUrl": "https://images.seeklogo.com/logo-png/38/2/backstage-logo-png_seeklogo-387152.png",
       "streamUrls": [
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8",
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -786,7 +787,7 @@
       "name": "Educa TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/29/Educatv.jpg/revision/latest?cb=20230815122508",
       "streamUrls": [
-        "https://vid2.ecuamedia.net/educatv/live/playlist.m3u8"
+        "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1737,7 +1738,7 @@
       "name": "Reelz",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png",
       "streamUrls": [
-        "http://212.102.60.231/REELZ/index.m3u8"
+        "https://d3serb1fmh623s.cloudfront.net/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2280,7 +2281,8 @@
       "name": "National Geographic",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png",
       "streamUrls": [
-        "http://103.113.103.202:8001/play/a007/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0426/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0447/master.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2290,7 +2292,9 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a06r/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0448/master.m3u8",
+        "http://103.229.254.25:7001/play/a06r/index.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0428/master.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2595,7 +2599,88 @@
       "name": "Sony BBC Earth",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png",
       "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0371/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0384/master.m3u8",
         "http://111.88.78.21:8000/play/a0uh/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "BloombergOriginals.us",
+      "name": "Bloomberg Originals",
+      "logoUrl": "https://www.vhv.rs/dpng/d/103-1031276_bloomberg-tv-logo-png-transparent-png.png",
+      "streamUrls": [
+        "https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8",
+        "https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8",
+        "https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "ViasatExplore.tr",
+      "name": "Viasat Explore",
+      "logoUrl": "https://images.seeklogo.com/logo-png/33/1/viasat-explore-logo-png_seeklogo-330558.png",
+      "streamUrls": [
+        "https://tv.arectv29.sbs/live/viasathistory.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "DangerTV.us",
+      "name": "Danger TV",
+      "logoUrl": "https://aimmgrowthfronts.com/wp-content/uploads/2023/02/DangerTV-default_v3.png",
+      "streamUrls": [
+        "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "LuckyDog.us",
+      "name": "Lucky Dog",
+      "logoUrl": "https://images.fanart.tv/fanart/lucky-dog-626d4c3f5c447.png",
+      "streamUrls": [
+        "https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "Unidentified.us",
+      "name": "Unidentified",
+      "logoUrl": "https://yt3.ggpht.com/a/AATXAJwhojPQBLGVxizDJkj7Kb1tClyQ2Z7rj74uzwLh=s900-c-k-c0xffffffff-no-rj-mo",
+      "streamUrls": [
+        "https://d3ify425qsio2d.cloudfront.net/playlist.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "ChinaTravel.cn",
+      "name": "China Travel",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png",
+      "streamUrls": [
+        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "DiscoveringChina.cn",
+      "name": "Discovering China",
+      "logoUrl": "https://stuarte.co/wp-content/uploads/2014/08/Chinese-Channels-in-NYC.jpg",
+      "streamUrls": [
+        "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],

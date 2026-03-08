@@ -2685,6 +2685,28 @@
       "category": "Informative",
       "languages": [],
       "genre": "Informative"
+    },
+    {
+      "id": "TV7.dz",
+      "name": "TV7",
+      "logoUrl": "http://www.tv7.fi/wp-content/uploads/2018/06/tv7-logo-color-rgb.png",
+      "streamUrls": [
+        "http://5.253.46.190:8000/play/a0eq/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "TV8.dz",
+      "name": "TV8",
+      "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/6/68/Tv8_Yeni_Logo.png/revision/latest?cb=20160310161553",
+      "streamUrls": [
+        "http://5.253.46.190:8000/play/a0er/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
     }
   ]
 }
