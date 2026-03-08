@@ -4924,6 +4924,7 @@
       "name": "Food Food",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
       "streamUrls": [
+        "http://45.148.145.57/IN_FOODFOOD/index.m3u8",
         "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       ],
       "category": "India"
@@ -5496,7 +5497,6 @@
       "name": "Zee Bangla Sonar",
       "logoUrl": "https://www.pngitem.com/pimgs/m/682-6822598_tv-channels-offer-transparent-zee-bangla-logo-hd.png",
       "streamUrls": [
-        "http://111.88.78.21:8000/play/a0y1/index.m3u8",
         "http://103.229.254.25:7001/play/a070/index.m3u8"
       ],
       "category": "India",
@@ -5608,6 +5608,7 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
+        "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
         "http://111.88.78.21:8000/play/a0x8/index.m3u8"
       ],
       "category": "India",
