@@ -5314,8 +5314,8 @@
       "name": "Colors",
       "logoUrl": "https://i.pinimg.com/originals/8c/cb/16/8ccb1643a2752be053328459476d54d2.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a077/index.m3u8",
-        "http://103.229.254.25:7001/play/a0a1/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0387/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5347,7 +5347,6 @@
       "name": "Jaya TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/id/3/34/Logo_Jaya_TV.png?20240724133814",
       "streamUrls": [
-        "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8"
       ],
       "category": "India",
@@ -5498,7 +5497,6 @@
       "name": "Zee Bangla Sonar",
       "logoUrl": "https://www.pngitem.com/pimgs/m/682-6822598_tv-channels-offer-transparent-zee-bangla-logo-hd.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a070/index.m3u8",
         "http://111.88.78.21:8000/play/a0y1/index.m3u8"
       ],
       "category": "India",
