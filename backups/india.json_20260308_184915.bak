@@ -4162,7 +4162,6 @@
       "name": "Colors Bangla",
       "logoUrl": "https://i.pinimg.com/originals/8c/cb/16/8ccb1643a2752be053328459476d54d2.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0ds/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0458/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0464/master.m3u8"
       ],
@@ -5314,8 +5313,8 @@
       "name": "Colors",
       "logoUrl": "https://i.pinimg.com/originals/8c/cb/16/8ccb1643a2752be053328459476d54d2.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a077/index.m3u8",
-        "http://103.229.254.25:7001/play/a0a1/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0387/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5498,8 +5497,8 @@
       "name": "Zee Bangla Sonar",
       "logoUrl": "https://www.pngitem.com/pimgs/m/682-6822598_tv-channels-offer-transparent-zee-bangla-logo-hd.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a070/index.m3u8",
-        "http://111.88.78.21:8000/play/a0y1/index.m3u8"
+        "http://111.88.78.21:8000/play/a0y1/index.m3u8",
+        "http://103.229.254.25:7001/play/a070/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5611,7 +5610,7 @@
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
         "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
-        "http://103.113.103.202:8001/play/a028/index.m3u8"
+        "http://111.88.78.21:8000/play/a0x8/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6321,7 +6320,6 @@
       "name": "Colors Kannada",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/ColorsKannadaLogo.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0482/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0456/master.m3u8"
       ],
       "category": "India",
