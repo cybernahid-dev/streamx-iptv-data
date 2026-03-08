@@ -95,7 +95,8 @@
       "name": "24 Hour Free Movies",
       "logoUrl": "https://provider-static.plex.tv/epg/images/ott_channels/arts/24hrfreemovies_artwork_horizontal-v2.jpg",
       "streamUrls": [
-        "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8"
+        "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
+        "https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi"
       ],
       "category": "USA"
     },
@@ -2441,6 +2442,7 @@
       "name": "CineLife",
       "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100070883855032",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8?ads.vf=rfg60ruFgWy",
         "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8"
       ],
       "category": "USA"
@@ -3100,6 +3102,7 @@
       "name": "Disney Junior",
       "logoUrl": "https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738",
       "streamUrls": [
+        "https://tvpass.org/live/DisneyJuniorEast/sd",
         "https://tvpass.org/live/DisneyJuniorEast/hd"
       ],
       "category": "USA"
@@ -12361,7 +12364,6 @@
       "name": "KFMB-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd",
         "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd"
       ],
       "category": "USA"
@@ -12371,8 +12373,8 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/sd",
-        "https://tvpass.org/live/nbc-sports-bay-area/hd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd",
+        "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
     },
@@ -12724,7 +12726,7 @@
       "name": "Daystar TV",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/9/93/Daystar_TV.PNG/200px-Daystar_TV.PNG",
       "streamUrls": [
-        "https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8?ads.vf=2gqxhLHfUR0"
+        "https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -12733,7 +12735,7 @@
       "name": "Daystar TV Espanol",
       "logoUrl": "https://www.lyngsat.com/logo/tv/dd/daystar-tv-espanol-us.png",
       "streamUrls": [
-        "https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8?ads.vf=58GrEFelNTK"
+        "https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -12789,7 +12791,7 @@
       "name": "Horizon Sports",
       "logoUrl": "https://i.pinimg.com/736x/17/52/4c/17524cc7be26ce1a924d2592b9e0fcb1.jpg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=yqVv-4q1FVG"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=A5pc7nNS254"
       ],
       "category": "USA"
     },
@@ -12816,7 +12818,7 @@
       "name": "Kaloopy TV",
       "logoUrl": "https://speakrj.nyc3.cdn.digitaloceanspaces.com/youtube/kaloopy.jpg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=MW8if26gWIm"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0"
       ],
       "category": "USA"
     },
@@ -12870,7 +12872,7 @@
       "name": "Sports TV Plus",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/jr0wlq1681309932.png",
       "streamUrls": [
-        "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=6S5T4Kl7B10"
+        "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC"
       ],
       "category": "USA"
     },
@@ -12897,7 +12899,7 @@
       "name": "The Boat Show",
       "logoUrl": "https://www.pbboatshow.com/content/markets/na/palm-beach-international-boatshow/en/_jcr_content/root/footer/responsivegrid_14960/imagegallery/image_301309052.coreimg.jpeg/1704725183082/theboatshow-logo-(1).jpeg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8?ads.vf=UjpAnxTwLMK"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8?ads.vf=kS8ONlN67Ay"
       ],
       "category": "USA"
     },
@@ -14265,7 +14267,7 @@
       "name": "DroneTV",
       "logoUrl": "https://pbs.twimg.com/profile_images/1045035703946620938/Z8zRiAbZ.jpg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=hSBeWdMc_Oi"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om"
       ],
       "category": "USA",
       "languages": []
@@ -14546,7 +14548,8 @@
       "name": "Journy",
       "logoUrl": "https://www.journy.tv/US_STVP_JOURNY_ChannelTile_1000x1000_Square.png",
       "streamUrls": [
-        "https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8"
+        "https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8?ads.vf=QFdKH3fCQ5m"
       ],
       "category": "USA",
       "languages": []
@@ -14727,6 +14730,16 @@
       "logoUrl": "https://static.wikia.nocookie.net/tvstation/images/f/fe/220px-WVIT_Logo.png/revision/latest?cb=20180304171007",
       "streamUrls": [
         "https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "FTFSports.us",
+      "name": "FTF Sports",
+      "logoUrl": "https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg",
+      "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ftf/FTF_SCTE_B.m3u8?ads.vf=U3lqpPugV2W"
       ],
       "category": "USA",
       "languages": []
