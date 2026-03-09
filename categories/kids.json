@@ -2319,6 +2319,7 @@
       "name": "Nick HD+",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png",
       "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0450/master.m3u8",
         "http://116.90.120.128:8000/play/a0i3/index.m3u88"
       ],
       "category": "Kids",
