@@ -3934,7 +3934,8 @@
       "name": "Sun Music",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20180318045647",
       "streamUrls": [
-        "http://15.235.144.106:14055"
+        "http://15.235.144.106:14055",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0563/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5112,7 +5113,8 @@
       "name": "Punjabi Hits",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e9/Punjabi_Hits.jpg/revision/latest?cb=20210807162730",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8?ads.vf=QAmA4r77J0G"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8?ads.vf=QAmA4r77J0G",
+        "https://stream.ottlive.co.in/punjabihits/index.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5312,7 +5314,7 @@
       "name": "Zing!",
       "logoUrl": "https://logowik.com/content/uploads/images/4104-zing-tv-new.webp",
       "streamUrls": [
-        "http://161.248.38.40:8000/play/a0ax/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0307/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5342,7 +5344,7 @@
       "name": "Maimon TV Canal 3",
       "logoUrl": "https://directostv.teleame.com/wp-content/uploads/2017/10/Maimontv.png",
       "streamUrls": [
-        "https://tele-stream.telecasa.net:8080/play/maimontv/index.m3u8"
+        "https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5506,7 +5508,7 @@
       "name": "Sun Life",
       "logoUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4525a16126755.562a5bb068cba.png",
       "streamUrls": [
-        "http://111.88.78.21:8000/play/a0z3/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0585/master.m3u8"
       ],
       "category": "Music",
       "languages": [],
@@ -5517,7 +5519,7 @@
       "name": "Vijay Takkar",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/39/Vijay_Takkar_2.jpg/revision/latest/scale-to-width-down/250?cb=20250610135306",
       "streamUrls": [
-        "http://111.88.78.21:8000/play/a0xx/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0473/master.m3u8"
       ],
       "category": "Music",
       "languages": [],
@@ -5617,6 +5619,39 @@
       "logoUrl": "https://music.stingray.com/cover/channels/190ADS?date=1723555799",
       "streamUrls": [
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-xitos-del-momento/master.m3u8?ads.vf=--_m-LmFeCi"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "StarMaaMusic.in",
+      "name": "Star Maa Music",
+      "logoUrl": "https://indiantvinfo.com/media/2022/09/Star-Maa-Music-Channel.png",
+      "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0481/master.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "SuryaMusic.in",
+      "name": "Surya Music",
+      "logoUrl": "https://static.wikia.nocookie.net/dreamlogos/images/6/64/Surya_Music.jpg/revision/latest/scale-to-width-down/1200?cb=20221013221903",
+      "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0579/master.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "UdayaMusic.in",
+      "name": "Udaya Music",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/ed/Udaya_Music.jpg/revision/latest/scale-to-width-down/250?cb=20180318053133",
+      "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0588/master.m3u8"
       ],
       "category": "Music",
       "languages": [],

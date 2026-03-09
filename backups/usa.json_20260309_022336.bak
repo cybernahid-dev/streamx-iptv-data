@@ -14744,16 +14744,6 @@
       ],
       "category": "USA",
       "languages": []
-    },
-    {
-      "id": "KNTVDT1.us",
-      "name": "KNTV-DT1",
-      "logoUrl": "https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_kntv_short.png",
-      "streamUrls": [
-        "https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA"
-      ],
-      "category": "USA",
-      "languages": []
     }
   ]
 }
