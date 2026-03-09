@@ -536,8 +536,8 @@
       "name": "ACL Cornhole TV",
       "logoUrl": "https://mysqlvm.blob.core.windows.net/acl-website-assets/web-ACL-Pro-Cornhole-Series-badge-1200px.png",
       "streamUrls": [
-        "https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8?ads.vf=NbEpkTCqk8a"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8?ads.vf=Sl3XhzpgcOy",
+        "https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8"
       ],
       "category": "USA"
     },
@@ -4389,7 +4389,6 @@
       "name": "Impact Network",
       "logoUrl": "https://cdn.mos.cms.futurecdn.net/aptefFQ6yRHRVEv2e5M5uc.png",
       "streamUrls": [
-        "https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8",
         "http://51.75.94.167/impact/index.m3u8"
       ],
       "category": "USA"
@@ -12364,6 +12363,7 @@
       "name": "KFMB-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png",
       "streamUrls": [
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
         "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
       ],
       "category": "USA"
@@ -14740,6 +14740,16 @@
       "logoUrl": "https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg",
       "streamUrls": [
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ftf/FTF_SCTE_B.m3u8?ads.vf=U3lqpPugV2W"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "KNTVDT1.us",
+      "name": "KNTV-DT1",
+      "logoUrl": "https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_kntv_short.png",
+      "streamUrls": [
+        "https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA"
       ],
       "category": "USA",
       "languages": []
