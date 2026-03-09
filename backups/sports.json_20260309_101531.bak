@@ -1619,8 +1619,8 @@
       "name": "Turkmenistan Sport",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/xlw98l1659625347.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/hls/ch004.m3u8",
-        "https://alpha.tv.online.tm/legacyhls/ch004.m3u8"
+        "https://alpha.tv.online.tm/legacyhls/ch004.m3u8",
+        "https://alpha.tv.online.tm/hls/ch004.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1950,7 +1950,8 @@
       "name": "Star Sports 1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0a0/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1960,6 +1961,8 @@
       "name": "Star Sports 2",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",
       "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0442/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0413/master.m3u8",
         "http://103.121.6.5:8000/play/a05u/index.m3u8"
       ],
       "category": "Sports",
@@ -1990,7 +1993,8 @@
       "name": "Sony Sports Ten 3 Hindi",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://116.90.120.128:8000/play/a0jr/index.m3u88",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0366/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0370/master.m3u8",
         "http://103.229.254.25:7001/play/a09q/index.m3u8"
       ],
       "category": "Sports",
@@ -2052,8 +2056,8 @@
       "name": "Star Sports 1 Hindi",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://161.248.38.40:8000/play/a06n/index.m3u8",
-        "http://161.248.38.40:8000/play/a071/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0415/master.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2153,7 +2157,9 @@
       "name": "Sony Sports Ten 2",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a02t/index.m3u8"
+        "http://103.229.254.25:7001/play/a02t/index.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0365/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0372/master.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2164,7 +2170,8 @@
       "name": "Sony Sports Ten 5",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dw/index.m3u8"
+        "http://103.229.254.25:7001/play/a0dw/index.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0377/master.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2522,6 +2529,8 @@
       "name": "Sony Sports Ten 1",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
       "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0378/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0369/master.m3u8",
         "http://103.121.6.5:8000/play/a05w/index.m3u8"
       ],
       "category": "Sports",
@@ -2533,6 +2542,7 @@
       "name": "Star Sports 3",
       "logoUrl": "https://w7.pngwing.com/pngs/734/315/png-transparent-cricket-world-cup-star-sports-3-streaming-media-ptv-sports-live-stream-television-text-sport.png",
       "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0414/master.m3u8",
         "http://103.121.6.5:8000/play/a05y/index.m3u8"
       ],
       "category": "Sports",
@@ -2544,7 +2554,8 @@
       "name": "Star Sports 1 Tamil",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://111.88.78.21:8000/play/a0to/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0419/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0472/master.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2555,7 +2566,7 @@
       "name": "Star Sports 1 Telugu",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png/revision/latest?cb=20181211054504",
       "streamUrls": [
-        "http://111.88.78.21:8000/play/a0vc/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2624,6 +2635,51 @@
       "streamUrls": [
         "http://5.253.46.190:8000/play/a0dr/index.m3u8",
         "http://5.253.46.190:8000/play/a0dq/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "StarSports1Kannada.in",
+      "name": "Star Sports 1 Kannada",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/54/Star-Sports-1-Kannada.jpg/revision/latest/scale-to-width-down/200?cb=20240314075958",
+      "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0420/master.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "StarSports2Kannada.in",
+      "name": "Star Sports 2 Kannada",
+      "logoUrl": "https://www.nicepng.com/png/detail/952-9522547_top-10-most-famous-indian-television-channels-star.png",
+      "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0422/master.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "StarSports2Telugu.in",
+      "name": "Star Sports 2 Telugu",
+      "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
+      "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0513/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "StarSportsKhel.in",
+      "name": "Star Sports Khel",
+      "logoUrl": "https://indiantvinfo.com/media/2025/03/Star-Sports-Khel.jpg",
+      "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0423/master.m3u8"
       ],
       "category": "Sports",
       "languages": [],
