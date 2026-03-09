@@ -182,7 +182,7 @@
       "name": "ABN Andhra Jyoti",
       "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abn-andhra-jyothy/index.m3u8?ads.vf=-FR2KTpV7aG",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abn-andhra-jyothy/index.m3u8?ads.vf=UlAYFOs6jHe",
         "https://cdn-1.pishow.tv/live/407/master.m3u8"
       ],
       "category": "India"
@@ -232,7 +232,6 @@
       "name": "ANB News",
       "logoUrl": "https://static.wikia.nocookie.net/india-tv-channel/images/4/4c/ANB_News.jpeg/revision/latest?cb=20211211131312",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=anb-news&e=.m3u8",
         "https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8"
       ],
       "category": "India"
@@ -252,7 +251,6 @@
       "name": "Aadinath TV",
       "logoUrl": "https://aadinathtv.com/uploads/logo/9879415WhatsApp+Image+2021-10-07+at+5.40.23+PM+(1)+(1).jpeg",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8",
         "https://mumt01.tangotv.in/AADINATHTV/index.m3u8"
       ],
       "category": "India"
@@ -458,8 +456,8 @@
       "name": "Argus News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/df/Argus_News.jpeg/revision/latest/scale-to-width-down/250?cb=20200804122252",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=argus-news&e=.m3u8",
-        "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8"
+        "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G"
       ],
       "category": "India"
     },
@@ -506,7 +504,6 @@
       "name": "Awakening TV",
       "logoUrl": "https://image.roku.com/developer_channels/prod/5b397cff0f612aa674260a5fedb3ae43880bcb02df1d0e7ad7b2fa35911177ce.png",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=awakening-tv&e=.m3u8",
         "https://mumt03.tangotv.in/AWAKENINGTV/index.m3u8"
       ],
       "category": "India"
@@ -567,7 +564,7 @@
       "name": "BIG TV",
       "logoUrl": "https://w7.pngwing.com/pngs/616/114/png-transparent-big-tv-television-channel-logo-pt-indonesia-media-televisi-bigtv-others-miscellaneous-television-text.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/big-tv/index.m3u8?ads.vf=lIf8R_GSaTe",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/big-tv/index.m3u8?ads.vf=T2i6boC2Cna",
         "https://cdn-1.pishow.tv/live/1059/master.m3u8"
       ],
       "category": "India"
@@ -3353,6 +3350,8 @@
       "name": "StarPlus",
       "logoUrl": "https://www.pngitem.com/pimgs/m/3-33009_star-plus-logo-png-transparent-png.png",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a09z/index.m3u8",
+        "http://103.229.254.25:7001/play/a09p/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0386/master.m3u8"
       ],
       "category": "India"
@@ -4125,6 +4124,7 @@
       "name": "Surya TV",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/0/03/Surya_TV.jpg/revision/latest?cb=20180318054226",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a0dq/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0566/master.m3u8"
       ],
       "category": "India"
@@ -5352,6 +5352,7 @@
       "name": "Jalsha Movies",
       "logoUrl": "https://p7.hiclipart.com/preview/556/803/762/jalsha-movies-star-jalsha-star-india-high-definition-television-maa-thumbnail.jpg",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a0dt/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0463/master.m3u8"
       ],
       "category": "India",
@@ -5518,6 +5519,7 @@
       "name": "Zee Bangla Sonar",
       "logoUrl": "https://www.pngitem.com/pimgs/m/682-6822598_tv-channels-offer-transparent-zee-bangla-logo-hd.png",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a070/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0529/master.m3u8"
       ],
       "category": "India",
@@ -5528,6 +5530,7 @@
       "name": "Zee Cafe",
       "logoUrl": "https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a0cx/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0522/master.m3u8"
       ],
       "category": "India",
@@ -6335,6 +6338,7 @@
       "name": "Colors Cineplex",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",
       "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0392/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0435/master.m3u8"
       ],
       "category": "India",
