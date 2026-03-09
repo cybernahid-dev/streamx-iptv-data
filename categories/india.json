@@ -182,7 +182,6 @@
       "name": "ABN Andhra Jyoti",
       "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abn-andhra-jyothy/index.m3u8?ads.vf=-FR2KTpV7aG",
         "https://cdn-1.pishow.tv/live/407/master.m3u8"
       ],
       "category": "India"
@@ -232,7 +231,6 @@
       "name": "ANB News",
       "logoUrl": "https://static.wikia.nocookie.net/india-tv-channel/images/4/4c/ANB_News.jpeg/revision/latest?cb=20211211131312",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=anb-news&e=.m3u8",
         "https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8"
       ],
       "category": "India"
@@ -252,7 +250,6 @@
       "name": "Aadinath TV",
       "logoUrl": "https://aadinathtv.com/uploads/logo/9879415WhatsApp+Image+2021-10-07+at+5.40.23+PM+(1)+(1).jpeg",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8",
         "https://mumt01.tangotv.in/AADINATHTV/index.m3u8"
       ],
       "category": "India"
@@ -458,8 +455,8 @@
       "name": "Argus News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/df/Argus_News.jpeg/revision/latest/scale-to-width-down/250?cb=20200804122252",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=argus-news&e=.m3u8",
-        "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8"
+        "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G"
       ],
       "category": "India"
     },
@@ -506,7 +503,6 @@
       "name": "Awakening TV",
       "logoUrl": "https://image.roku.com/developer_channels/prod/5b397cff0f612aa674260a5fedb3ae43880bcb02df1d0e7ad7b2fa35911177ce.png",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=awakening-tv&e=.m3u8",
         "https://mumt03.tangotv.in/AWAKENINGTV/index.m3u8"
       ],
       "category": "India"
@@ -567,7 +563,6 @@
       "name": "BIG TV",
       "logoUrl": "https://w7.pngwing.com/pngs/616/114/png-transparent-big-tv-television-channel-logo-pt-indonesia-media-televisi-bigtv-others-miscellaneous-television-text.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/big-tv/index.m3u8?ads.vf=lIf8R_GSaTe",
         "https://cdn-1.pishow.tv/live/1059/master.m3u8"
       ],
       "category": "India"
@@ -5366,7 +5361,6 @@
       "name": "Jaya TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/id/3/34/Logo_Jaya_TV.png?20240724133814",
       "streamUrls": [
-        "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8"
       ],
       "category": "India",

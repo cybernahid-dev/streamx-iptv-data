@@ -1450,6 +1450,7 @@
       "name": "First India News",
       "logoUrl": "https://w7.pngwing.com/pngs/327/169/png-transparent-india-news-television-channel-itv-network-india-television-logo-india.png",
       "streamUrls": [
+        "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
         "https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8"
       ],
       "category": "India"
@@ -3352,8 +3353,9 @@
       "name": "StarPlus",
       "logoUrl": "https://www.pngitem.com/pimgs/m/3-33009_star-plus-logo-png-transparent-png.png",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a09z/index.m3u8",
         "http://103.229.254.25:7001/play/a09p/index.m3u8",
-        "http://103.229.254.25:7001/play/a09z/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0386/master.m3u8"
       ],
       "category": "India"
     },
@@ -4058,9 +4060,8 @@
       "name": "Zee Talkies",
       "logoUrl": "https://www.pngitem.com/pimgs/m/530-5308931_zee-talkies-hd-channel-logo-hd-png-download.png",
       "streamUrls": [
-        "http://116.90.120.128:8000/play/a0io/index.m3u88",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0509/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0518/master.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0518/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0509/master.m3u8"
       ],
       "category": "India"
     },
@@ -4169,7 +4170,6 @@
       "name": "Colors Bangla",
       "logoUrl": "https://i.pinimg.com/originals/8c/cb/16/8ccb1643a2752be053328459476d54d2.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0ds/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0458/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0464/master.m3u8"
       ],
@@ -4792,7 +4792,8 @@
       "name": "Sony Sports Ten 3 Hindi",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://116.90.120.128:8000/play/a0jr/index.m3u88",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0366/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0370/master.m3u8",
         "http://103.229.254.25:7001/play/a09q/index.m3u8"
       ],
       "category": "India"
@@ -5176,9 +5177,8 @@
       "name": "Star Gold 2",
       "logoUrl": "https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0d0/index.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0390/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0433/master.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0433/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0390/master.m3u8"
       ],
       "category": "India"
     },
@@ -5262,9 +5262,8 @@
       "name": "Zee TV",
       "logoUrl": "https://pngset.com/images/zee-tv-zee-tv-logo-channel-text-metropolis-city-urban-transparent-png-1124165.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0cs/index.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0507/master.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0507/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8"
       ],
       "category": "India"
     },
@@ -5312,9 +5311,8 @@
       "name": "&pictures",
       "logoUrl": "https://www.vhv.rs/dpng/d/560-5605996_tv-network-logos-png-png-transparent-tv-channel.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a033/index.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0521/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0547/master.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0547/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0521/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5423,9 +5421,8 @@
       "name": "Sony Pix",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0ed/index.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0364/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0364/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5435,9 +5432,9 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://217.20.112.199/sabtvhd/index.m3u8",
-        "http://103.229.254.25:7001/play/a0db/index.m3u8",
-        "http://103.229.254.25:7001/play/a09s/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0362/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0375/master.m3u8",
+        "http://103.229.254.25:7001/play/a0db/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5492,7 +5489,6 @@
       "name": "Star Gold Select",
       "logoUrl": "https://static.wikia.nocookie.net/logosfake/images/6/68/Star_Gold_Select.svg/revision/latest?cb=20250103225202",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a032/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0434/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0395/master.m3u8"
       ],
@@ -5504,7 +5500,8 @@
       "name": "Star Sports 2 Tamil",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dc/index.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0425/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0073/master.m3u8",
         "http://103.229.254.25:7001/play/a0d1/index.m3u8"
       ],
       "category": "India",
@@ -5515,8 +5512,8 @@
       "name": "Star Vijay",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png",
       "streamUrls": [
-        "http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8",
-        "http://111.88.78.21:8000/play/a11b/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0469/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0460/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5548,8 +5545,8 @@
       "name": "Zee Tamil",
       "logoUrl": "https://www.pngitem.com/pimgs/m/764-7649207_zee-tamil-tv-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://198.27.83.207:2550/ZEE_TAMIL_SD/index.m3u8",
-        "http://111.88.78.21:8000/play/a0xw/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0557/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0535/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5559,7 +5556,6 @@
       "name": "Zee Zest",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Zee_Zest_HD.jpg/revision/latest/scale-to-width-down/185?cb=20201122180357",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dp/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0548/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0516/master.m3u8"
       ],
@@ -5830,7 +5826,6 @@
       "name": "Nick HD+",
       "logoUrl": "https://www.nicepng.com/png/full/639-6391070_nickelodeon-hdtv-nick-jr-nickelodeon-logo.png",
       "streamUrls": [
-        "http://116.90.120.128:8000/play/a0i3/index.m3u88",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0450/master.m3u8"
       ],
       "category": "India",
