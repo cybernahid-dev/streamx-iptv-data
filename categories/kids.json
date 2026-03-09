@@ -1563,6 +1563,7 @@
       "name": "RiC",
       "logoUrl": "https://smallimg.pngkey.com/png/small/3-36899_logotipo-da-ric-tv-ric-tv.png",
       "streamUrls": [
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
         "https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8"
       ],
       "category": "Kids",
