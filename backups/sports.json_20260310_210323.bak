@@ -1748,7 +1748,6 @@
       "name": "TSN4",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png",
       "streamUrls": [
-        "https://tvpass.org/live/tsn4/hd",
         "https://tvpass.org/live/tsn4/sd"
       ],
       "category": "Sports",
