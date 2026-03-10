@@ -12678,7 +12678,8 @@
       "name": "Entertainment Tonight",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Entertainment_Tonight_Logo.png",
       "streamUrls": [
-        "https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8"
+        "https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8",
+        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=09a024e9-c4f8-4f71-afbc-8ee1a3330d01"
       ],
       "category": "USA",
       "languages": []
