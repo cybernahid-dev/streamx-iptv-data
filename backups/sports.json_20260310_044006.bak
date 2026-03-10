@@ -136,8 +136,7 @@
       "name": "ACL Cornhole TV",
       "logoUrl": "https://mysqlvm.blob.core.windows.net/acl-website-assets/web-ACL-Pro-Cornhole-Series-badge-1200px.png",
       "streamUrls": [
-        "https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8?ads.vf=NbEpkTCqk8a"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8?ads.vf=Sl3XhzpgcOy"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -806,7 +805,6 @@
       "name": "L'Equipe",
       "logoUrl": "https://w7.pngwing.com/pngs/882/165/png-transparent-l-039-equipe-wordmark-hd-logo.png",
       "streamUrls": [
-        "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
         "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd",
         "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8"
       ],
@@ -2157,7 +2155,6 @@
       "name": "Sony Sports Ten 2",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a02t/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0365/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0372/master.m3u8"
       ],
@@ -2170,8 +2167,8 @@
       "name": "Sony Sports Ten 5",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dw/index.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0377/master.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0377/master.m3u8",
+        "http://103.229.254.25:7001/play/a0dw/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2182,8 +2179,8 @@
       "name": "Star Sports 2 Tamil",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0d1/index.m3u8",
-        "http://103.229.254.25:7001/play/a0dc/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0073/master.m3u8",
+        "http://103.229.254.25:7001/play/a0d1/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
