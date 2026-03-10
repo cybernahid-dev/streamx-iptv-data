@@ -656,8 +656,7 @@
       "name": "Disney XD",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",
       "streamUrls": [
-        "https://tvpass.org/live/DisneyXDEast/hd",
-        "https://tvpass.org/live/DisneyXDEast/sd"
+        "https://tvpass.org/live/DisneyXDEast/hd"
       ],
       "category": "Kids",
       "genre": "Kids"
