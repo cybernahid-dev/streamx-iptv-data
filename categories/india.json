@@ -4937,7 +4937,6 @@
       "name": "Food Food",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
       "streamUrls": [
-        "http://45.148.145.57/IN_FOODFOOD/index.m3u8",
         "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       ],
       "category": "India"
@@ -5365,7 +5364,6 @@
       "name": "Jaya TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/id/3/34/Logo_Jaya_TV.png?20240724133814",
       "streamUrls": [
-        "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8"
       ],
       "category": "India",
@@ -5419,7 +5417,6 @@
       "name": "Sony Pix",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0364/master.m3u8",
         "http://103.229.254.25:7001/play/a0ed/index.m3u8"
       ],

@@ -1992,6 +1992,7 @@
       "name": "Sony Sports Ten 3 Hindi",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
       "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0366/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0370/master.m3u8",
         "http://103.229.254.25:7001/play/a09q/index.m3u8"
       ],
