@@ -182,7 +182,7 @@
       "name": "ABN Andhra Jyoti",
       "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abn-andhra-jyothy/index.m3u8?ads.vf=-FR2KTpV7aG",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abn-andhra-jyothy/index.m3u8?ads.vf=UlAYFOs6jHe",
         "https://cdn-1.pishow.tv/live/407/master.m3u8"
       ],
       "category": "India"
@@ -232,7 +232,6 @@
       "name": "ANB News",
       "logoUrl": "https://static.wikia.nocookie.net/india-tv-channel/images/4/4c/ANB_News.jpeg/revision/latest?cb=20211211131312",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=anb-news&e=.m3u8",
         "https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8"
       ],
       "category": "India"
@@ -252,7 +251,6 @@
       "name": "Aadinath TV",
       "logoUrl": "https://aadinathtv.com/uploads/logo/9879415WhatsApp+Image+2021-10-07+at+5.40.23+PM+(1)+(1).jpeg",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8",
         "https://mumt01.tangotv.in/AADINATHTV/index.m3u8"
       ],
       "category": "India"
@@ -458,8 +456,8 @@
       "name": "Argus News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/df/Argus_News.jpeg/revision/latest/scale-to-width-down/250?cb=20200804122252",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=argus-news&e=.m3u8",
-        "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8"
+        "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G"
       ],
       "category": "India"
     },
@@ -506,7 +504,6 @@
       "name": "Awakening TV",
       "logoUrl": "https://image.roku.com/developer_channels/prod/5b397cff0f612aa674260a5fedb3ae43880bcb02df1d0e7ad7b2fa35911177ce.png",
       "streamUrls": [
-        "https://keralive.com/yupp/tv.php?c=awakening-tv&e=.m3u8",
         "https://mumt03.tangotv.in/AWAKENINGTV/index.m3u8"
       ],
       "category": "India"
@@ -567,7 +564,7 @@
       "name": "BIG TV",
       "logoUrl": "https://w7.pngwing.com/pngs/616/114/png-transparent-big-tv-television-channel-logo-pt-indonesia-media-televisi-bigtv-others-miscellaneous-television-text.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/big-tv/index.m3u8?ads.vf=lIf8R_GSaTe",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/big-tv/index.m3u8?ads.vf=T2i6boC2Cna",
         "https://cdn-1.pishow.tv/live/1059/master.m3u8"
       ],
       "category": "India"
@@ -3428,7 +3425,6 @@
       "name": "Sun Bangla",
       "logoUrl": "https://i.imgur.com/fH62JFs.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0580/master.m3u8",
         "http://103.161.153.165:8000/play/a03k/index.m3u8"
       ],
       "category": "India"
@@ -4792,8 +4788,6 @@
       "name": "Sony Sports Ten 3 Hindi",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0366/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0370/master.m3u8",
         "http://103.229.254.25:7001/play/a09q/index.m3u8"
       ],
       "category": "India"
@@ -5233,7 +5227,6 @@
       "name": "Zee Bollywood",
       "logoUrl": "https://latestlogo.com/wp-content/uploads/2025/06/zee-bollywood-logo-scaled.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0527/master.m3u8",
         "http://103.229.254.25:7001/play/a0dk/index.m3u8"
       ],
       "category": "India"
@@ -5243,7 +5236,6 @@
       "name": "Zee Classic",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2023/04/Zee-TV-Logo-2005.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0543/master.m3u8",
         "http://103.229.254.25:7001/play/a09w/index.m3u8"
       ],
       "category": "India"
@@ -5262,8 +5254,7 @@
       "name": "Zee TV",
       "logoUrl": "https://pngset.com/images/zee-tv-zee-tv-logo-channel-text-metropolis-city-urban-transparent-png-1124165.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0507/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8"
+        "http://103.229.254.25:7001/play/a0cs/index.m3u8"
       ],
       "category": "India"
     },
@@ -5311,8 +5302,7 @@
       "name": "&pictures",
       "logoUrl": "https://www.vhv.rs/dpng/d/560-5605996_tv-network-logos-png-png-transparent-tv-channel.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0547/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0521/master.m3u8"
+        "http://103.229.254.25:7001/play/a033/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5366,7 +5356,6 @@
       "name": "Jaya TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/id/3/34/Logo_Jaya_TV.png?20240724133814",
       "streamUrls": [
-        "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8"
       ],
       "category": "India",
@@ -5399,9 +5388,8 @@
       "name": "Sonic",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/13/Sonic-Logo-No-Background.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0368/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0407/master.m3u8",
-        "http://103.229.254.25:7001/play/a0dl/index.m3u8"
+        "http://103.229.254.25:7001/play/a0dl/index.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0407/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5421,8 +5409,7 @@
       "name": "Sony Pix",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0364/master.m3u8"
+        "http://103.229.254.25:7001/play/a0ed/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5432,9 +5419,8 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0362/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0375/master.m3u8",
-        "http://103.229.254.25:7001/play/a0db/index.m3u8"
+        "http://103.229.254.25:7001/play/a0db/index.m3u8",
+        "http://103.229.254.25:7001/play/a09s/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5444,8 +5430,6 @@
       "name": "Sony Sports Ten 2",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0372/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0365/master.m3u8",
         "http://103.229.254.25:7001/play/a02t/index.m3u8"
       ],
       "category": "India",
@@ -5467,7 +5451,6 @@
       "name": "Sony Yay!",
       "logoUrl": "https://www.vhv.rs/dpng/d/461-4612823_sony-yay-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0367/master.m3u8",
         "http://103.229.254.25:7001/play/a0cl/index.m3u8"
       ],
       "category": "India",
@@ -5556,8 +5539,7 @@
       "name": "Zee Zest",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Zee_Zest_HD.jpg/revision/latest/scale-to-width-down/185?cb=20201122180357",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0548/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0516/master.m3u8"
+        "http://103.229.254.25:7001/play/a0dp/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6022,9 +6004,7 @@
       "name": "Sony BBC Earth",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0371/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0384/master.m3u8",
-        "http://111.88.78.21:8000/play/a0uh/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0384/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6271,6 +6251,7 @@
       "name": "Super Hungama",
       "logoUrl": "https://static.wikia.nocookie.net/iepfanon/images/6/6d/Super_Hungama.png/revision/latest?cb=20220731182518",
       "streamUrls": [
+        "http://103.161.153.165:8000/play/a05a/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0410/master.m3u8"
       ],
       "category": "India",
@@ -6281,7 +6262,6 @@
       "name": "Zee Bangla",
       "logoUrl": "https://www.pngitem.com/pimgs/m/682-6822598_tv-channels-offer-transparent-zee-bangla-logo-hd.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0512/master.m3u8",
         "http://103.161.153.165:8000/play/zeebnhd/index.m3u8"
       ],
       "category": "India",
