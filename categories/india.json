@@ -6629,6 +6629,16 @@
       ],
       "category": "India",
       "languages": []
+    },
+    {
+      "id": "TravelxpTamil.in",
+      "name": "Travelxp Tamil",
+      "logoUrl": "https://www.medianews4u.com/wp-content/uploads/2017/07/travelxp-tamil-logo-2-2.jpg",
+      "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0202/master.m3u8"
+      ],
+      "category": "India",
+      "languages": []
     }
   ]
 }
