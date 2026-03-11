@@ -7385,6 +7385,7 @@
       "name": "Payvand TV",
       "logoUrl": "https://www.parsatv.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/payvand.jpg",
       "streamUrls": [
+        "https://bozztv.com/cus01/ucur1/Payvand/index.m3u8",
         "https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8"
       ],
       "category": "USA"
@@ -12363,8 +12364,7 @@
       "name": "KFMB-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/KFMB_hd_logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
-        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
+        "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd"
       ],
       "category": "USA"
     },

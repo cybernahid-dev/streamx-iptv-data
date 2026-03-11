@@ -839,8 +839,7 @@
       "name": "Colors Cineplex Bollywood",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",
       "streamUrls": [
-        "http://103.182.170.32:8888/play/a01o",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0393/master.m3u8"
+        "http://103.182.170.32:8888/play/a01o"
       ],
       "category": "India"
     },
@@ -3350,8 +3349,8 @@
       "name": "StarPlus",
       "logoUrl": "https://www.pngitem.com/pimgs/m/3-33009_star-plus-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a09z/index.m3u8",
         "http://103.229.254.25:7001/play/a09p/index.m3u8",
+        "http://103.229.254.25:7001/play/a09z/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0386/master.m3u8"
       ],
       "category": "India"
@@ -3649,7 +3648,7 @@
       "name": "Telugu One",
       "logoUrl": "https://www.pinclipart.com/picdir/big/142-1428002_top-telugu-tv-channels-serials-of-may-2016.png",
       "streamUrls": [
-        "https://amg02821-amg02821c1-samsung-in-4717.playouts.now.amagi.tv/playlist/amg02821-objectone-teluguone-samsungin/playlist.m3u8"
+        "https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8"
       ],
       "category": "India"
     },
@@ -5055,9 +5054,7 @@
       "name": "MNX",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png/revision/latest/scale-to-width-down/250?cb=20200114193517",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0089/master.m3u8",
-        "http://116.90.120.128:8000/play/a0i6/index.m3u88"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0089/master.m3u8"
       ],
       "category": "India"
     },
@@ -5342,9 +5339,8 @@
       "name": "Colors Infinity",
       "logoUrl": "https://assets.airtel.in/static-assets/cms/dth/images/channellogo/COLORS-INFINITY-hd.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0402/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8",
-        "http://103.229.254.25:7001/play/a0du/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0402/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5365,6 +5361,7 @@
       "name": "Jaya TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/id/3/34/Logo_Jaya_TV.png?20240724133814",
       "streamUrls": [
+        "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8"
       ],
       "category": "India",
@@ -5397,7 +5394,7 @@
       "name": "Sonic",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/13/Sonic-Logo-No-Background.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dl/index.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0368/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0407/master.m3u8"
       ],
       "category": "India",
@@ -5429,8 +5426,8 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0db/index.m3u8",
-        "http://103.229.254.25:7001/play/a09s/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0375/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0362/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5496,8 +5493,8 @@
       "name": "Star Sports 2 Tamil",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dc/index.m3u8",
-        "http://103.229.254.25:7001/play/a0d1/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0073/master.m3u8",
+        "http://103.229.254.25:7001/play/a0dc/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5518,8 +5515,8 @@
       "name": "Zee Bangla Sonar",
       "logoUrl": "https://www.pngitem.com/pimgs/m/682-6822598_tv-channels-offer-transparent-zee-bangla-logo-hd.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a070/index.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0529/master.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0529/master.m3u8",
+        "http://103.229.254.25:7001/play/a070/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5529,8 +5526,8 @@
       "name": "Zee Cafe",
       "logoUrl": "https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0cx/index.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0522/master.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0522/master.m3u8",
+        "http://103.229.254.25:7001/play/a0cx/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6633,6 +6630,16 @@
       "logoUrl": "https://www.medianews4u.com/wp-content/uploads/2017/07/travelxp-tamil-logo-2-2.jpg",
       "streamUrls": [
         "http://iptvcasomsapi.jprdigital.in/x-media/C0202/master.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SonyMax1.in",
+      "name": "Sony Max 1",
+      "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8b9qnOwaliBAYqwqyo7XwxmoBEPKqA4LXk4LrkYl2od-HPnHvrHR6S7D9jKw2Bw7QWHkFR1T3ZUFmmrglTU0KypMuVtV08gOwnq3sQb7l5X17XVBciei-J1_358F9d-8TjB2aW6iC6XS_/s1600/Sony+Max+DStv+126.jpg",
+      "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8"
       ],
       "category": "India",
       "languages": []

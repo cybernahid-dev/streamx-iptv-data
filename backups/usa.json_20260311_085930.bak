@@ -7385,7 +7385,6 @@
       "name": "Payvand TV",
       "logoUrl": "https://www.parsatv.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/payvand.jpg",
       "streamUrls": [
-        "https://bozztv.com/cus01/ucur1/Payvand/index.m3u8",
         "https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8"
       ],
       "category": "USA"
@@ -10636,8 +10635,8 @@
       "name": "Vevo '90s",
       "logoUrl": "https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/Vevo-90s_1839.png?$296_164_PNG$",
       "streamUrls": [
+        "https://d29u7uq3k6xqk0.cloudfront.net/Vevo_90s.m3u8",
         "https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8",
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1",
         "https://amg00056-vevotv-vevo90saunz-samsungnz-mpus0.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8"
       ],
       "category": "USA"
@@ -12374,7 +12373,8 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/hd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd",
+        "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
     },
@@ -12677,8 +12677,7 @@
       "name": "Entertainment Tonight",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Entertainment_Tonight_Logo.png",
       "streamUrls": [
-        "https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8",
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=09a024e9-c4f8-4f71-afbc-8ee1a3330d01"
+        "https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8"
       ],
       "category": "USA",
       "languages": []
