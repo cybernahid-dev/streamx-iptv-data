@@ -230,8 +230,7 @@
       "name": "Ani",
       "logoUrl": "https://i.imgur.com/i2AP0hp.png",
       "streamUrls": [
-        "http://31.148.48.15/Ani/index.m3u8",
-        "http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8"
+        "http://31.148.48.15/Ani/index.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -502,6 +501,7 @@
       "logoUrl": "https://alchetron.com/cdn/carousel-tv-channel-aca95c4f-d12e-49d8-b474-e671a36315b-resize-750.jpg",
       "streamUrls": [
         "http://31.148.48.15/Karusel_HD/index.m3u8",
+        "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
       ],
       "category": "Kids",
@@ -1098,8 +1098,8 @@
       "name": "Mult",
       "logoUrl": "https://c8.alamy.com/comp/P2DRPY/multichannel-vector-icon-isolated-on-transparent-background-multichannel-logo-concept-P2DRPY.jpg",
       "streamUrls": [
-        "http://31.148.48.15/Mult/index.m3u8",
-        "http://31.148.48.15/Mult_HD/index.m3u8"
+        "http://31.148.48.15/Mult_HD/index.m3u8",
+        "http://31.148.48.15/Mult/index.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2457,7 +2457,6 @@
       "name": "Super Hungama",
       "logoUrl": "https://static.wikia.nocookie.net/iepfanon/images/6/6d/Super_Hungama.png/revision/latest?cb=20220731182518",
       "streamUrls": [
-        "http://103.161.153.165:8000/play/a05a/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0410/master.m3u8"
       ],
       "category": "Kids",
@@ -2503,6 +2502,17 @@
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/91/Etv_Bal_Bharat_SD.jpg/revision/latest/scale-to-width-down/1200?cb=20200311104426",
       "streamUrls": [
         "http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8"
+      ],
+      "category": "Kids",
+      "languages": [],
+      "genre": "Kids"
+    },
+    {
+      "id": "KidsZone.pk",
+      "name": "Kids Zone",
+      "logoUrl": "https://www.pngkey.com/png/detail/820-8204203_kidzone-logo.png",
+      "streamUrls": [
+        "http://103.250.28.74:8000/play/a04m/index.m3u8"
       ],
       "category": "Kids",
       "languages": [],

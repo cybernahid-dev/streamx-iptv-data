@@ -1098,7 +1098,6 @@
       "name": "Mult",
       "logoUrl": "https://c8.alamy.com/comp/P2DRPY/multichannel-vector-icon-isolated-on-transparent-background-multichannel-logo-concept-P2DRPY.jpg",
       "streamUrls": [
-        "http://31.148.48.15/Mult_HD/index.m3u8",
         "http://31.148.48.15/Mult/index.m3u8"
       ],
       "category": "Kids",
@@ -2457,6 +2456,7 @@
       "name": "Super Hungama",
       "logoUrl": "https://static.wikia.nocookie.net/iepfanon/images/6/6d/Super_Hungama.png/revision/latest?cb=20220731182518",
       "streamUrls": [
+        "http://103.161.153.165:8000/play/a05a/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0410/master.m3u8"
       ],
       "category": "Kids",
