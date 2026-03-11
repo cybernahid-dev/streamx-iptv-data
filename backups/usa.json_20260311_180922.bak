@@ -12407,8 +12407,7 @@
       "logoUrl": "https://www.parsatv.com/index_files/channels/billiardtv.png",
       "streamUrls": [
         "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8",
-        "https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/billi.m3u8?ads.vf=pNzwn8XNyIG"
+        "https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8"
       ],
       "category": "USA",
       "languages": []

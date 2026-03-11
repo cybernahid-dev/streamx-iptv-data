@@ -839,7 +839,8 @@
       "name": "Colors Cineplex Bollywood",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",
       "streamUrls": [
-        "http://103.182.170.32:8888/play/a01o"
+        "http://103.182.170.32:8888/play/a01o",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0393/master.m3u8"
       ],
       "category": "India"
     },
@@ -5054,6 +5055,7 @@
       "name": "MNX",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png/revision/latest/scale-to-width-down/250?cb=20200114193517",
       "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0089/master.m3u8"
       ],
       "category": "India"
@@ -6518,6 +6520,7 @@
       "name": "Star Sports 2 Telugu",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0513/master.m3u8"
       ],
       "category": "India",
