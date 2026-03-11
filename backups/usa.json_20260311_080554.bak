@@ -7385,6 +7385,7 @@
       "name": "Payvand TV",
       "logoUrl": "https://www.parsatv.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/payvand.jpg",
       "streamUrls": [
+        "https://bozztv.com/cus01/ucur1/Payvand/index.m3u8",
         "https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8"
       ],
       "category": "USA"
