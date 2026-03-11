@@ -211,7 +211,7 @@
       "name": "8XM",
       "logoUrl": "https://www.vhv.rs/dpng/d/488-4888540_8xm-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://115.42.65.142:9981/stream/channelid/582886861"
+        "https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8"
       ],
       "category": "Music",
       "genre": "Music"

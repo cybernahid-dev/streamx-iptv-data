@@ -39,3 +39,15 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-id="GaanBangla.bd" tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a438c05aadb1705261248.jpg" group-title="Bangladesh",Gaan Bangla
 http://vmi3039524.contaboserver.net:5050/music/index.m3u8
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-logo="https://anandatv.tv/wp-content/uploads/2023/08/cropped-Atv_Web_Logo.jpg" group-title="Bangladesh",Ananda TV
+https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8
+#EXTINF:-1 tvg-id="AsianTV.bd" tvg-logo="https://image.pngaaa.com/914/2898914-middle.png" group-title="Bangladesh",Asian TV
+https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8
+#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-logo="https://www.pngitem.com/pimgs/m/682-6822598_tv-channels-offer-transparent-zee-bangla-logo-hd.png" group-title="Bangladesh",Bangla TV
+https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/index.m3u8
+#EXTINF:-1 tvg-id="BijoyTV.bd" tvg-logo="https://cdn.imgbin.com/8/15/25/imgbin-logo-bijoy-tv-brand-television-mpeg-4-part-14-ZBYVs37yb2EBG72c5EbZSs3kK.jpg" group-title="Bangladesh",Bijoy TV
+https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/index.m3u8
+#EXTINF:-1 tvg-id="ChannelI.bd" tvg-logo="https://channeli.tv/wp-content/uploads/2022/01/1200px-Channel-i.svg_.png" group-title="Bangladesh",Channel I
+https://edge2.roarzone.info:8447/roarzone/edge3/channel-i/index.m3u8
+#EXTINF:-1 tvg-id="ChannelS.bd" tvg-logo="https://channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" group-title="Bangladesh",Channel S
+https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/index.m3u8

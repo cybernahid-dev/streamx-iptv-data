@@ -2681,28 +2681,6 @@
       "category": "Sports",
       "languages": [],
       "genre": "Sports"
-    },
-    {
-      "id": "PTVSports.pk",
-      "name": "PTV Sports",
-      "logoUrl": "https://www.vhv.rs/dpng/d/517-5178953_ptv-sports-logo-png-transparent-png.png",
-      "streamUrls": [
-        "http://103.250.28.74:8000/play/a019/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "SinPoTV.id",
-      "name": "Sin Po TV",
-      "logoUrl": "https://images.seeklogo.com/logo-png/50/1/sin-po-tv-logo-png_seeklogo-505996.png",
-      "streamUrls": [
-        "https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
     }
   ]
 }

@@ -3649,7 +3649,7 @@
       "name": "Telugu One",
       "logoUrl": "https://www.pinclipart.com/picdir/big/142-1428002_top-telugu-tv-channels-serials-of-may-2016.png",
       "streamUrls": [
-        "https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8"
+        "https://amg02821-amg02821c1-samsung-in-4717.playouts.now.amagi.tv/playlist/amg02821-objectone-teluguone-samsungin/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -6633,16 +6633,6 @@
       "logoUrl": "https://www.medianews4u.com/wp-content/uploads/2017/07/travelxp-tamil-logo-2-2.jpg",
       "streamUrls": [
         "http://iptvcasomsapi.jprdigital.in/x-media/C0202/master.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "SonyMax1.in",
-      "name": "Sony Max 1",
-      "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8b9qnOwaliBAYqwqyo7XwxmoBEPKqA4LXk4LrkYl2od-HPnHvrHR6S7D9jKw2Bw7QWHkFR1T3ZUFmmrglTU0KypMuVtV08gOwnq3sQb7l5X17XVBciei-J1_358F9d-8TjB2aW6iC6XS_/s1600/Sony+Max+DStv+126.jpg",
-      "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8"
       ],
       "category": "India",
       "languages": []
