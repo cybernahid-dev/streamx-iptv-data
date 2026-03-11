@@ -943,7 +943,6 @@
       "name": "Match! Strana",
       "logoUrl": "https://iconape.com/wp-content/png_logo_vector/match-strana-logo.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Strana/index.m3u8",
         "http://31.148.48.15/Match_Nash_Sport/index.m3u8"
       ],
       "category": "Sports",
@@ -2480,7 +2479,6 @@
       "name": "Match! Arena",
       "logoUrl": "https://imb-plus.tv/wp-content/uploads/2024/04/match-arena.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Arena_HD/index.m3u8",
         "http://31.148.48.15/Match_Arena/index.m3u8"
       ],
       "category": "Sports",
@@ -2503,8 +2501,7 @@
       "name": "Match! Igra",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/2gg6sl1642095135.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Igra_HD/index.m3u8",
-        "http://31.148.48.15/Match_Igra/index.m3u8"
+        "http://31.148.48.15/Match_Igra_HD/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2677,6 +2674,28 @@
       "logoUrl": "https://indiantvinfo.com/media/2025/03/Star-Sports-Khel.jpg",
       "streamUrls": [
         "http://iptvcasomsapi.jprdigital.in/x-media/C0423/master.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "PTVSports.pk",
+      "name": "PTV Sports",
+      "logoUrl": "https://www.vhv.rs/dpng/d/517-5178953_ptv-sports-logo-png-transparent-png.png",
+      "streamUrls": [
+        "http://103.250.28.74:8000/play/a019/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "SinPoTV.id",
+      "name": "Sin Po TV",
+      "logoUrl": "https://images.seeklogo.com/logo-png/50/1/sin-po-tv-logo-png_seeklogo-505996.png",
+      "streamUrls": [
+        "https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd"
       ],
       "category": "Sports",
       "languages": [],
