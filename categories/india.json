@@ -3350,8 +3350,6 @@
       "name": "StarPlus",
       "logoUrl": "https://www.pngitem.com/pimgs/m/3-33009_star-plus-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a09p/index.m3u8",
-        "http://103.229.254.25:7001/play/a09z/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0386/master.m3u8"
       ],
       "category": "India"
@@ -5360,6 +5358,7 @@
       "name": "Jaya TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/id/3/34/Logo_Jaya_TV.png?20240724133814",
       "streamUrls": [
+        "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8"
       ],
       "category": "India",
