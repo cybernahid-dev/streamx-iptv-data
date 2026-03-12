@@ -2119,7 +2119,6 @@
       "name": "CNBC",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png",
       "streamUrls": [
-        "https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8",
         "https://tvpass.org/live/CNBC/hd",
         "https://tvpass.org/live/CNBC/sd"
       ],
@@ -12374,8 +12373,7 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/hd",
-        "https://tvpass.org/live/nbc-sports-bay-area/sd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd"
       ],
       "category": "USA"
     },
