@@ -639,7 +639,6 @@
       "name": "Bharat Express",
       "logoUrl": "https://img-cdn.thepublive.com/fit-in/1200x675/bmi/media/post_banners/b2c505ef8a6ba8c9b2f6999fe3019e12d1c64d15ee285ce759d7a358438fe949.jpg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-express/index.m3u8?ads.vf=rc4w_mtwL4W",
         "https://stream1.livebox.co.in/VCAREhls/live.m3u8"
       ],
       "category": "India"
@@ -3425,7 +3424,6 @@
       "name": "Sun Bangla",
       "logoUrl": "https://i.imgur.com/fH62JFs.png",
       "streamUrls": [
-        "http://103.161.153.165:8000/play/a03k/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0580/master.m3u8"
       ],
       "category": "India"
@@ -4124,7 +4122,6 @@
       "name": "Surya TV",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/0/03/Surya_TV.jpg/revision/latest?cb=20180318054226",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dq/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0566/master.m3u8"
       ],
       "category": "India"
@@ -4938,8 +4935,7 @@
       "name": "Food Food",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
       "streamUrls": [
-        "https://mumt03.tangotv.in/FOODFOOD/index.m3u8",
-        "http://45.148.145.57/IN_FOODFOOD/index.m3u8"
+        "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       ],
       "category": "India"
     },
