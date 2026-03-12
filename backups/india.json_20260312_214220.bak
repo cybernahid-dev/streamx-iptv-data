@@ -3350,8 +3350,6 @@
       "name": "StarPlus",
       "logoUrl": "https://www.pngitem.com/pimgs/m/3-33009_star-plus-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a09p/index.m3u8",
-        "http://103.229.254.25:7001/play/a09z/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0386/master.m3u8"
       ],
       "category": "India"
@@ -3982,7 +3980,6 @@
       "name": "Zee Bihar Jharkhand",
       "logoUrl": "https://w7.pngwing.com/pngs/442/728/png-transparent-zee-entertainment-enterprises-zee-tv-zee-news-zee-bihar-jharkhand-television-zee-television-text-orange.png",
       "streamUrls": [
-        "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8",
         "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8"
       ],
       "category": "India"
@@ -5351,7 +5348,6 @@
       "name": "Jalsha Movies",
       "logoUrl": "https://p7.hiclipart.com/preview/556/803/762/jalsha-movies-star-jalsha-star-india-high-definition-television-maa-thumbnail.jpg",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dt/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0463/master.m3u8"
       ],
       "category": "India",
@@ -5362,6 +5358,7 @@
       "name": "Jaya TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/id/3/34/Logo_Jaya_TV.png?20240724133814",
       "streamUrls": [
+        "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8"
       ],
       "category": "India",
@@ -5471,8 +5468,8 @@
       "name": "Star Gold",
       "logoUrl": "https://www.vhv.rs/dpng/d/24-245112_star-gold-channel-logo-hd-png-download.png",
       "streamUrls": [
-        "http://103.99.249.139/stargold/index.m3u8",
-        "http://103.229.254.25:7001/play/a0dd/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0389/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0432/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5494,7 +5491,7 @@
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
         "http://iptvcasomsapi.jprdigital.in/x-media/C0073/master.m3u8",
-        "http://103.229.254.25:7001/play/a0dc/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0425/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5630,8 +5627,8 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
-        "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
-        "http://111.88.78.21:8000/play/a0x8/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0416/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0446/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5651,8 +5648,8 @@
       "name": "Zee Cinema",
       "logoUrl": "https://www.pngkey.com/png/detail/825-8251348_zee-cinema-channel-logo.png",
       "streamUrls": [
-        "http://103.99.249.139/zeecinema/index.m3u8",
-        "http://103.113.103.202:8001/play/a005/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0538/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0517/master.m3u8"
       ],
       "category": "India",
       "languages": []
