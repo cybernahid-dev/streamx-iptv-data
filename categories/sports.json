@@ -2503,7 +2503,8 @@
       "name": "Match! Igra",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/2gg6sl1642095135.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Igra_HD/index.m3u8"
+        "http://31.148.48.15/Match_Igra_HD/index.m3u8",
+        "http://31.148.48.15/Match_Igra/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
