@@ -51,3 +51,11 @@ https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/index.m3u8
 https://edge2.roarzone.info:8447/roarzone/edge3/channel-i/index.m3u8
 #EXTINF:-1 tvg-id="ChannelS.bd" tvg-logo="https://channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" group-title="Bangladesh",Channel S
 https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/index.m3u8
+#EXTINF:-1 tvg-id="ATNMusic.bd" tvg-logo="https://image.pngaaa.com/896/5066896-middle.png" group-title="Bangladesh",ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-logo="https://www.mediabangladesh.net/images/gazi-g-tv-logo-Bangladesh.jpeg" group-title="Bangladesh",Gazi TV
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+#EXTINF:-1 tvg-id="GreenTV.bd" tvg-logo="https://img1.pnghut.com/11/18/8/Yp03CC9iJF/logo-highdefinition-television-green-show.jpg" group-title="Bangladesh",Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV.bd" tvg-logo="https://cdn.imgbin.com/23/12/13/imgbin-rtv-logo-television-channel-rajawali-corporation-rajawali-pP89S212hpgCCZisq4KWrHPL3.jpg" group-title="Bangladesh",RTV
+http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8

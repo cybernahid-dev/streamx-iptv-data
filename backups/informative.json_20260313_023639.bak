@@ -2705,28 +2705,6 @@
       "category": "Informative",
       "languages": [],
       "genre": "Informative"
-    },
-    {
-      "id": "CanalEducativo.cu",
-      "name": "Canal Educativo",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8d/CECuba2002.png/revision/latest/scale-to-width-down/1200?cb=20210602021150&path-prefix=es",
-      "streamUrls": [
-        "https://tv.picta.cu/educativo/educativo_0.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "CanalEducativo2.cu",
-      "name": "Canal Educativo 2",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/39/CE2Cuba2004.png/revision/latest?cb=20210602021451&path-prefix=es",
-      "streamUrls": [
-        "https://tv.picta.cu/educativo2/educativo2_0.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
     }
   ]
 }

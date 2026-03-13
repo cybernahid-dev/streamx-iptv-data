@@ -5656,28 +5656,6 @@
       "category": "Music",
       "languages": [],
       "genre": "Music"
-    },
-    {
-      "id": "ATNMusic.bd",
-      "name": "ATN Music",
-      "logoUrl": "https://image.pngaaa.com/896/5066896-middle.png",
-      "streamUrls": [
-        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "CanalClave.cu",
-      "name": "Canal Clave",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e1/CanalClave2017.png/revision/latest/scale-to-width-down/250?cb=20210602021724&path-prefix=es",
-      "streamUrls": [
-        "https://tv.picta.cu/clave/clave_0.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
     }
   ]
 }

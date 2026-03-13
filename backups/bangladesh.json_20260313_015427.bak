@@ -243,46 +243,6 @@
       ],
       "category": "Bangladesh",
       "languages": []
-    },
-    {
-      "id": "ATNMusic.bd",
-      "name": "ATN Music",
-      "logoUrl": "https://image.pngaaa.com/896/5066896-middle.png",
-      "streamUrls": [
-        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
-      ],
-      "category": "Bangladesh",
-      "languages": []
-    },
-    {
-      "id": "GaziTV.bd",
-      "name": "Gazi TV",
-      "logoUrl": "https://www.mediabangladesh.net/images/gazi-g-tv-logo-Bangladesh.jpeg",
-      "streamUrls": [
-        "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8"
-      ],
-      "category": "Bangladesh",
-      "languages": []
-    },
-    {
-      "id": "GreenTV.bd",
-      "name": "Green TV",
-      "logoUrl": "https://img1.pnghut.com/11/18/8/Yp03CC9iJF/logo-highdefinition-television-green-show.jpg",
-      "streamUrls": [
-        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8"
-      ],
-      "category": "Bangladesh",
-      "languages": []
-    },
-    {
-      "id": "RTV.bd",
-      "name": "RTV",
-      "logoUrl": "https://cdn.imgbin.com/23/12/13/imgbin-rtv-logo-television-channel-rajawali-corporation-rajawali-pP89S212hpgCCZisq4KWrHPL3.jpg",
-      "streamUrls": [
-        "http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8"
-      ],
-      "category": "Bangladesh",
-      "languages": []
     }
   ]
 }
