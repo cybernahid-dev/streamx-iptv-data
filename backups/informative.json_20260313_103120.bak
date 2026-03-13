@@ -1352,7 +1352,6 @@
       "name": "Nauka",
       "logoUrl": "https://e7.pngegg.com/pngimages/901/934/png-clipart-nauka-2-Наука-2-discovery-world-science-product-design-discovery-id-tv-channel-text-trademark.png",
       "streamUrls": [
-        "http://31.148.48.15/Nauka_2.0/index.m3u8",
         "https://vod.tuva.ru/nauka2/index.m3u8"
       ],
       "category": "Informative",
@@ -1819,7 +1818,6 @@
       "name": "TERRA",
       "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFGMvPOZtk3xg/company-logo_200_200/company-logo_200_200/0/1630555655333/terratvltd_logo?e=2147483647&v=beta&t=p3-neUX_37PjBI9TduwFtjS1dxfEF2Y4osqNVua19Kg",
       "streamUrls": [
-        "http://31.148.48.15/Terra_HD/index.m3u8",
         "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8"
       ],
       "category": "Informative",
@@ -2700,6 +2698,28 @@
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/6/68/Tv8_Yeni_Logo.png/revision/latest?cb=20160310161553",
       "streamUrls": [
         "http://5.253.46.190:8000/play/a0er/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "CanalEducativo.cu",
+      "name": "Canal Educativo",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8d/CECuba2002.png/revision/latest/scale-to-width-down/1200?cb=20210602021150&path-prefix=es",
+      "streamUrls": [
+        "https://tv.picta.cu/educativo/educativo_0.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "CanalEducativo2.cu",
+      "name": "Canal Educativo 2",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/39/CE2Cuba2004.png/revision/latest?cb=20210602021451&path-prefix=es",
+      "streamUrls": [
+        "https://tv.picta.cu/educativo2/educativo2_0.m3u8"
       ],
       "category": "Informative",
       "languages": [],

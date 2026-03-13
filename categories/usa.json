@@ -823,6 +823,7 @@
       "name": "Al Horreya TV",
       "logoUrl": "https://www.pngkey.com/png/detail/335-3357582_3783623-logo-al-horreya-tbn-arabic-al-horreya.png",
       "streamUrls": [
+        "http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8",
         "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8"
       ],
       "category": "USA"
