@@ -5326,8 +5326,9 @@
       "name": "Colors",
       "logoUrl": "https://i.pinimg.com/originals/8c/cb/16/8ccb1643a2752be053328459476d54d2.png",
       "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0387/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8"
+        "http://103.229.254.25:7001/play/a077/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5358,7 +5359,6 @@
       "name": "Jaya TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/id/3/34/Logo_Jaya_TV.png?20240724133814",
       "streamUrls": [
-        "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8"
       ],
       "category": "India",
@@ -5370,6 +5370,7 @@
       "logoUrl": "https://seeklogo.com/images/K/ktv-logo-703754480A-seeklogo.com.png",
       "streamUrls": [
         "http://iptvcasomsapi.jprdigital.in/x-media/C0591/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0575/master.m3u8",
         "http://103.121.6.5:8000/play/a05i/index.m3u8"
       ],
       "category": "India",
@@ -5413,7 +5414,8 @@
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png",
       "streamUrls": [
         "http://iptvcasomsapi.jprdigital.in/x-media/C0364/master.m3u8",
-        "http://103.229.254.25:7001/play/a0ed/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8",
+        "https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5826,8 +5828,8 @@
       "name": "Sony Sports Ten 1",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0378/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0369/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0378/master.m3u8",
         "http://103.121.6.5:8000/play/a05w/index.m3u8"
       ],
       "category": "India",
@@ -6638,6 +6640,16 @@
       "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8b9qnOwaliBAYqwqyo7XwxmoBEPKqA4LXk4LrkYl2od-HPnHvrHR6S7D9jKw2Bw7QWHkFR1T3ZUFmmrglTU0KypMuVtV08gOwnq3sQb7l5X17XVBciei-J1_358F9d-8TjB2aW6iC6XS_/s1600/Sony+Max+DStv+126.jpg",
       "streamUrls": [
         "http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "AamarBangla.in",
+      "name": "Aamar Bangla",
+      "logoUrl": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c1/Amar_Bangla_logo.png/revision/latest?cb=20231124085721",
+      "streamUrls": [
+        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8"
       ],
       "category": "India",
       "languages": []
