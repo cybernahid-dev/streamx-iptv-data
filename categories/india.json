@@ -658,8 +658,8 @@
       "name": "Bharat24",
       "logoUrl": "https://www.indianbroadcastingworld.com/wp-content/uploads/2022/08/Bharat-24.jpg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8?ads.vf=xHwQLhm-fA0",
-        "https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8"
+        "https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8?ads.vf=FQLn2P7KyXm"
       ],
       "category": "India"
     },
@@ -1418,7 +1418,6 @@
       "name": "Fakt Marathi",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/67/Fakt_Marathi.png/revision/latest/scale-to-width-down/142?cb=20190523142543",
       "streamUrls": [
-        "https://cdn-6.pishow.tv/live/10002/master.m3u8",
         "https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8"
       ],
       "category": "India"
@@ -1771,7 +1770,6 @@
       "name": "Jai Maharashtra",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Jai_Maharashtra.jpeg/250px-Jai_Maharashtra.jpeg",
       "streamUrls": [
-        "https://cdn-3.pishow.tv/live/1465/master.m3u8",
         "https://mumt03.tangotv.in/JAIMAHARASHTRA/index.m3u8"
       ],
       "category": "India"
@@ -4933,7 +4931,6 @@
       "name": "Food Food",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
       "streamUrls": [
-        "http://45.148.145.57/IN_FOODFOOD/index.m3u8",
         "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       ],
       "category": "India"

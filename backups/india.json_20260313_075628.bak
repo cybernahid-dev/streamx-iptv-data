@@ -5359,6 +5359,7 @@
       "name": "Jaya TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/id/3/34/Logo_Jaya_TV.png?20240724133814",
       "streamUrls": [
+        "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8"
       ],
       "category": "India",
@@ -6640,6 +6641,16 @@
       "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8b9qnOwaliBAYqwqyo7XwxmoBEPKqA4LXk4LrkYl2od-HPnHvrHR6S7D9jKw2Bw7QWHkFR1T3ZUFmmrglTU0KypMuVtV08gOwnq3sQb7l5X17XVBciei-J1_358F9d-8TjB2aW6iC6XS_/s1600/Sony+Max+DStv+126.jpg",
       "streamUrls": [
         "http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "AamarBangla.in",
+      "name": "Aamar Bangla",
+      "logoUrl": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c1/Amar_Bangla_logo.png/revision/latest?cb=20231124085721",
+      "streamUrls": [
+        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8"
       ],
       "category": "India",
       "languages": []
