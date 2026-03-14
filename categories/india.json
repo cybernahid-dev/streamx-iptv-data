@@ -1397,6 +1397,7 @@
       "name": "Enterr 10 Bangla",
       "logoUrl": "https://www.lyngsat.com/logo/tv/ee/enterr-10-bangla-in.png",
       "streamUrls": [
+        "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
         "https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8"
       ],
       "category": "India"
