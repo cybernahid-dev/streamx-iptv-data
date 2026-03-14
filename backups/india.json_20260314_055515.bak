@@ -889,6 +889,7 @@
       "name": "DD Bihar",
       "logoUrl": "https://w7.pngwing.com/pngs/174/32/png-transparent-dd-bihar-dd-national-television-channel-dd-free-dish-hinduism-miscellaneous-purple-television-thumbnail.png",
       "streamUrls": [
+        "https://cdn-4.pishow.tv/live/35/master.m3u8",
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8",
         "https://mumt03.tangotv.in/DDBIHAR/index.m3u8"
       ],
@@ -996,6 +997,7 @@
       "name": "DD Madhya Pradesh",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9b/Dd-madhya-pradesh_1-in.png/revision/latest/scale-to-width-down/350?cb=20210923110004",
       "streamUrls": [
+        "https://cdn-1.pishow.tv/live/31/master.m3u8",
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8",
         "https://mumt04.tangotv.in/DDMADHYAPRADESH/index.m3u8"
       ],
@@ -1750,6 +1752,7 @@
       "name": "Ishwar Bhakti TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9e/Ishwar.png/revision/latest?cb=20210510132201",
       "streamUrls": [
+        "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8",
         "https://mumt05.tangotv.in/ISHWARBHAKTI/index.m3u8"
       ],
       "category": "India"
@@ -6378,6 +6381,7 @@
       "name": "Colors Marathi",
       "logoUrl": "https://www.indiantvinfo.com/media/2022/10/Colors-Marathi-Logo.png",
       "streamUrls": [
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0467/master.m3u8",
         "http://iptvcasomsapi.jprdigital.in/x-media/C0454/master.m3u8"
       ],
       "category": "India",
