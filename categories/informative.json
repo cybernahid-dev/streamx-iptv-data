@@ -828,7 +828,7 @@
       "name": "FBI Files",
       "logoUrl": "https://artworks.thetvdb.com/banners/posters/104781-2.jpg",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=2ae5dae9-9368-437c-8a6c-d387f6fe5e27"
+        "https://jmp2.uk/plu-5cb6f6f9a461406ffe4022cf.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1238,7 +1238,7 @@
       "name": "N24 Doku",
       "logoUrl": "https://cdn-0.tvprofil.com/img/kanali-logo/N24Doku_logo.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=939c80f7-ac0d-49f7-8660-35ad0164a681"
+        "https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1248,7 +1248,7 @@
       "name": "N24 Doku Austria",
       "logoUrl": "https://cdn-0.tvprofil.com/img/kanali-logo/N24Doku_logo.png",
       "streamUrls": [
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1163-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c70bac9-b6d8-44d7-bde9-a992a6bfd7ab"
+        "https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1568,7 +1568,7 @@
       "name": "Pluto TV Investigacao",
       "logoUrl": "https://preview.redd.it/pluto-tv-new-logo-2024-v0-8kk139yoa9fc1.png?width=1436&format=png&auto=webp&s=d1c2368b1a58a71e0a57718cd0495398049f3f95",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=9230624f-ba09-4e40-986c-9feb91bcbde3"
+        "https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1578,7 +1578,7 @@
       "name": "Pluto TV Investigation",
       "logoUrl": "https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20220804012105",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63808dc806aa4700075f319a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d7faa686-cd10-4bf3-a419-2ab5c4fe29a1"
+        "https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1588,7 +1588,7 @@
       "name": "Pluto TV Misterios",
       "logoUrl": "https://preview.redd.it/pluto-tv-new-logo-2024-v0-8kk139yoa9fc1.png?width=1436&format=png&auto=webp&s=d1c2368b1a58a71e0a57718cd0495398049f3f95",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=2dfedde9-f09a-4610-aeac-73def3120d63"
+        "https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1609,7 +1609,7 @@
       "name": "Pluto TV Natureza",
       "logoUrl": "https://preview.redd.it/pluto-tv-new-logo-2024-v0-8kk139yoa9fc1.png?width=1436&format=png&auto=webp&s=d1c2368b1a58a71e0a57718cd0495398049f3f95",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=bdff2c89-0837-49e2-8bb3-ef19e01110cc"
+        "https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1654,7 +1654,7 @@
       "name": "Pluto TV Vida Real",
       "logoUrl": "https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ec3e5138-a80b-4e9c-809a-c7a5d40f4a2e"
+        "https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1809,7 +1809,7 @@
       "name": "Spike Pluto TV",
       "logoUrl": "https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/01/10/Spike_PlutoTV_Channel_1080x1080_Square-dcgunof5.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=86ee941b-c6f1-470d-8d5d-e7eb03d91088"
+        "https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2397,7 +2397,7 @@
       "name": "Deadly Women",
       "logoUrl": "https://static.wikia.nocookie.net/deadlywomen/images/9/90/Deadly_Women_logo.png/revision/latest/scale-to-width-down/268?cb=20201210172552",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca1df0d50be2571e393ad31/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8e64023b-4157-436f-9a48-3ff83bc851a8"
+        "https://jmp2.uk/plu-5ca1df0d50be2571e393ad31.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2407,7 +2407,7 @@
       "name": "O Encantador de Caes",
       "logoUrl": "https://images.justwatch.com/poster/207545667/s718/temporada-1.jpg",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3573fc43-dff8-4612-a471-92faa0de0d23"
+        "https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2417,7 +2417,7 @@
       "name": "On The Case",
       "logoUrl": "https://www.avid.wiki/w/thumb.php?f=Case_Television_(1994)_(From_-_VHS_release_of_Fourways_Farm_Ups_and_Downs_and_Other_Stories).png&width=1200",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615af74dfe3d8e0007524511/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c5291974-e574-48eb-abce-e3a40c8f09ac"
+        "https://jmp2.uk/plu-615af74dfe3d8e0007524511.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2427,7 +2427,7 @@
       "name": "Pluto TV Minha Obsessao Favorita",
       "logoUrl": "https://images.pluto.tv/channels/6109ab25b84d6a0007504886/featuredImage.jpg",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61843f5e491af10007f7eefa/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ee625b3a-38f5-4a8b-92ad-79298d74a9c8"
+        "https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2437,7 +2437,7 @@
       "name": "Pluto TV Paisagens por Stingray",
       "logoUrl": "https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50&dpr=3&q=35",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=1fd57144-2728-4044-bdec-d53c73e36b01"
+        "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2447,7 +2447,7 @@
       "name": "Sensing Murder",
       "logoUrl": "https://image.tmdb.org/t/p/original/qz76CzITYS5Fd4XVahdasweuta8.jpg",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9ed47c26ebb000074af566/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ba00a1a6-2cb3-4c13-b141-8d76d7b8bc60"
+        "https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2457,7 +2457,7 @@
       "name": "Curiosity Channel",
       "logoUrl": "https://images.seeklogo.com/logo-png/48/1/curiosity-channel-logo-png_seeklogo-484234.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6576c20fb3801200084786c9/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=bdd2b620-2d3a-4671-b8c1-46814844c83a"
+        "https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"

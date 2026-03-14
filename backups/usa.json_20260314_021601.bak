@@ -4252,8 +4252,8 @@
       "name": "HollyWire",
       "logoUrl": "https://business.hollywire.com/wp-content/uploads/2020/08/hollywire-logo-2.png",
       "streamUrls": [
-        "https://bozztv.com/hwotta/playlist/playlist.m3u8",
-        "https://di1slo8304ver.cloudfront.net/playlist.m3u8"
+        "https://di1slo8304ver.cloudfront.net/playlist.m3u8",
+        "https://bozztv.com/hwotta/playlist/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -10344,8 +10344,8 @@
       "name": "Tin TV",
       "logoUrl": "https://i.imgur.com/hMqGs94.png",
       "streamUrls": [
-        "https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8",
-        "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8"
+        "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8",
+        "https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -12373,7 +12373,8 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/sd"
+        "https://tvpass.org/live/nbc-sports-bay-area/sd",
+        "https://tvpass.org/live/nbc-sports-bay-area/hd"
       ],
       "category": "USA"
     },
