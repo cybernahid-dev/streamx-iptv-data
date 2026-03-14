@@ -1750,7 +1750,8 @@
       "name": "Ishwar Bhakti TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9e/Ishwar.png/revision/latest?cb=20210510132201",
       "streamUrls": [
-        "https://mumt05.tangotv.in/ISHWARBHAKTI/index.m3u8"
+        "https://mumt05.tangotv.in/ISHWARBHAKTI/index.m3u8",
+        "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -6378,7 +6379,8 @@
       "name": "Colors Marathi",
       "logoUrl": "https://www.indiantvinfo.com/media/2022/10/Colors-Marathi-Logo.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0454/master.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0454/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0467/master.m3u8"
       ],
       "category": "India",
       "languages": []
