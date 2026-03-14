@@ -270,7 +270,7 @@
       "name": "Bellator MMA",
       "logoUrl": "https://www.liblogo.com/img-logo/be1334t5f6-bellator-logo-the-trice-is-right-bellator-mma-signs-3x-all-american-jarod-trice.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d0827f58-0087-49be-82d1-7096fb64fbca"
+        "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -291,7 +291,7 @@
       "name": "CBS Sports HQ",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=890f9786-922b-4308-bef7-b8a6a62f256b"
+        "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1005,7 +1005,8 @@
       "name": "NFL Channel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png",
       "streamUrls": [
-        "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8"
+        "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8",
+        "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1057,7 +1058,7 @@
       "name": "PBR RidePass",
       "logoUrl": "https://i.imgur.com/gUxH97E.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=80a33efc-c35d-43a4-8d5b-c1b139fd8c5f"
+        "https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
