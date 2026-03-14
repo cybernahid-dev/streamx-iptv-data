@@ -270,7 +270,7 @@
       "name": "Bellator MMA",
       "logoUrl": "https://www.liblogo.com/img-logo/be1334t5f6-bellator-logo-the-trice-is-right-bellator-mma-signs-3x-all-american-jarod-trice.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d0827f58-0087-49be-82d1-7096fb64fbca"
+        "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -291,7 +291,7 @@
       "name": "CBS Sports HQ",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=890f9786-922b-4308-bef7-b8a6a62f256b"
+        "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -943,8 +943,7 @@
       "name": "Match! Strana",
       "logoUrl": "https://iconape.com/wp-content/png_logo_vector/match-strana-logo.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Strana/index.m3u8",
-        "http://31.148.48.15/Match_Nash_Sport/index.m3u8"
+        "http://31.148.48.15/Match_Strana/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1006,7 +1005,8 @@
       "name": "NFL Channel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png",
       "streamUrls": [
-        "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8"
+        "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8",
+        "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1058,7 +1058,7 @@
       "name": "PBR RidePass",
       "logoUrl": "https://i.imgur.com/gUxH97E.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=80a33efc-c35d-43a4-8d5b-c1b139fd8c5f"
+        "https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1992,7 +1992,6 @@
       "name": "Sony Sports Ten 3 Hindi",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0370/master.m3u8",
         "http://103.229.254.25:7001/play/a09q/index.m3u8"
       ],
       "category": "Sports",
@@ -2155,8 +2154,7 @@
       "name": "Sony Sports Ten 2",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0365/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0372/master.m3u8"
+        "http://103.229.254.25:7001/play/a02t/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2167,7 +2165,6 @@
       "name": "Sony Sports Ten 5",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0377/master.m3u8",
         "http://103.229.254.25:7001/play/a0dw/index.m3u8"
       ],
       "category": "Sports",
@@ -2279,8 +2276,7 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0446/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0416/master.m3u8"
+        "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2480,8 +2476,7 @@
       "name": "Match! Arena",
       "logoUrl": "https://imb-plus.tv/wp-content/uploads/2024/04/match-arena.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Arena/index.m3u8",
-        "http://31.148.48.15/Match_Arena_HD/index.m3u8"
+        "http://31.148.48.15/Match_Arena/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2503,8 +2498,7 @@
       "name": "Match! Igra",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/2gg6sl1642095135.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Igra_HD/index.m3u8",
-        "http://31.148.48.15/Match_Igra/index.m3u8"
+        "http://31.148.48.15/Match_Igra_HD/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2539,7 +2533,6 @@
       "name": "Star Sports 3",
       "logoUrl": "https://w7.pngwing.com/pngs/734/315/png-transparent-cricket-world-cup-star-sports-3-streaming-media-ptv-sports-live-stream-television-text-sport.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0414/master.m3u8",
         "http://103.121.6.5:8000/play/a05y/index.m3u8"
       ],
       "category": "Sports",
