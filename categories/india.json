@@ -4354,8 +4354,7 @@
       "name": "Sun Neo",
       "logoUrl": "https://www.medianews4u.com/wp-content/uploads/2024/06/Sun-NEO-Logo.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0581/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0582/master.m3u8"
+        "http://163.61.227.29:8000/play/a04t/index.m3u8"
       ],
       "category": "India"
     },
@@ -5409,7 +5408,6 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a09s/index.m3u8",
         "http://103.229.254.25:7001/play/a0db/index.m3u8"
       ],
       "category": "India",
@@ -5471,6 +5469,7 @@
       "name": "Star Sports 2 Tamil",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a0d1/index.m3u8",
         "http://103.229.254.25:7001/play/a0dc/index.m3u8"
       ],
       "category": "India",
