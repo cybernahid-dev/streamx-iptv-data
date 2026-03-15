@@ -687,7 +687,7 @@
       "name": "CMT Equal Play",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/54/CMT_Equal_Play.svg/revision/latest/scale-to-width-down/250?cb=20210629162050",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=7387ced6-9860-42df-ba25-a1e69ff2a476"
+        "https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -789,7 +789,7 @@
       "name": "Classica",
       "logoUrl": "https://img.favpng.com/6/17/22/classica-hd-logo-high-definition-television-television-channel-paramount-channel-italy-png-favpng-Pf8NaVKxgLZMwgi2xtyGpQQPi.jpg",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=1d560dac-787b-4ea8-b477-987fc5cec31b"
+        "https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2004,7 +2004,7 @@
       "name": "MTV Spankin' New",
       "logoUrl": "https://cmflix.net/uploads/tv_image/mtv-spankin-new.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=7bcf5e47-9342-4c65-96c1-3f540ab6a078"
+        "https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2886,9 +2886,8 @@
       "name": "Qello Concerts by Stingray",
       "logoUrl": "https://png.pngitem.com/pimgs/s/240-2401110_stingray-qello-logo-hd-png-download.png",
       "streamUrls": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
-        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb439-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ba3de05-22ef-4ab2-8d11-c4a6c21d39ba",
-        "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
+        "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8?ads.vf=u2vmdOuxEbe"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4517,7 +4516,8 @@
       "name": "Vevo R&B",
       "logoUrl": "https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg",
       "streamUrls": [
-        "https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8"
+        "https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8",
+        "https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4908,8 +4908,7 @@
       "name": "AMusic Channel",
       "logoUrl": "http://amusic.tv/wp-content/uploads/2018/11/AMusic-odi-e1541702049958.png",
       "streamUrls": [
-        "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8?ads.vf=McCy6HuluFe",
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
+        "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8?ads.vf=McCy6HuluFe"
       ],
       "category": "Music",
       "languages": [],
@@ -5275,7 +5274,7 @@
       "name": "Pluto TV Karaoke por Stingray",
       "logoUrl": "https://images.pluto.tv/channels/604b99d633a72b00078e05ad/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=0714ce50-3b9e-48e7-a974-1cfe07db5a83"
+        "https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5285,7 +5284,7 @@
       "name": "Pluto TV Shows por Stingray",
       "logoUrl": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=69a8ee66-6f3e-4593-b30e-6cb6cedf03f3"
+        "https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5653,6 +5652,28 @@
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/ed/Udaya_Music.jpg/revision/latest/scale-to-width-down/250?cb=20180318053133",
       "streamUrls": [
         "http://iptvcasomsapi.jprdigital.in/x-media/C0588/master.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "ATNMusic.bd",
+      "name": "ATN Music",
+      "logoUrl": "https://image.pngaaa.com/896/5066896-middle.png",
+      "streamUrls": [
+        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "CanalClave.cu",
+      "name": "Canal Clave",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e1/CanalClave2017.png/revision/latest/scale-to-width-down/250?cb=20210602021724&path-prefix=es",
+      "streamUrls": [
+        "https://tv.picta.cu/clave/clave_0.m3u8"
       ],
       "category": "Music",
       "languages": [],
