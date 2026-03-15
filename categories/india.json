@@ -4326,7 +4326,6 @@
       "name": "Anmol TV",
       "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=106210832426292",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0520/master.m3u8",
         "http://163.61.227.29:8000/play/a04a/index.m3u8"
       ],
       "category": "India"
