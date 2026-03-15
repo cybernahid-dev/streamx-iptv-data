@@ -5679,6 +5679,28 @@
       "category": "Music",
       "languages": [],
       "genre": "Music"
+    },
+    {
+      "id": "StingrayEuroHits.ca",
+      "name": "Stingray Euro Hits",
+      "logoUrl": "https://videostars.stingray.com/images/hits-channel.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "StingrayJukeboxOldies.ca",
+      "name": "Stingray Jukebox Oldies",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jukebox_Logo_2014.svg/1200px-Jukebox_Logo_2014.svg.png",
+      "streamUrls": [
+        "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
     }
   ]
 }

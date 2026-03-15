@@ -861,7 +861,7 @@
       "name": "Kapitan Bomba TV",
       "logoUrl": "https://artworks.thetvdb.com/banners/posters/200461-1.jpg",
       "streamUrls": [
-        "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc127/kapitanbombaraw/kapitanbombaraw.mpd"
+        "https://liveovh009.cda.pl/enc127/kapitanbombaraw/kapitanbombaraw.mpd"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2509,29 +2509,6 @@
       "logoUrl": "https://www.pngkey.com/png/detail/820-8204203_kidzone-logo.png",
       "streamUrls": [
         "http://103.250.28.74:8000/play/a04m/index.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "CBeebies.pl",
-      "name": "CBeebies",
-      "logoUrl": "https://logos-world.net/wp-content/uploads/2023/04/CBeebies-Logo-2002.png",
-      "streamUrls": [
-        "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc126/bbccbeebiesraw/bbccbeebiesraw.mpd",
-        "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc022/bbccbeebiesraw/bbccbeebiesraw.mpd"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "Nickelodeon.br",
-      "name": "Nickelodeon",
-      "logoUrl": "https://assets.stickpng.com/images/612916aa319275000479abfd.png",
-      "streamUrls": [
-        "http://x1co.com.br:8080/hls/0/stream.m3u8"
       ],
       "category": "Kids",
       "languages": [],

@@ -2727,28 +2727,6 @@
       "category": "Informative",
       "languages": [],
       "genre": "Informative"
-    },
-    {
-      "id": "DaVinci.pl",
-      "name": "Da Vinci",
-      "logoUrl": "https://latestlogo.com/wp-content/uploads/2023/12/da-vinci-channel-logo.png",
-      "streamUrls": [
-        "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc109/davincihdraw/davincihdraw.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "INWILD.nl",
-      "name": "INWILD",
-      "logoUrl": "https://axiommedia.co/wp-content/uploads/2020/12/inwild-use.png",
-      "streamUrls": [
-        "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
     }
   ]
 }
