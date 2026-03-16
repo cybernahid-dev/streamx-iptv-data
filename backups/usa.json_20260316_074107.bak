@@ -15086,6 +15086,17 @@
       ],
       "category": "USA",
       "languages": []
+    },
+    {
+      "id": "SchwabNetwork.us",
+      "name": "Schwab Network",
+      "logoUrl": "https://international.schwab.com/sites/g/files/eyrktu651/files/SchwabNetwork.png",
+      "streamUrls": [
+        "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8",
+        "https://tdameritrade-distro.amagi.tv/playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
     }
   ]
 }

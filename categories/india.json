@@ -4256,9 +4256,7 @@
       "name": "Colors Tamil",
       "logoUrl": "https://w7.pngwing.com/pngs/398/488/png-transparent-viacom-18-colors-bangla-television-show-colors-tamil-colors-odia-others-purple-television-violet.png",
       "streamUrls": [
-        "http://15.235.144.106:14052",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0471/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0459/master.m3u8"
+        "http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8"
       ],
       "category": "India",
       "languages": []
