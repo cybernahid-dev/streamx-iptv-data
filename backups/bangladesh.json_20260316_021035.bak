@@ -283,46 +283,6 @@
       ],
       "category": "Bangladesh",
       "languages": []
-    },
-    {
-      "id": "BTVChattogram.bd",
-      "name": "BTV Chattogram",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=128057993305031",
-      "streamUrls": [
-        "https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8"
-      ],
-      "category": "Bangladesh",
-      "languages": []
-    },
-    {
-      "id": "JamunaTV.bd",
-      "name": "Jamuna TV",
-      "logoUrl": "https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png",
-      "streamUrls": [
-        "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8"
-      ],
-      "category": "Bangladesh",
-      "languages": []
-    },
-    {
-      "id": "SangsadTV.bd",
-      "name": "Sangsad TV",
-      "logoUrl": "https://latestlogo.com/wp-content/uploads/2024/08/sangsad-television.svg.png",
-      "streamUrls": [
-        "https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8"
-      ],
-      "category": "Bangladesh",
-      "languages": []
-    },
-    {
-      "id": "SomoyNewsTV.bd",
-      "name": "Somoy News TV",
-      "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122100293360144381",
-      "streamUrls": [
-        "https://bozztv.com/rongo/rongo-somoy/index.m3u8"
-      ],
-      "category": "Bangladesh",
-      "languages": []
     }
   ]
 }

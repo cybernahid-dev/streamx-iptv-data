@@ -5384,7 +5384,7 @@
       "name": "Sony Aath",
       "logoUrl": "https://vectorseek.com/wp-content/uploads/2022/03/Sony-Aath-Logo-Vector.jpg",
       "streamUrls": [
-        "https://edge2.roarzone.info:8447/roarzone/edge3/sony-aath/index.m3u8"
+        "http://103.229.254.25:7001/play/a07a/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5467,6 +5467,7 @@
       "name": "Star Sports 2 Tamil",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a0d1/index.m3u8",
         "http://103.229.254.25:7001/play/a0dc/index.m3u8"
       ],
       "category": "India",
@@ -5648,7 +5649,8 @@
       "name": "Sony Max",
       "logoUrl": "https://seeklogo.com/images/S/sony-max-logo-70C4C2A5DA-seeklogo.com.png",
       "streamUrls": [
-        "https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-hd/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0363/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5658,7 +5660,7 @@
       "name": "Sony Max 2",
       "logoUrl": "https://i.ytimg.com/vi/nG3rmKha0cU/hqdefault.jpg",
       "streamUrls": [
-        "https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0381/master.m3u8"
       ],
       "category": "India",
       "languages": []

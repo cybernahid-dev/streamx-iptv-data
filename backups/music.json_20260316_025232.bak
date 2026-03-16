@@ -5701,61 +5701,6 @@
       "category": "Music",
       "languages": [],
       "genre": "Music"
-    },
-    {
-      "id": "Hayat.ba",
-      "name": "Hayat",
-      "logoUrl": "https://w7.pngwing.com/pngs/335/309/png-transparent-hayat-plus-hayat-tv-hayat-music-television-channel-others-miscellaneous-television-text.png",
-      "streamUrls": [
-        "http://158.180.39.89:5033/hayat.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "HayatFolk.ba",
-      "name": "Hayat Folk",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo_of_Hayat_Folk_TV.png/revision/latest?cb=20200509192603",
-      "streamUrls": [
-        "http://158.180.39.89:5033/folk.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "HayatMusic.ba",
-      "name": "Hayat Music",
-      "logoUrl": "https://w7.pngwing.com/pngs/335/309/png-transparent-hayat-plus-hayat-tv-hayat-music-television-channel-others-miscellaneous-television-text.png",
-      "streamUrls": [
-        "http://158.180.39.89:5033/music.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "HayatPlus.ba",
-      "name": "Hayat Plus",
-      "logoUrl": "https://w7.pngwing.com/pngs/335/309/png-transparent-hayat-plus-hayat-tv-hayat-music-television-channel-others-miscellaneous-television-text.png",
-      "streamUrls": [
-        "http://158.180.39.89:5033/hayatplus.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "Hayatovci.ba",
-      "name": "Hayatovci",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9f/Hayatovci_-_Novi_logo.png/revision/latest?cb=20240223103424",
-      "streamUrls": [
-        "http://158.180.39.89:5033/hayatovci.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
     }
   ]
 }

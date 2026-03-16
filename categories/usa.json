@@ -12380,7 +12380,7 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/sd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd"
       ],
       "category": "USA"
     },
@@ -15083,6 +15083,17 @@
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/9/9d/Wwmt_logo_1985.png/revision/latest?cb=20190908070050",
       "streamUrls": [
         "https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "SchwabNetwork.us",
+      "name": "Schwab Network",
+      "logoUrl": "https://international.schwab.com/sites/g/files/eyrktu651/files/SchwabNetwork.png",
+      "streamUrls": [
+        "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8",
+        "https://tdameritrade-distro.amagi.tv/playlist.m3u8"
       ],
       "category": "USA",
       "languages": []
