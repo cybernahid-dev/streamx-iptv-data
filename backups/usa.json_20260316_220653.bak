@@ -6987,7 +6987,7 @@
       "logoUrl": "https://i.imgur.com/NcEygU5.png",
       "streamUrls": [
         "https://stirr.b-cdn.net/stirr/playlist.m3u8",
-        "https://cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8?ads.vf=E61Io4zE1zK"
+        "https://cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8"
       ],
       "category": "USA"
     },
@@ -13425,7 +13425,6 @@
       "name": "FilAmTV Network",
       "logoUrl": "https://filamtv.us/wp-content/uploads/2021/10/logo.png",
       "streamUrls": [
-        "https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8",
         "https://streams.comclark.com/pknsd/filamtv/playlist.m3u8"
       ],
       "category": "USA"
@@ -13435,7 +13434,6 @@
       "name": "Vegas Life TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/440px-Logo_Lifetime_2020.svg.png",
       "streamUrls": [
-        "https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8",
         "https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8"
       ],
       "category": "USA"
@@ -14298,8 +14296,8 @@
       "name": "Fox Sports 2",
       "logoUrl": "https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953",
       "streamUrls": [
-        "https://tvpass.org/live/FoxSports2/hd",
-        "https://tvpass.org/live/FoxSports2/sd"
+        "https://tvpass.org/live/FoxSports2/sd",
+        "https://tvpass.org/live/FoxSports2/hd"
       ],
       "category": "USA",
       "languages": []
