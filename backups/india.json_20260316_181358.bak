@@ -3089,6 +3089,7 @@
       "name": "Sana Plus",
       "logoUrl": "https://play-lh.googleusercontent.com/dlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ",
       "streamUrls": [
+        "https://galaxyott.live/hls/sanaplus.m3u8",
         "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8"
       ],
       "category": "India"
@@ -4574,6 +4575,7 @@
       "name": "Hare Krsna TV",
       "logoUrl": "http://gaudiyahistory.iskcondesiretree.com/wp-content/uploads/2019/09/Hare-Krsna-TV-logo.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hare-krsna/master.m3u8?ads.vf=g5yzzYIk7ha",
         "https://mumt05.tangotv.in/HAREKRSNA/index.m3u8"
       ],
       "category": "India"
