@@ -6987,7 +6987,7 @@
       "logoUrl": "https://i.imgur.com/NcEygU5.png",
       "streamUrls": [
         "https://stirr.b-cdn.net/stirr/playlist.m3u8",
-        "https://cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8?ads.vf=E61Io4zE1zK"
+        "https://cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8"
       ],
       "category": "USA"
     },
@@ -9867,9 +9867,8 @@
       "name": "Tastemade",
       "logoUrl": "https://www.liblogo.com/img-logo/ta8643c2c1-tastemade-logo-case-integration-tastemade-en-ribon.png",
       "streamUrls": [
-        "https://tmint-aus-samsungau.amagi.tv/playlist.m3u8",
         "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
-        "https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8"
+        "https://tastemade-aus-tmina-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-aus-rakuten-eu/CDN/master.m3u8"
       ],
       "category": "USA"
     },
@@ -14299,8 +14298,8 @@
       "name": "Fox Sports 2",
       "logoUrl": "https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953",
       "streamUrls": [
-        "https://tvpass.org/live/FoxSports2/hd",
-        "https://tvpass.org/live/FoxSports2/sd"
+        "https://tvpass.org/live/FoxSports2/sd",
+        "https://tvpass.org/live/FoxSports2/hd"
       ],
       "category": "USA",
       "languages": []

@@ -563,6 +563,7 @@
       "name": "Clan",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",
       "streamUrls": [
+        "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8",
         "https://ztnr.rtve.es/ztnr/5466990.m3u8"
       ],
       "category": "Kids",
@@ -2531,6 +2532,17 @@
       "logoUrl": "https://assets.stickpng.com/images/612916aa319275000479abfd.png",
       "streamUrls": [
         "http://x1co.com.br:8080/hls/0/stream.m3u8"
+      ],
+      "category": "Kids",
+      "languages": [],
+      "genre": "Kids"
+    },
+    {
+      "id": "PorucznikKaburaTV.pl",
+      "name": "Porucznik Kabura TV",
+      "logoUrl": "https://static.wikia.nocookie.net/porucznikkabura/images/4/46/Porucznik_Kabura.png/revision/latest/scale-to-width-down/1200?cb=20191021185023&path-prefix=pl",
+      "streamUrls": [
+        "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc127/porucznikkaburaraw/porucznikkaburaraw.mpd"
       ],
       "category": "Kids",
       "languages": [],
