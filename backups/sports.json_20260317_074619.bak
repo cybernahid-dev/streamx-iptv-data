@@ -946,8 +946,8 @@
       "name": "Match! Strana",
       "logoUrl": "https://iconape.com/wp-content/png_logo_vector/match-strana-logo.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Strana/index.m3u8",
-        "http://31.148.48.15/Match_Nash_Sport/index.m3u8"
+        "http://31.148.48.15/Match_Nash_Sport/index.m3u8",
+        "http://31.148.48.15/Match_Strana/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1558,7 +1558,8 @@
       "name": "Teledeporte",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/teledeporte-logo-png-transparent.png",
       "streamUrls": [
-        "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
+        "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+        "http://45.95.78.232:8001/udp/239.106.80.9:5000"
       ],
       "category": "Sports",
       "genre": "Sports"

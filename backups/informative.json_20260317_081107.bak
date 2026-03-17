@@ -1820,6 +1820,7 @@
       "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFGMvPOZtk3xg/company-logo_200_200/company-logo_200_200/0/1630555655333/terratvltd_logo?e=2147483647&v=beta&t=p3-neUX_37PjBI9TduwFtjS1dxfEF2Y4osqNVua19Kg",
       "streamUrls": [
         "http://31.148.48.15/Terra_HD/index.m3u8",
+        "http://31.148.48.15/Terra/index.m3u8",
         "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8"
       ],
       "category": "Informative",
@@ -2250,7 +2251,7 @@
       "name": "History",
       "logoUrl": "https://w7.pngwing.com/pngs/1/536/png-transparent-history-television-channel-logo-television-show-tv-channel-television-angle-furniture.png",
       "streamUrls": [
-        "http://138.2.160.168:8081/proxy.m3u8?embed=https://wizja.cc/embed/history/"
+        "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc004/historyhdraw/historyhdraw.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2260,7 +2261,7 @@
       "name": "History 2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",
       "streamUrls": [
-        "http://138.2.160.168:8081/proxy.m3u8?embed=https://wizja.cc/embed/history2/"
+        "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc008/history2hdraw/history2hdraw.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
