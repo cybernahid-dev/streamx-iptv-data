@@ -1731,8 +1731,7 @@
       "name": "Isai Aruvi",
       "logoUrl": "https://www.brandsnbehind.com/wp-content/uploads/2020/05/isaiaruvi-logo.jpg",
       "streamUrls": [
-        "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
-        "http://111.88.78.21:8000/play/a0wn/index.m3u8"
+        "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -1886,8 +1885,7 @@
       "name": "Kalaignar TV",
       "logoUrl": "https://www.kindpng.com/picc/m/244-2445719_kalaignar-tv-png-download-transparent-png.png",
       "streamUrls": [
-        "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0316/master.m3u8"
+        "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8"
       ],
       "category": "India"
     },
