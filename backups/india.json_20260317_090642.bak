@@ -241,7 +241,6 @@
       "name": "ANN News",
       "logoUrl": "https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/langja-640px-ANN_logo.svg.png&w=640&q=50",
       "streamUrls": [
-        "https://legitpro.co.in/annnews/annnews/index.m3u8",
         "https://cdn.ottlive.co.in/annnews/index.m3u8"
       ],
       "category": "India"
@@ -1731,8 +1730,7 @@
       "name": "Isai Aruvi",
       "logoUrl": "https://www.brandsnbehind.com/wp-content/uploads/2020/05/isaiaruvi-logo.jpg",
       "streamUrls": [
-        "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
-        "http://111.88.78.21:8000/play/a0wn/index.m3u8"
+        "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -1886,8 +1884,7 @@
       "name": "Kalaignar TV",
       "logoUrl": "https://www.kindpng.com/picc/m/244-2445719_kalaignar-tv-png-download-transparent-png.png",
       "streamUrls": [
-        "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0316/master.m3u8"
+        "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -4787,8 +4784,8 @@
       "name": "GTC Punjabi",
       "logoUrl": "https://www.thegtcnetwork.com/logo.png",
       "streamUrls": [
-        "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8",
-        "https://mumt01.tangotv.in/GTC/index.m3u8"
+        "https://mumt01.tangotv.in/GTC/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gtc-punjabi/index.m3u8?ads.vf=lZ1whEtKSKO"
       ],
       "category": "India"
     },

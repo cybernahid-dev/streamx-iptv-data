@@ -241,7 +241,8 @@
       "name": "ANN News",
       "logoUrl": "https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/langja-640px-ANN_logo.svg.png&w=640&q=50",
       "streamUrls": [
-        "https://cdn.ottlive.co.in/annnews/index.m3u8"
+        "https://cdn.ottlive.co.in/annnews/index.m3u8",
+        "https://legitpro.co.in/annnews/annnews/index.m3u8"
       ],
       "category": "India"
     },
@@ -3756,7 +3757,6 @@
       "name": "V6 News",
       "logoUrl": "https://www.m9.news/wp-content/uploads/2023/10/V6-Channel.jpg",
       "streamUrls": [
-        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8",
         "https://cdn-1.pishow.tv/live/389/master.m3u8"
       ],
       "category": "India"
