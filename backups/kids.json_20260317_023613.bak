@@ -2548,17 +2548,6 @@
       "category": "Kids",
       "languages": [],
       "genre": "Kids"
-    },
-    {
-      "id": "BabyTV.uk",
-      "name": "BabyTV",
-      "logoUrl": "https://www.pngitem.com/pimgs/m/677-6776233_babytv-logo-png-baby-tv-hd-logo-png.png",
-      "streamUrls": [
-        "http://45.95.78.232:8001/udp/239.106.86.1:5000"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
     }
   ]
 }

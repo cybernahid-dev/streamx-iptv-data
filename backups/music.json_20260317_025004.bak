@@ -5756,17 +5756,6 @@
       "category": "Music",
       "languages": [],
       "genre": "Music"
-    },
-    {
-      "id": "RetroPlus2.cl",
-      "name": "Retro Plus 2",
-      "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIfzvDgGGL_-0OJYL3RCfnSByCE7bsO_t9Cadv01rzk79GqD98WNifx_Nlqc1rqtlyEsMr3dtn-2cDWl1hC_npfGpF5h55VsuGJ6FWsdZfE8UgNPx_zg4LL7MYgUuIT0HIwGCvs9J6GTFww5Q-qW-136vST4FJRBG37AGk7eB9xSJ0ANNH5v3iz71Ce4QS/w1200-h630-p-k-no-nu/RETRO+PLUS+TV+2.png",
-      "streamUrls": [
-        "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
     }
   ]
 }
