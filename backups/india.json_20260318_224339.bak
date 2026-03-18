@@ -1931,6 +1931,7 @@
       "name": "Kaumudy TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Kaumudy_TV_Logo.jpg/250px-Kaumudy_TV_Logo.jpg",
       "streamUrls": [
+        "https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8",
         "https://mumt04.tangotv.in/KAUMUDYTV/index.m3u8"
       ],
       "category": "India"
@@ -5305,7 +5306,6 @@
       "name": "Colors",
       "logoUrl": "https://i.pinimg.com/originals/8c/cb/16/8ccb1643a2752be053328459476d54d2.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0a1/index.m3u8",
         "http://103.229.254.25:7001/play/a077/index.m3u8"
       ],
       "category": "India",
@@ -5398,7 +5398,6 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a09s/index.m3u8",
         "http://103.229.254.25:7001/play/a0db/index.m3u8"
       ],
       "category": "India",
@@ -5439,7 +5438,6 @@
       "name": "Star Gold",
       "logoUrl": "https://www.vhv.rs/dpng/d/24-245112_star-gold-channel-logo-hd-png-download.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dd/index.m3u8",
         "http://103.99.249.139/stargold/index.m3u8"
       ],
       "category": "India",
@@ -5785,8 +5783,6 @@
       "name": "Sony Sports Ten 1",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0369/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0378/master.m3u8",
         "http://103.121.6.5:8000/play/a05w/index.m3u8"
       ],
       "category": "India",
@@ -6164,7 +6160,6 @@
       "name": "Kairali Arabia",
       "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063778424739",
       "streamUrls": [
-        "https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8",
         "https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8"
       ],
       "category": "India",
