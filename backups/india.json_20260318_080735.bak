@@ -115,7 +115,7 @@
       "name": "24 News",
       "logoUrl": "https://images.seeklogo.com/logo-png/45/2/24-news-logo-png_seeklogo-457812.png",
       "streamUrls": [
-        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8"
+        "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -1865,8 +1865,8 @@
       "name": "Kalaignar Murasu",
       "logoUrl": "https://the-media-ant.mo.cloudinary.net/medias/569ccce08ead0e21236eb41c/1600326872844/519a5ad7e2db20f57e291ffc0d5d144d_logo.jpg",
       "streamUrls": [
-        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8",
-        "https://segment.yuppcdn.net/050522/murasu/playlist.m3u8"
+        "https://segment.yuppcdn.net/050522/murasu/playlist.m3u8",
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -3756,6 +3756,7 @@
       "name": "V6 News",
       "logoUrl": "https://www.m9.news/wp-content/uploads/2023/10/V6-Channel.jpg",
       "streamUrls": [
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8",
         "https://cdn-1.pishow.tv/live/389/master.m3u8"
       ],
       "category": "India"
