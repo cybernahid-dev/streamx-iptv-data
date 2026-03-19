@@ -946,7 +946,6 @@
       "name": "Match! Strana",
       "logoUrl": "https://iconape.com/wp-content/png_logo_vector/match-strana-logo.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Strana/index.m3u8",
         "http://31.148.48.15/Match_Nash_Sport/index.m3u8"
       ],
       "category": "Sports",
@@ -1954,8 +1953,7 @@
       "name": "Star Sports 1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8"
+        "http://116.90.120.151:8000/play/a0gs/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1965,7 +1963,7 @@
       "name": "Star Sports 2",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",
       "streamUrls": [
-        "http://103.121.6.5:8000/play/a05u/index.m3u8"
+        "http://116.90.120.151:8000/play/a0jb/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2056,8 +2054,8 @@
       "name": "Star Sports 1 Hindi",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0415/master.m3u8"
+        "http://116.90.120.151:8000/play/a0je/index.m3u8",
+        "http://116.90.120.151:8000/play/a0h1/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2168,7 +2166,7 @@
       "name": "Sony Sports Ten 5",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dw/index.m3u8"
+        "http://116.90.120.151:8000/play/a0hb/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2179,7 +2177,6 @@
       "name": "Star Sports 2 Tamil",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0d1/index.m3u8",
         "http://103.229.254.25:7001/play/a0dc/index.m3u8"
       ],
       "category": "Sports",
@@ -2279,6 +2276,8 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
+        "http://116.90.120.151:8000/play/a0jc/index.m3u8",
+        "http://116.90.120.151:8000/play/a0hi/index.m3u8",
         "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
       ],
       "category": "Sports",
@@ -2480,8 +2479,8 @@
       "name": "Match! Arena",
       "logoUrl": "https://imb-plus.tv/wp-content/uploads/2024/04/match-arena.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Arena/index.m3u8",
-        "http://31.148.48.15/Match_Arena_HD/index.m3u8"
+        "http://31.148.48.15/Match_Arena_HD/index.m3u8",
+        "http://31.148.48.15/Match_Arena/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2503,7 +2502,6 @@
       "name": "Match! Igra",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/2gg6sl1642095135.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Igra/index.m3u8",
         "http://31.148.48.15/Match_Igra_HD/index.m3u8"
       ],
       "category": "Sports",
