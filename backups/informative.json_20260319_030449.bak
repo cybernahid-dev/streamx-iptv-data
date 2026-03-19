@@ -1352,6 +1352,7 @@
       "name": "Nauka",
       "logoUrl": "https://e7.pngegg.com/pngimages/901/934/png-clipart-nauka-2-Наука-2-discovery-world-science-product-design-discovery-id-tv-channel-text-trademark.png",
       "streamUrls": [
+        "http://31.148.48.15/Nauka_2.0/index.m3u8",
         "https://vod.tuva.ru/nauka2/index.m3u8"
       ],
       "category": "Informative",
@@ -1818,6 +1819,8 @@
       "name": "TERRA",
       "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFGMvPOZtk3xg/company-logo_200_200/company-logo_200_200/0/1630555655333/terratvltd_logo?e=2147483647&v=beta&t=p3-neUX_37PjBI9TduwFtjS1dxfEF2Y4osqNVua19Kg",
       "streamUrls": [
+        "http://31.148.48.15/Terra_HD/index.m3u8",
+        "http://31.148.48.15/Terra/index.m3u8",
         "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8"
       ],
       "category": "Informative",
@@ -2278,7 +2281,8 @@
       "name": "National Geographic",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0in/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0426/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0447/master.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2288,7 +2292,8 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0ie/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0448/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0428/master.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2593,7 +2598,8 @@
       "name": "Sony BBC Earth",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0j1/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0371/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0384/master.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -2750,17 +2756,6 @@
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png",
       "streamUrls": [
         "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc110/docuboxhdraw/docuboxhdraw.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "PaighanTV.pk",
-      "name": "Paighan TV",
-      "logoUrl": "https://mir-s3-cdn-cf.behance.net/projects/404/ad3e3e139111793.Y3JvcCw4ODcsNjk0LDUwMiwyMDI.jpg",
-      "streamUrls": [
-        "http://116.90.120.151:8000/play/a00h/index.m3u8"
       ],
       "category": "Informative",
       "languages": [],

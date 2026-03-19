@@ -598,16 +598,6 @@
       ],
       "category": "UAE",
       "languages": []
-    },
-    {
-      "id": "OSNMoviesAction.ae",
-      "name": "OSN Movies Action",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/52/OSN_Movies_Action.png/revision/latest?cb=20111116193011",
-      "streamUrls": [
-        "http://116.90.120.151:8000/play/a0ax/index.m3u8"
-      ],
-      "category": "UAE",
-      "languages": []
     }
   ]
 }

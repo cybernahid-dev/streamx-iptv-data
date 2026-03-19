@@ -9029,8 +9029,7 @@
       "name": "Showtime",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png",
       "streamUrls": [
-        "https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8",
-        "https://fl1.moveonjoy.com/SHOWTIME/index.m3u8"
+        "http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8"
       ],
       "category": "USA"
     },

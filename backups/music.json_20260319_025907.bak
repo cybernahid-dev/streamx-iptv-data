@@ -3538,7 +3538,7 @@
       "name": "ShowBox",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e2/Showbox_logo.png/revision/latest/scale-to-width-down/250?cb=20200120174638",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0k2/index.m3u8"
+        "https://epiconvh.akamaized.net/live/showbox/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"

@@ -3104,7 +3104,8 @@
       "name": "Disney Junior",
       "logoUrl": "https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738",
       "streamUrls": [
-        "https://tvpass.org/live/DisneyJuniorEast/sd"
+        "https://tvpass.org/live/DisneyJuniorEast/sd",
+        "https://tvpass.org/live/DisneyJuniorEast/hd"
       ],
       "category": "USA"
     },
@@ -12379,8 +12380,8 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/sd",
-        "https://tvpass.org/live/nbc-sports-bay-area/hd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd",
+        "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
     },
