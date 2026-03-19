@@ -500,7 +500,7 @@
       "name": "Carousel",
       "logoUrl": "https://alchetron.com/cdn/carousel-tv-channel-aca95c4f-d12e-49d8-b474-e671a36315b-resize-750.jpg",
       "streamUrls": [
-        "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
+        "http://31.148.48.15/Karusel_HD/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
       ],
       "category": "Kids",
