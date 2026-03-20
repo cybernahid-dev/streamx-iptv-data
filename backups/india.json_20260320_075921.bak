@@ -1501,7 +1501,6 @@
       "name": "GoodNews TV",
       "logoUrl": "https://i.imgur.com/ZrvoGqS.png",
       "streamUrls": [
-        "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8",
         "https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8"
       ],
       "category": "India"
@@ -1662,7 +1661,6 @@
       "name": "INH 24x7",
       "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/e6/92/1ce69257-5040-d19a-0a7e-1bbf9f2c2fa1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-P3-85-220.png/1200x630wa.png",
       "streamUrls": [
-        "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
         "https://mumt01.tangotv.in/INH24X7/index.m3u8"
       ],
       "category": "India"
@@ -3038,6 +3036,7 @@
       "name": "Sadhna Plus News",
       "logoUrl": "https://www.sadhna.com/Channel/SADHNA-PLUS-NEWS.png",
       "streamUrls": [
+        "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8",
         "https://mumt03.tangotv.in/SADHNAPLUSNEWS/index.m3u8"
       ],
       "category": "India"
@@ -4793,7 +4792,7 @@
       "name": "Sony Entertainment Television",
       "logoUrl": "https://logodix.com/logo/508293.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0gp/index.m3u8"
+        "https://padmaonline.duckdns.org:8088/SETHD/index.m3u8"
       ],
       "category": "India"
     },
@@ -5637,7 +5636,8 @@
       "name": "Sony Max",
       "logoUrl": "https://seeklogo.com/images/S/sony-max-logo-70C4C2A5DA-seeklogo.com.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0jf/index.m3u8"
+        "http://116.90.120.151:8000/play/a0jf/index.m3u8",
+        "https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6277,7 +6277,8 @@
       "name": "Colors Cineplex",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0ji/index.m3u8"
+        "http://116.90.120.151:8000/play/a0ji/index.m3u8",
+        "https://padmaonline.duckdns.org:8088/ColorsCineplexHD/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6591,6 +6592,16 @@
       "logoUrl": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c1/Amar_Bangla_logo.png/revision/latest?cb=20231124085721",
       "streamUrls": [
         "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "AsianetMiddleEast.in",
+      "name": "Asianet Middle East",
+      "logoUrl": "https://www.pngitem.com/pimgs/m/192-1929742_asianet-channel-hd-png-download.png",
+      "streamUrls": [
+        "https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8"
       ],
       "category": "India",
       "languages": []
