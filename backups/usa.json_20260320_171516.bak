@@ -4141,8 +4141,8 @@
       "name": "Hallmark Movies & More",
       "logoUrl": "https://www.clipartmax.com/png/middle/335-3358990_hallmark-channel-logo-transparent.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8",
-        "https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8"
+        "https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8",
+        "https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8"
       ],
       "category": "USA"
     },
@@ -12379,7 +12379,8 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/hd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd",
+        "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
     },
