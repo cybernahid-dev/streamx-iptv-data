@@ -1501,6 +1501,7 @@
       "name": "GoodNews TV",
       "logoUrl": "https://i.imgur.com/ZrvoGqS.png",
       "streamUrls": [
+        "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8",
         "https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8"
       ],
       "category": "India"
@@ -4554,7 +4555,7 @@
       "name": "Gujarat First",
       "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/6d/90/c66d905c-26e6-d14a-c8d9-9ba8028a8a97/GujratFirst-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
       "streamUrls": [
-        "https://mumt01.tangotv.in/GUJARATFIRST/index.m3u8",
+        "https://live.legitpro.co.in/gujaratfirst/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gujarat-first/index.m3u8?ads.vf=aXdXji5fkdu"
       ],
       "category": "India"
@@ -5586,8 +5587,6 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0jc/index.m3u8",
-        "http://116.90.120.151:8000/play/a0hi/index.m3u8",
         "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
       ],
       "category": "India",
