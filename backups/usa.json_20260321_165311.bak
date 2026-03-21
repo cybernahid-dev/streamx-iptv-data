@@ -676,7 +676,6 @@
       "name": "AWE Encore",
       "logoUrl": "https://uspto.report/TM/88923573/mark.png",
       "streamUrls": [
-        "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8",
         "https://aweencore-vizio.amagi.tv/playlist.m3u8"
       ],
       "category": "USA"
@@ -12379,6 +12378,7 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
+        "https://tvpass.org/live/nbc-sports-bay-area/sd",
         "https://tvpass.org/live/nbc-sports-bay-area/hd"
       ],
       "category": "USA"
