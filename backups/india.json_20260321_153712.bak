@@ -5149,7 +5149,6 @@
       "name": "Star Gold 2",
       "logoUrl": "https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0d0/index.m3u8",
         "http://116.90.120.151:8000/play/a0gz/index.m3u8"
       ],
       "category": "India"
@@ -5455,7 +5454,6 @@
       "name": "Star Sports 2 Tamil",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/8/85/Star_Sports_2_Ấn_Độ_2013.png/revision/latest/scale-to-width-down/1200?cb=20220902010906&path-prefix=vi",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0d1/index.m3u8",
         "http://103.229.254.25:7001/play/a0dc/index.m3u8"
       ],
       "category": "India",

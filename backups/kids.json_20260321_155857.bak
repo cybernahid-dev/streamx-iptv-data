@@ -1098,6 +1098,7 @@
       "name": "Mult",
       "logoUrl": "https://c8.alamy.com/comp/P2DRPY/multichannel-vector-icon-isolated-on-transparent-background-multichannel-logo-concept-P2DRPY.jpg",
       "streamUrls": [
+        "http://31.148.48.15/Mult/index.m3u8",
         "http://31.148.48.15/Mult_HD/index.m3u8"
       ],
       "category": "Kids",
@@ -1819,7 +1820,8 @@
       "name": "Top Kids",
       "logoUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a54ca81b-3799-488d-8548-cafb121706ab/dfd45qq-91d407b9-3092-4aab-9eb2-92c69b2a81ff.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1NGNhODFiLTM3OTktNDg4ZC04NTQ4LWNhZmIxMjE3MDZhYlwvZGZkNDVxcS05MWQ0MDdiOS0zMDkyLTRhYWItOWViMi05MmM2OWIyYTgxZmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.85ZK8aoqUXMC9Bv3Uuaaad8PJB2sRJnTeT1jrUERUOU",
       "streamUrls": [
-        "https://liveovh010.cda.pl/enc116/topkidshdraw/topkidshdraw.m3u8"
+        "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc116/topkidshdraw/topkidshdraw.mpd",
+        "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc116/topkidshdraw/topkidshdraw.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2015,7 +2017,7 @@
       "name": "Tamyr",
       "logoUrl": "https://www.pngitem.com/pimgs/m/764-7649207_zee-tamil-tv-logo-png-transparent-png.png",
       "streamUrls": [
-        "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8"
       ],
       "category": "Kids",
       "languages": [],
