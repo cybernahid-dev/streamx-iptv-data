@@ -1501,8 +1501,8 @@
       "name": "GoodNews TV",
       "logoUrl": "https://i.imgur.com/ZrvoGqS.png",
       "streamUrls": [
-        "https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8",
-        "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"
+        "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8",
+        "https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8"
       ],
       "category": "India"
     },
@@ -1797,6 +1797,7 @@
       "name": "Janam TV",
       "logoUrl": "https://cdn.pnggallery.com/wp-content/uploads/janam-tv-logo-05.png",
       "streamUrls": [
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8",
         "https://mumt03.tangotv.in/JANAMTV/index.m3u8"
       ],
       "category": "India"
@@ -2132,6 +2133,7 @@
       "name": "Mathrubhumi News",
       "logoUrl": "https://1.bp.blogspot.com/-qunUmnX0n94/W35Ya8XuL3I/AAAAAAAAEpg/znBQf88E7asqNFQN8R_kPJntn72ZpLwBQCLcBGAs/w1200-h630-p-k-no-nu/mathrubhumi_news.png",
       "streamUrls": [
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8",
         "https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8"
       ],
       "category": "India"
@@ -2141,6 +2143,7 @@
       "name": "Mazhavil Manorama",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Mazhavil_Manorama_TV_Logo.jpg?20220527190909",
       "streamUrls": [
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8",
         "https://cdn-7.pishow.tv/live/1129/master.m3u8"
       ],
       "category": "India"
@@ -3054,7 +3057,8 @@
       "name": "Sakshi TV",
       "logoUrl": "https://wachannelsfinder.com/wp-content/uploads/2023/11/sakshi-tv.jpg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sakshi-tv/index.m3u8?ads.vf=V-hlmSQNYO4"
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sakshi-tv/index.m3u8?ads.vf=R0kT9MD3lAa"
       ],
       "category": "India"
     },
@@ -3752,6 +3756,7 @@
       "name": "V6 News",
       "logoUrl": "https://www.m9.news/wp-content/uploads/2023/10/V6-Channel.jpg",
       "streamUrls": [
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8",
         "https://cdn-1.pishow.tv/live/389/master.m3u8"
       ],
       "category": "India"
@@ -4658,7 +4663,8 @@
       "name": "News Tamil 24x7",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9b/News_Tamil_24x7.jpg/revision/latest/scale-to-width-down/280?cb=20220122125225",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8?ads.vf=uQa1v-Il2F0"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8?ads.vf=ZaxRNE7stNG",
+        "https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8"
       ],
       "category": "India"
     },
@@ -5914,7 +5920,8 @@
       "name": "Jaya Max",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest?cb=20191224113123",
       "streamUrls": [
-        "https://mac.zenplay.top/linear-live.php?id=994&amp;vtoken=&amp;e=.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0313/master.m3u8",
+        "http://111.88.78.21:8000/play/a0wk/index.m3u8"
       ],
       "category": "India",
       "languages": []
