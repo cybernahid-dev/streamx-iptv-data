@@ -4565,8 +4565,7 @@
       "name": "Hare Krsna TV",
       "logoUrl": "http://gaudiyahistory.iskcondesiretree.com/wp-content/uploads/2019/09/Hare-Krsna-TV-logo.png",
       "streamUrls": [
-        "https://mumt05.tangotv.in/HAREKRSNA/index.m3u8",
-        "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd"
+        "https://mumt05.tangotv.in/HAREKRSNA/index.m3u8"
       ],
       "category": "India"
     },
@@ -5416,7 +5415,6 @@
       "name": "Sony Sports Ten 5",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://103.99.249.139/sonyten3/index.m3u8",
         "http://116.90.120.151:8000/play/a0hb/index.m3u8"
       ],
       "category": "India",

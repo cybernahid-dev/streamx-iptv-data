@@ -189,7 +189,7 @@
       "name": "Ananda TV",
       "logoUrl": "https://anandatv.tv/wp-content/uploads/2023/08/cropped-Atv_Web_Logo.jpg",
       "streamUrls": [
-        "http://103.99.249.139/anandatv/index.m3u8"
+        "https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8"
       ],
       "category": "Bangladesh",
       "languages": []
@@ -320,16 +320,6 @@
       "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122100293360144381",
       "streamUrls": [
         "https://bozztv.com/rongo/rongo-somoy/index.m3u8"
-      ],
-      "category": "Bangladesh",
-      "languages": []
-    },
-    {
-      "id": "DBCNews.bd",
-      "name": "DBC News",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8"
       ],
       "category": "Bangladesh",
       "languages": []
