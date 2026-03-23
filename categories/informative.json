@@ -2781,6 +2781,17 @@
       "category": "Informative",
       "languages": [],
       "genre": "Informative"
+    },
+    {
+      "id": "Smotrim100Fakty.ru",
+      "name": "Smotrim 100% Fakty",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
     }
   ]
 }
