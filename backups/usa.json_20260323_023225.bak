@@ -14411,8 +14411,7 @@
       "name": "Anime x HIDIVE",
       "logoUrl": "https://anitrendz.net/news/wp-content/uploads/2025/03/hidive-main-logo.jpg",
       "streamUrls": [
-        "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
-        "https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8"
+        "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
       ],
       "category": "USA",
       "languages": []
@@ -15097,58 +15096,6 @@
       "streamUrls": [
         "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8",
         "https://tdameritrade-distro.amagi.tv/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "NarutoShippuden.us",
-      "name": "Naruto Shippuden",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "Narutoenespanol.us",
-      "name": "Naruto en espanol",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "PlutoTVAnimeMovies.us",
-      "name": "Pluto TV Anime Movies",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "RakutenViki.us",
-      "name": "Rakuten Viki",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8",
-        "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8",
-        "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "TheQIndia.us",
-      "name": "The Q India",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://mumt05.tangotv.in/THEQ/index.m3u8"
       ],
       "category": "USA",
       "languages": []

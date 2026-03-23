@@ -3600,7 +3600,7 @@
       "name": "Tamil Janam",
       "logoUrl": "https://cdn.pnggallery.com/wp-content/uploads/janam-tv-logo-04.png",
       "streamUrls": [
-        "https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8"
+        "https://app.ashokadigital.net/app/324ea1b0/index.m3u8"
       ],
       "category": "India"
     },
@@ -6395,7 +6395,7 @@
       "name": "Soham TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/c/ca/Soham.png/revision/latest/scale-to-width-down/300?cb=20210511175442",
       "streamUrls": [
-        "https://mumt03.tangotv.in/SOHAMTV/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0146/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6607,66 +6607,6 @@
       "logoUrl": "https://www.pngitem.com/pimgs/m/192-1929742_asianet-channel-hd-png-download.png",
       "streamUrls": [
         "https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "NKRTVKannada.in",
-      "name": "NKR TV Kannada",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://mumt05.tangotv.in/NKRTV/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "OnkarOnlyTruthTV.in",
-      "name": "Onkar Only Truth TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "RajMusixKannada.in",
-      "name": "Raj Musix Kannada",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://mumt01.tangotv.in/RAJMUSIXKANDA/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "SachBedhadak.in",
-      "name": "Sach Bedhadak",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "SairamTV.in",
-      "name": "Sairam TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://mumt04.tangotv.in/SAIRAMTV/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "SubhartiTV.in",
-      "name": "Subharti TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://mumt04.tangotv.in/SUBHARTITV/index.m3u8"
       ],
       "category": "India",
       "languages": []
