@@ -801,7 +801,7 @@
       "name": "IRIB Omid",
       "logoUrl": "https://w7.pngwing.com/pngs/134/1008/png-transparent-omid-hd-logo-thumbnail.png",
       "streamUrls": [
-        "https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8"
+        "https://ncdn.telewebion.ir/omid/live/playlist.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1502,7 +1502,7 @@
       "name": "Pooya TV",
       "logoUrl": "https://logopond.com/logos/cdbfa85bffde5542a22414f9d312af9b.png",
       "streamUrls": [
-        "https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8"
+        "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1512,7 +1512,7 @@
       "name": "Pooya TV Plus",
       "logoUrl": "https://logopond.com/logos/a491dd99b9da61545ab2adf1ae2e2f4b.png",
       "streamUrls": [
-        "https://ncdn.telewebion.com/javaneh/live/playlist.m3u8"
+        "https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2017,8 +2017,7 @@
       "name": "Tamyr",
       "logoUrl": "https://www.pngitem.com/pimgs/m/764-7649207_zee-tamil-tv-logo-png-transparent-png.png",
       "streamUrls": [
-        "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
-        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8"
+        "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -2041,7 +2040,7 @@
       "name": "GEM Junior",
       "logoUrl": "https://junior.gemsociety.org/cdn/shop/files/Gem-Junior-logo-2d.png?v=1728585360&width=535",
       "streamUrls": [
-        "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemjunior/index-0.m3u8"
+        "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202"
       ],
       "category": "Kids",
       "languages": [],
@@ -2052,7 +2051,7 @@
       "name": "GEM Kids",
       "logoUrl": "https://www.aparatchi.com/images/TV/gem+kids.png",
       "streamUrls": [
-        "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemkids/index-0.m3u8"
+        "https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202"
       ],
       "category": "Kids",
       "languages": [],
