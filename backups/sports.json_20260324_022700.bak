@@ -663,7 +663,7 @@
       "name": "GEM Fit",
       "logoUrl": "https://salintv.com/wp-content/uploads/2024/05/gem_fit_live_stream-300x171.jpg",
       "streamUrls": [
-        "https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202"
+        "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemfit/index-0.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1579,7 +1579,7 @@
       "name": "Telewebion Sport 3",
       "logoUrl": "https://seeklogo.com/images/T/tv3-sport-logo-F9E1EED1EE-seeklogo.com.png",
       "streamUrls": [
-        "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://gg.hls2.xyz/live/Twsport3/chunks.m3u8"
+        "https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1764,7 +1764,7 @@
       "name": "IRIB 3",
       "logoUrl": "https://tvfarsi.com/wp-content/uploads/2024/05/IRIB-Shabake-3-Live-Irans-Youthful-Hub-for-Sports-Entertainment-and-Beyond.webp",
       "streamUrls": [
-        "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8"
+        "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1796,7 +1796,7 @@
       "name": "Varzesh TV",
       "logoUrl": "https://www.parsatv.com/index_files/channels/varzeshtv.png",
       "streamUrls": [
-        "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8"
+        "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2724,83 +2724,6 @@
         "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv-ww/playlist.m3u8?ads.vf=rPs_7NoEsnu",
         "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "GEMSport.tr",
-      "name": "GEM Sport",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR%20-%20GEM%20Sport/chunks.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "PersianaSports.fr",
-      "name": "Persiana Sports",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports/chunks.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "PersianaSports2.fr",
-      "name": "Persiana Sports 2",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports2/chunks.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "PersianaSports3.fr",
-      "name": "Persiana Sports 3",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports3/chunks.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "PersianaSports4.fr",
-      "name": "Persiana Sports 4",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports4/chunks.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "TelewebionSport.ir",
-      "name": "Telewebion Sport",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://gg.hls2.xyz/live/Twsport1/chunks.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "TelewebionSport2.ir",
-      "name": "Telewebion Sport 2",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://gg.hls2.xyz/live/Twsport2/chunks.m3u8"
       ],
       "category": "Sports",
       "languages": [],

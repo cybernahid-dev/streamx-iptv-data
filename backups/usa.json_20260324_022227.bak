@@ -6284,8 +6284,7 @@
       "name": "Mohabat TV",
       "logoUrl": "https://play-lh.googleusercontent.com/aYC9g3pDGot9_Ly6t7GRXRub6HMISW9aIBgb-HPqIGLGs6VT4Gi0v7LrgcuK9_cWqA",
       "streamUrls": [
-        "http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
-        "https://mohabathls.wns.live/hls/stream.m3u8"
+        "http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -8992,7 +8991,7 @@
       "name": "Shabakeh 7",
       "logoUrl": "https://image.roku.com/developer_channels/prod/71775d987a62353d19e247c0c9231ee5d88d320cf9df1895eff98a0fe5f9b098.png",
       "streamUrls": [
-        "https://sh7hls.wns.live/hls/stream.m3u8"
+        "https://t.northtelecom.org/Shabakeh.m3u8"
       ],
       "category": "USA"
     },
@@ -10781,8 +10780,7 @@
       "name": "VoA TV Persian",
       "logoUrl": "https://www.parsatv.com/index_files/channels/voapersian.png",
       "streamUrls": [
-        "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
-        "https://voaphls.wns.live/hls/stream.m3u8"
+        "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -15151,16 +15149,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mumt05.tangotv.in/THEQ/index.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "IranNationalRevolutionTV.us",
-      "name": "Iran National Revolution TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://hls.irannrtv.live/hls/stream.m3u8"
       ],
       "category": "USA",
       "languages": []
