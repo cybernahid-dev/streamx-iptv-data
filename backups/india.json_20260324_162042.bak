@@ -271,7 +271,7 @@
       "name": "Aakaash Aath",
       "logoUrl": "https://static.wikia.nocookie.net/india-tv-channel/images/0/03/Aakash_Aath_1.png/revision/latest?cb=20211211133341",
       "streamUrls": [
-        "https://cdn-4.pishow.tv/live/969/master.m3u8"
+        "https://mumt03.tangotv.in/AAKASHAATH/index.m3u8"
       ],
       "category": "India"
     },
@@ -2218,8 +2218,7 @@
       "name": "Munsif TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Munsif_TV.jpeg/revision/latest/scale-to-width-down/280?cb=20191228140847",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/index.m3u8?ads.vf=T3QTHdxCi7q",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/e5ae862b-c65c-4b17-b9a8-038853525c64/0.m3u8"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/index.m3u8?ads.vf=bgM_sblbBYC"
       ],
       "category": "India"
     },
