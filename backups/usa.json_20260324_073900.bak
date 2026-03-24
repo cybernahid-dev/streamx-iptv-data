@@ -10909,7 +10909,8 @@
       "name": "WBTV-DT1",
       "logoUrl": "https://images.seeklogo.com/logo-png/48/1/wbtv-logo-png_seeklogo-489969.png",
       "streamUrls": [
-        "https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8",
+        "http://fl41.moveonjoy.com/NC_CHARLOTTE_CBS/index.m3u8"
       ],
       "category": "USA"
     },
