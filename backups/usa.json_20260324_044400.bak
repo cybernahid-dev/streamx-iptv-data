@@ -4142,8 +4142,8 @@
       "name": "Hallmark Movies & More",
       "logoUrl": "https://www.clipartmax.com/png/middle/335-3358990_hallmark-channel-logo-transparent.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8",
-        "https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8"
+        "https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8",
+        "https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8"
       ],
       "category": "USA"
     },
@@ -6284,7 +6284,8 @@
       "name": "Mohabat TV",
       "logoUrl": "https://play-lh.googleusercontent.com/aYC9g3pDGot9_Ly6t7GRXRub6HMISW9aIBgb-HPqIGLGs6VT4Gi0v7LrgcuK9_cWqA",
       "streamUrls": [
-        "http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
+        "http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+        "https://mohabathls.wns.live/hls/stream.m3u8"
       ],
       "category": "USA"
     },
@@ -8991,7 +8992,7 @@
       "name": "Shabakeh 7",
       "logoUrl": "https://image.roku.com/developer_channels/prod/71775d987a62353d19e247c0c9231ee5d88d320cf9df1895eff98a0fe5f9b098.png",
       "streamUrls": [
-        "https://t.northtelecom.org/Shabakeh.m3u8"
+        "https://sh7hls.wns.live/hls/stream.m3u8"
       ],
       "category": "USA"
     },
@@ -10780,7 +10781,8 @@
       "name": "VoA TV Persian",
       "logoUrl": "https://www.parsatv.com/index_files/channels/voapersian.png",
       "streamUrls": [
-        "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8"
+        "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
+        "https://voaphls.wns.live/hls/stream.m3u8"
       ],
       "category": "USA"
     },
@@ -13047,8 +13049,8 @@
       "name": "Dog Whisperer",
       "logoUrl": "https://images.seeklogo.com/logo-png/33/1/dog-whisperer-logo-png_seeklogo-330440.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-60e453641239a700071f53a1.m3u8",
-        "https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8"
+        "https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8",
+        "https://jmp2.uk/plu-60e453641239a700071f53a1.m3u8"
       ],
       "category": "USA"
     },
@@ -14411,7 +14413,8 @@
       "name": "Anime x HIDIVE",
       "logoUrl": "https://anitrendz.net/news/wp-content/uploads/2025/03/hidive-main-logo.jpg",
       "streamUrls": [
-        "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+        "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+        "https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8"
       ],
       "category": "USA",
       "languages": []
@@ -15096,6 +15099,68 @@
       "streamUrls": [
         "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8",
         "https://tdameritrade-distro.amagi.tv/playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "NarutoShippuden.us",
+      "name": "Naruto Shippuden",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "Narutoenespanol.us",
+      "name": "Naruto en espanol",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "PlutoTVAnimeMovies.us",
+      "name": "Pluto TV Anime Movies",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "RakutenViki.us",
+      "name": "Rakuten Viki",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8",
+        "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "TheQIndia.us",
+      "name": "The Q India",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumt05.tangotv.in/THEQ/index.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "IranNationalRevolutionTV.us",
+      "name": "Iran National Revolution TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://hls.irannrtv.live/hls/stream.m3u8"
       ],
       "category": "USA",
       "languages": []
