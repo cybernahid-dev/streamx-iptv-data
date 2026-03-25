@@ -2720,7 +2720,7 @@
       "name": "Comedy Central",
       "logoUrl": "https://www.liblogo.com/img-logo/co1534c153-comedy-central-logo-comedy-central-logo-custom-by-mickeyfan123-on-.png",
       "streamUrls": [
-        "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8"
+        "https://fl1.moveonjoy.com/Comedy_Central/index.m3u8"
       ],
       "category": "USA"
     },
@@ -15160,16 +15160,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://hls.irannrtv.live/hls/stream.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "WGALDT3.us",
-      "name": "WGAL-DT3",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8"
       ],
       "category": "USA",
       "languages": []

@@ -1664,7 +1664,7 @@
       "name": "Polsat Viasat Explore",
       "logoUrl": "https://vignette.wikia.nocookie.net/tvfanon6528/images/0/0f/Polsat_Viasat_Explore_(2014-.n.v.).png/revision/latest?cb=20171227143232",
       "streamUrls": [
-        "https://liveovh010.cda.pl/enc107/polsatviasatexplorehdraw/polsatviasatexplorehdraw.mpd"
+        "https://liveovh009.cda.pl/HXPcTCG-lz53Xv9hbHIO3w/1753762848/3480440/enc107/polsatviasatexplorehdraw/polsatviasatexplorehdraw.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1674,7 +1674,7 @@
       "name": "Polsat Viasat History",
       "logoUrl": "https://images.seeklogo.com/logo-png/14/3/viasat-history-logo-png_seeklogo-148706.png",
       "streamUrls": [
-        "https://liveovh010.cda.pl/enc105/polsatviasathistoryhdraw/polsatviasathistoryhdraw.mpd"
+        "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc105/polsatviasathistoryhdraw/polsatviasathistoryhdraw.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2796,6 +2796,30 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "NationalGeographic.pl",
+      "name": "National Geographic",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc103/nationalgeographichdraw/nationalgeographichdraw.m3u8",
+        "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc103/nationalgeographichdraw/nationalgeographichdraw.mpd"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "NationalGeographicWild.pl",
+      "name": "National Geographic Wild",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc104/nationalgeographicwildhdraw/nationalgeographicwildhdraw.mpd",
+        "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc104/nationalgeographicwildhdraw/nationalgeographicwildhdraw.m3u8"
       ],
       "category": "Informative",
       "languages": [],
