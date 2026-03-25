@@ -10781,6 +10781,7 @@
       "name": "VoA TV Persian",
       "logoUrl": "https://www.parsatv.com/index_files/channels/voapersian.png",
       "streamUrls": [
+        "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
         "https://voaphls.wns.live/hls/stream.m3u8"
       ],
       "category": "USA"
