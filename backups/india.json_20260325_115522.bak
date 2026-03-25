@@ -1396,8 +1396,8 @@
       "name": "Enterr 10 Bangla",
       "logoUrl": "https://www.lyngsat.com/logo/tv/ee/enterr-10-bangla-in.png",
       "streamUrls": [
-        "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
-        "https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8"
+        "https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8",
+        "https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -1444,7 +1444,6 @@
       "name": "First India News",
       "logoUrl": "https://w7.pngwing.com/pngs/327/169/png-transparent-india-news-television-channel-itv-network-india-television-logo-india.png",
       "streamUrls": [
-        "https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8",
         "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8"
       ],
       "category": "India"
@@ -2133,6 +2132,7 @@
       "name": "Mathrubhumi News",
       "logoUrl": "https://1.bp.blogspot.com/-qunUmnX0n94/W35Ya8XuL3I/AAAAAAAAEpg/znBQf88E7asqNFQN8R_kPJntn72ZpLwBQCLcBGAs/w1200-h630-p-k-no-nu/mathrubhumi_news.png",
       "streamUrls": [
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8",
         "https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8"
       ],
       "category": "India"
@@ -5414,6 +5414,7 @@
       "name": "Sony Sports Ten 5",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
       "streamUrls": [
+        "http://103.99.249.139/sonyten3/index.m3u8",
         "http://116.90.120.151:8000/play/a0hb/index.m3u8"
       ],
       "category": "India",
@@ -6664,6 +6665,56 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mumt04.tangotv.in/SUBHARTITV/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "GTCNews.in",
+      "name": "GTC News",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "GoodnessTV.in",
+      "name": "Goodness TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumt02.tangotv.in/GOODNESSTV/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "MahaaBhakti.in",
+      "name": "Mahaa Bhakti",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "MantavyaNews.in",
+      "name": "Mantavya News",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "NambikkaiTV.in",
+      "name": "Nambikkai TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8"
       ],
       "category": "India",
       "languages": []
