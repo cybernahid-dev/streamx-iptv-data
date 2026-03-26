@@ -5414,6 +5414,7 @@
       "name": "Sony Sports Ten 5",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
       "streamUrls": [
+        "http://103.99.249.139/sonyten3/index.m3u8",
         "http://116.90.120.151:8000/play/a0hb/index.m3u8"
       ],
       "category": "India",
@@ -5434,6 +5435,7 @@
       "name": "Star Gold",
       "logoUrl": "https://www.vhv.rs/dpng/d/24-245112_star-gold-channel-logo-hd-png-download.png",
       "streamUrls": [
+        "http://103.99.249.139/stargold/index.m3u8",
         "http://103.229.254.25:7001/play/a0dd/index.m3u8"
       ],
       "category": "India",
