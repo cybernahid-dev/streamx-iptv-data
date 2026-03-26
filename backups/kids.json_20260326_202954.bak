@@ -345,8 +345,8 @@
       "name": "BBC Three/CBBC",
       "logoUrl": "https://assets.stickpng.com/images/62f10d0f4177a24963a5e046.png",
       "streamUrls": [
-        "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8",
-        "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd"
+        "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd",
+        "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"

@@ -889,8 +889,8 @@
       "name": "DM Sat",
       "logoUrl": "https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/dm-sat-sender-logo-275910.png",
       "streamUrls": [
-        "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8",
-        "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd"
+        "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd",
+        "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5784,7 +5784,8 @@
       "name": "Nuta TV",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc120/nutatvhdraw/nutatvhdraw.mpd"
+        "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc120/nutatvhdraw/nutatvhdraw.mpd",
+        "http://78.130.250.2:8023/play/a03r/index.m3u8"
       ],
       "category": "Music",
       "languages": [],
