@@ -2122,6 +2122,7 @@
       "name": "CNBC",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png",
       "streamUrls": [
+        "https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8",
         "https://tvpass.org/live/CNBC/hd",
         "https://tvpass.org/live/CNBC/sd"
       ],
@@ -11231,8 +11232,8 @@
       "name": "WIS-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WIS-DT2_2024_(cropped).webp/250px-WIS-DT2_2024_(cropped).webp.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd",
-        "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd"
+        "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd",
+        "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd"
       ],
       "category": "USA"
     },
@@ -12382,8 +12383,8 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/sd",
-        "https://tvpass.org/live/nbc-sports-bay-area/hd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd",
+        "https://tvpass.org/live/nbc-sports-bay-area/sd"
       ],
       "category": "USA"
     },
@@ -12567,7 +12568,8 @@
       "name": "Positiv TV",
       "logoUrl": "https://image.pngaaa.com/898/4864898-middle.png",
       "streamUrls": [
-        "https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8"
+        "https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8",
+        "http://trn03.bozztv.com/gin-positiv/index.m3u8"
       ],
       "category": "USA",
       "languages": []
