@@ -1444,8 +1444,8 @@
       "name": "First India News",
       "logoUrl": "https://w7.pngwing.com/pngs/327/169/png-transparent-india-news-television-channel-itv-network-india-television-logo-india.png",
       "streamUrls": [
-        "https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8",
-        "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8"
+        "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
+        "https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8"
       ],
       "category": "India"
     },
@@ -3037,7 +3037,6 @@
       "name": "Sadhna Plus News",
       "logoUrl": "https://www.sadhna.com/Channel/SADHNA-PLUS-NEWS.png",
       "streamUrls": [
-        "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8",
         "https://mumt03.tangotv.in/SADHNAPLUSNEWS/index.m3u8"
       ],
       "category": "India"
@@ -5301,7 +5300,6 @@
       "name": "Colors",
       "logoUrl": "https://i.pinimg.com/originals/8c/cb/16/8ccb1643a2752be053328459476d54d2.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0a1/index.m3u8",
         "http://103.229.254.25:7001/play/a077/index.m3u8",
         "http://tvn1.chowdhury-shaheb.com/colors/index.m3u8"
       ],

@@ -2016,7 +2016,8 @@
       "name": "Tamyr",
       "logoUrl": "https://www.pngitem.com/pimgs/m/764-7649207_zee-tamil-tv-logo-png-transparent-png.png",
       "streamUrls": [
-        "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+        "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
+        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -2621,7 +2622,7 @@
       "name": "NickOnline",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "http://x1co.com.br:8080/hls/stream.m3u8"
+        "https://x1co.com.br:8443/hls/stream.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -2644,6 +2645,17 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089"
+      ],
+      "category": "Kids",
+      "languages": [],
+      "genre": "Kids"
+    },
+    {
+      "id": "PolsatJimJam.pl",
+      "name": "Polsat JimJam",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc119/polsatjimjamraw/polsatjimjamraw.mpd"
       ],
       "category": "Kids",
       "languages": [],

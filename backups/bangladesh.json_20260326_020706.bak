@@ -189,7 +189,6 @@
       "name": "Ananda TV",
       "logoUrl": "https://anandatv.tv/wp-content/uploads/2023/08/cropped-Atv_Web_Logo.jpg",
       "streamUrls": [
-        "https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8",
         "http://103.99.249.139/anandatv/index.m3u8"
       ],
       "category": "Bangladesh",
