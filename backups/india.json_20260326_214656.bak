@@ -1921,6 +1921,7 @@
       "name": "Kashish News",
       "logoUrl": "https://yt3.ggpht.com/a/AATXAJxdgilUtoBgSwI-g_uZgoQ-9eYokQEpdwcqkA=s900-c-k-c0xffffffff-no-rj-mo",
       "streamUrls": [
+        "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8",
         "https://mumt03.tangotv.in/KASHISHNEWS/index.m3u8"
       ],
       "category": "India"
@@ -3084,7 +3085,6 @@
       "name": "Sana Plus",
       "logoUrl": "https://play-lh.googleusercontent.com/dlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ",
       "streamUrls": [
-        "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
         "https://galaxyott.live/hls/sanaplus.m3u8"
       ],
       "category": "India"
@@ -5413,8 +5413,8 @@
       "name": "Sony Sports Ten 5",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://103.99.249.139/sonyten3/index.m3u8",
-        "http://116.90.120.151:8000/play/a0hb/index.m3u8"
+        "http://116.90.120.151:8000/play/a0hb/index.m3u8",
+        "http://103.99.249.139/sonyten3/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5434,8 +5434,8 @@
       "name": "Star Gold",
       "logoUrl": "https://www.vhv.rs/dpng/d/24-245112_star-gold-channel-logo-hd-png-download.png",
       "streamUrls": [
-        "http://103.99.249.139/stargold/index.m3u8",
-        "http://103.229.254.25:7001/play/a0dd/index.m3u8"
+        "http://103.229.254.25:7001/play/a0dd/index.m3u8",
+        "http://103.99.249.139/stargold/index.m3u8"
       ],
       "category": "India",
       "languages": []

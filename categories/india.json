@@ -3085,7 +3085,8 @@
       "name": "Sana Plus",
       "logoUrl": "https://play-lh.googleusercontent.com/dlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ",
       "streamUrls": [
-        "https://galaxyott.live/hls/sanaplus.m3u8"
+        "https://galaxyott.live/hls/sanaplus.m3u8",
+        "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8"
       ],
       "category": "India"
     },
@@ -4612,9 +4613,8 @@
       "name": "Living India News",
       "logoUrl": "http://images.provenexpert.com/0e/46/561ae0dce9f85754c24a20b101bb/living-india-news_full_1662367301.jpg",
       "streamUrls": [
-        "https://mumt01.tangotv.in/LIVINGINDIANEWS/index.m3u8",
-        "https://stream.ottlive.co.in/livingindia/index.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8?ads.vf=wbLu_BTM9ES"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8?ads.vf=wbLu_BTM9ES",
+        "https://stream.ottlive.co.in/livingindia/index.m3u8"
       ],
       "category": "India"
     },
@@ -4683,8 +4683,7 @@
       "name": "Sandesh News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/c/c6/Sandesh_News.jpeg/revision/latest/scale-to-width-down/200?cb=20191225051450",
       "streamUrls": [
-        "https://dkshlpp7ugzua.cloudfront.net/sandeshnews/index.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sandesh-news/index.m3u8?ads.vf=C6-aCuMZRma"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sandesh-news/index.m3u8?ads.vf=-cicf8IVlO8"
       ],
       "category": "India"
     },
