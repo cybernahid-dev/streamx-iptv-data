@@ -5784,6 +5784,7 @@
       "name": "Nuta TV",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
+        "http://78.130.250.2:8023/play/a03r/index.m3u8",
         "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc120/nutatvhdraw/nutatvhdraw.mpd"
       ],
       "category": "Music",
