@@ -15174,16 +15174,6 @@
       ],
       "category": "USA",
       "languages": []
-    },
-    {
-      "id": "SBNTVInternational.us",
-      "name": "SBN TV International",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc011/sbnraw/sbnraw.mpd"
-      ],
-      "category": "USA",
-      "languages": []
     }
   ]
 }
