@@ -946,8 +946,8 @@
       "name": "Match! Strana",
       "logoUrl": "https://iconape.com/wp-content/png_logo_vector/match-strana-logo.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Strana/index.m3u8",
-        "http://31.148.48.15/Match_Nash_Sport/index.m3u8"
+        "http://31.148.48.15/Match_Nash_Sport/index.m3u8",
+        "http://31.148.48.15/Match_Strana/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2167,7 +2167,6 @@
       "name": "Sony Sports Ten 5",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0hb/index.m3u8",
         "http://103.99.249.139/sonyten3/index.m3u8"
       ],
       "category": "Sports",
@@ -2279,8 +2278,6 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0jc/index.m3u8",
-        "http://116.90.120.151:8000/play/a0hi/index.m3u8",
         "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
       ],
       "category": "Sports",
@@ -2482,8 +2479,7 @@
       "name": "Match! Arena",
       "logoUrl": "https://imb-plus.tv/wp-content/uploads/2024/04/match-arena.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Arena_HD/index.m3u8",
-        "http://31.148.48.15/Match_Arena/index.m3u8"
+        "http://31.148.48.15/Match_Arena_HD/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2505,7 +2501,6 @@
       "name": "Match! Igra",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/2gg6sl1642095135.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Igra/index.m3u8",
         "http://31.148.48.15/Match_Igra_HD/index.m3u8"
       ],
       "category": "Sports",
@@ -2801,6 +2796,17 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://gg.hls2.xyz/live/Twsport2/chunks.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "FightBox.nl",
+      "name": "FightBox",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc002/fightboxhdraw/fightboxhdraw.m3u8"
       ],
       "category": "Sports",
       "languages": [],
