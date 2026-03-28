@@ -455,6 +455,7 @@
       "name": "Argus News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/df/Argus_News.jpeg/revision/latest/scale-to-width-down/250?cb=20200804122252",
       "streamUrls": [
+        "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G"
       ],
       "category": "India"
@@ -1395,6 +1396,7 @@
       "name": "Enterr 10 Bangla",
       "logoUrl": "https://www.lyngsat.com/logo/tv/ee/enterr-10-bangla-in.png",
       "streamUrls": [
+        "https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8",
         "https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
       ],
       "category": "India"
@@ -1423,6 +1425,7 @@
       "name": "Fateh TV",
       "logoUrl": "https://www.sikhiwiki.org/images/thumb/e/e9/Fateh-tv.png/250px-Fateh-tv.png",
       "streamUrls": [
+        "https://mumt05.tangotv.in/FATEHTV/index.m3u8",
         "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
       ],
       "category": "India"
@@ -1498,6 +1501,7 @@
       "name": "GoodNews TV",
       "logoUrl": "https://i.imgur.com/ZrvoGqS.png",
       "streamUrls": [
+        "https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8",
         "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"
       ],
       "category": "India"
@@ -1544,6 +1548,7 @@
       "name": "HNN 24x7",
       "logoUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ee84e049201181.58adc36b3af9a.jpg",
       "streamUrls": [
+        "https://mumt02.tangotv.in/HNN24X7/index.m3u8",
         "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8"
       ],
       "category": "India"
@@ -1743,6 +1748,7 @@
       "name": "Ishwar Bhakti TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9e/Ishwar.png/revision/latest?cb=20210510132201",
       "streamUrls": [
+        "https://mumt05.tangotv.in/ISHWARBHAKTI/index.m3u8",
         "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8"
       ],
       "category": "India"
@@ -4558,6 +4564,7 @@
       "name": "Hare Krsna TV",
       "logoUrl": "http://gaudiyahistory.iskcondesiretree.com/wp-content/uploads/2019/09/Hare-Krsna-TV-logo.png",
       "streamUrls": [
+        "https://mumt05.tangotv.in/HAREKRSNA/index.m3u8",
         "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd"
       ],
       "category": "India"
