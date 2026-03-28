@@ -6750,16 +6750,6 @@
       ],
       "category": "India",
       "languages": []
-    },
-    {
-      "id": "SamacharPlus24x7.in",
-      "name": "Samachar Plus 24x7",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
     }
   ]
 }
