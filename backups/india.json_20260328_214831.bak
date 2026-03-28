@@ -162,6 +162,7 @@
       "name": "9X Tashan",
       "logoUrl": "https://png.pngitem.com/pimgs/s/613-6130656_9x-tashan-logo-png-transparent-png.png",
       "streamUrls": [
+        "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8",
         "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8"
       ],
       "category": "India"
@@ -551,6 +552,7 @@
       "name": "B4U Music",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",
       "streamUrls": [
+        "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
         "https://cdn-2.pishow.tv/live/415/master.m3u8"
       ],
       "category": "India"
