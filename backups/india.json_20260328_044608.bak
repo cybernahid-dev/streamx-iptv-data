@@ -4774,8 +4774,8 @@
       "name": "GTC Punjabi",
       "logoUrl": "https://www.thegtcnetwork.com/logo.png",
       "streamUrls": [
-        "https://mumt01.tangotv.in/GTC/index.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gtc-punjabi/index.m3u8?ads.vf=lZ1whEtKSKO"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gtc-punjabi/index.m3u8?ads.vf=lZ1whEtKSKO",
+        "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8"
       ],
       "category": "India"
     },
@@ -4884,7 +4884,6 @@
       "name": "Disney Channel",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0jg/index.m3u8",
         "http://103.182.170.32:8888/play/a04g"
       ],
       "category": "India"
@@ -5148,7 +5147,6 @@
       "name": "Star Gold 2",
       "logoUrl": "https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0gz/index.m3u8",
         "http://103.229.254.25:7001/play/a0d0/index.m3u8"
       ],
       "category": "India"
@@ -5413,7 +5411,6 @@
       "name": "Sony Sports Ten 5",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0hb/index.m3u8",
         "http://103.99.249.139/sonyten3/index.m3u8"
       ],
       "category": "India",
@@ -5486,7 +5483,6 @@
       "name": "Zee Cafe",
       "logoUrl": "https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0hn/index.m3u8",
         "http://103.229.254.25:7001/play/a0cx/index.m3u8"
       ],
       "category": "India",
@@ -5587,8 +5583,6 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0jc/index.m3u8",
-        "http://116.90.120.151:8000/play/a0hi/index.m3u8",
         "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
       ],
       "category": "India",
@@ -5639,8 +5633,7 @@
       "name": "Sony Max",
       "logoUrl": "https://seeklogo.com/images/S/sony-max-logo-70C4C2A5DA-seeklogo.com.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0jf/index.m3u8",
-        "https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8"
+        "http://103.99.249.139/sonymax/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6754,6 +6747,16 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SamacharPlus24x7.in",
+      "name": "Samachar Plus 24x7",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8"
       ],
       "category": "India",
       "languages": []
