@@ -345,8 +345,8 @@
       "name": "BBC Three/CBBC",
       "logoUrl": "https://assets.stickpng.com/images/62f10d0f4177a24963a5e046.png",
       "streamUrls": [
-        "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd",
-        "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8"
+        "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8",
+        "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -604,7 +604,9 @@
       "name": "Disney Channel",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png",
       "streamUrls": [
-        "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95XgI8UhySeZgp7szKj3V/m3u8"
+        "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95XgI8UhySeZgp7szKj3V/m3u8",
+        "https://tvpass.org/live/DisneyChannelEast/sd",
+        "https://tvpass.org/live/DisneyChannelEast/hd"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1096,7 +1098,6 @@
       "name": "Mult",
       "logoUrl": "https://c8.alamy.com/comp/P2DRPY/multichannel-vector-icon-isolated-on-transparent-background-multichannel-logo-concept-P2DRPY.jpg",
       "streamUrls": [
-        "http://31.148.48.15/Mult/index.m3u8",
         "http://31.148.48.15/Mult_HD/index.m3u8"
       ],
       "category": "Kids",
@@ -2163,7 +2164,6 @@
       "name": "Disney Channel",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0jg/index.m3u8",
         "http://103.182.170.32:8888/play/a04g"
       ],
       "category": "Kids",
