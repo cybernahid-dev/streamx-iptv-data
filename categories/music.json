@@ -3724,7 +3724,9 @@
       "name": "Stingray Greatest Hits",
       "logoUrl": "https://image.xumo.com/v1/channels/channel/99991120/600x337.webp?type=channelTile",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0",
+        "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3765,7 +3767,8 @@
       "name": "Stingray Hot Country",
       "logoUrl": "https://secureservercdn.net/198.71.233.64/9vu.5ab.myftpupload.com/wp-content/uploads/2020/02/Stingray-Country.jpg?time=1607021877",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hot-country/master.m3u8?ads.vf=DTIq7zJ8g9i"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hot-country/master.m3u8?ads.vf=DTIq7zJ8g9i",
+        "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3807,7 +3810,8 @@
       "name": "Stingray Pop Adult",
       "logoUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c9274ced11768aab7ef96be3a7875727.webp",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-pop-adult/master.m3u8?ads.vf=empRbzeG6BW"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-pop-adult/master.m3u8?ads.vf=empRbzeG6BW",
+        "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3817,7 +3821,9 @@
       "name": "Stingray Remember the 80s",
       "logoUrl": "http://p-img.movetv.com/1920x1080/14cfd4ebe24f5a91dcf07221945ceef8.jpeg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-remember-the-80s/master.m3u8?ads.vf=Fq0bVWh7hy0"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-remember-the-80s/master.m3u8?ads.vf=Fq0bVWh7hy0",
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8"
       ],
       "category": "Music",
       "genre": "Music"

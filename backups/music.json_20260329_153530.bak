@@ -3724,7 +3724,6 @@
       "name": "Stingray Greatest Hits",
       "logoUrl": "https://image.xumo.com/v1/channels/channel/99991120/600x337.webp?type=channelTile",
       "streamUrls": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0"
       ],
       "category": "Music",
@@ -3766,7 +3765,6 @@
       "name": "Stingray Hot Country",
       "logoUrl": "https://secureservercdn.net/198.71.233.64/9vu.5ab.myftpupload.com/wp-content/uploads/2020/02/Stingray-Country.jpg?time=1607021877",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hot-country/master.m3u8?ads.vf=DTIq7zJ8g9i"
       ],
       "category": "Music",
@@ -3788,8 +3786,8 @@
       "name": "Stingray Naturescape",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/91/Stingray_Naturescape.svg/revision/latest/scale-to-width-down/300?cb=20200102192817",
       "streamUrls": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
-        "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
+        "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8?ads.vf=KV9HuIoiFAu"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3809,7 +3807,6 @@
       "name": "Stingray Pop Adult",
       "logoUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c9274ced11768aab7ef96be3a7875727.webp",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-pop-adult/master.m3u8?ads.vf=empRbzeG6BW"
       ],
       "category": "Music",
@@ -3820,8 +3817,7 @@
       "name": "Stingray Remember the 80s",
       "logoUrl": "http://p-img.movetv.com/1920x1080/14cfd4ebe24f5a91dcf07221945ceef8.jpeg",
       "streamUrls": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8",
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-remember-the-80s/master.m3u8?ads.vf=Fq0bVWh7hy0"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4920,6 +4916,7 @@
       "name": "Muz-TV",
       "logoUrl": "https://images.seeklogo.com/logo-png/47/1/muz-tv-logo-png_seeklogo-470403.png",
       "streamUrls": [
+        "https://streaming.televizor-24-tochka.ru/live/618.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8"
       ],
       "category": "Music",
@@ -5113,8 +5110,8 @@
       "name": "Punjabi Hits",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e9/Punjabi_Hits.jpg/revision/latest?cb=20210807162730",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8?ads.vf=QAmA4r77J0G",
-        "https://stream.ottlive.co.in/punjabihits/index.m3u8"
+        "https://stream.ottlive.co.in/punjabihits/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8?ads.vf=QAmA4r77J0G"
       ],
       "category": "Music",
       "genre": "Music"
