@@ -162,7 +162,6 @@
       "name": "9X Tashan",
       "logoUrl": "https://png.pngitem.com/pimgs/s/613-6130656_9x-tashan-logo-png-transparent-png.png",
       "streamUrls": [
-        "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8",
         "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8"
       ],
       "category": "India"
@@ -455,7 +454,6 @@
       "name": "Argus News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/df/Argus_News.jpeg/revision/latest/scale-to-width-down/250?cb=20200804122252",
       "streamUrls": [
-        "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G"
       ],
       "category": "India"
@@ -553,7 +551,6 @@
       "name": "B4U Music",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",
       "streamUrls": [
-        "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
         "https://cdn-2.pishow.tv/live/415/master.m3u8"
       ],
       "category": "India"
@@ -1396,7 +1393,6 @@
       "name": "Enterr 10 Bangla",
       "logoUrl": "https://www.lyngsat.com/logo/tv/ee/enterr-10-bangla-in.png",
       "streamUrls": [
-        "https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8",
         "https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
       ],
       "category": "India"
@@ -1425,7 +1421,6 @@
       "name": "Fateh TV",
       "logoUrl": "https://www.sikhiwiki.org/images/thumb/e/e9/Fateh-tv.png/250px-Fateh-tv.png",
       "streamUrls": [
-        "https://mumt05.tangotv.in/FATEHTV/index.m3u8",
         "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
       ],
       "category": "India"
@@ -1501,7 +1496,6 @@
       "name": "GoodNews TV",
       "logoUrl": "https://i.imgur.com/ZrvoGqS.png",
       "streamUrls": [
-        "https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8",
         "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"
       ],
       "category": "India"
@@ -1548,7 +1542,6 @@
       "name": "HNN 24x7",
       "logoUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ee84e049201181.58adc36b3af9a.jpg",
       "streamUrls": [
-        "https://mumt02.tangotv.in/HNN24X7/index.m3u8",
         "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8"
       ],
       "category": "India"
@@ -1748,7 +1741,6 @@
       "name": "Ishwar Bhakti TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9e/Ishwar.png/revision/latest?cb=20210510132201",
       "streamUrls": [
-        "https://mumt05.tangotv.in/ISHWARBHAKTI/index.m3u8",
         "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8"
       ],
       "category": "India"
@@ -4564,7 +4556,6 @@
       "name": "Hare Krsna TV",
       "logoUrl": "http://gaudiyahistory.iskcondesiretree.com/wp-content/uploads/2019/09/Hare-Krsna-TV-logo.png",
       "streamUrls": [
-        "https://mumt05.tangotv.in/HAREKRSNA/index.m3u8",
         "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd"
       ],
       "category": "India"
@@ -5913,7 +5904,7 @@
       "name": "Jaya Max",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest?cb=20191224113123",
       "streamUrls": [
-        "https://mac.zenplay.top/linear-live.php?id=994&amp;vtoken=&amp;e=.m3u8"
+        "https://mac.zenplay.top/linear-live.php?amp;e=.m3u8&amp;vtoken=&id=994"
       ],
       "category": "India",
       "languages": []
@@ -6747,6 +6738,16 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SamacharPlus24x7.in",
+      "name": "Samachar Plus 24x7",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8"
       ],
       "category": "India",
       "languages": []
