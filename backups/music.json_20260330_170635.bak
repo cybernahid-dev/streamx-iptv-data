@@ -3485,7 +3485,6 @@
       "name": "Sana Plus",
       "logoUrl": "https://play-lh.googleusercontent.com/dlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ",
       "streamUrls": [
-        "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
         "https://galaxyott.live/hls/sanaplus.m3u8"
       ],
       "category": "Music",
@@ -3724,8 +3723,9 @@
       "name": "Stingray Greatest Hits",
       "logoUrl": "https://image.xumo.com/v1/channels/channel/99991120/600x337.webp?type=channelTile",
       "streamUrls": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0",
+        "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3766,8 +3766,8 @@
       "name": "Stingray Hot Country",
       "logoUrl": "https://secureservercdn.net/198.71.233.64/9vu.5ab.myftpupload.com/wp-content/uploads/2020/02/Stingray-Country.jpg?time=1607021877",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hot-country/master.m3u8?ads.vf=DTIq7zJ8g9i"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hot-country/master.m3u8?ads.vf=DTIq7zJ8g9i",
+        "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3788,8 +3788,8 @@
       "name": "Stingray Naturescape",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/91/Stingray_Naturescape.svg/revision/latest/scale-to-width-down/300?cb=20200102192817",
       "streamUrls": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
-        "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
+        "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8?ads.vf=KV9HuIoiFAu"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3809,8 +3809,8 @@
       "name": "Stingray Pop Adult",
       "logoUrl": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c9274ced11768aab7ef96be3a7875727.webp",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-pop-adult/master.m3u8?ads.vf=empRbzeG6BW"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-pop-adult/master.m3u8?ads.vf=empRbzeG6BW",
+        "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3820,8 +3820,9 @@
       "name": "Stingray Remember the 80s",
       "logoUrl": "http://p-img.movetv.com/1920x1080/14cfd4ebe24f5a91dcf07221945ceef8.jpeg",
       "streamUrls": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8",
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-remember-the-80s/master.m3u8?ads.vf=Fq0bVWh7hy0",
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4908,8 +4909,7 @@
       "name": "AMusic Channel",
       "logoUrl": "http://amusic.tv/wp-content/uploads/2018/11/AMusic-odi-e1541702049958.png",
       "streamUrls": [
-        "http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
+        "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8?ads.vf=McCy6HuluFe"
       ],
       "category": "Music",
       "languages": [],
@@ -5863,6 +5863,17 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc122/kinopolskamuzykaraw/kinopolskamuzykaraw.mpd"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "TraceGospel.fr",
+      "name": "Trace Gospel",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8"
       ],
       "category": "Music",
       "languages": [],
