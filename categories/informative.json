@@ -2827,6 +2827,42 @@
       "category": "Informative",
       "languages": [],
       "genre": "Informative"
+    },
+    {
+      "id": "Declassified.ca",
+      "name": "Declassified",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://jmp2.uk/plu-62bdaf9cf1bdc500073a8bcb.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "NatureTime.ca",
+      "name": "NatureTime",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
+        "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+        "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "TotalCrime.ca",
+      "name": "Total Crime",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
+        "https://jmp2.uk/plu-62e93b8eb8e02600071f8b1d.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
     }
   ]
 }

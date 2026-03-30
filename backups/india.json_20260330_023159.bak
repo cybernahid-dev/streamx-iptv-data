@@ -6000,7 +6000,8 @@
       "name": "Star Sports 1 Tamil",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_TAMIL/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0419/master.m3u8",
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0472/master.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6749,46 +6750,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "RozanaSpokesman.in",
-      "name": "Rozana Spokesman",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "SouthStation.in",
-      "name": "South Station",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "TNPNews.in",
-      "name": "TNP News",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "TheMovieClub.in",
-      "name": "The Movie Club",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8"
       ],
       "category": "India",
       "languages": []
