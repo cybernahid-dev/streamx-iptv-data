@@ -15183,6 +15183,16 @@
       ],
       "category": "USA",
       "languages": []
+    },
+    {
+      "id": "Nashville.us",
+      "name": "Nashville",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
     }
   ]
 }
