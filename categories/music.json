@@ -108,8 +108,8 @@
       "name": "30A Music",
       "logoUrl": "https://www.parsatv.com/index_files/channels/30atv.jpg",
       "streamUrls": [
-        "https://30a-tv.com/music.m3u8",
-        "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8"
+        "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8",
+        "https://30a-tv.com/music.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
