@@ -5285,6 +5285,7 @@
       "name": "Kevin Hart's LOL! Network",
       "logoUrl": "https://www.tvchannellists.com/wiki/images/4/40/Kevin_Hart's_LOL!_Network.svg",
       "streamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playlist.m3u8",
         "https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8"
       ],
       "category": "USA"
