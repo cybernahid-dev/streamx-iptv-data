@@ -1353,7 +1353,6 @@
       "name": "Nauka",
       "logoUrl": "https://e7.pngegg.com/pngimages/901/934/png-clipart-nauka-2-Наука-2-discovery-world-science-product-design-discovery-id-tv-channel-text-trademark.png",
       "streamUrls": [
-        "http://31.148.48.15/Nauka_2.0/index.m3u8",
         "https://vod.tuva.ru/nauka2/index.m3u8"
       ],
       "category": "Informative",
@@ -1820,8 +1819,6 @@
       "name": "TERRA",
       "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFGMvPOZtk3xg/company-logo_200_200/company-logo_200_200/0/1630555655333/terratvltd_logo?e=2147483647&v=beta&t=p3-neUX_37PjBI9TduwFtjS1dxfEF2Y4osqNVua19Kg",
       "streamUrls": [
-        "http://31.148.48.15/Terra/index.m3u8",
-        "http://31.148.48.15/Terra_HD/index.m3u8",
         "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8"
       ],
       "category": "Informative",
@@ -2823,6 +2820,42 @@
       "streamUrls": [
         "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc104/nationalgeographicwildhdraw/nationalgeographicwildhdraw.mpd",
         "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc104/nationalgeographicwildhdraw/nationalgeographicwildhdraw.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "Declassified.ca",
+      "name": "Declassified",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://jmp2.uk/plu-62bdaf9cf1bdc500073a8bcb.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "NatureTime.ca",
+      "name": "NatureTime",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
+        "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+        "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "TotalCrime.ca",
+      "name": "Total Crime",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
+        "https://jmp2.uk/plu-62e93b8eb8e02600071f8b1d.m3u8"
       ],
       "category": "Informative",
       "languages": [],
