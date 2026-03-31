@@ -1954,7 +1954,7 @@
       "name": "Star Sports 1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8"
+        "http://116.90.120.151:8000/play/a0gs/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2300,7 +2300,7 @@
       "name": "Sportdigital FUSSBALL",
       "logoUrl": "https://seeklogo.com/images/S/sportdigital-logo-54099B0CD9-seeklogo.com.png",
       "streamUrls": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8"
+        "https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2819,17 +2819,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "L1Max.pe",
-      "name": "L1 Max",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8"
       ],
       "category": "Sports",
       "languages": [],
