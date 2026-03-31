@@ -946,7 +946,6 @@
       "name": "Match! Strana",
       "logoUrl": "https://iconape.com/wp-content/png_logo_vector/match-strana-logo.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Nash_Sport/index.m3u8",
         "http://31.148.48.15/Match_Strana/index.m3u8"
       ],
       "category": "Sports",
@@ -1954,7 +1953,7 @@
       "name": "Star Sports 1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0gs/index.m3u8"
+        "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2300,7 +2299,7 @@
       "name": "Sportdigital FUSSBALL",
       "logoUrl": "https://seeklogo.com/images/S/sportdigital-logo-54099B0CD9-seeklogo.com.png",
       "streamUrls": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8"
+        "https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2502,8 +2501,7 @@
       "name": "Match! Igra",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/2gg6sl1642095135.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Igra/index.m3u8",
-        "http://31.148.48.15/Match_Igra_HD/index.m3u8"
+        "http://31.148.48.15/Match_Igra/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2547,8 +2545,7 @@
       "name": "Star Sports 1 Tamil",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0419/master.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0472/master.m3u8"
+        "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_TAMIL/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2731,7 +2728,7 @@
       "name": "GEM Sport",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR%20-%20GEM%20Sport/chunks.m3u8"
+        "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2809,6 +2806,28 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc002/fightboxhdraw/fightboxhdraw.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "TalentTV.lk",
+      "name": "Talent TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "L1Max.pe",
+      "name": "L1 Max",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8"
       ],
       "category": "Sports",
       "languages": [],
