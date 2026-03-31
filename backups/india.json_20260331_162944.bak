@@ -5486,6 +5486,7 @@
       "name": "Zee Tamil",
       "logoUrl": "https://www.pngitem.com/pimgs/m/764-7649207_zee-tamil-tv-logo-png-transparent-png.png",
       "streamUrls": [
+        "http://103.161.153.165:8000/play/a05z/index.m3u8",
         "http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8"
       ],
       "category": "India",
