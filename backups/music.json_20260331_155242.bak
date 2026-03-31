@@ -108,8 +108,8 @@
       "name": "30A Music",
       "logoUrl": "https://www.parsatv.com/index_files/channels/30atv.jpg",
       "streamUrls": [
-        "https://30a-tv.com/music.m3u8",
-        "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8"
+        "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8",
+        "https://30a-tv.com/music.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3485,6 +3485,7 @@
       "name": "Sana Plus",
       "logoUrl": "https://play-lh.googleusercontent.com/dlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ",
       "streamUrls": [
+        "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
         "https://galaxyott.live/hls/sanaplus.m3u8"
       ],
       "category": "Music",
@@ -4909,7 +4910,9 @@
       "name": "AMusic Channel",
       "logoUrl": "http://amusic.tv/wp-content/uploads/2018/11/AMusic-odi-e1541702049958.png",
       "streamUrls": [
-        "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8?ads.vf=McCy6HuluFe"
+        "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8?ads.vf=McCy6HuluFe",
+        "http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
+        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
       ],
       "category": "Music",
       "languages": [],
