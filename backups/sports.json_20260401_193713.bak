@@ -946,8 +946,8 @@
       "name": "Match! Strana",
       "logoUrl": "https://iconape.com/wp-content/png_logo_vector/match-strana-logo.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Nash_Sport/index.m3u8",
-        "http://31.148.48.15/Match_Strana/index.m3u8"
+        "http://31.148.48.15/Match_Strana/index.m3u8",
+        "http://31.148.48.15/Match_Nash_Sport/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2479,8 +2479,7 @@
       "name": "Match! Arena",
       "logoUrl": "https://imb-plus.tv/wp-content/uploads/2024/04/match-arena.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Arena_HD/index.m3u8",
-        "http://31.148.48.15/Match_Arena/index.m3u8"
+        "http://31.148.48.15/Match_Arena_HD/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2502,7 +2501,6 @@
       "name": "Match! Igra",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/2gg6sl1642095135.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Igra/index.m3u8",
         "http://31.148.48.15/Match_Igra_HD/index.m3u8"
       ],
       "category": "Sports",
@@ -2830,6 +2828,39 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "CazeTV.br",
+      "name": "CazeTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "FoxSports.ar",
+      "name": "Fox Sports",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "WinPlusFutbol.co",
+      "name": "Win+ Futbol",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8"
       ],
       "category": "Sports",
       "languages": [],
