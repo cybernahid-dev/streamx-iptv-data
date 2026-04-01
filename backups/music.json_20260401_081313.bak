@@ -1010,8 +1010,7 @@
       "name": "Deluxe Music",
       "logoUrl": "https://seeklogo.com/images/D/deluxe-music-logo-3059AF0E9D-seeklogo.com.png",
       "streamUrls": [
-        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
-        "https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8"
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
