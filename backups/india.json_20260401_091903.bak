@@ -5456,6 +5456,7 @@
       "name": "Star Vijay",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png",
       "streamUrls": [
+        "http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8",
         "http://ptu.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8"
       ],
       "category": "India",
@@ -5486,8 +5487,8 @@
       "name": "Zee Tamil",
       "logoUrl": "https://www.pngitem.com/pimgs/m/764-7649207_zee-tamil-tv-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://103.161.153.165:8000/play/a05z/index.m3u8",
-        "http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8"
+        "http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8",
+        "http://103.161.153.165:8000/play/a05z/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6787,6 +6788,7 @@
       "name": "The Movie Club",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
+        "https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
         "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8"
       ],
       "category": "India",
