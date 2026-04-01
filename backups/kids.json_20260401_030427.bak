@@ -2661,17 +2661,6 @@
       "category": "Kids",
       "languages": [],
       "genre": "Kids"
-    },
-    {
-      "id": "NickelodeonLatinAmerica.us",
-      "name": "Nickelodeon Latin America",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
     }
   ]
 }
