@@ -132,7 +132,8 @@
       "name": "30A Investment Pitch",
       "logoUrl": "https://www.theplatformtv.online/upload/images/Invested.jpg",
       "streamUrls": [
-        "https://30a-tv.com/feeds/xodglobal/30atv.m3u8"
+        "https://30a-tv.com/feeds/xodglobal/30atv.m3u8",
+        "https://www.30a-tv.com/InvPit.m3u8"
       ],
       "category": "USA"
     },
