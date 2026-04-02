@@ -4910,8 +4910,9 @@
       "name": "AMusic Channel",
       "logoUrl": "http://amusic.tv/wp-content/uploads/2018/11/AMusic-odi-e1541702049958.png",
       "streamUrls": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8",
-        "http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8"
+        "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8?ads.vf=McCy6HuluFe",
+        "http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
+        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
       ],
       "category": "Music",
       "languages": [],
@@ -4922,6 +4923,7 @@
       "name": "Muz-TV",
       "logoUrl": "https://images.seeklogo.com/logo-png/47/1/muz-tv-logo-png_seeklogo-470403.png",
       "streamUrls": [
+        "https://streaming.televizor-24-tochka.ru/live/618.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8"
       ],
       "category": "Music",
