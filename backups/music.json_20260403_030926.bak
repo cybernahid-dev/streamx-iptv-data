@@ -5522,7 +5522,7 @@
       "name": "Vijay Takkar",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/39/Vijay_Takkar_2.jpg/revision/latest/scale-to-width-down/250?cb=20250610135306",
       "streamUrls": [
-        "http://ajkiptv.ridsys.in/riptv/live/VIJAY_TAKKAR/index.m3u8"
+        "http://iptvcasomsapi.jprdigital.in/x-media/C0473/master.m3u8"
       ],
       "category": "Music",
       "languages": [],
@@ -5920,39 +5920,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://copacogen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/chunklist.m3u8?admin=nacion"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "RajMusixTamil.in",
-      "name": "Raj Musix Tamil",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://ajkiptv.ridsys.in/riptv/live/RAJ_MUSIX/index.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "TVRFolclor.ro",
-      "name": "TVR Folclor",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "TezaurTV.md",
-      "name": "Tezaur TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://tezaurtv.md/stream/index.m3u8"
       ],
       "category": "Music",
       "languages": [],
