@@ -946,6 +946,7 @@
       "name": "Match! Strana",
       "logoUrl": "https://iconape.com/wp-content/png_logo_vector/match-strana-logo.png",
       "streamUrls": [
+        "http://31.148.48.15/Match_Nash_Sport/index.m3u8",
         "http://31.148.48.15/Match_Strana/index.m3u8"
       ],
       "category": "Sports",
@@ -2478,7 +2479,8 @@
       "name": "Match! Arena",
       "logoUrl": "https://imb-plus.tv/wp-content/uploads/2024/04/match-arena.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Arena/index.m3u8"
+        "http://31.148.48.15/Match_Arena/index.m3u8",
+        "http://31.148.48.15/Match_Arena_HD/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2500,6 +2502,7 @@
       "name": "Match! Igra",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/2gg6sl1642095135.png",
       "streamUrls": [
+        "http://31.148.48.15/Match_Igra_HD/index.m3u8",
         "http://31.148.48.15/Match_Igra/index.m3u8"
       ],
       "category": "Sports",
