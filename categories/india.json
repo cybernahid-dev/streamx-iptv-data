@@ -5426,8 +5426,7 @@
       "name": "Star Gold",
       "logoUrl": "https://www.vhv.rs/dpng/d/24-245112_star-gold-channel-logo-hd-png-download.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dd/index.m3u8",
-        "http://103.99.249.139/stargold/index.m3u8"
+        "http://103.229.254.25:7001/play/a0dd/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5458,7 +5457,6 @@
       "name": "Star Vijay",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png",
       "streamUrls": [
-        "http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8",
         "http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY_HD/index.m3u8"
       ],
       "category": "India",
