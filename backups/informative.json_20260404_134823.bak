@@ -1820,8 +1820,6 @@
       "name": "TERRA",
       "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFGMvPOZtk3xg/company-logo_200_200/company-logo_200_200/0/1630555655333/terratvltd_logo?e=2147483647&v=beta&t=p3-neUX_37PjBI9TduwFtjS1dxfEF2Y4osqNVua19Kg",
       "streamUrls": [
-        "http://31.148.48.15/Terra/index.m3u8",
-        "http://31.148.48.15/Terra_HD/index.m3u8",
         "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8"
       ],
       "category": "Informative",
@@ -2859,6 +2857,19 @@
       "streamUrls": [
         "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
         "https://jmp2.uk/plu-62e93b8eb8e02600071f8b1d.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "Wonder.uk",
+      "name": "Wonder",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
+        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
