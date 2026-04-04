@@ -6284,7 +6284,6 @@
       "name": "Mohabat TV",
       "logoUrl": "https://play-lh.googleusercontent.com/aYC9g3pDGot9_Ly6t7GRXRub6HMISW9aIBgb-HPqIGLGs6VT4Gi0v7LrgcuK9_cWqA",
       "streamUrls": [
-        "http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
         "https://mohabathls.wns.live/hls/stream.m3u8"
       ],
       "category": "USA"

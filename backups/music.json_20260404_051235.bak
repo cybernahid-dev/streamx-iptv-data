@@ -3159,8 +3159,7 @@
       "name": "Radio Hit",
       "logoUrl": "https://w7.pngwing.com/pngs/947/947/png-transparent-radio-hit-hd-logo.png",
       "streamUrls": [
-        "http://lova.me/hls/hit.m3u8",
-        "http://lova.me/hls/hithd.m3u8"
+        "http://lova.me/hls/hit.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3526,9 +3525,7 @@
       "name": "Shanson TV",
       "logoUrl": "https://seeklogo.com/images/S/shanson-tv-logo-3FDB29680C-seeklogo.com.png",
       "streamUrls": [
-        "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
-        "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
-        "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
+        "https://uiptv.do.am/1ufc/602079679/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5116,6 +5113,7 @@
       "name": "Punjabi Hits",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e9/Punjabi_Hits.jpg/revision/latest?cb=20210807162730",
       "streamUrls": [
+        "https://stream.ottlive.co.in/punjabihits/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8?ads.vf=QAmA4r77J0G"
       ],
       "category": "Music",
