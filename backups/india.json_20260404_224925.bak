@@ -5277,6 +5277,7 @@
       "name": "&pictures",
       "logoUrl": "https://www.vhv.rs/dpng/d/560-5605996_tv-network-logos-png-png-transparent-tv-channel.png",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a033/index.m3u8",
         "http://103.161.153.165:8000/play/a05u/index.m3u8"
       ],
       "category": "India",
