@@ -455,6 +455,7 @@
       "name": "Argus News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/df/Argus_News.jpeg/revision/latest/scale-to-width-down/250?cb=20200804122252",
       "streamUrls": [
+        "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G"
       ],
       "category": "India"
@@ -1424,7 +1425,8 @@
       "name": "Fateh TV",
       "logoUrl": "https://www.sikhiwiki.org/images/thumb/e/e9/Fateh-tv.png/250px-Fateh-tv.png",
       "streamUrls": [
-        "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
+        "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
+        "https://mumt05.tangotv.in/FATEHTV/index.m3u8"
       ],
       "category": "India"
     },
@@ -1499,7 +1501,8 @@
       "name": "GoodNews TV",
       "logoUrl": "https://i.imgur.com/ZrvoGqS.png",
       "streamUrls": [
-        "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"
+        "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8",
+        "https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8"
       ],
       "category": "India"
     },
@@ -1745,7 +1748,8 @@
       "name": "Ishwar Bhakti TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9e/Ishwar.png/revision/latest?cb=20210510132201",
       "streamUrls": [
-        "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8"
+        "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8",
+        "https://mumt05.tangotv.in/ISHWARBHAKTI/index.m3u8"
       ],
       "category": "India"
     },
@@ -4550,7 +4554,8 @@
       "name": "Gujarat First",
       "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/6d/90/c66d905c-26e6-d14a-c8d9-9ba8028a8a97/GujratFirst-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gujarat-first/index.m3u8?ads.vf=aXdXji5fkdu"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gujarat-first/index.m3u8?ads.vf=aXdXji5fkdu",
+        "https://mumt01.tangotv.in/GUJARATFIRST/index.m3u8"
       ],
       "category": "India"
     },
@@ -4559,7 +4564,8 @@
       "name": "Hare Krsna TV",
       "logoUrl": "http://gaudiyahistory.iskcondesiretree.com/wp-content/uploads/2019/09/Hare-Krsna-TV-logo.png",
       "streamUrls": [
-        "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd"
+        "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd",
+        "https://mumt05.tangotv.in/HAREKRSNA/index.m3u8"
       ],
       "category": "India"
     },
@@ -5426,8 +5432,7 @@
       "name": "Star Gold",
       "logoUrl": "https://www.vhv.rs/dpng/d/24-245112_star-gold-channel-logo-hd-png-download.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0dd/index.m3u8",
-        "http://103.99.249.139/stargold/index.m3u8"
+        "http://103.229.254.25:7001/play/a0dd/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5458,6 +5463,7 @@
       "name": "Star Vijay",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png",
       "streamUrls": [
+        "http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8",
         "http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY_HD/index.m3u8"
       ],
       "category": "India",
@@ -6811,6 +6817,16 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://ajkiptv.ridsys.in/riptv/live/RAJ_MUSIX/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "OnTV.in",
+      "name": "On TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumt03.tangotv.in/ONTV/index.m3u8"
       ],
       "category": "India",
       "languages": []
