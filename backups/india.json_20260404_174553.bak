@@ -1548,7 +1548,6 @@
       "name": "HNN 24x7",
       "logoUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ee84e049201181.58adc36b3af9a.jpg",
       "streamUrls": [
-        "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8",
         "https://mumt02.tangotv.in/HNN24X7/index.m3u8"
       ],
       "category": "India"
@@ -4507,8 +4506,7 @@
       "name": "Anand TV",
       "logoUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/cf/0f/1e/cf0f1ebc-2dd1-e9e2-3eb9-e0ca8073678e/source/512x512bb.jpg",
       "streamUrls": [
-        "https://live.legitpro.co.in/anandtv/index.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/index.m3u8?ads.vf=5YloyxxLZB8"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/index.m3u8?ads.vf=OKNb9KN8NqS"
       ],
       "category": "India"
     },
@@ -4613,6 +4611,7 @@
       "name": "Living India News",
       "logoUrl": "http://images.provenexpert.com/0e/46/561ae0dce9f85754c24a20b101bb/living-india-news_full_1662367301.jpg",
       "streamUrls": [
+        "https://mumt01.tangotv.in/LIVINGINDIANEWS/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8?ads.vf=wbLu_BTM9ES",
         "https://stream.ottlive.co.in/livingindia/index.m3u8"
       ],
