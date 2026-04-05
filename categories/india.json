@@ -5066,7 +5066,6 @@
       "name": "Nick Jr.",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",
       "streamUrls": [
-        "http://103.157.248.140:8000/play/a00k/index.m3u8",
         "http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8"
       ],
       "category": "India"
@@ -5148,7 +5147,6 @@
       "name": "Star Gold 2",
       "logoUrl": "https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg",
       "streamUrls": [
-        "http://103.157.248.140:8000/play/a00e/index.m3u8",
         "http://103.229.254.25:7001/play/a0d0/index.m3u8"
       ],
       "category": "India"
@@ -5278,7 +5276,8 @@
       "name": "&pictures",
       "logoUrl": "https://www.vhv.rs/dpng/d/560-5605996_tv-network-logos-png-png-transparent-tv-channel.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a033/index.m3u8"
+        "http://103.229.254.25:7001/play/a033/index.m3u8",
+        "http://103.161.153.165:8000/play/a05u/index.m3u8"
       ],
       "category": "India",
       "languages": []
