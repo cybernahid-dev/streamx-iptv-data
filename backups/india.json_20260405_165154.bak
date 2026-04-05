@@ -465,8 +465,7 @@
       "name": "Asianet",
       "logoUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/3/33/Asianet(TVchannel)Logo.jpg/150px-Asianet(TVchannel)Logo.jpg",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0474/master.m3u8",
-        "http://111.88.78.21:8000/play/a0pf/index.m3u8"
+        "http://103.157.248.140:8000/play/a00s/index.m3u8"
       ],
       "category": "India"
     },
@@ -838,8 +837,7 @@
       "name": "Colors Cineplex Bollywood",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",
       "streamUrls": [
-        "http://103.182.170.32:8888/play/a01o",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0393/master.m3u8"
+        "http://103.157.248.140:8000/play/a00x/index.m3u8"
       ],
       "category": "India"
     },
@@ -1729,7 +1727,8 @@
       "name": "Isai Aruvi",
       "logoUrl": "https://www.brandsnbehind.com/wp-content/uploads/2020/05/isaiaruvi-logo.jpg",
       "streamUrls": [
-        "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8"
+        "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
+        "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8"
       ],
       "category": "India"
     },
@@ -4105,7 +4104,7 @@
       "name": "MTV",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/15/MTV-Logo-PNG-File.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0ig/index.m3u8"
+        "http://103.157.248.140:8000/play/a01p/index.m3u8"
       ],
       "category": "India"
     },
@@ -4248,7 +4247,9 @@
       "name": "Colors Tamil",
       "logoUrl": "https://w7.pngwing.com/pngs/398/488/png-transparent-viacom-18-colors-bangla-television-show-colors-tamil-colors-odia-others-purple-television-violet.png",
       "streamUrls": [
-        "http://ptu.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8"
+        "http://ptuf.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8",
+        "http://103.157.248.140:8000/play/a069/index.m3u8",
+        "http://ajkiptv.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -4379,7 +4380,7 @@
       "name": "National Geographic",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0in/index.m3u8"
+        "http://103.157.248.140:8000/play/a012/index.m3u8"
       ],
       "category": "India"
     },
@@ -4388,7 +4389,7 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0ie/index.m3u8"
+        "http://103.157.248.140:8000/play/a010/index.m3u8"
       ],
       "category": "India"
     },
@@ -4793,8 +4794,7 @@
       "name": "Sony Entertainment Television",
       "logoUrl": "https://logodix.com/logo/508293.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0gp/index.m3u8",
-        "https://padmaonline.duckdns.org:8088/SETHD/index.m3u8"
+        "http://103.157.248.140:8000/play/a004/index.m3u8"
       ],
       "category": "India"
     },
@@ -5066,7 +5066,7 @@
       "name": "Nick Jr.",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0h5/index.m3u8"
+        "http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8"
       ],
       "category": "India"
     },
@@ -5129,7 +5129,7 @@
       "name": "Romedy Now",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0is/index.m3u8"
+        "http://103.157.248.140:8000/play/a015/index.m3u8"
       ],
       "category": "India"
     },
@@ -5156,7 +5156,7 @@
       "name": "Star Gold Thrills",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0gw/index.m3u8"
+        "http://103.157.248.140:8000/play/a00b/index.m3u8"
       ],
       "category": "India"
     },
@@ -5165,8 +5165,7 @@
       "name": "Star Sports 1 Hindi",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0je/index.m3u8",
-        "http://116.90.120.151:8000/play/a0h1/index.m3u8"
+        "http://103.157.248.140:8000/play/a00g/index.m3u8"
       ],
       "category": "India"
     },
@@ -5350,7 +5349,7 @@
       "name": "Nickelodeon",
       "logoUrl": "https://assets.stickpng.com/images/612916aa319275000479abfd.png",
       "streamUrls": [
-        "http://ptu.ridsys.in/riptv/live/NICK/index.m3u8"
+        "http://103.157.248.140:8000/play/a01n/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5412,7 +5411,7 @@
       "name": "Sony Sports Ten 5",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://103.99.249.139/sonyten3/index.m3u8"
+        "http://103.157.248.140:8000/play/a05x/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5463,6 +5462,8 @@
       "name": "Star Vijay",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png",
       "streamUrls": [
+        "http://ptuf.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8",
+        "http://103.157.248.140:8000/play/a06b/index.m3u8",
         "http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY_HD/index.m3u8"
       ],
       "category": "India",
@@ -5584,7 +5585,7 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
-        "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
+        "http://103.157.248.140:8000/play/a01m/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5604,7 +5605,7 @@
       "name": "Zee Cinema",
       "logoUrl": "https://www.pngkey.com/png/detail/825-8251348_zee-cinema-channel-logo.png",
       "streamUrls": [
-        "http://103.99.249.139/zeecinema/index.m3u8"
+        "http://103.157.248.140:8000/play/a00q/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5634,7 +5635,7 @@
       "name": "Sony Max",
       "logoUrl": "https://seeklogo.com/images/S/sony-max-logo-70C4C2A5DA-seeklogo.com.png",
       "streamUrls": [
-        "http://103.99.249.139/sonymax/index.m3u8"
+        "http://103.157.248.140:8000/play/a01l/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5665,7 +5666,7 @@
       "name": "Star Gold Romance",
       "logoUrl": "https://indiantvinfo.com/media/2023/03/Star-Gold-Romance-Logo-768x838.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0he/index.m3u8"
+        "http://103.157.248.140:8000/play/a01i/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5675,7 +5676,8 @@
       "name": "Star Movies",
       "logoUrl": "https://images.seeklogo.com/logo-png/52/1/star-movies-logo-png_seeklogo-523979.png",
       "streamUrls": [
-        "http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8"
+        "http://ptuf.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8",
+        "http://103.157.248.140:8000/play/a01t/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5902,8 +5904,7 @@
       "name": "Hungama TV",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/hungama-logo-03.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0408/master.m3u8",
-        "http://111.88.78.21:8000/play/a0z1/index.m3u8"
+        "http://ajkiptv.ridsys.in/riptv/live/HUNGAMA/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5955,7 +5956,7 @@
       "name": "Sony BBC Earth",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0j1/index.m3u8"
+        "http://ajkiptv.ridsys.in/riptv/live/SONY_BBC_EARTH/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6007,7 +6008,8 @@
       "name": "Star Sports 1 Tamil",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_TAMIL/index.m3u8"
+        "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8",
+        "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6087,7 +6089,9 @@
       "name": "Vijay Super",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/f/fb/Vijay_Super_2016.png/revision/latest?cb=20230126023448&path-prefix=vi",
       "streamUrls": [
-        "http://ptu.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8"
+        "http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8",
+        "http://103.157.248.140:8000/play/a05l/index.m3u8",
+        "http://ajkiptv.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6554,7 +6558,8 @@
       "name": "Zee Thirai",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest?cb=20200324034033",
       "streamUrls": [
-        "http://ptu.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8"
+        "http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI_HD/index.m3u8",
+        "http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8"
       ],
       "category": "India",
       "languages": []
