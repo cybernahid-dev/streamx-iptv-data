@@ -6284,7 +6284,6 @@
       "name": "Mohabat TV",
       "logoUrl": "https://play-lh.googleusercontent.com/aYC9g3pDGot9_Ly6t7GRXRub6HMISW9aIBgb-HPqIGLGs6VT4Gi0v7LrgcuK9_cWqA",
       "streamUrls": [
-        "http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
         "https://mohabathls.wns.live/hls/stream.m3u8"
       ],
       "category": "USA"
@@ -15200,16 +15199,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "HistoryAsia.us",
-      "name": "History Asia",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8"
       ],
       "category": "USA",
       "languages": []
