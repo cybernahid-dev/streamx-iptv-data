@@ -852,6 +852,7 @@
       "name": "M-Net Sport",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/d/db/MNET_Sport.jpg/revision/latest/scale-to-width-down/205?cb=20210914004758&path-prefix=vi",
       "streamUrls": [
+        "http://ares.mnet.mk/hls/mnet-sport.m3u8",
         "https://live.mnet.mk/hls/mnet-sport.m3u8"
       ],
       "category": "Sports",
@@ -945,7 +946,6 @@
       "name": "Match! Strana",
       "logoUrl": "https://iconape.com/wp-content/png_logo_vector/match-strana-logo.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Nash_Sport/index.m3u8",
         "http://31.148.48.15/Match_Strana/index.m3u8"
       ],
       "category": "Sports",
@@ -1633,6 +1633,7 @@
       "name": "TyC Sports",
       "logoUrl": "https://static.wikia.nocookie.net/logosfake/images/d/dc/TYC94.png/revision/latest?cb=20210714104656",
       "streamUrls": [
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-90.playlist.m3u8",
         "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8"
       ],
       "category": "Sports",
@@ -2054,8 +2055,7 @@
       "name": "Star Sports 1 Hindi",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0je/index.m3u8",
-        "http://116.90.120.151:8000/play/a0h1/index.m3u8"
+        "http://103.157.248.140:8000/play/a00g/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2166,7 +2166,7 @@
       "name": "Sony Sports Ten 5",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://103.99.249.139/sonyten3/index.m3u8"
+        "http://103.157.248.140:8000/play/a05x/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2277,7 +2277,7 @@
       "name": "Star Sports 2 Hindi",
       "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20171105032245",
       "streamUrls": [
-        "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
+        "http://103.157.248.140:8000/play/a01m/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2478,7 +2478,7 @@
       "name": "Match! Arena",
       "logoUrl": "https://imb-plus.tv/wp-content/uploads/2024/04/match-arena.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Arena/index.m3u8"
+        "http://31.148.48.15/Match_Arena_HD/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2500,6 +2500,7 @@
       "name": "Match! Igra",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/2gg6sl1642095135.png",
       "streamUrls": [
+        "http://31.148.48.15/Match_Igra_HD/index.m3u8",
         "http://31.148.48.15/Match_Igra/index.m3u8"
       ],
       "category": "Sports",
@@ -2544,7 +2545,8 @@
       "name": "Star Sports 1 Tamil",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_TAMIL/index.m3u8"
+        "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8",
+        "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2871,6 +2873,28 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "CCTV16.cn",
+      "name": "CCTV-16",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://74.91.26.218:82/live/cctv16hd.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "DeporTV.ar",
+      "name": "DeporTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8"
       ],
       "category": "Sports",
       "languages": [],

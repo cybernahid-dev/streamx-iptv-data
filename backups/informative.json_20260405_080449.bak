@@ -1820,8 +1820,6 @@
       "name": "TERRA",
       "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFGMvPOZtk3xg/company-logo_200_200/company-logo_200_200/0/1630555655333/terratvltd_logo?e=2147483647&v=beta&t=p3-neUX_37PjBI9TduwFtjS1dxfEF2Y4osqNVua19Kg",
       "streamUrls": [
-        "http://31.148.48.15/Terra/index.m3u8",
-        "http://31.148.48.15/Terra_HD/index.m3u8",
         "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8"
       ],
       "category": "Informative",
@@ -2282,7 +2280,7 @@
       "name": "National Geographic",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0in/index.m3u8"
+        "http://103.157.248.140:8000/play/a012/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2292,7 +2290,7 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0ie/index.m3u8"
+        "http://103.157.248.140:8000/play/a010/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -2597,7 +2595,7 @@
       "name": "Sony BBC Earth",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0j1/index.m3u8"
+        "http://ajkiptv.ridsys.in/riptv/live/SONY_BBC_EARTH/index.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -2872,6 +2870,17 @@
         "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
         "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
         "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Informative",
+      "languages": [],
+      "genre": "Informative"
+    },
+    {
+      "id": "HistoryAsia.us",
+      "name": "History Asia",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8"
       ],
       "category": "Informative",
       "languages": [],
