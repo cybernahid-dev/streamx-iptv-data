@@ -455,7 +455,6 @@
       "name": "Argus News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/df/Argus_News.jpeg/revision/latest/scale-to-width-down/250?cb=20200804122252",
       "streamUrls": [
-        "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G"
       ],
       "category": "India"
@@ -3344,9 +3343,7 @@
       "name": "StarPlus",
       "logoUrl": "https://www.pngitem.com/pimgs/m/3-33009_star-plus-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a09p/index.m3u8",
-        "http://103.229.254.25:7001/play/a09z/index.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0386/master.m3u8"
+        "http://103.229.254.25:7001/play/a09z/index.m3u8"
       ],
       "category": "India"
     },
@@ -4508,7 +4505,8 @@
       "name": "Anand TV",
       "logoUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/cf/0f/1e/cf0f1ebc-2dd1-e9e2-3eb9-e0ca8073678e/source/512x512bb.jpg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/index.m3u8?ads.vf=OKNb9KN8NqS"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/index.m3u8?ads.vf=OKNb9KN8NqS",
+        "https://live.legitpro.co.in/anandtv/index.m3u8"
       ],
       "category": "India"
     },
@@ -4603,8 +4601,7 @@
       "name": "Kolkata TV",
       "logoUrl": "https://images.seeklogo.com/logo-png/60/1/kolkata-tv-logo-png_seeklogo-606238.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8?ads.vf=XQ97azbjCMq",
-        "https://cdn.ottlive.co.in/kolkatatv/index.m3u8"
+        "https://mumt01.tangotv.in/KOLKATATV/index.m3u8"
       ],
       "category": "India"
     },
@@ -4913,8 +4910,7 @@
       "name": "Food Food",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
       "streamUrls": [
-        "https://mumt03.tangotv.in/FOODFOOD/index.m3u8",
-        "http://45.148.145.57/IN_FOODFOOD/index.m3u8"
+        "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       ],
       "category": "India"
     },
@@ -5067,6 +5063,7 @@
       "name": "Nick Jr.",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",
       "streamUrls": [
+        "http://103.157.248.140:8000/play/a00k/index.m3u8",
         "http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8"
       ],
       "category": "India"
@@ -5392,8 +5389,8 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0db/index.m3u8",
-        "http://103.99.249.139/sonysab/index.m3u8"
+        "http://103.157.248.140:8000/play/a00c/index.m3u8",
+        "http://103.157.248.140:8000/play/a05i/index.m3u8"
       ],
       "category": "India",
       "languages": []
