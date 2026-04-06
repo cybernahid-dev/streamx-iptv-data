@@ -1634,7 +1634,8 @@
       "name": "TyC Sports",
       "logoUrl": "https://static.wikia.nocookie.net/logosfake/images/d/dc/TYC94.png/revision/latest?cb=20210714104656",
       "streamUrls": [
-        "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8"
+        "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8",
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-90.playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"

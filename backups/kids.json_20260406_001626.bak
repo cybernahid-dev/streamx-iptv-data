@@ -2017,8 +2017,7 @@
       "name": "Tamyr",
       "logoUrl": "https://www.pngitem.com/pimgs/m/764-7649207_zee-tamil-tv-logo-png-transparent-png.png",
       "streamUrls": [
-        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8",
-        "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -2186,7 +2185,8 @@
       "name": "Nick Jr.",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",
       "streamUrls": [
-        "http://116.90.120.151:8000/play/a0h5/index.m3u8"
+        "http://103.157.248.140:8000/play/a00k/index.m3u8",
+        "http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2196,7 +2196,7 @@
       "name": "Nickelodeon",
       "logoUrl": "https://assets.stickpng.com/images/612916aa319275000479abfd.png",
       "streamUrls": [
-        "http://ptu.ridsys.in/riptv/live/NICK/index.m3u8"
+        "http://103.157.248.140:8000/play/a01n/index.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -2352,8 +2352,7 @@
       "name": "Hungama TV",
       "logoUrl": "https://w7.pngwing.com/pngs/907/829/png-transparent-hungama-tv-television-channel-television-show-hungama-digital-media-entertainment-watching-tv-television-text-logo.png",
       "streamUrls": [
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0408/master.m3u8",
-        "http://111.88.78.21:8000/play/a0z1/index.m3u8"
+        "http://ajkiptv.ridsys.in/riptv/live/HUNGAMA/index.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -2668,6 +2667,28 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8"
+      ],
+      "category": "Kids",
+      "languages": [],
+      "genre": "Kids"
+    },
+    {
+      "id": "DisneyJrLatinAmerica.ar",
+      "name": "Disney Jr. Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+      ],
+      "category": "Kids",
+      "languages": [],
+      "genre": "Kids"
+    },
+    {
+      "id": "Pakapaka.ar",
+      "name": "Pakapaka",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8"
       ],
       "category": "Kids",
       "languages": [],
