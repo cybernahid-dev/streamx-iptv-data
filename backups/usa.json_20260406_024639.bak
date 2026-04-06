@@ -15202,6 +15202,16 @@
       ],
       "category": "USA",
       "languages": []
+    },
+    {
+      "id": "HistoryAsia.us",
+      "name": "History Asia",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
     }
   ]
 }

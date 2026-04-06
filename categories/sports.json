@@ -2479,7 +2479,6 @@
       "name": "Match! Arena",
       "logoUrl": "https://imb-plus.tv/wp-content/uploads/2024/04/match-arena.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Arena/index.m3u8",
         "http://31.148.48.15/Match_Arena_HD/index.m3u8"
       ],
       "category": "Sports",
@@ -2897,6 +2896,39 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "DirecTVSports.us",
+      "name": "DirecTV Sports",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "LaLigaHypermotion.es",
+      "name": "LaLiga Hypermotion",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "PlutoTVFutbolParaFans.us",
+      "name": "Pluto TV Futbol Para Fans",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8"
       ],
       "category": "Sports",
       "languages": [],
