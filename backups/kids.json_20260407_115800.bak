@@ -1098,8 +1098,8 @@
       "name": "Mult",
       "logoUrl": "https://c8.alamy.com/comp/P2DRPY/multichannel-vector-icon-isolated-on-transparent-background-multichannel-logo-concept-P2DRPY.jpg",
       "streamUrls": [
-        "http://31.148.48.15/Mult_HD/index.m3u8",
-        "http://31.148.48.15/Mult/index.m3u8"
+        "http://31.148.48.15/Mult/index.m3u8",
+        "http://31.148.48.15/Mult_HD/index.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1237,7 +1237,8 @@
       "name": "Nickelodeon",
       "logoUrl": "https://www.freepnglogos.com/uploads/text-nick-nickelodeon-logo-png-9.png",
       "streamUrls": [
-        "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8"
+        "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+        "http://79.127.207.193/Nickelodeon/playlist.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -1941,7 +1942,8 @@
       "name": "Disney Channel Latin America",
       "logoUrl": "https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png",
       "streamUrls": [
-        "http://201.230.121.186:8000/play/a0fb/index.m3u8"
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8",
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2017,7 +2019,8 @@
       "name": "Tamyr",
       "logoUrl": "https://www.pngitem.com/pimgs/m/764-7649207_zee-tamil-tv-logo-png-transparent-png.png",
       "streamUrls": [
-        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8"
+        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8",
+        "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -2666,7 +2669,8 @@
       "name": "Nickelodeon Latin America",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8"
+        "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8",
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -2689,6 +2693,17 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8"
+      ],
+      "category": "Kids",
+      "languages": [],
+      "genre": "Kids"
+    },
+    {
+      "id": "MyKidz.id",
+      "name": "My Kidz",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd"
       ],
       "category": "Kids",
       "languages": [],
