@@ -1571,7 +1571,6 @@
       "name": "Biz TV",
       "logoUrl": "https://w7.pngwing.com/pngs/404/78/png-transparent-biz-tv-hd-logo.png",
       "streamUrls": [
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
         "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
       ],
       "category": "USA"
@@ -3218,8 +3217,7 @@
       "name": "E!",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/EEast/hd",
-        "https://tvpass.org/live/EEast/sd"
+        "https://tvpass.org/live/EEast/hd"
       ],
       "category": "USA"
     },
@@ -6631,8 +6629,7 @@
       "name": "National Geographic",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png",
       "streamUrls": [
-        "https://tvpass.org/live/NationalGeographicEast/hd",
-        "https://tvpass.org/live/NationalGeographicEast/sd"
+        "https://tvpass.org/live/NationalGeographicEast/hd"
       ],
       "category": "USA"
     },
@@ -11231,8 +11228,8 @@
       "name": "WIS-DT2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WIS-DT2_2024_(cropped).webp/250px-WIS-DT2_2024_(cropped).webp.png",
       "streamUrls": [
-        "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd",
-        "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd"
+        "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd",
+        "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd"
       ],
       "category": "USA"
     },
@@ -12382,8 +12379,7 @@
       "name": "NBC Sports Bay Area",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2024/12/NBC-Sports-Logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-bay-area/hd",
-        "https://tvpass.org/live/nbc-sports-bay-area/sd"
+        "https://tvpass.org/live/nbc-sports-bay-area/hd"
       ],
       "category": "USA"
     },
@@ -12708,8 +12704,7 @@
       "name": "NBC Sports Philadelphia",
       "logoUrl": "https://png.pngitem.com/pimgs/s/216-2164879_nbc-sports-philadelphia-nbc-sports-philadelphia-logo-png.png",
       "streamUrls": [
-        "https://tvpass.org/live/nbc-sports-philadelphia/hd",
-        "https://tvpass.org/live/nbc-sports-philadelphia/sd"
+        "https://tvpass.org/live/nbc-sports-philadelphia/hd"
       ],
       "category": "USA"
     },
@@ -14241,7 +14236,8 @@
       "name": "Telemundo Internacional",
       "logoUrl": "https://www.vhv.rs/dpng/d/178-1789268_telemundo-channel-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8"
+        "http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8",
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8"
       ],
       "category": "USA",
       "languages": []
@@ -15199,6 +15195,7 @@
       "name": "Nickelodeon Latin America",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8",
         "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8"
       ],
       "category": "USA",
@@ -15210,6 +15207,126 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "AMCLatinAmerica.us",
+      "name": "AMC Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "AXNLatinAmerica.us",
+      "name": "AXN Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "DirecTVSports.us",
+      "name": "DirecTV Sports",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "PlutoTVFutbolParaFans.us",
+      "name": "Pluto TV Futbol Para Fans",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "AELatinAmerica.us",
+      "name": "A&E Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "ComedyCentralLatinAmerica.us",
+      "name": "Comedy Central Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "ESPNDeportes.us",
+      "name": "ESPN Deportes",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "FoxSports3LatinAmerica.us",
+      "name": "Fox Sports 3 Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "History2LatinAmerica.us",
+      "name": "History 2 Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "HistoryenEspanol.us",
+      "name": "History en Espanol",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "LifetimeLatinAmerica.us",
+      "name": "Lifetime Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime_720.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "StarChannelLatinAmerica.us",
+      "name": "Star Channel Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8"
       ],
       "category": "USA",
       "languages": []
