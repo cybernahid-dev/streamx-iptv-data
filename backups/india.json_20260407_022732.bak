@@ -455,7 +455,6 @@
       "name": "Argus News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/df/Argus_News.jpeg/revision/latest/scale-to-width-down/250?cb=20200804122252",
       "streamUrls": [
-        "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G"
       ],
       "category": "India"
@@ -1442,8 +1441,8 @@
       "name": "First India News",
       "logoUrl": "https://w7.pngwing.com/pngs/327/169/png-transparent-india-news-television-channel-itv-network-india-television-logo-india.png",
       "streamUrls": [
-        "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
-        "https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8"
+        "https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8",
+        "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8"
       ],
       "category": "India"
     },
@@ -1660,8 +1659,8 @@
       "name": "INH 24x7",
       "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/e6/92/1ce69257-5040-d19a-0a7e-1bbf9f2c2fa1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-P3-85-220.png/1200x630wa.png",
       "streamUrls": [
-        "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
-        "https://mumt01.tangotv.in/INH24X7/index.m3u8"
+        "https://mumt01.tangotv.in/INH24X7/index.m3u8",
+        "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -4602,8 +4601,7 @@
       "name": "Kolkata TV",
       "logoUrl": "https://images.seeklogo.com/logo-png/60/1/kolkata-tv-logo-png_seeklogo-606238.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8?ads.vf=XQ97azbjCMq",
-        "https://cdn.ottlive.co.in/kolkatatv/index.m3u8"
+        "https://mumt01.tangotv.in/KOLKATATV/index.m3u8"
       ],
       "category": "India"
     },
@@ -4612,9 +4610,8 @@
       "name": "Living India News",
       "logoUrl": "http://images.provenexpert.com/0e/46/561ae0dce9f85754c24a20b101bb/living-india-news_full_1662367301.jpg",
       "streamUrls": [
-        "https://mumt01.tangotv.in/LIVINGINDIANEWS/index.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8?ads.vf=wbLu_BTM9ES",
-        "https://stream.ottlive.co.in/livingindia/index.m3u8"
+        "https://stream.ottlive.co.in/livingindia/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8?ads.vf=wbLu_BTM9ES"
       ],
       "category": "India"
     },
@@ -4912,8 +4909,7 @@
       "name": "Food Food",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
       "streamUrls": [
-        "https://mumt03.tangotv.in/FOODFOOD/index.m3u8",
-        "http://45.148.145.57/IN_FOODFOOD/index.m3u8"
+        "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       ],
       "category": "India"
     },

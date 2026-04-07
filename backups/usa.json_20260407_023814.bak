@@ -15200,7 +15200,6 @@
       "name": "Nickelodeon Latin America",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8",
         "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8"
       ],
       "category": "USA",
@@ -15252,86 +15251,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "AELatinAmerica.us",
-      "name": "A&E Latin America",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "ComedyCentralLatinAmerica.us",
-      "name": "Comedy Central Latin America",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "ESPNDeportes.us",
-      "name": "ESPN Deportes",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "FoxSports3LatinAmerica.us",
-      "name": "Fox Sports 3 Latin America",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "History2LatinAmerica.us",
-      "name": "History 2 Latin America",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "HistoryenEspanol.us",
-      "name": "History en Espanol",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "LifetimeLatinAmerica.us",
-      "name": "Lifetime Latin America",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime_720.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
-    },
-    {
-      "id": "StarChannelLatinAmerica.us",
-      "name": "Star Channel Latin America",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8"
       ],
       "category": "USA",
       "languages": []
