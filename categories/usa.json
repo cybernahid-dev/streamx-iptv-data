@@ -3218,6 +3218,7 @@
       "name": "E!",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
+        "https://tvpass.org/live/EEast/sd",
         "https://tvpass.org/live/EEast/hd"
       ],
       "category": "USA"
@@ -6630,6 +6631,7 @@
       "name": "National Geographic",
       "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png",
       "streamUrls": [
+        "https://tvpass.org/live/NationalGeographicEast/hd",
         "https://tvpass.org/live/NationalGeographicEast/sd"
       ],
       "category": "USA"
@@ -12706,6 +12708,7 @@
       "name": "NBC Sports Philadelphia",
       "logoUrl": "https://png.pngitem.com/pimgs/s/216-2164879_nbc-sports-philadelphia-nbc-sports-philadelphia-logo-png.png",
       "streamUrls": [
+        "https://tvpass.org/live/nbc-sports-philadelphia/sd",
         "https://tvpass.org/live/nbc-sports-philadelphia/hd"
       ],
       "category": "USA"
