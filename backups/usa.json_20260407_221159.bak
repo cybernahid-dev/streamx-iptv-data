@@ -12182,8 +12182,8 @@
       "logoUrl": "https://image.roku.com/developer_channels/prod/0f39628fbee01c86a42c782489528cb3559c0f931b71814b1939391636f9c74d.png",
       "streamUrls": [
         "https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8",
-        "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
-        "https://younghollywood-vizio.amagi.tv/playlist.m3u8"
+        "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
+        "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8"
       ],
       "category": "USA"
     },
