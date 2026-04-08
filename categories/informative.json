@@ -1353,7 +1353,8 @@
       "name": "Nauka",
       "logoUrl": "https://e7.pngegg.com/pngimages/901/934/png-clipart-nauka-2-Наука-2-discovery-world-science-product-design-discovery-id-tv-channel-text-trademark.png",
       "streamUrls": [
-        "http://31.148.48.15/Nauka_2.0/index.m3u8"
+        "http://31.148.48.15/Nauka_2.0/index.m3u8",
+        "https://vod.tuva.ru/nauka2/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
