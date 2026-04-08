@@ -1423,7 +1423,6 @@
       "name": "Fateh TV",
       "logoUrl": "https://www.sikhiwiki.org/images/thumb/e/e9/Fateh-tv.png/250px-Fateh-tv.png",
       "streamUrls": [
-        "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
         "https://mumt05.tangotv.in/FATEHTV/index.m3u8"
       ],
       "category": "India"
@@ -4613,6 +4612,7 @@
       "name": "Living India News",
       "logoUrl": "http://images.provenexpert.com/0e/46/561ae0dce9f85754c24a20b101bb/living-india-news_full_1662367301.jpg",
       "streamUrls": [
+        "https://mumt01.tangotv.in/LIVINGINDIANEWS/index.m3u8",
         "https://stream.ottlive.co.in/livingindia/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8?ads.vf=wbLu_BTM9ES"
       ],
@@ -5147,6 +5147,7 @@
       "name": "Star Gold 2",
       "logoUrl": "https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg",
       "streamUrls": [
+        "http://103.229.254.25:7001/play/a0d0/index.m3u8",
         "http://103.157.248.140:8000/play/a00e/index.m3u8"
       ],
       "category": "India"
