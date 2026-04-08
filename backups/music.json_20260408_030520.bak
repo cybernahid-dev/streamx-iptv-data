@@ -5577,9 +5577,7 @@
       "name": "XITE Hits",
       "logoUrl": "https://www.nicepng.com/png/detail/837-8374457_xite-tv-logo.png",
       "streamUrls": [
-        "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8",
-        "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8",
-        "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8"
+        "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8"
       ],
       "category": "Music",
       "languages": [],
@@ -5966,39 +5964,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "XITE90sThrowback.us",
-      "name": "XITE 90's Throwback",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "XITENuevoLatino.us",
-      "name": "XITE Nuevo Latino",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "XITESiempreLatino.us",
-      "name": "XITE Siempre Latino",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8"
       ],
       "category": "Music",
       "languages": [],
