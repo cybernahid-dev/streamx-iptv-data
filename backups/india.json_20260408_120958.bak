@@ -1423,6 +1423,7 @@
       "name": "Fateh TV",
       "logoUrl": "https://www.sikhiwiki.org/images/thumb/e/e9/Fateh-tv.png/250px-Fateh-tv.png",
       "streamUrls": [
+        "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
         "https://mumt05.tangotv.in/FATEHTV/index.m3u8"
       ],
       "category": "India"
