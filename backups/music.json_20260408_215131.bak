@@ -108,8 +108,8 @@
       "name": "30A Music",
       "logoUrl": "https://www.parsatv.com/index_files/channels/30atv.jpg",
       "streamUrls": [
-        "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8",
-        "https://30a-tv.com/music.m3u8"
+        "https://30a-tv.com/music.m3u8",
+        "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4922,7 +4922,6 @@
       "name": "Muz-TV",
       "logoUrl": "https://images.seeklogo.com/logo-png/47/1/muz-tv-logo-png_seeklogo-470403.png",
       "streamUrls": [
-        "https://streaming.televizor-24-tochka.ru/live/618.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8"
       ],
       "category": "Music",
@@ -5577,7 +5576,9 @@
       "name": "XITE Hits",
       "logoUrl": "https://www.nicepng.com/png/detail/837-8374457_xite-tv-logo.png",
       "streamUrls": [
-        "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8"
+        "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8",
+        "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8",
+        "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8"
       ],
       "category": "Music",
       "languages": [],
@@ -5953,6 +5954,50 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://tezaurtv.md/stream/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "QuieroMusicaenmiIdioma.ar",
+      "name": "Quiero Musica en mi Idioma",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "XITE90sThrowback.us",
+      "name": "XITE 90's Throwback",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "XITENuevoLatino.us",
+      "name": "XITE Nuevo Latino",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "XITESiempreLatino.us",
+      "name": "XITE Siempre Latino",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8"
       ],
       "category": "Music",
       "languages": [],
