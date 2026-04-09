@@ -1769,7 +1769,7 @@
       "name": "Taha TV",
       "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100046870541315",
       "streamUrls": [
-        "https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8"
+        "https://media1.livaat.com/static/TAHA_TV/playlist.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2705,17 +2705,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
-    },
-    {
-      "id": "KMBYLD275.us",
-      "name": "KMBY-LD 27.5",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
       ],
       "category": "Kids",
       "languages": [],
