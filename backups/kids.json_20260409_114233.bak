@@ -1768,7 +1768,7 @@
       "name": "Taha TV",
       "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100046870541315",
       "streamUrls": [
-        "https://media1.livaat.com/static/TAHA_TV/playlist.m3u8"
+        "https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -2018,7 +2018,6 @@
       "name": "Tamyr",
       "logoUrl": "https://www.pngitem.com/pimgs/m/764-7649207_zee-tamil-tv-logo-png-transparent-png.png",
       "streamUrls": [
-        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8",
         "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
       ],
       "category": "Kids",
@@ -2624,7 +2623,8 @@
       "name": "NickOnline",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://x1co.com.br:8443/hls/stream.m3u8"
+        "https://x1co.com.br:8443/hls/stream.m3u8",
+        "https://noproxy.x1co.com.br:9981/live.ts"
       ],
       "category": "Kids",
       "languages": [],
@@ -2704,6 +2704,17 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd"
+      ],
+      "category": "Kids",
+      "languages": [],
+      "genre": "Kids"
+    },
+    {
+      "id": "KMBYLD275.us",
+      "name": "KMBY-LD 27.5",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
       ],
       "category": "Kids",
       "languages": [],
