@@ -17273,6 +17273,16 @@
       ],
       "category": "USA",
       "languages": []
+    },
+    {
+      "id": "WTTW113.us",
+      "name": "WTTW 11.3",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://68.251.105.81:5004/auto/v11.3"
+      ],
+      "category": "USA",
+      "languages": []
     }
   ]
 }
