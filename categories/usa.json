@@ -15543,6 +15543,7 @@
       "name": "KCBS-TV 2.1",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
+        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd",
         "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd"
       ],
       "category": "USA",
@@ -16410,6 +16411,7 @@
       "name": "WCBS-TV 2.1",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
+        "https://tvpass.org/live/WCBSDT1/hd",
         "https://tvpass.org/live/WCBSDT1/sd"
       ],
       "category": "USA",
@@ -17249,6 +17251,16 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://68.251.105.81:5004/auto/v11.1"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "WLIO81.us",
+      "name": "WLIO 8.1",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.field59.com/wlio/wlio1/playlist.m3u8"
       ],
       "category": "USA",
       "languages": []

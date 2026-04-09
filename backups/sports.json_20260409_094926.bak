@@ -946,8 +946,8 @@
       "name": "Match! Strana",
       "logoUrl": "https://iconape.com/wp-content/png_logo_vector/match-strana-logo.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Nash_Sport/index.m3u8",
-        "http://31.148.48.15/Match_Strana/index.m3u8"
+        "http://31.148.48.15/Match_Strana/index.m3u8",
+        "http://31.148.48.15/Match_Nash_Sport/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2502,8 +2502,8 @@
       "name": "Match! Igra",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/2gg6sl1642095135.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Igra_HD/index.m3u8",
-        "http://31.148.48.15/Match_Igra/index.m3u8"
+        "http://31.148.48.15/Match_Igra/index.m3u8",
+        "http://31.148.48.15/Match_Igra_HD/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2973,7 +2973,7 @@
       "name": "Polsat Sport Premium 2",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "http://78.130.250.2:8023/play/a05r/index.m3u8"
+        "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7305/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2985,6 +2985,28 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "KCMNLD426.us",
+      "name": "KCMN-LD 42.6",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "PolsatSportPremium1.pl",
+      "name": "Polsat Sport Premium 1",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7304/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
