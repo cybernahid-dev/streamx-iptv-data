@@ -17264,16 +17264,6 @@
       ],
       "category": "USA",
       "languages": []
-    },
-    {
-      "id": "WTTW112.us",
-      "name": "WTTW 11.2",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://68.251.105.81:5004/auto/v11.2"
-      ],
-      "category": "USA",
-      "languages": []
     }
   ]
 }
