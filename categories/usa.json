@@ -15543,7 +15543,7 @@
       "name": "KCBS-TV 2.1",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd"
+        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd"
       ],
       "category": "USA",
       "languages": []
@@ -16410,7 +16410,7 @@
       "name": "WCBS-TV 2.1",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/WCBSDT1/hd"
+        "https://tvpass.org/live/WCBSDT1/sd"
       ],
       "category": "USA",
       "languages": []
@@ -16889,7 +16889,8 @@
       "name": "WNET 21.1",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/WNET/hd"
+        "https://tvpass.org/live/WNET/hd",
+        "https://tvpass.org/live/WNET/sd"
       ],
       "category": "USA",
       "languages": []
@@ -17238,6 +17239,16 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "WTTW111.us",
+      "name": "WTTW 11.1",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://68.251.105.81:5004/auto/v11.1"
       ],
       "category": "USA",
       "languages": []
