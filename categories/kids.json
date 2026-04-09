@@ -2625,7 +2625,8 @@
       "name": "NickOnline",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://x1co.com.br:8443/hls/stream.m3u8"
+        "https://x1co.com.br:8443/hls/stream.m3u8",
+        "https://noproxy.x1co.com.br:9981/live.ts"
       ],
       "category": "Kids",
       "languages": [],

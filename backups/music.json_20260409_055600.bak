@@ -108,8 +108,8 @@
       "name": "30A Music",
       "logoUrl": "https://www.parsatv.com/index_files/channels/30atv.jpg",
       "streamUrls": [
-        "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8",
-        "https://30a-tv.com/music.m3u8"
+        "https://30a-tv.com/music.m3u8",
+        "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1232,7 +1232,8 @@
       "name": "Farra Play",
       "logoUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100085060155530",
       "streamUrls": [
-        "http://159.203.148.226/live/farra.m3u8"
+        "http://159.203.148.226/live/farra.m3u8",
+        "https://stream.farra.com.py/live/farra_low.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -5034,7 +5035,6 @@
       "name": "Vantage Music",
       "logoUrl": "https://matterhorncommunications.com/wp-content/uploads/2023/03/vantage-full-logo-RGB.png",
       "streamUrls": [
-        "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8",
         "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8"
       ],
       "category": "Music",
