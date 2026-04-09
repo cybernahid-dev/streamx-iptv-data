@@ -1829,7 +1829,8 @@
       "name": "Hard Knocks",
       "logoUrl": "https://www.totalprosports.com/wp-content/uploads/2024/05/GNoFu9dW4AAGN1s-1024x563.png",
       "streamUrls": [
-        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8"
+        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8",
+        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418"
       ],
       "category": "Sports",
       "languages": [],
