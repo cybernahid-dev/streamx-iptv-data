@@ -6786,9 +6786,9 @@
       "name": "Newsmax 2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png",
       "streamUrls": [
-        "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
         "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8",
-        "https://newsmax-klowdtv.amagi.tv/playlist.m3u8"
+        "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+        "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8"
       ],
       "category": "USA"
     },
@@ -9478,7 +9478,8 @@
       "name": "TUDN",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
       "streamUrls": [
-        "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8"
+        "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+        "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8"
       ],
       "category": "USA"
     },
@@ -16901,9 +16902,8 @@
       "name": "WNJU 47.1",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://moviezona593.com:8443/play/E3uopSwsAKpadqYs1Av4lwlP73vRcQvVo1k-yDXv27Y/m3u8",
-        "https://tvpass.org/live/TelemundoEast/hd",
-        "https://tvpass.org/live/TelemundoEast/sd"
+        "https://tvpass.org/live/TelemundoEast/sd",
+        "https://tvpass.org/live/TelemundoEast/hd"
       ],
       "category": "USA",
       "languages": []
