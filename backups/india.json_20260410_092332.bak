@@ -1920,8 +1920,8 @@
       "name": "Kashish News",
       "logoUrl": "https://yt3.ggpht.com/a/AATXAJxdgilUtoBgSwI-g_uZgoQ-9eYokQEpdwcqkA=s900-c-k-c0xffffffff-no-rj-mo",
       "streamUrls": [
-        "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8",
-        "https://mumt03.tangotv.in/KASHISHNEWS/index.m3u8"
+        "https://mumt03.tangotv.in/KASHISHNEWS/index.m3u8",
+        "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8"
       ],
       "category": "India"
     },
@@ -4602,7 +4602,9 @@
       "name": "Kolkata TV",
       "logoUrl": "https://images.seeklogo.com/logo-png/60/1/kolkata-tv-logo-png_seeklogo-606238.png",
       "streamUrls": [
-        "https://mumt01.tangotv.in/KOLKATATV/index.m3u8"
+        "https://mumt01.tangotv.in/KOLKATATV/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8?ads.vf=XQ97azbjCMq",
+        "https://cdn.ottlive.co.in/kolkatatv/index.m3u8"
       ],
       "category": "India"
     },
@@ -5390,8 +5392,9 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://103.157.248.140:8000/play/a00c/index.m3u8",
-        "http://103.157.248.140:8000/play/a05i/index.m3u8"
+        "http://103.229.254.25:7001/play/a0db/index.m3u8",
+        "http://103.157.248.140:8000/play/a05i/index.m3u8",
+        "http://103.157.248.140:8000/play/a00c/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6851,6 +6854,26 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "EpicBharat.in",
+      "name": "Epic Bharat",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "EpicBhojpuri.in",
+      "name": "Epic Bhojpuri",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://epiconvh.akamaized.net/live/filamchi/master.m3u8"
       ],
       "category": "India",
       "languages": []
