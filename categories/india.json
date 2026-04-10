@@ -637,7 +637,8 @@
       "name": "Bharat Express",
       "logoUrl": "https://img-cdn.thepublive.com/fit-in/1200x675/bmi/media/post_banners/b2c505ef8a6ba8c9b2f6999fe3019e12d1c64d15ee285ce759d7a358438fe949.jpg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-express/index.m3u8?ads.vf=rc4w_mtwL4W"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-express/index.m3u8?ads.vf=rc4w_mtwL4W",
+        "https://stream1.livebox.co.in/VCAREhls/live.m3u8"
       ],
       "category": "India"
     },

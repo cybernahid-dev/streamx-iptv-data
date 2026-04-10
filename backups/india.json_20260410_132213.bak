@@ -637,7 +637,6 @@
       "name": "Bharat Express",
       "logoUrl": "https://img-cdn.thepublive.com/fit-in/1200x675/bmi/media/post_banners/b2c505ef8a6ba8c9b2f6999fe3019e12d1c64d15ee285ce759d7a358438fe949.jpg",
       "streamUrls": [
-        "https://stream1.livebox.co.in/VCAREhls/live.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-express/index.m3u8?ads.vf=rc4w_mtwL4W"
       ],
       "category": "India"
@@ -1546,7 +1545,6 @@
       "name": "HNN 24x7",
       "logoUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ee84e049201181.58adc36b3af9a.jpg",
       "streamUrls": [
-        "https://mumt02.tangotv.in/HNN24X7/index.m3u8",
         "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8"
       ],
       "category": "India"
@@ -1920,8 +1918,8 @@
       "name": "Kashish News",
       "logoUrl": "https://yt3.ggpht.com/a/AATXAJxdgilUtoBgSwI-g_uZgoQ-9eYokQEpdwcqkA=s900-c-k-c0xffffffff-no-rj-mo",
       "streamUrls": [
-        "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8",
-        "https://mumt03.tangotv.in/KASHISHNEWS/index.m3u8"
+        "https://mumt03.tangotv.in/KASHISHNEWS/index.m3u8",
+        "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8"
       ],
       "category": "India"
     },
@@ -5392,7 +5390,9 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0db/index.m3u8"
+        "http://103.229.254.25:7001/play/a0db/index.m3u8",
+        "http://103.157.248.140:8000/play/a05i/index.m3u8",
+        "http://103.157.248.140:8000/play/a00c/index.m3u8"
       ],
       "category": "India",
       "languages": []
