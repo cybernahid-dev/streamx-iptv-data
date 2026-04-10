@@ -1829,7 +1829,8 @@
       "name": "Hard Knocks",
       "logoUrl": "https://www.totalprosports.com/wp-content/uploads/2024/05/GNoFu9dW4AAGN1s-1024x563.png",
       "streamUrls": [
-        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8"
+        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8",
+        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418"
       ],
       "category": "Sports",
       "languages": [],
@@ -2478,8 +2479,7 @@
       "name": "Match! Arena",
       "logoUrl": "https://imb-plus.tv/wp-content/uploads/2024/04/match-arena.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Arena_HD/index.m3u8",
-        "http://31.148.48.15/Match_Arena/index.m3u8"
+        "http://31.148.48.15/Match_Arena_HD/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -2501,8 +2501,8 @@
       "name": "Match! Igra",
       "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/2gg6sl1642095135.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Igra/index.m3u8",
-        "http://31.148.48.15/Match_Igra_HD/index.m3u8"
+        "http://31.148.48.15/Match_Igra_HD/index.m3u8",
+        "http://31.148.48.15/Match_Igra/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -3007,6 +3007,50 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7304/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "DeportesTVC.hn",
+      "name": "Deportes TVC",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "JordanSport.jo",
+      "name": "Jordan Sport",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://93.184.10.248/JordanSport/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "LaLigaTV.es",
+      "name": "LaLiga TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "TigoSports.gt",
+      "name": "Tigo Sports",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8"
       ],
       "category": "Sports",
       "languages": [],

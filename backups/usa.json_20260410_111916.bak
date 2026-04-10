@@ -6786,9 +6786,9 @@
       "name": "Newsmax 2",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png",
       "streamUrls": [
-        "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8",
         "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
-        "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8"
+        "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+        "https://newsmax-klowdtv.amagi.tv/playlist.m3u8"
       ],
       "category": "USA"
     },
