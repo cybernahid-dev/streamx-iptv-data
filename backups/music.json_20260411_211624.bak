@@ -6014,17 +6014,6 @@
       "category": "Music",
       "languages": [],
       "genre": "Music"
-    },
-    {
-      "id": "MusicTop.ar",
-      "name": "MusicTop",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
     }
   ]
 }
