@@ -4247,6 +4247,7 @@
       "name": "Colors Tamil",
       "logoUrl": "https://w7.pngwing.com/pngs/398/488/png-transparent-viacom-18-colors-bangla-television-show-colors-tamil-colors-odia-others-purple-television-violet.png",
       "streamUrls": [
+        "http://ptuf.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8",
         "http://103.157.248.140:8000/play/a069/index.m3u8",
         "http://ajkiptv.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8"
       ],
@@ -5465,9 +5466,9 @@
       "name": "Star Vijay",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png",
       "streamUrls": [
+        "http://ptuf.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8",
         "http://103.157.248.140:8000/play/a06b/index.m3u8",
-        "http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY_HD/index.m3u8",
-        "http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8"
+        "http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY_HD/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5679,6 +5680,7 @@
       "name": "Star Movies",
       "logoUrl": "https://images.seeklogo.com/logo-png/52/1/star-movies-logo-png_seeklogo-523979.png",
       "streamUrls": [
+        "http://ptuf.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8",
         "http://103.157.248.140:8000/play/a01t/index.m3u8"
       ],
       "category": "India",
@@ -6091,6 +6093,7 @@
       "name": "Vijay Super",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/f/fb/Vijay_Super_2016.png/revision/latest?cb=20230126023448&path-prefix=vi",
       "streamUrls": [
+        "http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8",
         "http://103.157.248.140:8000/play/a05l/index.m3u8",
         "http://ajkiptv.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8"
       ],
