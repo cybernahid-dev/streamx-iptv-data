@@ -2188,6 +2188,7 @@
       "name": "Nick Jr.",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",
       "streamUrls": [
+        "http://103.157.248.140:8000/play/a00k/index.m3u8",
         "http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8"
       ],
       "category": "Kids",
