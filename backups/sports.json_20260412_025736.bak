@@ -2863,7 +2863,7 @@
       "name": "Win+ Futbol",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "http://190.60.40.34:8001/play/a02r"
+        "https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -3052,17 +3052,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "WinSports.co",
-      "name": "Win Sports",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://190.60.40.34:8001/play/a0ef"
       ],
       "category": "Sports",
       "languages": [],
