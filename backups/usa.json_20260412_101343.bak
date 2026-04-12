@@ -17283,16 +17283,6 @@
       ],
       "category": "USA",
       "languages": []
-    },
-    {
-      "id": "W14DKD145.us",
-      "name": "W14DK-D 14.5",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
-      ],
-      "category": "USA",
-      "languages": []
     }
   ]
 }
