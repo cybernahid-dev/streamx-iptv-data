@@ -2122,8 +2122,7 @@
       "name": "CNBC",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png",
       "streamUrls": [
-        "https://tvpass.org/live/CNBC/hd",
-        "https://tvpass.org/live/CNBC/sd"
+        "https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8"
       ],
       "category": "USA"
     },
@@ -17280,6 +17279,16 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://68.251.105.81:5004/auto/v11.3"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "W14DKD145.us",
+      "name": "W14DK-D 14.5",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
       ],
       "category": "USA",
       "languages": []
