@@ -1882,7 +1882,6 @@
       "name": "Kalaignar TV",
       "logoUrl": "https://www.kindpng.com/picc/m/244-2445719_kalaignar-tv-png-download-transparent-png.png",
       "streamUrls": [
-        "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8",
         "http://ajkiptv.ridsys.in/riptv/live/KALAIGNAR_TV/index.m3u8"
       ],
       "category": "India"
@@ -2133,7 +2132,7 @@
       "logoUrl": "https://1.bp.blogspot.com/-qunUmnX0n94/W35Ya8XuL3I/AAAAAAAAEpg/znBQf88E7asqNFQN8R_kPJntn72ZpLwBQCLcBGAs/w1200-h630-p-k-no-nu/mathrubhumi_news.png",
       "streamUrls": [
         "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8",
-        "https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8"
+        "https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -3334,8 +3333,7 @@
       "name": "Sirippoli TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/7/74/Sirippoli_tv.jpg/revision/latest?cb=20191224115900",
       "streamUrls": [
-        "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8",
-        "http://iptvcasomsapi.jprdigital.in/x-media/C0318/master.m3u8"
+        "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8"
       ],
       "category": "India"
     },
@@ -4325,7 +4323,7 @@
       "name": "Prag News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/6e/Prag_news.png/revision/latest/scale-to-width-down/260?cb=20210508191225",
       "streamUrls": [
-        "http://103.78.149.54:8000/play/a03u/index.m3u8"
+        "https://mumt05.tangotv.in/PRAGNEWS/index.m3u8"
       ],
       "category": "India"
     },
@@ -4739,7 +4737,7 @@
       "name": "VTV News",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png",
       "streamUrls": [
-        "http://103.78.149.54:8000/play/a03m/index.m3u8"
+        "https://mumt04.tangotv.in/VTV/index.m3u8"
       ],
       "category": "India"
     },
@@ -5916,7 +5914,7 @@
       "name": "Jaya Max",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest?cb=20191224113123",
       "streamUrls": [
-        "https://mac.zenplay.top/linear-live.php?amp;e=.m3u8&amp;vtoken=&id=994"
+        "http://ajkiptv.ridsys.in/riptv/live/JAYA_MAX/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6873,6 +6871,16 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://epiconvh.akamaized.net/live/filamchi/master.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SaiTV.in",
+      "name": "Sai TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumt03.tangotv.in/SAITVTAMILDEVOTIONAL/index.m3u8"
       ],
       "category": "India",
       "languages": []

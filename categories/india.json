@@ -1882,6 +1882,7 @@
       "name": "Kalaignar TV",
       "logoUrl": "https://www.kindpng.com/picc/m/244-2445719_kalaignar-tv-png-download-transparent-png.png",
       "streamUrls": [
+        "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8",
         "http://ajkiptv.ridsys.in/riptv/live/KALAIGNAR_TV/index.m3u8"
       ],
       "category": "India"
@@ -3333,6 +3334,7 @@
       "name": "Sirippoli TV",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/7/74/Sirippoli_tv.jpg/revision/latest?cb=20191224115900",
       "streamUrls": [
+        "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8",
         "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8"
       ],
       "category": "India"
