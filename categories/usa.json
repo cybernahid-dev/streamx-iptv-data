@@ -17293,6 +17293,26 @@
       ],
       "category": "USA",
       "languages": []
+    },
+    {
+      "id": "HumraazTV.us",
+      "name": "Humraaz TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn61.liveonlineservices.com/hls/humraaz.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "KNSO511.us",
+      "name": "KNSO 51.1",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTRSgqaaeJfnXdNhhKhum39E/m3u8"
+      ],
+      "category": "USA",
+      "languages": []
     }
   ]
 }
