@@ -14242,8 +14242,8 @@
       "name": "Telemundo Internacional",
       "logoUrl": "https://www.vhv.rs/dpng/d/178-1789268_telemundo-channel-logo-png-transparent-png.png",
       "streamUrls": [
-        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8",
-        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26_720.m3u8"
+        "http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8",
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8"
       ],
       "category": "USA",
       "languages": []
