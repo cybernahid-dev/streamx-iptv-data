@@ -4325,7 +4325,7 @@
       "name": "Prag News",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/6/6e/Prag_news.png/revision/latest/scale-to-width-down/260?cb=20210508191225",
       "streamUrls": [
-        "http://103.78.149.54:8000/play/a03u/index.m3u8"
+        "https://mumt05.tangotv.in/PRAGNEWS/index.m3u8"
       ],
       "category": "India"
     },
@@ -4739,7 +4739,7 @@
       "name": "VTV News",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png",
       "streamUrls": [
-        "http://103.78.149.54:8000/play/a03m/index.m3u8"
+        "https://mumt04.tangotv.in/VTV/index.m3u8"
       ],
       "category": "India"
     },
@@ -5916,7 +5916,7 @@
       "name": "Jaya Max",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest?cb=20191224113123",
       "streamUrls": [
-        "https://mac.zenplay.top/linear-live.php?amp;e=.m3u8&amp;vtoken=&id=994"
+        "http://ajkiptv.ridsys.in/riptv/live/JAYA_MAX/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6851,7 +6851,8 @@
       "name": "Big TV 24x7",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8"
+        "https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8",
+        "https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
       ],
       "category": "India",
       "languages": []
@@ -6872,6 +6873,16 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://epiconvh.akamaized.net/live/filamchi/master.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SaiTV.in",
+      "name": "Sai TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumt03.tangotv.in/SAITVTAMILDEVOTIONAL/index.m3u8"
       ],
       "category": "India",
       "languages": []

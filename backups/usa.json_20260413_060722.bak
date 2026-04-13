@@ -15341,8 +15341,7 @@
       "name": "Cinecanal",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62_720.m3u8",
-        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8"
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62_720.m3u8"
       ],
       "category": "USA",
       "languages": []
@@ -17291,6 +17290,26 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "HumraazTV.us",
+      "name": "Humraaz TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn61.liveonlineservices.com/hls/humraaz.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "KNSO511.us",
+      "name": "KNSO 51.1",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTRSgqaaeJfnXdNhhKhum39E/m3u8"
       ],
       "category": "USA",
       "languages": []

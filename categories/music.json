@@ -1498,8 +1498,7 @@
       "name": "Isai Aruvi",
       "logoUrl": "https://www.brandsnbehind.com/wp-content/uploads/2020/05/isaiaruvi-logo.jpg",
       "streamUrls": [
-        "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
-        "http://111.88.78.21:8000/play/a0wn/index.m3u8"
+        "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3486,7 +3485,6 @@
       "name": "Sana Plus",
       "logoUrl": "https://play-lh.googleusercontent.com/dlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ",
       "streamUrls": [
-        "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
         "https://galaxyott.live/hls/sanaplus.m3u8"
       ],
       "category": "Music",
