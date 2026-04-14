@@ -1562,7 +1562,7 @@
       "name": "HNN 24x7",
       "logoUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ee84e049201181.58adc36b3af9a.jpg",
       "streamUrls": [
-        "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8"
+        "https://mumt02.tangotv.in/HNN24X7/index.m3u8"
       ],
       "category": "India"
     },
@@ -1675,7 +1675,8 @@
       "name": "INH 24x7",
       "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/e6/92/1ce69257-5040-d19a-0a7e-1bbf9f2c2fa1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-P3-85-220.png/1200x630wa.png",
       "streamUrls": [
-        "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8"
+        "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
+        "https://mumt01.tangotv.in/INH24X7/index.m3u8"
       ],
       "category": "India"
     },
@@ -5187,7 +5188,6 @@
       "name": "Star Gold 2",
       "logoUrl": "https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg",
       "streamUrls": [
-        "http://103.157.248.140:8000/play/a00e/index.m3u8",
         "http://103.229.254.25:7001/play/a0d0/index.m3u8"
       ],
       "category": "India"
@@ -5297,7 +5297,8 @@
       "name": "Madha TV",
       "logoUrl": "https://yt3.ggpht.com/a/AGF-l7_wH06hw7_aMkJnFI9E65V8l5NHABOwWdSuxA=s900-c-k-c0xffffffff-no-rj-mo",
       "streamUrls": [
-        "https://cdn-3.pishow.tv/live/1265/master.m3u8"
+        "https://cdn-3.pishow.tv/live/1265/master.m3u8",
+        "https://mumt02.tangotv.in/MADHATV/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6751,7 +6752,8 @@
       "name": "Nambikkai TV",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://cdn-3.pishow.tv/live/1389/master.m3u8"
+        "https://cdn-3.pishow.tv/live/1389/master.m3u8",
+        "https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8"
       ],
       "category": "India",
       "languages": []
