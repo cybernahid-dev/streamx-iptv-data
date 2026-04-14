@@ -2655,8 +2655,7 @@
       "name": "PTC Music",
       "logoUrl": "https://images.seeklogo.com/logo-png/55/1/ptc-logo-png_seeklogo-556112.png?v=1957886825049820440",
       "streamUrls": [
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8",
-        "https://cdn-3.pishow.tv/live/1501/master.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3508,7 +3507,6 @@
       "name": "Sangeet Bhojpuri",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sangeet_Bhojpuri.jpg",
       "streamUrls": [
-        "http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8",
         "https://cdn-4.pishow.tv/live/1293/master.m3u8"
       ],
       "category": "Music",
@@ -6034,17 +6032,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
-      "id": "EpicMusic.in",
-      "name": "Epic Music",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://103.213.31.109:90/ShowBox/playlist.m3u8"
       ],
       "category": "Music",
       "languages": [],
