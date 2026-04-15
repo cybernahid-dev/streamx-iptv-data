@@ -6047,17 +6047,6 @@
       "category": "Music",
       "languages": [],
       "genre": "Music"
-    },
-    {
-      "id": "ShemarooFilmiGaane.in",
-      "name": "Shemaroo Filmi Gaane",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
     }
   ]
 }

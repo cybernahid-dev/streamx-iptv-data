@@ -1562,6 +1562,7 @@
       "name": "HNN 24x7",
       "logoUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ee84e049201181.58adc36b3af9a.jpg",
       "streamUrls": [
+        "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8",
         "https://mumt02.tangotv.in/HNN24X7/index.m3u8"
       ],
       "category": "India"
@@ -4640,7 +4641,6 @@
       "name": "Kolkata TV",
       "logoUrl": "https://images.seeklogo.com/logo-png/60/1/kolkata-tv-logo-png_seeklogo-606238.png",
       "streamUrls": [
-        "https://mumt01.tangotv.in/KOLKATATV/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8?ads.vf=XQ97azbjCMq",
         "https://cdn.ottlive.co.in/kolkatatv/index.m3u8"
       ],
@@ -4651,7 +4651,6 @@
       "name": "Living India News",
       "logoUrl": "http://images.provenexpert.com/0e/46/561ae0dce9f85754c24a20b101bb/living-india-news_full_1662367301.jpg",
       "streamUrls": [
-        "https://mumt01.tangotv.in/LIVINGINDIANEWS/index.m3u8",
         "https://stream.ottlive.co.in/livingindia/index.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8?ads.vf=wbLu_BTM9ES"
       ],
@@ -5188,6 +5187,7 @@
       "name": "Star Gold 2",
       "logoUrl": "https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg",
       "streamUrls": [
+        "http://103.157.248.140:8000/play/a00e/index.m3u8",
         "http://103.229.254.25:7001/play/a0d0/index.m3u8"
       ],
       "category": "India"
@@ -6968,6 +6968,26 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://cdn-6.pishow.tv/live/1503/master.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "GospelTVIndia.in",
+      "name": "Gospel TV India",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://server.livelegitpro.in:9899/gospeltv/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "News24MPChhattisgarh.in",
+      "name": "News 24 MP & Chhattisgarh",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8"
       ],
       "category": "India",
       "languages": []
