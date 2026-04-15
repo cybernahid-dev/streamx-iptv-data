@@ -6972,26 +6972,6 @@
       ],
       "category": "India",
       "languages": []
-    },
-    {
-      "id": "GospelTVIndia.in",
-      "name": "Gospel TV India",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://server.livelegitpro.in:9899/gospeltv/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
-    },
-    {
-      "id": "News24MPChhattisgarh.in",
-      "name": "News 24 MP & Chhattisgarh",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8"
-      ],
-      "category": "India",
-      "languages": []
     }
   ]
 }

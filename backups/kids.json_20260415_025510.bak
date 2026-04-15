@@ -2719,17 +2719,6 @@
       "category": "Kids",
       "languages": [],
       "genre": "Kids"
-    },
-    {
-      "id": "GikTVMX.mx",
-      "name": "GikTVMX",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://pistream.ddns.net/hls/stream.m3u8"
-      ],
-      "category": "Kids",
-      "languages": [],
-      "genre": "Kids"
     }
   ]
 }
