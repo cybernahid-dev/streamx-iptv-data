@@ -15545,7 +15545,8 @@
       "name": "KCBS-TV 2.1",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd"
+        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd",
+        "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd"
       ],
       "category": "USA",
       "languages": []
