@@ -3106,8 +3106,8 @@
       "name": "MSG Plus",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/msg-plus/sd",
-        "https://tvpass.org/live/msg-plus/hd"
+        "https://tvpass.org/live/msg-plus/hd",
+        "https://tvpass.org/live/msg-plus/sd"
       ],
       "category": "Sports",
       "languages": [],
