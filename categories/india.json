@@ -6132,7 +6132,8 @@
       "name": "Vijay Super",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/f/fb/Vijay_Super_2016.png/revision/latest?cb=20230126023448&path-prefix=vi",
       "streamUrls": [
-        "http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8"
+        "http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8",
+        "http://103.157.248.140:8000/play/a05l/index.m3u8"
       ],
       "category": "India",
       "languages": []
