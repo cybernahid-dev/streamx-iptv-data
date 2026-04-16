@@ -9237,7 +9237,9 @@
       "name": "Starz",
       "logoUrl": "https://logos-world.net/wp-content/uploads/2021/03/Starz-Logo-2008-2016.png",
       "streamUrls": [
-        "http://23.237.104.106:8080/USA_STARZ/index.m3u8"
+        "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
+        "https://tvpass.org/live/StarzEast/hd",
+        "https://tvpass.org/live/StarzEast/sd"
       ],
       "category": "USA"
     },
@@ -14159,7 +14161,9 @@
       "name": "MS NOW",
       "logoUrl": "https://www.chicagotribune.com/wp-content/uploads/2025/08/CTC-L-MSNBC-MSNOW-01.jpg?w=1020",
       "streamUrls": [
-        "http://41.205.93.154/MSNBC/index.m3u8"
+        "http://41.205.93.154/MSNBC/index.m3u8",
+        "https://tvpass.org/live/MSNBC/sd",
+        "https://tvpass.org/live/MSNBC/hd"
       ],
       "category": "USA",
       "languages": []
