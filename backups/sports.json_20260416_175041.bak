@@ -3100,18 +3100,6 @@
       "category": "Sports",
       "languages": [],
       "genre": "Sports"
-    },
-    {
-      "id": "MSGPlus.us",
-      "name": "MSG Plus",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://tvpass.org/live/msg-plus/hd",
-        "https://tvpass.org/live/msg-plus/sd"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
     }
   ]
 }
