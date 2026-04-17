@@ -15344,7 +15344,7 @@
       "name": "Cinecanal",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62_720.m3u8"
+        "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8"
       ],
       "category": "USA",
       "languages": []
@@ -17332,8 +17332,28 @@
       "name": "MSG Plus",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://tvpass.org/live/msg-plus/sd",
-        "https://tvpass.org/live/msg-plus/hd"
+        "https://tvpass.org/live/msg-plus/hd",
+        "https://tvpass.org/live/msg-plus/sd"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "MetaleitorTV.us",
+      "name": "Metaleitor TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "MinisterioLaVozDeUnRemanenteTV.us",
+      "name": "Ministerio La Voz De Un Remanente TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8"
       ],
       "category": "USA",
       "languages": []
