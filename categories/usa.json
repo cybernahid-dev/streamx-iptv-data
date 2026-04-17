@@ -17338,6 +17338,26 @@
       ],
       "category": "USA",
       "languages": []
+    },
+    {
+      "id": "MetaleitorTV.us",
+      "name": "Metaleitor TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "MinisterioLaVozDeUnRemanenteTV.us",
+      "name": "Ministerio La Voz De Un Remanente TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
     }
   ]
 }

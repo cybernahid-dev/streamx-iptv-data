@@ -1676,7 +1676,6 @@
       "name": "INH 24x7",
       "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/e6/92/1ce69257-5040-d19a-0a7e-1bbf9f2c2fa1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-P3-85-220.png/1200x630wa.png",
       "streamUrls": [
-        "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
         "https://mumt01.tangotv.in/INH24X7/index.m3u8"
       ],
       "category": "India"
@@ -6132,8 +6131,8 @@
       "name": "Vijay Super",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/f/fb/Vijay_Super_2016.png/revision/latest?cb=20230126023448&path-prefix=vi",
       "streamUrls": [
-        "http://103.157.248.140:8000/play/a05l/index.m3u8",
-        "http://ajkiptv.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8"
+        "http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8",
+        "http://103.157.248.140:8000/play/a05l/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6988,6 +6987,16 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "ShemarooFilmiGaane.in",
+      "name": "Shemaroo Filmi Gaane",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8"
       ],
       "category": "India",
       "languages": []
