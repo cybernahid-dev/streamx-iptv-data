@@ -6082,6 +6082,17 @@
       "category": "Music",
       "languages": [],
       "genre": "Music"
+    },
+    {
+      "id": "WavezFM.aw",
+      "name": "Wavez FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vs20.live.opencaster.com/wavezfm1075aruba_37766c9d/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
     }
   ]
 }
