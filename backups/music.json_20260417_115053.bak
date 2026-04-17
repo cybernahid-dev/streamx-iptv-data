@@ -556,8 +556,7 @@
       "name": "Balle Balle",
       "logoUrl": "https://www.gulfbuzz.com/wp-content/uploads/2021/03/Untitled-design-4-min-696x478.png",
       "streamUrls": [
-        "https://mcncdndigital.com/balleballetv/index.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8?ads.vf=jbHwG4WE_Zi"
+        "https://cdn-4.pishow.tv/live/987/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3354,6 +3353,7 @@
       "name": "Radio Zeta",
       "logoUrl": "https://massimoemanuelli.com/wp-content/uploads/2020/02/radio-zeta.png",
       "streamUrls": [
+        "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8",
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
       ],
       "category": "Music",
@@ -3364,6 +3364,7 @@
       "name": "Radiofreccia",
       "logoUrl": "https://spcdn.shortpixel.ai/spio3/ret_img,q_cdnize,to_avif,s_avif/www.quotidianomotori.com/wp-content/uploads/2025/08/radiofreccia-logo.jpg",
       "streamUrls": [
+        "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
       ],
       "category": "Music",
@@ -6054,6 +6055,39 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "MetaleitorTV.us",
+      "name": "Metaleitor TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "PrattelTV.pe",
+      "name": "Prattel TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vs20.live.opencaster.com/prattelpe_a2b8d350/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "genre": "Music"
+    },
+    {
+      "id": "WavezFM.aw",
+      "name": "Wavez FM",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vs20.live.opencaster.com/wavezfm1075aruba_37766c9d/index.m3u8"
       ],
       "category": "Music",
       "languages": [],

@@ -604,8 +604,7 @@
       "name": "Balle Balle",
       "logoUrl": "https://www.gulfbuzz.com/wp-content/uploads/2021/03/Untitled-design-4-min-696x478.png",
       "streamUrls": [
-        "https://mcncdndigital.com/balleballetv/index.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8?ads.vf=jbHwG4WE_Zi"
+        "https://cdn-4.pishow.tv/live/987/master.m3u8"
       ],
       "category": "India"
     },
@@ -6132,7 +6131,8 @@
       "name": "Vijay Super",
       "logoUrl": "https://static.wikia.nocookie.net/logos/images/f/fb/Vijay_Super_2016.png/revision/latest?cb=20230126023448&path-prefix=vi",
       "streamUrls": [
-        "http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8"
+        "http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8",
+        "http://103.157.248.140:8000/play/a05l/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -6997,6 +6997,16 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SamacharPlus.in",
+      "name": "Samachar Plus",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn-2.pishow.tv/live/269/master.m3u8"
       ],
       "category": "India",
       "languages": []
