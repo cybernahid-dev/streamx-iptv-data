@@ -1954,7 +1954,7 @@
       "name": "Star Sports 1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8"
+        "http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -3107,6 +3107,127 @@
       "streamUrls": [
         "https://tvpass.org/live/msg-plus/sd",
         "https://tvpass.org/live/msg-plus/hd"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "PremiereFC1.br",
+      "name": "Premiere FC 1",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "PremiereFC2.br",
+      "name": "Premiere FC 2",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stm.sinalmycn.com/20003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "PremiereFC3.br",
+      "name": "Premiere FC 3",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stm.sinalmycn.com/20006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "PremiereFC4.br",
+      "name": "Premiere FC 4",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stm.sinalmycn.com/20009/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "PremiereFC5.br",
+      "name": "Premiere FC 5",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stm.sinalmycn.com/20012/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "PremiereFC6.br",
+      "name": "Premiere FC 6",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stm.sinalmycn.com/20015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "PremiereFC7.br",
+      "name": "Premiere FC 7",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "PremiereFC8.br",
+      "name": "Premiere FC 8",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "SporTV.br",
+      "name": "SporTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "SporTV2.br",
+      "name": "SporTV 2",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "genre": "Sports"
+    },
+    {
+      "id": "SporTV3.br",
+      "name": "SporTV 3",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
       ],
       "category": "Sports",
       "languages": [],

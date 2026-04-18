@@ -4286,7 +4286,8 @@
       "name": "Colors Tamil",
       "logoUrl": "https://w7.pngwing.com/pngs/398/488/png-transparent-viacom-18-colors-bangla-television-show-colors-tamil-colors-odia-others-purple-television-violet.png",
       "streamUrls": [
-        "http://ptuf.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8"
+        "http://103.157.248.140:8000/play/a069/index.m3u8",
+        "http://ajkiptv.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -4435,7 +4436,7 @@
       "name": "Star Sports 1",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png",
       "streamUrls": [
-        "http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8"
+        "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8"
       ],
       "category": "India"
     },
@@ -5186,6 +5187,7 @@
       "name": "Star Gold 2",
       "logoUrl": "https://indiantvinfo.com/media/2020/01/star-gold2-channel-logo.jpg",
       "streamUrls": [
+        "http://103.157.248.140:8000/play/a00e/index.m3u8",
         "http://103.229.254.25:7001/play/a0d0/index.m3u8"
       ],
       "category": "India"
@@ -5430,7 +5432,8 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0db/index.m3u8"
+        "http://103.157.248.140:8000/play/a05i/index.m3u8",
+        "http://103.157.248.140:8000/play/a00c/index.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5501,7 +5504,9 @@
       "name": "Star Vijay",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png",
       "streamUrls": [
-        "http://ptuf.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8"
+        "http://103.157.248.140:8000/play/a06b/index.m3u8",
+        "http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY_HD/index.m3u8",
+        "http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8"
       ],
       "category": "India",
       "languages": []
